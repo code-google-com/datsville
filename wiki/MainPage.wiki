@@ -18,4 +18,4 @@ Once these steps are completed we can develop ready-to-use scripts for people to
 
   * The current list of permissions is [http://code.google.com/p/datsville/source/browse/trunk/permissions.txt here].
   * Some useful links are [http://code.google.com/p/datsville/source/browse/trunk/links.txt here].
-  * A table of models is [http://code.google.com/p/datsville/wiki/MainPage here].
+  * A table of models is [http://code.google.com/p/datsville/wiki/ModelTable here].
