@@ -1,0 +1,9 @@
+The files:
+
+  town_full_cleaned.mpd
+  town_full_original.mpd
+  town_lite_cleaned.mpd
+  town_lite_original.mpd
+
+located in this directory do *not* reflect the updated license. 
+They're stored here to serve as a *starting reference* only!
