@@ -69,9 +69,9 @@ Here's a table of models in Datsville.
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/house2.png] || house2.dat ||  || House with Porch (v2) || Jeff "Auld Dragon" Stembel ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/jr.png] || jr.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/knifrak.png] || knifrak.dat ||  || wall-mounted knife rack || ??? ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/m4558a.png] || m4558a.dat ||  || 4558 metroliner front locomotive || TLC, Jonathan Wilson || No ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/m4558b.png] || m4558b.dat ||  || 4558 metroliner coach car || TLC, Jonathan Wilson || No ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/m4558c.png] || m4558c.dat ||  || 4558 metroliner rear locomotive || TLC, Jonathan Wilson || No ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/m4558a.png] || m4558a.dat ||  || 4558 metroliner front locomotive || TLC, Jonathan Wilson || No (TLC) ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/m4558b.png] || m4558b.dat ||  || 4558 metroliner coach car || TLC, Jonathan Wilson || No (TLC) ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/m4558c.png] || m4558c.dat ||  || 4558 metroliner rear locomotive || TLC, Jonathan Wilson || No (TLC) ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/mannheim.png] || mannheim.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/mclerk.png] || mclerk.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/memorial.png] || memorial.ldr ||  || Datsville Memorial || Manfred Moolhuysen || Yes ||
@@ -121,7 +121,7 @@ Here's a table of models in Datsville.
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/store3.png] || store3.dat ||  || Shopping Center Module 3 || Jeff "Auld Dragon" Stembel ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/store4.png] || store4.dat ||  || Shopping Center Module 4 || Jeff "Auld Dragon" Stembel ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tallwind.png] || tallwind.dat ||  || ??? || ??? ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tanders.png] || tanders.dat ||  || Anders Isaksson's House || Anders Isaksson || Yes ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tanders.png] || tanders.dat ||  || My Home || Anders Isaksson || Yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tapts3.png] || tapts3.dat ||  || ??? || Brian Sauls ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tapts3c.png] || tapts3c.dat ||  || ??? || Brian Sauls ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tbait.png] || tbait.dat ||  || ??? || Brian Sauls ||  ||
@@ -132,7 +132,7 @@ Here's a table of models in Datsville.
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tburger.png] || tburger.dat ||  || datsville house. thomas burgeres house || thomas burger ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tbus.png] || tbus.dat ||  || City Single Decker Bus || Nicholas Allan ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tcambul.png] || tcambul.dat ||  || ??? || ??? ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tcbackho.png] || tcbackho.dat ||  || Backhoe from Lego Set 6662 || ???, TLC || No ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tcbackho.png] || tcbackho.dat ||  || Backhoe from Lego Set 6662 || ???, TLC || No (TLC) ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tcbigtr.png] || tcbigtr.dat ||  || Truck Base || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tcbmw.png] || tcbmw.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tcburge2.png] || tcburge2.dat ||  || ferrari 355 || thomas burger ||  ||
@@ -232,10 +232,10 @@ Here's a table of models in Datsville.
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ttrcross.png] || ttrcross.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ttree1.png] || ttree1.dat ||  || ??? || Steve Bliss ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ttriplex.png] || ttriplex.dat ||  || ??? || Brian Sauls ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ttrmetro.png] || ttrmetro.dat ||  || 4558 metroliner || TLC, Jonathan Wilson || No ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ttrmetro.png] || ttrmetro.dat ||  || 4558 metroliner || TLC, Jonathan Wilson || No (TLC) ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ttrstat.png] || ttrstat.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ttrtrack.png] || ttrtrack.dat ||  || ??? || ??? ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tuniver.png] || tuniver.dat ||  || ??? || ??? ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tuniver.png] || tuniver.dat ||  || My little summer house || Anders Isaksson, TLC || No (TLC) ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/twalton.png] || twalton.dat ||  || House - Sidewalk Blocks no garage || Calvin Walton ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/twtower.png] || twtower.dat ||  || Water Tower || Ben Gatrelle ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tyre.png] || tyre.dat ||  || Tyre and Hub || Jonathan Wilson ||  ||
