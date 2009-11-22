@@ -1,4 +1,4 @@
-#summary About the Datsville relicense project
+#summary About the Datsville Relicense Project
 
 = Introduction =
 
