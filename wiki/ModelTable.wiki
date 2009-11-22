@@ -20,6 +20,7 @@ Here's a table of models in Datsville.
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/aptstepl.png] || aptstepl.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/aptstepr.png] || aptstepr.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/bed.png] || bed.dat ||  || ??? || Jeff "Auld Dragon" Stembel ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/belveder.png] || belveder.ldr ||  || Datsville Belvedere || Manfred Moolhuysen || Yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/bphone.png] || bphone.dat ||  || black-buttone phone--set your own color || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/buoy1.png] || buoy1.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/buoy2.png] || buoy2.dat ||  || ??? || ??? ||  ||
@@ -56,7 +57,7 @@ Here's a table of models in Datsville.
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/faust.png] || faust.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/fireman1.png] || fireman1.dat ||  || ??? || Ryan Dennett ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/flower.png] || flower.dat ||  || ??? || Jeff "Auld Dragon" Stembel ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/flower3.png] || flower3.dat ||  || Flower with Stem || Tore Eriksson ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/flower3.png] || flower3.dat ||  || Flower with Stem || Tore Eriksson || PD only ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/flowers.png] || flowers.dat ||  || Komplette Blumen mit 3 Blueten || Joachim Probst ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/flowers2.png] || flowers2.dat ||  || Komplette Blumen mit 6 Blueten || Joachim Probst ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/fridge.png] || fridge.dat ||  || Cool Drinks Fridge || Jonathan Wilson ||  ||
@@ -73,6 +74,7 @@ Here's a table of models in Datsville.
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/m4558c.png] || m4558c.dat ||  || 4558 metroliner rear locomotive || TLC, Jonathan Wilson || No ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/mannheim.png] || mannheim.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/mclerk.png] || mclerk.dat ||  || ??? || ??? ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/memorial.png] || memorial.ldr ||  || Datsville Memorial || Manfred Moolhuysen || Yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/miningfacility.png] || miningfacility.mpd ||  || Mining Facility || Michael Horvath || Yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/o.png] || o.dat ||  || (empty file) || n/a || n/a ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/oval.png] || oval.dat ||  || Datsville Cricket Ground Oval || Jonathan Wilson ||  ||
@@ -119,7 +121,7 @@ Here's a table of models in Datsville.
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/store3.png] || store3.dat ||  || Shopping Center Module 3 || Jeff "Auld Dragon" Stembel ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/store4.png] || store4.dat ||  || Shopping Center Module 4 || Jeff "Auld Dragon" Stembel ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tallwind.png] || tallwind.dat ||  || ??? || ??? ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tanders.png] || tanders.dat ||  || ??? || ??? ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tanders.png] || tanders.dat ||  || Anders Isaksson's House || Anders Isaksson || Yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tapts3.png] || tapts3.dat ||  || ??? || Brian Sauls ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tapts3c.png] || tapts3c.dat ||  || ??? || Brian Sauls ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tbait.png] || tbait.dat ||  || ??? || Brian Sauls ||  ||
@@ -226,7 +228,7 @@ Here's a table of models in Datsville.
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tswalk3.png] || tswalk3.dat ||  || Sidewalk 32 w/o corners || John VanZwieten ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tswcorn.png] || tswcorn.dat ||  || Town Sidewalk Corner || John VanZwieten ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ttheater.png] || ttheater.dat ||  || datsville movie thearter || thomas burger ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ttore.png] || ttore.dat ||  || Tore's Parents' House || Tore Eriksson ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ttore.png] || ttore.dat ||  || Tore's Parents' House || Tore Eriksson || PD only ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ttrcross.png] || ttrcross.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ttree1.png] || ttree1.dat ||  || ??? || Steve Bliss ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ttriplex.png] || ttriplex.dat ||  || ??? || Brian Sauls ||  ||
