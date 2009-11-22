@@ -14,6 +14,11 @@ Since this project is brand new, the main things that need to be done are:
 
 Once that is completeed hopefully we can develop some ready-to-use tools for people to develop the scenes they want.
 
+The new licenses are:
+
+  # LGPL for programming code (POV-Ray, etc.)
+  # CC-BY-SA for content (LDraw models, etc.)
+
 = Information =
 
   * The current list of permissions is [http://code.google.com/p/datsville/source/browse/trunk/permissions.txt here].
