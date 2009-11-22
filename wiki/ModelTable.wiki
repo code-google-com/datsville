@@ -7,8 +7,9 @@ Here's a table of models in Datsville.
 
 = Alphabetical by Original Filename =
 
-|| *Thumbnail* || *Filename (Old)* || *Filename (New)* || *Title* || *Author* || *Permission* ||
+|| *Thumbnail* || *Filename (Old)* || *Filename (New)* || *Title* || *Author* || *Permission?* ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/car4.png] || car4.dat ||  ||  ||  ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/carriagehouse.png] || carriagehouse.mpd ||  || Carriage House || Michael Horvath || Yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/clothes.png] || clothes.dat ||  ||  ||  ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/dfcbrush.png] || dfcbrush.dat ||  ||  ||  ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/dfccapt.png] || dfccapt.dat ||  ||  ||  ||  ||
@@ -19,6 +20,7 @@ Here's a table of models in Datsville.
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/dfcutil.png] || dfcutil.dat ||  ||  ||  ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/mannheim.png] || mannheim.dat ||  ||  ||  ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/mclerk.png] || mclerk.dat ||  ||  ||  ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/miningfacility.png] || miningfacility.mpd ||  || Mining Facility || Michael Horvath || Yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/o.png] || o.dat ||  ||  ||  ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/policec.png] || policec.dat ||  ||  ||  ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/policehq.png] || policehq.dat ||  ||  ||  ||  ||
@@ -126,3 +128,4 @@ Here's a table of models in Datsville.
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tuniver.png] || tuniver.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/twalton.png] || twalton.dat ||  || House - Sidewalk Blocks no garage || Calvin Walton ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/twtower.png] || twtower.dat ||  || Water Tower || Ben Gatrelle ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/yellowcastle.png] || yellowcastle.mpd ||  || Yellow Castle || Michael Horvath || Yes ||
