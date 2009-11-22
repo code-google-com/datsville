@@ -5,7 +5,7 @@
 Here's a table of models in Datsville.
 
 
-= Details =
+= Alphabetical by Original Filename =
 
 || *Thumbnail* || *Filename (Old)* || *Filename (New)* || *Title* || *Author* || *Permission* ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/car4.png] || car4.dat ||  ||  ||  ||  ||
