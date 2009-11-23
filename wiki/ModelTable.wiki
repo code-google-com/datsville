@@ -25,7 +25,7 @@ Here's a table of models in Datsville.
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/buoy1.png] || buoy1.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/buoy2.png] || buoy2.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/car4.png] || car4.dat ||  || DragonMotors Auld-Class 09 Special Edition (A09se) Green & White || Jeff "Auld Dragon" Stembel ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/carriagehouse.png] || carriagehouse.mpd ||  || Carriage House || Michael Horvath || Yes ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/carriagehouse.png] || carriagehouse.mpd ||  || Carriage House || Michael Horvath || Yes (has some TLC models that need to be removed) ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/celldoor.png] || celldoor.dat ||  || Custody Cell Door || Jonathan Wilson ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/chkout1.png] || chkout1.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/clothes.png] || clothes.dat ||  || Clothes exhibitet in a Parisian shop. || ??? ||  ||
