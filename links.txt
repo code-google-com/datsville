@@ -10,3 +10,5 @@
   + http://images.google.com/images?hl=en&source=hp&q=datsville&gbv=2&aq=f&oq=&aqi=
 + "Datsville rev 014. Datsville expandins again!", by Tore Eriksson
   + http://news.lugnet.com/cad/dat/models/?n=1846
++ "Datsville Rev019", by Tore Eriksson
+  + http://news.lugnet.com/cad/dat/models/?n=2239
