@@ -19,6 +19,8 @@ The new licenses are:
   # LGPL for programming code (POV-Ray, etc.)
   # CC-BY-SA for content (LDraw models, etc.)
 
+New submissions are of course always welcome! :)
+
 = Information =
 
   * The current list of permissions is [http://code.google.com/p/datsville/source/browse/trunk/permissions.txt here].
