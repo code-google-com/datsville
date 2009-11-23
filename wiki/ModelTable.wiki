@@ -2,7 +2,7 @@
 
 = Introduction =
 
-Here's a table of models in Datsville.
+Here's a table of models in Datsville. Sub-models need to be trimmed from the list.
 
 
 = Alphabetical by Original Filename =
