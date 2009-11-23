@@ -132,7 +132,7 @@ Here's a table of models in Datsville.
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tburger.png] || tburger.dat ||  || datsville house. thomas burgeres house || thomas burger ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tbus.png] || tbus.dat ||  || City Single Decker Bus || Nicholas Allan ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tcambul.png] || tcambul.dat ||  || ??? || ??? ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tcbackho.png] || tcbackho.dat ||  || Backhoe from Lego Set 6662 || ???, TLC || No (TLC) ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tcbackho.png] || tcbackho.dat ||  || Backhoe from Lego Set 6662 || TLC, ???  || No (TLC) ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tcbigtr.png] || tcbigtr.dat ||  || Truck Base || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tcbmw.png] || tcbmw.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tcburge2.png] || tcburge2.dat ||  || ferrari 355 || thomas burger ||  ||
@@ -235,7 +235,7 @@ Here's a table of models in Datsville.
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ttrmetro.png] || ttrmetro.dat ||  || 4558 metroliner || TLC, Jonathan Wilson || No (TLC) ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ttrstat.png] || ttrstat.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ttrtrack.png] || ttrtrack.dat ||  || ??? || ??? ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tuniver.png] || tuniver.dat ||  || My little summer house || Anders Isaksson, TLC || No (TLC) ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tuniver.png] || tuniver.dat ||  || My little summer house || TLC, Anders Isaksson  || No (TLC) ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/twalton.png] || twalton.dat ||  || House - Sidewalk Blocks no garage || Calvin Walton ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/twtower.png] || twtower.dat ||  || Water Tower || Ben Gatrelle ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tyre.png] || tyre.dat ||  || Tyre and Hub || Jonathan Wilson ||  ||
