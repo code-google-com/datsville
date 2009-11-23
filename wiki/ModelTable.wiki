@@ -197,7 +197,7 @@ Here's a table of models in Datsville.
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/town10.png] || town10.dat ||  || Town Section 1 East 0 North || John VanZwieten ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/town11.png] || town11.dat ||  || Town Section 1 East 1 North || John VanZwieten ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/town20.png] || town20.dat ||  || Town Section 2 East 0 North || John VanZwieten ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/town_full.png] || town_full.dat || Town Complete || John VanZwieten ||  ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/town_full.png] || town_full.dat ||  || Town Complete || John VanZwieten ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/townpeep.png] || townpeep.dat ||  ||  ||  ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tparis.png] || tparis.dat ||  || Butik fra Paris - naer Centre Pompidou || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tphone.png] || tphone.dat ||  || Minifig Payphone || Jonathan Wilson ||  ||
