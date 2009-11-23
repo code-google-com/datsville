@@ -77,7 +77,7 @@ Sub-models need to be removed from the table or marked as such. At some point I 
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/mannheim.png] || mannheim.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/mclerk.png] || mclerk.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/memorial.png] || memorial.ldr ||  || Datsville Memorial || Manfred Moolhuysen || Yes ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/miningfacility.png] || miningfacility.mpd ||  || Mining Facility || Michael Horvath || Yes ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/miningfacility.png] || miningfacility.mpd ||  || Mining Facility || Michael Horvath || Yes<br/>(Needs a roof I suppose.) ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/o.png] || o.dat ||  || (empty file) || n/a || n/a ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/oval.png] || oval.dat ||  || Datsville Cricket Ground Oval || Jonathan Wilson || Yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/oven.png] || oven.dat ||  || Pizza Oven || Jonathan Wilson || Yes ||
