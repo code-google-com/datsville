@@ -7,7 +7,7 @@ Here's a table of models in Datsville.
 
 = Alphabetical by Original Filename =
 
-|| *Thumbnail* || *Filename (Old)* || *Filename (New)* || *Title* || *Author* || *Permission?* ||
+|| *Thumbnail* || *Filename (Old)* || *Filename (New)* || *Title* || *Author* || *Relicense?* ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/0.png] || 0.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/4ldisp.png] || 4ldisp.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/4rdisp.png] || 4rdisp.dat ||  || ??? || ??? ||  ||
