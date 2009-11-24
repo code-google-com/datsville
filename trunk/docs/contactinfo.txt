@@ -1,7 +1,7 @@
 Created the captcha images using:
 http://www.email-encoder.net/index.php
 
-+ Jeff "Auld Dragon" Stembel
++ Jeffrey Stembel
   + Dragonelf1@aol.com			(1999)
   + jeff@aulddragon.com			(2007)
 + Joachim Probst
