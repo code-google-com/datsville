@@ -59,7 +59,7 @@ Sub-models need to be removed from the table or marked as such. At some point I 
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/faust.png] || faust.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/fireman1.png] || fireman1.dat ||  || ??? || Ryan Dennett ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/flower.png] || flower.dat ||  || ??? || Jeff "Auld Dragon" Stembel ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/flower3.png] || flower3.dat ||  || Flower with Stem || Tore Eriksson || PD only ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/flower3.png] || flower3.dat ||  || Flower with Stem || Tore Eriksson || Yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/flowers.png] || flowers.dat ||  || Komplette Blumen mit 3 Blueten || Joachim Probst ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/flowers2.png] || flowers2.dat ||  || Komplette Blumen mit 6 Blueten || Joachim Probst ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/fridge.png] || fridge.dat ||  || Cool Drinks Fridge || Jonathan Wilson || Yes ||
@@ -204,7 +204,7 @@ Sub-models need to be removed from the table or marked as such. At some point I 
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tparis.png] || tparis.dat ||  || Butik fra Paris - naer Centre Pompidou || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tphone.png] || tphone.dat ||  || Minifig Payphone || Jonathan Wilson || Yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tphoneco.png] || tphoneco.dat ||  || Datsville Phone Company Exchange || Jonathan Wilson || Yes ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tpo.png] || tpo.dat ||  || Datsville Post Office || Martin Svensson ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tpo.png] || tpo.dat ||  || Datsville Post Office || Martin Svensson (now Palmberg) || Yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tpolice1.png] || tpolice1.dat ||  || Datsville Police HQ || Jonathan Wilson || Yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tpolice2.png] || tpolice2.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tprobst.png] || tprobst.dat ||  || House on a hill || Joachim Probst ||  ||
@@ -230,7 +230,7 @@ Sub-models need to be removed from the table or marked as such. At some point I 
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tswalk3.png] || tswalk3.dat ||  || Sidewalk 32 w/o corners || John VanZwieten ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tswcorn.png] || tswcorn.dat ||  || Town Sidewalk Corner || John VanZwieten ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ttheater.png] || ttheater.dat ||  || datsville movie thearter || thomas burger ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ttore.png] || ttore.dat ||  || Tore's Parents' House || Tore Eriksson || PD only ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ttore.png] || ttore.dat ||  || Tore's Parents' House || Tore Eriksson || Yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ttrcross.png] || ttrcross.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ttree1.png] || ttree1.dat ||  || ??? || Steve Bliss ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ttriplex.png] || ttriplex.dat ||  || ??? || Brian Sauls ||  ||
