@@ -1,12 +1,14 @@
-+ Anders Isaksson's House by Anders Isaksson
+Anders Isaksson's House by Anders Isaksson
   + http://news.lugnet.com/cad/?n=15927
-+ Datsville Belvedere by Manfred Moolhuysen
+Datsville Belvedere by Manfred Moolhuysen
   + http://news.lugnet.com/cad/?n=15929
-+ Datsville Memorial by Manfred Moolhuysen
+Datsville Memorial by Manfred Moolhuysen
   + http://news.lugnet.com/cad/?n=15929
-+ All models by Jonathan Wilson
+All models by Jonathan Wilson
   + http://news.lugnet.com/cad/?n=15930
-+ All models by Michael Horvath
+All models by Michael Horvath
   + http://news.lugnet.com/cad/?n=15924
-+ All models by Tore Eriksson, but only as Public Domain not CC-BY-SA
-  + http://news.lugnet.com/cad/?n=16647
+All models by Tore Eriksson, Public Domain or CC-BY-SA
+  + http://news.lugnet.com/cad/?n=16672
+All models by Martin Svensson (now Palmberg), Public Domain or CC-BY-SA
+  + http://news.lugnet.com/cad/?n=16672
