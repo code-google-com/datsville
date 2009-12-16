@@ -12,7 +12,7 @@ Joachim Probst
     + jprobst@shadow-corner.ows.es		(1999, 2000)
     + Joachim.Probst@epost.de			(2001)
   + permission
-    + attempted to contact on 2009-12-16
+    + attempted to contact on 2009-12-16, message bounced back
 Tore Eriksson
   + contact
     + tore.eriksson@mbox325.swipnet.se		(1999, 2009)
@@ -30,7 +30,7 @@ Bram Lambrecht
     + blambrec@student.chuh.org			(1999)
     + lego@bldesign.org				(2008)
   + permission
-    + attempted to contact on 2009-12-16
+    + permission given via email on 2009-12-16
 Nicholas Allan
   + contact
     + n_l_allan@altavista.net			(1999, 2001)
@@ -40,7 +40,7 @@ Rob Farver
   + contact
     + rfarver@rcn.com				(1999, 2005)
   + permission
-    + attempted to contact on 2009-12-16
+    + attempted to contact on 2009-12-16, message bounced back
 Brian Sauls
   + contact
     + barbcue@home.com				(2000)
@@ -83,7 +83,7 @@ Thomas Burger
   + contact
     + tburger34@adelphia.net			(2007)
   + permission
-    + attempted to contact on 2009-12-16
+    + attempted to contact on 2009-12-16, message bounced back
 Fredrik Glöckner
   + contact
     + fredrigl@math.uio.no			(2006)
