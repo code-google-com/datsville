@@ -35,7 +35,7 @@ Nicholas Allan
   + contact
     + n_l_allan@altavista.net			(1999, 2001)
   + permission
-    + attempted to contact on 2009-12-16
+    + attempted to contact on 2009-12-16, message bounced back
 Rob Farver
   + contact
     + rfarver@rcn.com				(1999, 2005)
@@ -45,7 +45,7 @@ Brian Sauls
   + contact
     + barbcue@home.com				(2000)
   + permission
-    + attempted to contact on 2009-12-16
+    + attempted to contact on 2009-12-16, message bounced back
 Jonathan Wilson
   + contact
     + jfwfreo@tpgi.com.au			(2009)
@@ -98,7 +98,7 @@ Calvin Walton
   + contact
     + calvinwalton@home.com			(2001)
   + permission
-    + attempted to contact on 2009-12-16
+    + attempted to contact on 2009-12-16, message bounced back
 John VanZwieten
   + contact
     + john_vanzwieten@msn.com			(2005)
