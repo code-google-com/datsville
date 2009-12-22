@@ -5,5 +5,5 @@
   # Get permission from various authors (CC-BY-SA is preferred of course).
   # Apply Tore's organizational scheme to the models/scene.
   # Determine if any additional organizational steps are needed.
-  # Create a collection of helper scripts to make it easy to generate renderings, animations and panoramas using POV-Ray, or to import the scene into different software.
+  # Create a collection of helper scripts to make it easy to generate renderings, animations and panoramas using POV-Ray or other software packages.
   # Create a virtual tour.
