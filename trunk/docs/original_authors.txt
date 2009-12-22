@@ -2,126 +2,151 @@ Created the captcha images using:
 http://www.email-encoder.net/index.php
 
 Jeffrey Stembel
+  + models
   + contact
-    + Dragonelf1@aol.com			(1999)
-    + jeff@aulddragon.com			(2007)
+    + Dragonelf1@aol.com (current as of 1999)
+    + jeff@aulddragon.com (current as of 2007)
   + permission
     + attempted to contact on 2009-12-16
 Joachim Probst
+  + models
   + contact
-    + jprobst@shadow-corner.ows.es		(1999, 2000)
-    + Joachim.Probst@epost.de			(2001)
+    + jprobst@shadow-corner.ows.es (current as of 2000)
+    + Joachim.Probst@epost.de (current as of 2001)
   + permission
     + attempted to contact on 2009-12-16, message bounced back
 Tore Eriksson
+  + models
   + contact
-    + tore.eriksson@mbox325.swipnet.se		(1999, 2009)
+    + tore.eriksson@mbox325.swipnet.se (current as of 2009)
   + permission
     + All models (Public Domain or CC-BY-SA?)
       + http://news.lugnet.com/cad/?n=16672
-Michael Horvath					(3 models)
+Michael Horvath
+  + models
+    + 3 models
   + contact
-    + mikh2161@gmail.com			(2009)
+    + mikh2161@gmail.com (current as of 2009)
   + permission
     + All models
       + http://news.lugnet.com/cad/?n=15924
 Bram Lambrecht
+  + models
   + contact
-    + blambrec@student.chuh.org			(1999)
-    + lego@bldesign.org				(2008)
+    + blambrec@student.chuh.org (current as of 1999)
+    + lego@bldesign.org (current as of 2008)
   + permission
     + permission given via email on 2009-12-16
 Nicholas Allan
+  + models
   + contact
-    + n_l_allan@altavista.net			(1999, 2001)
+    + n_l_allan@altavista.net (current as of 2001)
   + permission
     + attempted to contact on 2009-12-16, message bounced back
 Rob Farver
+  + models
   + contact
-    + rfarver@rcn.com				(1999, 2005)
+    + rfarver@rcn.com (current as of 2005)
   + permission
     + attempted to contact on 2009-12-16, message bounced back
 Brian Sauls
+  + models
   + contact
-    + barbcue@home.com				(2000)
+    + barbcue@home.com (current as of 2000)
   + permission
     + attempted to contact on 2009-12-16, message bounced back
 Jonathan Wilson
+  + models
   + contact
-    + jfwfreo@tpgi.com.au			(2009)
+    + jfwfreo@tpgi.com.au (current as of 2009)
   + permission
     + All models
       + http://news.lugnet.com/cad/?n=15930
-Manfred Moolhuysen				(2 models)
+Manfred Moolhuysen
+  + models
+    + 2 models
   + contact
-    + moom@chello.nl				(2009)
+    + moom@chello.nl (current as of 2009)
   + permission
     + Datsville Belvedere & Datsville Memorial
       + http://news.lugnet.com/cad/?n=15929
 Ryan Dennet
+  + models
   + contact
-    + rdennett@firehousemail.com		(2002)
+    + rdennett@firehousemail.com (current as of 2002)
   + permission
     + attempted to contact on 2009-12-16
 Duane Hess
+  + models
   + contact
-    + legozilla@hotmail.com			(2009)
+    + legozilla@hotmail.com (current as of 2009)
   + permission
     + permission via email on 2009-12-16
 Anders Isaksson
+  + models
   + contact
-    + blockcad@gmail.com			(2009)
+    + blockcad@gmail.com (current as of 2009)
   + permission
     + Anders Isaksson's House
       + http://news.lugnet.com/cad/?n=15927
 James Jackson
+  + models
   + contact
-    + savannius@yahoo.com			(2007)
+    + savannius@yahoo.com (current as of 2007)
   + permission
     + attempted to contact on 2009-12-16
 Thomas Burger
+  + models
   + contact
-    + tburger34@adelphia.net			(2007)
+    + tburger34@adelphia.net (current as of 2007)
   + permission
     + attempted to contact on 2009-12-16, message bounced back
 Fredrik Glöckner
+  + models
   + contact
-    + fredrigl@math.uio.no			(2006)
+    + fredrigl@math.uio.no (current as of 2006)
   + permission
     + attempted to contact on 2009-12-16
 Joseph Gonzalez
+  + models
   + contact
-    + mescalero.geo@yahoo.com			(2009)
+    + mescalero.geo@yahoo.com (current as of 2009)
   + permission
     + attempted to contact on 2009-12-16
 Calvin Walton
+  + models
   + contact
-    + calvinwalton@home.com			(2001)
+    + calvinwalton@home.com (current as of 2001)
   + permission
     + attempted to contact on 2009-12-16, message bounced back
 John VanZwieten
+  + models
   + contact
-    + john_vanzwieten@msn.com			(2005)
+    + john_vanzwieten@msn.com (current as of 2005)
   + permission
     + attempted to contact on 2009-12-16
 Robert Virsik
+  + models
   + contact
     + ???
   + permission
     + no contact info
 Martin Svensson (now Palmberg)
+  + models
   + contact
     + ???
   + permission
     + All models (Public Domain or CC-BY-SA?)
       + http://news.lugnet.com/cad/?n=16672
 Steve Bliss
+  + models
   + contact
-    + steve.bliss@sbcglobal.net			(2009)
+    + steve.bliss@sbcglobal.net (current as of 2009)
   + permission
     + permission via email on 2009-12-21, under PD not CC-BY-SA
 Ben Gatrelle
+  + models
   + contact
-    + mail@yellowcastle.com			(2006)
+    + mail@yellowcastle.com (current as of 2006)
   + permission
     + attempted to contact on 2009-12-16
