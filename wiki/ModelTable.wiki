@@ -129,8 +129,8 @@ Sub-models need to be removed from the table or marked as such. At some point I 
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tbait.png] || tbait.dat ||  || ??? || Brian Sauls ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tbank.png] || tbank.dat ||  || National Bank (Version 1.0) || James Jackson ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tbfire.png] || tbfire.dat ||  || ??? || Ryan Dennett ??? ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tbram.png] || tbram.dat ||  || Bram L's Cottage || Bram Lambrecht ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tbram1.png] || tbram1.dat ||  || Bram's Home || Bram Lambrecht ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tbram.png] || tbram.dat ||  || Bram L's Cottage || Bram Lambrecht || Yes ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tbram1.png] || tbram1.dat ||  || Bram's Home || Bram Lambrecht || Yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tburger.png] || tburger.dat ||  || Thomas Burger's house || Thomas Burger ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tbus.png] || tbus.dat ||  || City Single Decker Bus || Nicholas Allan ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tcambul.png] || tcambul.dat ||  || ??? || ??? ||  ||
@@ -138,7 +138,7 @@ Sub-models need to be removed from the table or marked as such. At some point I 
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tcbigtr.png] || tcbigtr.dat ||  || Truck Base || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tcbmw.png] || tcbmw.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tcburge2.png] || tcburge2.dat ||  || ferrari 355 || Thomas Burger ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tcburger.png] || tcburger.dat ||  || 2000 Beetle || Bram Lambrecht, Thomas Burger ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tcburger.png] || tcburger.dat ||  || 2000 Beetle || Bram Lambrecht, Thomas Burger || Yes (Bram Lambrecht) ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tcconv1.png] || tcconv1.dat ||  || ??? || Brian Sauls ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tcdozer.png] || tcdozer.dat ||  || Minifig scale tracked excavator || Fredrik Glöckner ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tcflat1.png] || tcflat1.dat ||  || Low Loader Lorry || Nicholas Allan ||  ||
