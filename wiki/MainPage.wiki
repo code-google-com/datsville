@@ -23,6 +23,7 @@ New submissions are of course always welcome! :)
 
 = Information =
 
-  * The current list of permissions is [http://code.google.com/p/datsville/source/browse/trunk/docs/permissions.txt here].
+  * The current "to do" list is [http://code.google.com/p/datsville/wiki/ToDoList here].
+  * The current list of permissions is [http://code.google.com/p/datsville/source/browse/trunk/docs/original_authors.txt here].
   * Some useful links are [http://code.google.com/p/datsville/source/browse/trunk/docs/links.txt here].
   * A table of models is [http://code.google.com/p/datsville/wiki/ModelTable here].
