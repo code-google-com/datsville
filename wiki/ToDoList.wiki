@@ -1,0 +1,7 @@
+#summary List of things to do.
+
+= To-do list =
+
+  # Get permission from various authors (CC-BY-SA is preferred of course).
+  # Apply Tore's organizational scheme to the models/scene.
+
