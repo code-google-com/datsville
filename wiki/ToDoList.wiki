@@ -4,4 +4,6 @@
 
   # Get permission from various authors (CC-BY-SA is preferred of course).
   # Apply Tore's organizational scheme to the models/scene.
-  # Next?
+  # Determine if any additional organizational steps need to be taken to get models in a state where they are ready to render into new scenes, animations and so forth.
+  # Create a collection of helper scripts to make it easy to [auto-]generate renderings and animations of the scene in various formats, including panoramas.
+  # Create a virtual tour.
