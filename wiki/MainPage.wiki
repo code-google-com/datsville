@@ -14,7 +14,7 @@ Since this project is brand new, the main things that need to be done at this mo
 
 Once that is completed hopefully we can develop some ready-to-use tools for people to develop the scenes they want.
 
-The new licenses are:
+The new preferred licenses are:
 
   # LGPL for programming code (POV-Ray, etc.)
   # CC-BY-SA for content (LDraw models, etc.)
