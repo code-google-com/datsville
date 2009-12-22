@@ -2,7 +2,7 @@
 
 = Introduction =
 
-Here's a table of models in Datsville. Models marked with "TLC" were designed by The Lego Group, and are copyrighted.
+Here's a table of models in Datsville. Models marked with "TLC" were designed by The Lego Group, and are copyrighted and unusable. Other models are released under the public domain not CC-BY-SA.
 
 Sub-models need to be removed from the table or marked as such. At some point I will add a seventh column listing the models' coordinates within the scene, and two others for the creation and last update dates.
 
@@ -210,7 +210,7 @@ Sub-models need to be removed from the table or marked as such. At some point I 
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tprobst.png] || tprobst.dat ||  || House on a hill || Joachim Probst ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/trcabin.png] || trcabin.dat ||  || Truck Cabin || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/trdriver.png] || trdriver.dat ||  || Truck Driver || ??? ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tree7.png] || tree7.dat ||  || Tree #7 || Steve Bliss ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tree7.png] || tree7.dat ||  || Tree #7 || Steve Bliss || Public Domain ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/triplexa.png] || triplexa.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/triplexb.png] || triplexb.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/trspoi.png] || trspoi.dat ||  || Truck spoiler || ??? ||  ||
@@ -232,7 +232,7 @@ Sub-models need to be removed from the table or marked as such. At some point I 
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ttheater.png] || ttheater.dat ||  || datsville movie thearter || Thomas Burger ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ttore.png] || ttore.dat ||  || Tore's Parents' House || Tore Eriksson || Yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ttrcross.png] || ttrcross.dat ||  || ??? || ??? ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ttree1.png] || ttree1.dat ||  || ??? || Steve Bliss ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ttree1.png] || ttree1.dat ||  || ??? || Steve Bliss || Public Domain ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ttriplex.png] || ttriplex.dat ||  || ??? || Brian Sauls ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ttrmetro.png] || ttrmetro.dat ||  || 4558 metroliner || TLC, Jonathan Wilson || No (TLC) ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ttrstat.png] || ttrstat.dat ||  || ??? || ??? ||  ||
