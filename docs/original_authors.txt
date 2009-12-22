@@ -17,7 +17,7 @@ Tore Eriksson
   + contact
     + tore.eriksson@mbox325.swipnet.se		(1999, 2009)
   + permission
-    + All models (Public Domain or CC-BY-SA)
+    + All models (Public Domain or CC-BY-SA?)
       + http://news.lugnet.com/cad/?n=16672
 Michael Horvath					(3 models)
   + contact
@@ -113,13 +113,13 @@ Martin Svensson (now Palmberg)
   + contact
     + ???
   + permission
-    + All models (Public Domain or CC-BY-SA)
+    + All models (Public Domain or CC-BY-SA?)
       + http://news.lugnet.com/cad/?n=16672
 Steve Bliss
   + contact
     + steve.bliss@sbcglobal.net			(2009)
   + permission
-    + attempted to contact on 2009-12-16
+    + permission via email on 2009-12-21, under PD not CC-BY-SA
 Ben Gatrelle
   + contact
     + mail@yellowcastle.com			(2006)
