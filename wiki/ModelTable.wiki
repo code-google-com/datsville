@@ -9,7 +9,7 @@ Sub-models need to be removed from the table or marked as such. At some point I 
 
 = Alphabetical by Original Filename =
 
-|| *Thumbnail* || *Filename (Old)* || *Filename (New)* || *Title* || *Author* || *Relicense?* ||
+|| *Thumbnail* || *Filename (Old)* || *Filename (New)* || *Title* || *Author* || *Permission* ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/0.png] || 0.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/4ldisp.png] || 4ldisp.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/4rdisp.png] || 4rdisp.dat ||  || ??? || ??? ||  ||
@@ -21,12 +21,12 @@ Sub-models need to be removed from the table or marked as such. At some point I 
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/aptroof.png] || aptroof.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/aptstepl.png] || aptstepl.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/aptstepr.png] || aptstepr.dat ||  || ??? || ??? ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/bed.png] || bed.dat ||  || ??? || Jeff Stembel ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/bed.png] || bed.dat ||  || ??? || Jeff Stembel ||  || yes
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/belveder.png] || belveder.ldr ||  || Datsville Belvedere || Manfred Moolhuysen || Yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/bphone.png] || bphone.dat ||  || black-buttone phone--set your own color || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/buoy1.png] || buoy1.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/buoy2.png] || buoy2.dat ||  || ??? || ??? ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/car4.png] || car4.dat ||  || DragonMotors Auld-Class 09 Special Edition (A09se) Green & White || Jeff Stembel ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/car4.png] || car4.dat ||  || DragonMotors Auld-Class 09 Special Edition (A09se) Green & White || Jeff Stembel ||  || yes
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/carriagehouse.png] || carriagehouse.mpd ||  || Carriage House || Michael Horvath || Yes<br/>(Has some TLC models that need to be removed first.) ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/celldoor.png] || celldoor.dat ||  || Custody Cell Door || Jonathan Wilson || Yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/chkout1.png] || chkout1.dat ||  || ??? || ??? ||  ||
@@ -38,37 +38,37 @@ Sub-models need to be removed from the table or marked as such. At some point I 
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/cranetop.png] || cranetop.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/crsect.png] || crsect.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/desk.png] || desk.dat ||  || Minifig Desk || Jonathan Wilson || Yes ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/dfcbrush.png] || dfcbrush.dat ||  || DatsvilleFC Brush Truck || Ryan Dennett ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/dfccapt.png] || dfccapt.dat ||  || DatsvilleFC Captain's Truck || Ryan Dennett ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/dfcchief.png] || dfcchief.dat ||  || DatsvilleFC Chief's Car || Ryan Dennett ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/dfcengin.png] || dfcengin.dat ||  || DatsvilleFC Engine || Ryan Dennett ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/dfchresq.png] || dfchresq.dat ||  || DatsvilleFC Heavy Rescue || Ryan Dennett ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/dfcresq.png] || dfcresq.dat ||  || ??? || Duane Hess, Ryan Dennett ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/dfcutil.png] || dfcutil.dat ||  || DatsvilleFC Utility Truck || Ryan Dennett ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/dfcbrush.png] || dfcbrush.dat ||  || DatsvilleFC Brush Truck || Ryan Dennett ||  || yes
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/dfccapt.png] || dfccapt.dat ||  || DatsvilleFC Captain's Truck || Ryan Dennett ||  || yes
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/dfcchief.png] || dfcchief.dat ||  || DatsvilleFC Chief's Car || Ryan Dennett ||  || yes
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/dfcengin.png] || dfcengin.dat ||  || DatsvilleFC Engine || Ryan Dennett ||  || yes
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/dfchresq.png] || dfchresq.dat ||  || DatsvilleFC Heavy Rescue || Ryan Dennett ||  || yes
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/dfcresq.png] || dfcresq.dat ||  || ??? || Duane Hess, Ryan Dennett ||  || yes from both
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/dfcutil.png] || dfcutil.dat ||  || DatsvilleFC Utility Truck || Ryan Dennett ||  || yes
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/dish.png] || dish.dat ||  || Sattelite Dish || Jonathan Wilson || Yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/dishb.png] || dishb.dat ||  || Sattelite Dish Base || Jonathan Wilson || Yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/dock.png] || dock.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/door1.png] || door1.dat ||  || ??? || ??? ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/dumpstr1.png] || dumpstr1.dat ||  || ??? || Jeff Stembel ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/dumpstr2.png] || dumpstr2.dat ||  || ??? || Jeff Stembel ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/dumpstr1.png] || dumpstr1.dat ||  || ??? || Jeff Stembel ||  || yes
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/dumpstr2.png] || dumpstr2.dat ||  || ??? || Jeff Stembel ||  || yes
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ex_hood.png] || ex_hood.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ex_ldoor.png] || ex_ldoor.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ex_rdoor.png] || ex_rdoor.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ex_seat.png] || ex_seat.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ex_wheel.png] || ex_wheel.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/faust.png] || faust.dat ||  || ??? || ??? ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/fireman1.png] || fireman1.dat ||  || ??? || Ryan Dennett ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/flower.png] || flower.dat ||  || ??? || Jeff Stembel ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/fireman1.png] || fireman1.dat ||  || ??? || Ryan Dennett ||  || yes
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/flower.png] || flower.dat ||  || ??? || Jeff Stembel ||  || yes
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/flower3.png] || flower3.dat ||  || Flower with Stem || Tore Eriksson || Public Domain ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/flowers.png] || flowers.dat ||  || Komplette Blumen mit 3 Blueten || Joachim Probst ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/flowers2.png] || flowers2.dat ||  || Komplette Blumen mit 6 Blueten || Joachim Probst ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/fridge.png] || fridge.dat ||  || Cool Drinks Fridge || Jonathan Wilson || Yes ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/garage.png] || garage.dat ||  || House with Porch: Garage || Jeff Stembel ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/garage.png] || garage.dat ||  || House with Porch: Garage || Jeff Stembel ||  || yes
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/gsshelf6.png] || gsshelf6.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/gsshelf8.png] || gsshelf8.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/hillrear.png] || hillrear.dat ||  || Hill Template: Rear Side || Joachim Probst ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/hillside.png] || hillside.dat ||  || Hill Template: Slope Side || Joachim Probst ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/house2.png] || house2.dat ||  || House with Porch (v2) || Jeff Stembel ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/house2.png] || house2.dat ||  || House with Porch (v2) || Jeff Stembel ||  || yes
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/jr.png] || jr.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/knifrak.png] || knifrak.dat ||  || wall-mounted knife rack || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/m4558a.png] || m4558a.dat ||  || 4558 metroliner front locomotive || TLC, Jonathan Wilson || No (TLC) ||
@@ -82,53 +82,53 @@ Sub-models need to be removed from the table or marked as such. At some point I 
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/oval.png] || oval.dat ||  || Datsville Cricket Ground Oval || Jonathan Wilson || Yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/oven.png] || oven.dat ||  || Pizza Oven || Jonathan Wilson || Yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/pakke.png] || pakke.dat ||  || Postpakke || ??? ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/panel1.png] || panel1.dat ||  || ??? || Jeff Stembel ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/panel2.png] || panel2.dat ||  || ??? || Jeff Stembel ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/panel3.png] || panel3.dat ||  || ??? || Jeff Stembel ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/pklot1.png] || pklot1.dat ||  || ??? || Jeff Stembel ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/pklot2.png] || pklot2.dat ||  || ??? || Jeff Stembel ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/pklot3.png] || pklot3.dat ||  || ??? || Jeff Stembel ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/pklot4.png] || pklot4.dat ||  || ??? || Jeff Stembel ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/pklot5.png] || pklot5.dat ||  || ??? || Jeff Stembel ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/pltfrm.png] || pltfrm.dat ||  || ??? || Jeff Stembel ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/pltfrm2.png] || pltfrm2.dat ||  || ??? || Jeff Stembel ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/pltfrm3.png] || pltfrm3.dat ||  || ??? || Jeff Stembel ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/pltfrm4.png] || pltfrm4.dat ||  || ??? || Jeff Stembel ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/pltfrm5.png] || pltfrm5.dat ||  || ??? || Jeff Stembel ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/pltfrm6.png] || pltfrm6.dat ||  || ??? || Jeff Stembel ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/panel1.png] || panel1.dat ||  || ??? || Jeff Stembel ||  || yes
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/panel2.png] || panel2.dat ||  || ??? || Jeff Stembel ||  || yes
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/panel3.png] || panel3.dat ||  || ??? || Jeff Stembel ||  || yes
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/pklot1.png] || pklot1.dat ||  || ??? || Jeff Stembel ||  || yes
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/pklot2.png] || pklot2.dat ||  || ??? || Jeff Stembel ||  || yes
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/pklot3.png] || pklot3.dat ||  || ??? || Jeff Stembel ||  || yes
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/pklot4.png] || pklot4.dat ||  || ??? || Jeff Stembel ||  || yes
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/pklot5.png] || pklot5.dat ||  || ??? || Jeff Stembel ||  || yes
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/pltfrm.png] || pltfrm.dat ||  || ??? || Jeff Stembel ||  || yes
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/pltfrm2.png] || pltfrm2.dat ||  || ??? || Jeff Stembel ||  || yes
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/pltfrm3.png] || pltfrm3.dat ||  || ??? || Jeff Stembel ||  || yes
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/pltfrm4.png] || pltfrm4.dat ||  || ??? || Jeff Stembel ||  || yes
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/pltfrm5.png] || pltfrm5.dat ||  || ??? || Jeff Stembel ||  || yes
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/pltfrm6.png] || pltfrm6.dat ||  || ??? || Jeff Stembel ||  || yes
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/policec.png] || policec.dat ||  || Patrol Car || Jonathan Wilson || Yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/policehq.png] || policehq.dat ||  || Datsville Police HQ || Jonathan Wilson || Yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/polpark.png] || polpark.dat ||  || Police Parking Lot || Jonathan Wilson || Yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/polvan.png] || polvan.dat ||  || Police Van || Jonathan Wilson || Yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ptv.png] || ptv.dat ||  || Prisoner Transport Van || Jonathan Wilson || Yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/pump.png] || pump.dat ||  || Petrol Pump || Jonathan Wilson || Yes ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ramp.png] || ramp.dat ||  || ??? || Jeff Stembel ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ramp2.png] || ramp2.dat ||  || ??? || Jeff Stembel ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ramp.png] || ramp.dat ||  || ??? || Jeff Stembel ||  || yes
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ramp2.png] || ramp2.dat ||  || ??? || Jeff Stembel ||  || yes
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/score.png] || score.dat ||  || Scorebord For The Datsville Cricket Ground || Jonathan Wilson || Yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/shelf.png] || shelf.dat ||  || Shelves || Jonathan Wilson || Yes ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/slant1.png] || slant1.dat ||  || ??? || Jeff Stembel ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/slant2.png] || slant2.dat ||  || ??? || Jeff Stembel ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/slant3.png] || slant3.dat ||  || ??? || Jeff Stembel ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/slant4.png] || slant4.dat ||  || ??? || Jeff Stembel ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/slant1.png] || slant1.dat ||  || ??? || Jeff Stembel ||  || yes
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/slant2.png] || slant2.dat ||  || ??? || Jeff Stembel ||  || yes
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/slant3.png] || slant3.dat ||  || ??? || Jeff Stembel ||  || yes
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/slant4.png] || slant4.dat ||  || ??? || Jeff Stembel ||  || yes
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/stand1.png] || stand1.dat ||  || Datsville Cricket Ground Stand || Jonathan Wilson || Yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/stand2.png] || stand2.dat ||  || Datsville Cricket Ground Members Stand || Jonathan Wilson || Yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/station.png] || station.dat ||  || Petrol Station || Jonathan Wilson || Yes ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/stnwall1.png] || stnwall1.dat ||  || ??? || Jeff Stembel ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/stnwall2.png] || stnwall2.dat ||  || ??? || Jeff Stembel ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/stnwall3.png] || stnwall3.dat ||  || ??? || Jeff Stembel ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/stnwall4.png] || stnwall4.dat ||  || ??? || Jeff Stembel ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/stonwall.png] || stonwall.dat ||  || Stonewall || Jeff Stembel ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/store1.png] || store1.dat ||  || Shopping Center Module 1 || Jeff Stembel ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/store2.png] || store2.dat ||  || Shopping Center Module 2 || Jeff Stembel ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/store3.png] || store3.dat ||  || Shopping Center Module 3 || Jeff Stembel ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/store4.png] || store4.dat ||  || Shopping Center Module 4 || Jeff Stembel ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/stnwall1.png] || stnwall1.dat ||  || ??? || Jeff Stembel ||  || yes
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/stnwall2.png] || stnwall2.dat ||  || ??? || Jeff Stembel ||  || yes
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/stnwall3.png] || stnwall3.dat ||  || ??? || Jeff Stembel ||  || yes
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/stnwall4.png] || stnwall4.dat ||  || ??? || Jeff Stembel ||  || yes
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/stonwall.png] || stonwall.dat ||  || Stonewall || Jeff Stembel ||  || yes
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/store1.png] || store1.dat ||  || Shopping Center Module 1 || Jeff Stembel ||  || yes
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/store2.png] || store2.dat ||  || Shopping Center Module 2 || Jeff Stembel ||  || yes
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/store3.png] || store3.dat ||  || Shopping Center Module 3 || Jeff Stembel ||  || yes
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/store4.png] || store4.dat ||  || Shopping Center Module 4 || Jeff Stembel ||  || yes
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tallwind.png] || tallwind.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tanders.png] || tanders.dat ||  || My Home || Anders Isaksson || Yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tapts3.png] || tapts3.dat ||  || ??? || Brian Sauls ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tapts3c.png] || tapts3c.dat ||  || ??? || Brian Sauls ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tbait.png] || tbait.dat ||  || ??? || Brian Sauls ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tbank.png] || tbank.dat ||  || National Bank (Version 1.0) || James Jackson ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tbfire.png] || tbfire.dat ||  || ??? || Ryan Dennett ??? ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tbfire.png] || tbfire.dat ||  || ??? || Ryan Dennett ??? ||  || yes
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tbram.png] || tbram.dat ||  || Bram L's Cottage || Bram Lambrecht || Yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tbram1.png] || tbram1.dat ||  || Bram's Home || Bram Lambrecht || Yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tburger.png] || tburger.dat ||  || Thomas Burger's house || Thomas Burger ||  ||
@@ -145,16 +145,16 @@ Sub-models need to be removed from the table or marked as such. At some point I 
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tchurch1.png] || tchurch1.dat ||  || Chapel at Eastwicke - 6090 Royal Knight's Castle Alternate || TLC, Joseph Gonzalez || No (TLC) ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tcmail.png] || tcmail.dat ||  || Postbil || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tcrane.png] || tcrane.dat ||  || ??? || ??? ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tcscrape.png] || tcscrape.dat ||  || Earth Scraper || Duane Hess ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tcscrape.png] || tcscrape.dat ||  || Earth Scraper || Duane Hess ||  || yes
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tcsmtr.png] || tcsmtr.dat ||  || Cargo Delivery Truck || Nicholas Allan ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tcsproat.png] || tcsproat.dat ||  || ??? || ??? ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tcstembl.png] || tcstembl.dat ||  || DragonMotors Auld-Class 09 Special Edition (A09se) Green & White || Jeff Stembel ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tcstembl.png] || tcstembl.dat ||  || DragonMotors Auld-Class 09 Special Edition (A09se) Green & White || Jeff Stembel ||  || yes
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tcvirsic.png] || tcvirsic.dat ||  || ??? || ??? ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tcwalton.png] || tcwalton.dat ||  || ??? || Calvin Walton ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tcwalton.png] || tcwalton.dat ||  || ??? || Calvin Walton ||  || yes
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tcwilsn1.png] || tcwilsn1.dat ||  || Suzuki Swift Hatchback || Jonathan Wilson || Yes ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tfarver.png] || tfarver.dat ||  || House with Green Roof || Rob Farver ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tfarver.png] || tfarver.dat ||  || House with Green Roof || Rob Farver ||  || yes
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tfield1.png] || tfield1.dat ||  || Datsville Cricket Ground || Jonathan Wilson || Yes ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tfire1.png] || tfire1.dat ||  || Legofield Fire Company Station 2 || Ryan Dennett ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tfire1.png] || tfire1.dat ||  || Legofield Fire Company Station 2 || Ryan Dennett ||  || yes
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tgas1.png] || tgas1.dat ||  || Station Baseplates || Jonathan Wilson || Yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tgrocery.png] || tgrocery.dat ||  || ??? || Brian Sauls ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/thall.png] || thall.dat || ??? || John VanZwieten ||  ||  ||
@@ -218,12 +218,12 @@ Sub-models need to be removed from the table or marked as such. At some point I 
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/trwheels.png] || trwheels.dat ||  || Truck Wheels || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tsauls1.png] || tsauls1.dat ||  || Casa Verde || Brian (barbcue) Sauls ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tsauls2.png] || tsauls2.dat ||  || Mission-Style House || Brian (bbq) Sauls ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tshopctr.png] || tshopctr.dat ||  || Shopping Center || Jeff Stembel ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tshopctr.png] || tshopctr.dat ||  || Shopping Center || Jeff Stembel ||  || yes
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tsqr1.png] || tsqr1.dat ||  || Town Square Sidewalk || John VanZwieten ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tstemb2.png] || tstemb2.dat ||  || House with Porch (v2) and Yard || Jeff Stembel ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tstemble.png] || tstemble.dat ||  || Jeff Stemble's House with Porch || Jeff Stembel ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tstemb2.png] || tstemb2.dat ||  || House with Porch (v2) and Yard || Jeff Stembel ||  || yes
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tstemble.png] || tstemble.dat ||  || Jeff Stemble's House with Porch || Jeff Stembel ||  || yes
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tstlamp1.png] || tstlamp1.dat ||  || ??? || ??? ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tstore1.png] || tstore1.dat ||  || ??? || Calvin Walton ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tstore1.png] || tstore1.dat ||  || ??? || Calvin Walton ||  || yes
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tstsig1.png] || tstsig1.dat ||  || Houston (Texas) Traffic Signal Version 1.01. || James Jackson ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tswalk1.png] || tswalk1.dat ||  || Sidewalk 32 with corners || John VanZwieten ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tswalk2.png] || tswalk2.dat ||  || Sidewalk 32 w/o corners || John VanZwieten ??? ||  ||
@@ -238,7 +238,7 @@ Sub-models need to be removed from the table or marked as such. At some point I 
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ttrstat.png] || ttrstat.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/ttrtrack.png] || ttrtrack.dat ||  || ??? || ??? ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tuniver.png] || tuniver.dat ||  || My little summer house || TLC, Anders Isaksson  || No (TLC) ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/twalton.png] || twalton.dat ||  || House - Sidewalk Blocks no garage || Calvin Walton ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/twalton.png] || twalton.dat ||  || House - Sidewalk Blocks no garage || Calvin Walton ||  || yes
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/twtower.png] || twtower.dat ||  || Water Tower || Ben Gatrelle ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/tyre.png] || tyre.dat ||  || Tyre and Hub || Jonathan Wilson || Yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/wclerk.png] || wclerk.dat ||  || ??? || ??? ||  ||
