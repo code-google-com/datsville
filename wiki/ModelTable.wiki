@@ -43,7 +43,7 @@ Sub-models need to be removed from the table or marked as such. At some point I 
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/dfcchief.png] || dfcchief.dat ||  || DatsvilleFC Chief's Car || Ryan Dennett || yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/dfcengin.png] || dfcengin.dat ||  || DatsvilleFC Engine || Ryan Dennett || yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/dfchresq.png] || dfchresq.dat ||  || DatsvilleFC Heavy Rescue || Ryan Dennett || yes ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/dfcresq.png] || dfcresq.dat ||  || ??? || Duane Hess, Ryan Dennett || yes || from both
+|| [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/dfcresq.png] || dfcresq.dat ||  || ??? || Duane Hess, Ryan Dennett || yes from both ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/dfcutil.png] || dfcutil.dat ||  || DatsvilleFC Utility Truck || Ryan Dennett || yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/dish.png] || dish.dat ||  || Sattelite Dish || Jonathan Wilson || Yes ||
 || [http://datsville.googlecode.com/svn/wiki/ModelTable.attach/dishb.png] || dishb.dat ||  || Sattelite Dish Base || Jonathan Wilson || Yes ||
