@@ -17,7 +17,7 @@ Once that is completed hopefully we can develop some ready-to-use tools for peop
 The preferred licenses are:
 
   # LGPL for programming code (POV-Ray, etc.)
-  # CC-BY-SA for content (LDraw models, etc.)
+  # CC-BY-SA for artistic content (LDraw models, etc.)
 
 New submissions are of course always welcome! :)
 
