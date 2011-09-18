@@ -6,6 +6,6 @@
   # Apply Tore's organizational scheme to the models/scene.
   # Determine if any additional organizational steps are needed.
   # Create a collection of helper scripts to make it easy to generate renderings, animations, panoramas and so forth using POV-Ray and/or other software packages.
-  # Streamline the model submission process so that new contributions and content can be added.
-  # Create one or more virtual tours. (Web-based, Second Life, Google Sketchup, interactive and in real time, etc., etc.)
+  # Streamline the model submission process so that new contributions and content can be added quickly and easily.
+  # Create one or more virtual Web tours.
   # Find suitable web hosting for all of the above.
