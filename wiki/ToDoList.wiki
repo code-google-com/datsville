@@ -3,12 +3,10 @@
 = To-do list =
 
   # Get permission from the original authors for the various models. (CC-BY-SA is preferred.)
-  # Use the SVN repository for what it was designed to do instead of simply uploading file archives.
-  # Documentation is VERY out of date.
   # Determine if any additional model/sub-model organizational steps are needed.
   # Create a collection of helper scripts to make it easy to generate renderings, animations, panoramas and so forth using POV-Ray and/or other software packages.
   # Streamline the model submission process so that new content can be added quickly and easily.
   # Create one or more virtual Web tours.
   # Find suitable web hosting for all of the above.
-  # Upload and maintain the latest and most complete library of "boxed" parts here.
   # Strip all vehicles and pedestrians from the building models and add them to the traffic layer.
+  # Try to find out who built some of the unattributed models.
