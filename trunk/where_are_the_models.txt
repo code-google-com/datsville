@@ -1,2 +1,0 @@
-Currently I am not using SVN to store Datsville's 3D models. Instead, they are 
-in the Downloads section of the Google Code project. I need to fix this.
