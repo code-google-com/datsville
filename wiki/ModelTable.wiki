@@ -2,7 +2,7 @@
 
 = Introduction =
 
-This table is heavily outdated.
+[Ed. This table is heavily outdated.]
 
 Here's a table of models in Datsville. Models marked with "TLC" were designed by The Lego Group, and are copyrighted and unusable. Other models are released under the public domain not CC-BY-SA.
 
