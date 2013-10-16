@@ -1,6 +1,6 @@
 #summary Maps of Datsville locations.
 
-[http://datsville.googlecode.com/svn/wiki/Maps.attach/google_code_rev001_map.png]
-[http://datsville.googlecode.com/svn/wiki/Maps.attach/google_code_rev002_map.png]
-[http://datsville.googlecode.com/svn/wiki/Maps.attach/google_code_rev003_map.png]
 [http://datsville.googlecode.com/svn/wiki/Maps.attach/google_code_rev004_map.png]
+[http://datsville.googlecode.com/svn/wiki/Maps.attach/google_code_rev003_map.png]
+[http://datsville.googlecode.com/svn/wiki/Maps.attach/google_code_rev002_map.png]
+[http://datsville.googlecode.com/svn/wiki/Maps.attach/google_code_rev001_map.png]
