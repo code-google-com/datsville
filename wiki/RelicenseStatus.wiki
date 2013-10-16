@@ -1,125 +1,26 @@
 #summary Status of relicense permission requests
 
-Jeffrey Stembel
-* models
-* contact
-* permission
-** attempted to contact on 2009-12-16
-Joachim Probst
-+ models
-+ contact
-+ permission
-+ attempted to contact on 2009-12-16, message bounced back
-Tore Eriksson
-+ models
-+ contact
-+ permission
-+ All models (Public Domain or CC-BY-SA?)
-+ http://news.lugnet.com/cad/?n=16672
-Michael Horvath
-+ models
-+ 3 models
-+ contact
-+ permission
-+ All models
-+ http://news.lugnet.com/cad/?n=15924
-Bram Lambrecht
-+ models
-+ contact
-+ permission
-+ permission given via email on 2009-12-16
-Nicholas Allan
-+ models
-+ contact
-+ permission
-+ attempted to contact on 2009-12-16, message bounced back
-Rob Farver
-+ models
-+ contact
-+ permission
-+ attempted to contact on 2009-12-16, message bounced back
-Brian Sauls
-+ models
-+ contact
-+ permission
-+ attempted to contact on 2009-12-16, message bounced back
-Jonathan Wilson
-+ models
-+ contact
-+ permission
-+ All models
-+ http://news.lugnet.com/cad/?n=15930
-Manfred Moolhuysen
-+ models
-+ 2 models
-+ contact
-+ permission
-+ Datsville Belvedere & Datsville Memorial
-+ http://news.lugnet.com/cad/?n=15929
-Ryan Dennet
-+ models
-+ contact
-+ permission
-+ attempted to contact on 2009-12-16
-Duane Hess
-+ models
-+ contact
-+ permission
-+ permission via email on 2009-12-16
-Anders Isaksson
-+ models
-+ contact
-+ permission
-+ Anders Isaksson's House
-+ http://news.lugnet.com/cad/?n=15927
-James Jackson
-+ models
-+ contact
-+ permission
-+ attempted to contact on 2009-12-16
-Thomas Burger
-+ models
-+ contact
-+ permission
-+ attempted to contact on 2009-12-16, message bounced back
-Fredrik Glöckner
-+ models
-+ contact
-+ permission
-+ attempted to contact on 2009-12-16
-Joseph Gonzalez
-+ models
-+ contact
-+ permission
-+ attempted to contact on 2009-12-16
-Calvin Walton
-+ models
-+ contact
-+ permission
-+ attempted to contact on 2009-12-16, message bounced back
-John VanZwieten
-+ models
-+ contact
-+ permission
-+ attempted to contact on 2009-12-16
-Robert Virsik
-+ models
-+ contact
-+ permission
-+ no contact info
-Martin Svensson (now Palmberg)
-+ models
-+ contact
-+ permission
-+ All models (Public Domain or CC-BY-SA?)
-+ http://news.lugnet.com/cad/?n=16672
-Steve Bliss
-+ models
-+ contact
-+ permission
-+ permission via email on 2009-12-21, under PD not CC-BY-SA
-Ben Gatrelle
-+ models
-+ contact
-+ permission
-+ attempted to contact on 2009-12-16
+|| *Author* || *Models* || *Permission* ||
+|| Jeffrey Stembel ||  || attempted to contact on 2009-12-16 ||
+|| Joachim Probst ||  || attempted to contact on 2009-12-16, message bounced back ||
+|| Tore Eriksson ||  || (Public Domain or CC-BY-SA?) http://news.lugnet.com/cad/?n=16672 ||
+|| Michael Horvath ||  || http://news.lugnet.com/cad/?n=15924 ||
+|| Bram Lambrecht ||  || permission given via email on 2009-12-16 ||
+|| Nicholas Allan ||  || attempted to contact on 2009-12-16, message bounced back ||
+|| Rob Farver ||  || attempted to contact on 2009-12-16, message bounced back ||
+|| Brian Sauls ||  || attempted to contact on 2009-12-16, message bounced back ||
+|| Jonathan Wilson ||  || http://news.lugnet.com/cad/?n=15930 ||
+|| Manfred Moolhuysen || Datsville Belvedere, Datsville Memorial || http://news.lugnet.com/cad/?n=15929 ||
+|| Ryan Dennet ||  || attempted to contact on 2009-12-16 ||
+|| Duane Hess ||  || permission via email on 2009-12-16 ||
+|| Anders Isaksson || Anders Isaksson's House || http://news.lugnet.com/cad/?n=15927 ||
+|| James Jackson ||  || attempted to contact on 2009-12-16 ||
+|| Thomas Burger ||  || attempted to contact on 2009-12-16, message bounced back ||
+|| Fredrik Glöckner ||  || attempted to contact on 2009-12-16 ||
+|| Joseph Gonzalez ||  || attempted to contact on 2009-12-16 ||
+|| Calvin Walton ||  || attempted to contact on 2009-12-16, message bounced back ||
+|| John VanZwieten ||  || attempted to contact on 2009-12-16 ||
+|| Robert Virsik ||  || no contact info ||
+|| Martin Svensson (now Palmberg) ||  || (Public Domain or CC-BY-SA?) http://news.lugnet.com/cad/?n=16672 ||
+|| Steve Bliss ||  || permission via email on 2009-12-21, under PD not CC-BY-SA ||
+|| Ben Gatrelle ||  || attempted to contact on 2009-12-16 ||
