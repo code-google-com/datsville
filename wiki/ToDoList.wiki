@@ -11,3 +11,4 @@
   # Create one or more virtual Web tours.
   # Find suitable web hosting for all of the above.
   # Upload and maintain the latest and most complete library of "boxed" parts here.
+  # Strip all vehicles and pedestrians from the building models and add them to the traffic layer.
