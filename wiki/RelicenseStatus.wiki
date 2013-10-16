@@ -1,128 +1,125 @@
 #summary Status of relicense permission requests
 
-Created the captcha images using:
-http://www.email-encoder.net/index.php
-
 Jeffrey Stembel
-  + models
-  + contact
-  + permission
-    + attempted to contact on 2009-12-16
+* models
+* contact
+* permission
+** attempted to contact on 2009-12-16
 Joachim Probst
-  + models
-  + contact
-  + permission
-    + attempted to contact on 2009-12-16, message bounced back
++ models
++ contact
++ permission
++ attempted to contact on 2009-12-16, message bounced back
 Tore Eriksson
-  + models
-  + contact
-  + permission
-    + All models (Public Domain or CC-BY-SA?)
-      + http://news.lugnet.com/cad/?n=16672
++ models
++ contact
++ permission
++ All models (Public Domain or CC-BY-SA?)
++ http://news.lugnet.com/cad/?n=16672
 Michael Horvath
-  + models
-    + 3 models
-  + contact
-  + permission
-    + All models
-      + http://news.lugnet.com/cad/?n=15924
++ models
++ 3 models
++ contact
++ permission
++ All models
++ http://news.lugnet.com/cad/?n=15924
 Bram Lambrecht
-  + models
-  + contact
-  + permission
-    + permission given via email on 2009-12-16
++ models
++ contact
++ permission
++ permission given via email on 2009-12-16
 Nicholas Allan
-  + models
-  + contact
-  + permission
-    + attempted to contact on 2009-12-16, message bounced back
++ models
++ contact
++ permission
++ attempted to contact on 2009-12-16, message bounced back
 Rob Farver
-  + models
-  + contact
-  + permission
-    + attempted to contact on 2009-12-16, message bounced back
++ models
++ contact
++ permission
++ attempted to contact on 2009-12-16, message bounced back
 Brian Sauls
-  + models
-  + contact
-  + permission
-    + attempted to contact on 2009-12-16, message bounced back
++ models
++ contact
++ permission
++ attempted to contact on 2009-12-16, message bounced back
 Jonathan Wilson
-  + models
-  + contact
-  + permission
-    + All models
-      + http://news.lugnet.com/cad/?n=15930
++ models
++ contact
++ permission
++ All models
++ http://news.lugnet.com/cad/?n=15930
 Manfred Moolhuysen
-  + models
-    + 2 models
-  + contact
-  + permission
-    + Datsville Belvedere & Datsville Memorial
-      + http://news.lugnet.com/cad/?n=15929
++ models
++ 2 models
++ contact
++ permission
++ Datsville Belvedere & Datsville Memorial
++ http://news.lugnet.com/cad/?n=15929
 Ryan Dennet
-  + models
-  + contact
-  + permission
-    + attempted to contact on 2009-12-16
++ models
++ contact
++ permission
++ attempted to contact on 2009-12-16
 Duane Hess
-  + models
-  + contact
-  + permission
-    + permission via email on 2009-12-16
++ models
++ contact
++ permission
++ permission via email on 2009-12-16
 Anders Isaksson
-  + models
-  + contact
-  + permission
-    + Anders Isaksson's House
-      + http://news.lugnet.com/cad/?n=15927
++ models
++ contact
++ permission
++ Anders Isaksson's House
++ http://news.lugnet.com/cad/?n=15927
 James Jackson
-  + models
-  + contact
-  + permission
-    + attempted to contact on 2009-12-16
++ models
++ contact
++ permission
++ attempted to contact on 2009-12-16
 Thomas Burger
-  + models
-  + contact
-  + permission
-    + attempted to contact on 2009-12-16, message bounced back
++ models
++ contact
++ permission
++ attempted to contact on 2009-12-16, message bounced back
 Fredrik Glöckner
-  + models
-  + contact
-  + permission
-    + attempted to contact on 2009-12-16
++ models
++ contact
++ permission
++ attempted to contact on 2009-12-16
 Joseph Gonzalez
-  + models
-  + contact
-  + permission
-    + attempted to contact on 2009-12-16
++ models
++ contact
++ permission
++ attempted to contact on 2009-12-16
 Calvin Walton
-  + models
-  + contact
-  + permission
-    + attempted to contact on 2009-12-16, message bounced back
++ models
++ contact
++ permission
++ attempted to contact on 2009-12-16, message bounced back
 John VanZwieten
-  + models
-  + contact
-  + permission
-    + attempted to contact on 2009-12-16
++ models
++ contact
++ permission
++ attempted to contact on 2009-12-16
 Robert Virsik
-  + models
-  + contact
-  + permission
-    + no contact info
++ models
++ contact
++ permission
++ no contact info
 Martin Svensson (now Palmberg)
-  + models
-  + contact
-  + permission
-    + All models (Public Domain or CC-BY-SA?)
-      + http://news.lugnet.com/cad/?n=16672
++ models
++ contact
++ permission
++ All models (Public Domain or CC-BY-SA?)
++ http://news.lugnet.com/cad/?n=16672
 Steve Bliss
-  + models
-  + contact
-  + permission
-    + permission via email on 2009-12-21, under PD not CC-BY-SA
++ models
++ contact
++ permission
++ permission via email on 2009-12-21, under PD not CC-BY-SA
 Ben Gatrelle
-  + models
-  + contact
-  + permission
-    + attempted to contact on 2009-12-16
++ models
++ contact
++ permission
++ attempted to contact on 2009-12-16
