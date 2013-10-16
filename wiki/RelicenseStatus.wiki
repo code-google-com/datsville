@@ -8,7 +8,7 @@
 || Bram Lambrecht ||  || permission given via email on 2009-12-16 ||
 || Nicholas Allan ||  || attempted to contact on 2009-12-16, message bounced back ||
 || Rob Farver ||  || attempted to contact on 2009-12-16, message bounced back ||
-|| Brian Sauls ||  || attempted to contact on 2009-12-16, message bounced back ||
+|| Brian Sauls ||  || permission via email on 2/12/2011 ||
 || Jonathan Wilson ||  || http://news.lugnet.com/cad/?n=15930 ||
 || Manfred Moolhuysen || Datsville Belvedere, Datsville Memorial || http://news.lugnet.com/cad/?n=15929 ||
 || Ryan Dennet ||  || attempted to contact on 2009-12-16 ||
@@ -24,3 +24,4 @@
 || Martin Svensson (now Palmberg) ||  || (Public Domain or CC-BY-SA?) http://news.lugnet.com/cad/?n=16672 ||
 || Steve Bliss ||  || permission via email on 2009-12-21, under PD not CC-BY-SA ||
 || Ben Gatrelle ||  || attempted to contact on 2009-12-16 ||
+|| Mike Gallagher || SNOT roads || permission via email on 2012-01-16
