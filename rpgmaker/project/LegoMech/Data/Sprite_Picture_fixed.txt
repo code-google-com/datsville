@@ -1,0 +1,43 @@
+#==============================================================================
+# Sprite_Picture
+#==============================================================================
+
+class Sprite_Picture < Sprite
+  #--------------------------------------------------------------------------
+  # Update (Overwrite)
+  #--------------------------------------------------------------------------
+  def update
+    super
+    if @picture_name != @picture.name
+      @picture_name = @picture.name
+      if @picture_name != ""
+        self.bitmap = Cache.picture(@picture_name)
+      end
+    end
+    if @picture_name == ""
+      self.visible = false
+    else
+      fixed = @picture_name.include?("[FIXED]") ? true : false
+      self.visible = true
+      if @picture.origin == 0
+        self.ox = 0
+        self.oy = 0
+      else
+        self.ox = self.bitmap.width / 2
+        self.oy = self.bitmap.height / 2
+      end
+      self.x = @picture.x
+      self.y = @picture.y
+      # added
+      self.x += (self.ox - ($game_map.display_x / 8)) if fixed
+      self.y += (self.oy - ($game_map.display_y / 8)) if fixed
+      self.z = 100 + @picture.number
+      self.zoom_x = @picture.zoom_x / 100.0
+      self.zoom_y = @picture.zoom_y / 100.0
+      self.opacity = @picture.opacity
+      self.blend_type = @picture.blend_type
+      self.angle = @picture.angle
+      self.tone = @picture.tone
+    end
+  end
+end

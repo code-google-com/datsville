@@ -1,0 +1,13 @@
+0 Box - Slope Brick 33  3 x  4
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+3 16 -xx 0 10 -xx 0 -10 -xx 20 -50
+4 16 xx 0 10 xx 0 -10 -xx 0 -10 -xx 0 10
+4 16 xx 24 10 xx 0 10 -xx 0 10 -xx 24 10
+4 16 xx 24 -50 xx 20 -50 -xx 20 -50 -xx 24 -50
+4 16 xx 24 10 xx 0 10 xx 20 -50 xx 24 -50
+3 16 xx 0 10 xx 0 -10 xx 20 -50
+4 16 -xx 24 10 -xx 0 10 -xx 20 -50 -xx 24 -50
+4 16 xx 20 -50 xx 0 -10 -xx 0 -10 -xx 20 -50
+4 16 xx 24 10 -xx 24 10 -xx 24 -50 xx 24 -50
+0

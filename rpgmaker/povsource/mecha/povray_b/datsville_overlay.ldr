@@ -1,0 +1,31 @@
+0 Untitled
+0 Name: town_new.ldr
+0 Author: Various
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_001_buildings.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_002_buildings.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_003_buildings.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_004_buildings.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_005_buildings.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_006_buildings.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_007_buildings.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_008_buildings.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_009_buildings.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_010_buildings.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_011_buildings.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_012_buildings.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_013_buildings.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_014_buildings.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_015_buildings.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_016_buildings.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_017_buildings.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_018_buildings.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_019_buildings.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_020_buildings.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_021_buildings.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_022_buildings.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_023_buildings.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_024_buildings.ldr
+0
