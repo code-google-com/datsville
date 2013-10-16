@@ -1,0 +1,49 @@
+
+
+MovedTo v 0.04 by Tore Eriksson
+
+Scanning for DAT files...
+
+Scanning for LDR files...
+File 12    BMHMINE.LDR
+Line 183    1 7 140 -166 32 1 0 0 0 1 0 0 0 1 970.DAT
+Moved 1    970.DAT: 0 ~Moved to 3815
+---> 1 7 140 -166 32 1 0 0 0 1 0 0 0 1 3815.dat
+
+File 12    BMHMINE.LDR
+Line 205    1 0 520 -166 151 1 0 0 0 1 0 0 0 1 970.DAT
+Moved 2    970.DAT: 0 ~Moved to 3815
+---> 1 0 520 -166 151 1 0 0 0 1 0 0 0 1 3815.dat
+
+File 12    BMHMINE.LDR
+Line 226    1 0 548 -165 400 0 0 1 0 1 0 -1 0 0 970.DAT
+Moved 3    970.DAT: 0 ~Moved to 3815
+---> 1 0 548 -165 400 0 0 1 0 1 0 -1 0 0 3815.dat
+
+File 14    BTEHOUS3.LDR
+Line 69    1 4 150 -72 130  -1 0 0 0 1 0 0 0 -1 3192.dat
+Moved 4    3192.dat: 0 ~Moved to 3190
+--->1 4 150 -72 130  -1 0 0 0 1 0 0 0 -1 3190.dat
+
+File 14    BTEHOUS3.LDR
+Line 71    1 4 150 -72 30 1 0 0 0 1 0 0 0 1  3193.dat
+Moved 5    3193.dat: 0 ~Moved to 3191
+--->1 4 150 -72 30 1 0 0 0 1 0 0 0 1  3191.dat
+
+File 15    KOPIAA~1.LDR
+Line 2     0 Name: Bmhcastl.ldr
+--->   0 Name: Kopiaa~1.ldr
+
+File 16    MJWAFIG.LDR
+Line 10    1 0 0 -21 0 1 0 0 0 1 0 0 0 1 970.DAT
+Moved 6    970.DAT: 0 ~Moved to 3815
+--->1 0 0 -21 0 1 0 0 0 1 0 0 0 1 3815.dat
+
+
+Scanning for MPD files...
+ 22 files scanned.
+ 6 references to moved files found in 3 file(s).
+ 0 references to LDR files found in 0 file(s).
+ 1 file(s) with incorrect '0 Name:' line found.
+ 0 file(s) with incorrect '0 Parent:' line found.
+

@@ -1,0 +1,14 @@
+0 Flower
+0 Name: Padflow1.ldr
+0 Was: Flower.dat
+0 Author: Jeff "Auld Dragon" Stembel
+0 Unofficial Datsville Plant Model
+0 Parent: Bjshous2.ldr
+0 Unofficial Shortcut File
+
+
+1 2 0 0 0 1 0 0 0 1 0 0 0 1 3741.dat
+1 16 0 -20 20 1 -0.00 0 0.00 0.91 0.42 -0.00 -0.42 0.91 3742.dat
+1 16 -19 -23 -10 0.88 0.41 -0.24 -0.47 0.82 -0.33 0.06 0.40 0.91 3742.dat
+1 16 21 -28 -12 0.88 -0.47 0 0.44 0.82 -0.37 0.18 0.33 0.93 3742.dat
+0

@@ -1,0 +1,30 @@
+0 Town Scene Main.
+0 REM set a @flag on a location and see where it lands
+0 Unofficial Datsville Utility Model
+0 NoParent
+
+0 1 14  0 0 0  1 0 0  0 1 0  0 0 1  @flag.dat
+0 1 4  640 0 0  1 0 0  0 1 0  0 0 1  @flag.dat
+0 1 1  0 0 640  1 0 0  0 1 0  0 0 1  @flag.dat
+0 1 14  -3110  -32  -1760  1 0 0  0 1 0  0 0 1  @flag.dat
+0 1 4  -3570 -200    640  1 0 0  0 1 0  0 0 1  @flag.dat
+0 1 1  0 0 640  1 0 0  0 1 0  0 0 1  @flag.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 town00.ldr
+ 1 16 0 0 0 1 0 0 0 1 0 0 0 1 town01.ldr
+0 1 16 0 0 0 1 0 0 0 1 0 0 0 1 town0-1.ldr
+0 1 16 0 0 0 1 0 0 0 1 0 0 0 1 town02.ldr
+0 1 16 0 0 0 1 0 0 0 1 0 0 0 1 town0-2.ldr
+0 1 16 0 0 0 1 0 0 0 1 0 0 0 1 town0-3.ldr
+0 1 16 0 0 0 1 0 0 0 1 0 0 0 1 town10.ldr
+ 0 1 16 0 0 0 1 0 0 0 1 0 0 0 1 town-10.ldr
+0 1 16 0 0 0 1 0 0 0 1 0 0 0 1 town11.ldr
+0 1 16 0 0 0 1 0 0 0 1 0 0 0 1 town-11.ldr
+0 1 16 0 0 0 1 0 0 0 1 0 0 0 1 town1-1.ldr
+0 1 16 0 0 0 1 0 0 0 1 0 0 0 1 town-1-1.ldr
+0 1 16 0 0 0 1 0 0 0 1 0 0 0 1 town20.ldr
+0 1 16 0 0 0 1 0 0 0 1 0 0 0 1 town-20.ldr
+0 1 16 0 0 0 1 0 0 0 1 0 0 0 1 town-2-1.ldr
+0 1 16 0 0 0 1 0 0 0 1 0 0 0 1 townpeep.ldr
+0
+0 1 7  -3690 -192 -640  -1 0 0  0 1 0  0 0 -1  Bmhcarri.ldr

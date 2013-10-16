@@ -1,0 +1,21 @@
+0 Oteconn1 on Wheels
+0 Name: Oteconn2.ldr
+0 Author: Tore Eriksson
+0 Unofficial Datsville Other Model
+0 Parent: Classified!
+0 Location: Classified!
+
+1 7  40 -24 0  0 0 -1  0 1 0  1 0 0  6157.dat
+1 7  -40 -24 0  0 0 -1  0 1 0  1 0 0  6157.dat
+
+1 4  40 -20 -40  1 0 0  0 1 0  0 0 1  4624.dat
+1 256  40 -20 -40  1 0 0  0 1 0  0 0 1  3641.dat
+1 4  -40 -20 -40  1 0 0  0 1 0  0 0 1  4624.dat
+1 256  -40 -20 -40  1 0 0  0 1 0  0 0 1  3641.dat
+1 4  40 -20 40  -1 0 0  0 1 0  0 0 -1  4624.dat
+1 256  40 -20 40  1 0 0  0 1 0  0 0 1  3641.dat
+1 4  -40 -20 40  -1 0 0  0 1 0  0 0 -1  4624.dat
+1 256  -40 -20 40  1 0 0  0 1 0  0 0 1  3641.dat
+
+1 14  20 -104 40  1 0 0  0 1 0  0 0 1  Oteconn1.ldr
+0

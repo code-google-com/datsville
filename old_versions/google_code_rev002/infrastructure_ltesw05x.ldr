@@ -1,0 +1,18 @@
+0 FILE infrastructure_ltesw05x.ldr
+0 Sidewalk  5 Crossing with 6-wide Grass
+0 Author: Tore Eriksson
+0 Name: infrastructure_ltesw05x.ldr
+0 Unofficial Datsville Landscape Model
+0 Parent:
+
+0 !LDBOXER LEVEL B
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 16 -140 -8 80 1 0 0 0 1 0 0 0 1 3022.dat
+1 15 -140 -8 40 1 0 0 0 1 0 0 0 1 3068b.dat
+1 16 0 0 60 0 0 -1 0 1 0 1 0 0 infrastructure_ljvsw02a.ldr
+1 16 -80 0 60 0 0 -1 0 1 0 1 0 0 infrastructure_ljvsw02.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 infrastructure_ltesw01h.ldr
+1 16 0 0 -40 1 0 0 0 1 0 0 0 1 infrastructure_ltesw01h.ldr
+1 16 0 0 -80 1 0 0 0 1 0 0 0 1 infrastructure_ltesw01h.ldr
+0

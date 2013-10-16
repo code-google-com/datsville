@@ -1,0 +1,17 @@
+0 FILE building_034_bbsapt.ldr
+0 Apartment House Single
+0 Name: building_034_bbsapt.ldr
+0 Was: Tapts3.dat
+0 Author: Brian Sauls
+0 Unofficial Datsville Building Model
+0 Parent: Town-11.ldr
+0 Location: -4160 -32 -3360
+
+0 !LDBOXER LEVEL 0
+
+0 
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 0 0 0 -60 1 0 0 0 1 0 0 0 1 building_034_bbsapt1.ldr
+1 0 -120 0 420 -1 0 0 0 1 0 0 0 -1 building_034_bbsapt1.ldr
+0

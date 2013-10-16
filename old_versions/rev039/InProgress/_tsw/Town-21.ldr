@@ -1,0 +1,22 @@
+0 Town 2 West 1 North...
+0 Name: Town-21.ldr
+0 Author: Tore Eriksson
+0 Unofficial Datsville Town Sub-Model
+0 Parent: Town.ldr
+
+0 // Content of Town-21 extracted from Town-20 by John VanZwieten (TE, Rev 030)
+0 // Rjjtofc.ldr temporarily placed here.
+0 // To be moved to planned sidetrack here or in Town-2-1
+
+0 // Official LEGO Model rjwmetro.ldr 
+0 // replaced by MOCs Rjjtofc.ldr and Rtgdb425.mpd
+0 1 7 -2720 -104 -4480 0 0 1 0 1 0 -1 0 0 rjwmetro.ldr
+ 1 7 -4720 -64 -4480 0 0 1 0 1 0 -1 0 0 Rjjtofc.ldr
+
+1 7 -4160 -8 -4480 0 0 1 0 1 0 -1 0 0 rjvtks2.ldr
+1 7 -4800 -8 -4480 0 0 1 0 1 0 -1 0 0 rjvtks2.ldr
+1 7 -5440 -8 -4480 0 0 1 0 1 0 -1 0 0 rjvtks2.ldr
+1 7 -6080 -8 -4480 0 0 1 0 1 0 -1 0 0 rjvtks2.ldr
+1 7 -6720 -8 -4480 0 0 1 0 1 0 -1 0 0 rjvtks2.ldr
+
+0

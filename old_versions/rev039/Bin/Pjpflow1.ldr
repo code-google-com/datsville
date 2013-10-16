@@ -1,0 +1,15 @@
+0 Komplette Blumen mit 3 Blueten
+0 Name: Pjpflow1.ldr
+0 Was: Flowers.dat
+0 Author: Joachim Probst
+0 Unofficial Datsville Plant Model
+0 Parent: Bjphous1.ldr
+
+0 (jprobst@shadow-corner.ows.es)
+0 Status: Un-Official Element
+0
+1 2 0 0 0 1 0 0 0 1 0 0 0 1 3741.dat
+1 16 0 -20.16 19.86 1 0 0 0 0.87 0.50 0 -0.50 0.87 3742.dat
+1 16 19.97 -26.53 -11.64 -0.50 -0.43 0.75 0 0.87 0.50 -0.87 0.25 -0.43 3742.dat
+1 16 -18.74 -23.80 -11.30 -0.50 0.43 -0.75 0 0.87 0.50 0.87 0.25 -0.43 3742.dat
+0

@@ -1,0 +1,20 @@
+0 Electric Train Motor 9V Complete Assembly
+0 Name: 2894c01.dat
+0 Author: Thomas Burger
+0 LDRAW_ORG Part UPDATE 2001-01
+0 Unofficial Update 2004-05-27
+
+0 BFC CERTIFY CW
+
+0 2001-05-14 SEB Changed all color 241 to 24, as per J. Wilson comments.
+0 2003-01-04 DS  BFC'd, primitive subpart optimized, detail added, minor fixes
+0 2004-05-27 DS & MR broke into parts and created complete assembly
+
+1 16 0 8 0 1 0 0 0 1 0 0 0 1 2894.DAT
+1 16 0 62 0 1 0 0 0 1 0 0 0 1 2893.DAT
+0 Train Contact Wheels
+1 16 51 52 -60 0 0 -1 1 0 0 0 -1 0 2895.DAT
+1 16 51 52 60 0 0 -1 1 0 0 0 -1 0 2895.DAT
+1 16 -51 52 60 0 0 1 1 0 0 0 1 0 2895.DAT
+1 16 -51 52 -60 0 0 1 1 0 0 0 1 0 2895.DAT
+0

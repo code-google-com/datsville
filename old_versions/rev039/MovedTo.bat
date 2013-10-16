@@ -1,0 +1,1 @@
+MovedTo.exe >> MovedTo.log

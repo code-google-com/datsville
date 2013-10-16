@@ -1,0 +1,15 @@
+0 Untitled
+0 Name: block_017.ldr
+0 Author: MLCad
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 2 -5760 0 0 1 0 0 0 1 0 0 0 1 b\3811.dat
+1 2 -5760 0 -640 1 0 0 0 1 0 0 0 1 b\3811.dat
+1 2 -5760 0 -1280 1 0 0 0 1 0 0 0 1 b\3811.dat
+1 2 -5760 0 -1920 1 0 0 0 1 0 0 0 1 b\3811.dat
+1 2 -5120 0 -1920 1 0 0 0 1 0 0 0 1 b\3811.dat
+1 16 -5120 0 -800 0 0 -1 0 1 0 1 0 0 building_031.mpd
+1 2 -5120 0 -1440 -1 0 0 0 1 0 0 0 -1 b\3857.dat
+1 7 -5440 0 -1880 1 0 0 0 1 0 0 0 1 building_046.mpd
+0

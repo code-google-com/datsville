@@ -1,0 +1,14 @@
+0 Sidewalk  2 Straight
+0 Author: John VanZwieten
+0 Name: Ljvsw02.ldr
+0 Was: Tsw2.dat _tsw02.ldr
+0 Unofficial Datsville Landscape Model
+0 Parent: Town00.ldr Town01.ldr Town0-1.ldr Town-10.ldr
+
+0// Used: 0-1 = 7
+0// Used: 00 = 3
+0// Used: 01 = 2
+0// Used: -10 = 4
+
+1 16  -20 8 20  1 0 0  0 1 0  0 0 1  Ljvsw02.ldr
+0

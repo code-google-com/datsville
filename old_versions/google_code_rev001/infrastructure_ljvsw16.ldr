@@ -1,0 +1,33 @@
+0 FILE infrastructure_ljvsw16.ldr
+0 Sidewalk 16 Straight
+0 Author: John VanZwieten
+0 Name: infrastructure_ljvsw16.ldr
+0 Was: Tsw16.dat _tsw16.ldr
+0 Unofficial Datsville Landscape Model
+0 Parent: Town-1-1 Town-10 Town0-1 Town0-2 Town00 Town01 Town1-1
+
+0 !LDBOXER LEVEL B
+0 1 14  0 -32 0  1 0 0  0 1 0  0 0 1  3005pta.dat
+
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 15 -20 -8 -300 1 0 0 0 1 0 0 0 1 b\3068b.dat
+1 15 -20 -8 -260 1 0 0 0 1 0 0 0 1 b\3068b.dat
+1 15 -20 -8 -220 1 0 0 0 1 0 0 0 1 b\3068b.dat
+1 15 -20 -8 -180 1 0 0 0 1 0 0 0 1 b\3068b.dat
+1 15 -20 -8 -140 1 0 0 0 1 0 0 0 1 b\3068b.dat
+1 15 -20 -8 -100 1 0 0 0 1 0 0 0 1 b\3068b.dat
+1 15 -20 -8 -60 1 0 0 0 1 0 0 0 1 b\3068b.dat
+1 15 -20 -8 -20 1 0 0 0 1 0 0 0 1 b\3068b.dat
+1 15 -20 -8 20 1 0 0 0 1 0 0 0 1 b\3068b.dat
+1 15 -20 -8 60 1 0 0 0 1 0 0 0 1 b\3068b.dat
+1 15 -20 -8 100 1 0 0 0 1 0 0 0 1 b\3068b.dat
+1 15 -20 -8 140 1 0 0 0 1 0 0 0 1 b\3068b.dat
+1 15 -20 -8 180 1 0 0 0 1 0 0 0 1 b\3068b.dat
+1 15 -20 -8 220 1 0 0 0 1 0 0 0 1 b\3068b.dat
+1 15 -20 -8 260 1 0 0 0 1 0 0 0 1 b\3068b.dat
+1 15 -20 -8 300 1 0 0 0 1 0 0 0 1 b\3068b.dat
+
+1 16 20 -8 160 0 0 1 0 1 0 -1 0 0 b\4282.dat
+1 16 20 -8 -160 0 0 1 0 1 0 -1 0 0 b\4282.dat
+0

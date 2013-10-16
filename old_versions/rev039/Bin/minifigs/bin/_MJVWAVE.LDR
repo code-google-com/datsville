@@ -1,0 +1,30 @@
+0 Minifig Waving
+0 Name: Mjvwave.ldr
+0 Was: tmmwave.dat
+0 Author: John VanZwieten
+0 Unofficial Datsville Minifig
+0 Datsville Rev. TE009
+0 Parent: Townpeep.ldr
+
+0 legs & hip
+1 6 0 0 0 1 0 0 0 1 0 0 0 1 3817.dat
+1 6 0 0 0 1 0 0 0 1 0 0 0 1 3816.dat
+1 6 0 -12 0 1 0 0 0 1 0 0 0 1 970.dat
+0 torso
+1 15 0 -44 0 1 0 0 0 1 0 0 0 1 973.dat
+0 head
+1 14 0 -68 0 1 0 0 0 1 0 0 0 1 3626bp01.dat
+0 hat
+0 1 4 0 -96 0 1 0 0 0 1 0 0 0 1 3624.dat
+0 airtank
+0 1 2 0 -74 0 1 0 0 0 1 0 0 0 1 3838.dat
+0 arms
+1 14 0 -36 0 1 0 0 0 1 0 0 0 1 975.dat
+1 14 0 -36 0 1 0 0 0 -0.342 0.94 0 -0.94 -0.342 976.dat
+
+
+0 hands
+1 14 -23 -16 -15.5 0 0 1 -0.71 0.71 0 0.71 0.71 0 977.dat
+1 14 23 -54.737 -17.005 0 0 1 0.823 0.576 0 0.576 -0.823 0 977.dat
+
+0

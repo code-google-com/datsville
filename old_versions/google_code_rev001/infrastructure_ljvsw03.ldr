@@ -1,0 +1,14 @@
+0 FILE infrastructure_ljvsw03.ldr
+0 Sidewalk  3 Straight
+0 Author: (John VanZwieten)
+0 Name: infrastructure_ljvsw03.ldr
+0 Unofficial Datsville Landscape Model
+0 Parent:
+
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 16 20 -8 0 0 0 1 0 1 0 -1 0 0 b\3795.dat
+1 15 -20 -8 40 1 0 0 0 1 0 0 0 1 b\3068b.dat
+1 15 -20 -8 0 1 0 0 0 1 0 0 0 1 b\3068b.dat
+1 15 -20 -8 -40 1 0 0 0 1 0 0 0 1 b\3068b.dat
+0

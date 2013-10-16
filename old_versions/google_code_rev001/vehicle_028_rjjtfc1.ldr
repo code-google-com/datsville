@@ -1,0 +1,31 @@
+0 FILE _rjjtfc1.ldr
+0 Train Wheels and Coupler (Complete Shortcut)
+0 Name: _rjjtfc1.ldr
+0 Was: Tra-whls.dat
+0 Author: James Jackson <jejackso@memphis.edu>
+0 http://www.people.memphis.edu/~Jejackso/ledit.html
+0 Unofficial Datsville Train Submodel
+0 Parent: Rjjtofc.ldr
+
+0 REM 1 0 0 0 -80 1 0 0 0 1 0 0 0 1 2878.DAT
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 0 0 0 -80 1 0 0 0 1 0 0 0 1 2878c01.dat
+0 REM 1 0 0 0 0 1 0 0 0 1 0 0 0 1 2878.DAT
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 2878c01.dat
+0 NOSTEP
+1 0 0 8 -50 0 0 1 0 1 0 -1 0 0 3795.dat
+1 0 0 8 20 -1 0 0 0 1 0 0 0 -1 3023.dat
+0 NOSTEP
+1 0 0 0 -10 0 0 1 0 1 0 -1 0 0 3020.dat
+1 0 0 0 -90 1 0 0 0 1 0 0 0 1 4022.dat
+0 NOSTEP
+1 0 0 16 -40 0 0 1 0 1 0 -1 0 0 3002.dat
+1 0 0 8 -40 1 0 0 0 1 0 0 0 1 3666.dat
+1 0 -40 0 -40 1 0 0 0 1 0 0 0 1 b\3069b.dat
+1 0 40 0 -40 1 0 0 0 1 0 0 0 1 b\3069b.dat
+0 NOSTEP
+1 0 0 -8 -30 0 0 1 0 1 0 -1 0 0 4092a.dat
+1 0 0 16 -120 1 0 0 0 1 0 0 0 1 2920.dat
+1 0 0 20 -152 1 0 0 0 1 0 0 0 1 73092.dat
+0

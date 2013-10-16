@@ -1,0 +1,18 @@
+0 FILE infrastructure_ljvsw02.ldr
+0 Sidewalk  2 Straight
+0 Author: John VanZwieten
+0 Name: infrastructure_ljvsw02.ldr
+0 Was: Tsw2.dat _tsw02.ldr
+0 Unofficial Datsville Landscape Model
+0 Parent: Town00.ldr Town01.ldr Town0-1.ldr Town-10.ldr
+
+
+0 1 14  0 -272 0  1 0 0  0 11 0  0 0 1  3005pta.dat
+0 1 14  0 -32 0  1 0 0  0 1 0  0 0 1  3005pta.dat
+
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 16 20 -8 0 0 0 1 0 1 0 -1 0 0 3020.dat
+1 15 -20 -8 20 1 0 0 0 1 0 0 0 1 3068b.dat
+1 15 -20 -8 -20 1 0 0 0 1 0 0 0 1 3068b.dat
+0

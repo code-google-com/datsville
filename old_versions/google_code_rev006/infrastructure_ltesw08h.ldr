@@ -1,0 +1,14 @@
+0 FILE infrastructure_ltesw08h.ldr
+0 Sidewalk  8 Straight with 6-wide Grass
+0 Author: Tore Eriksson
+0 Name: infrastructure_ltesw08h.ldr
+0 Unofficial Datsville Landscape Model
+0 Parent:
+
+0 !LDBOXER LEVEL B
+
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 infrastructure_ljvsw08.ldr
+1 16 -100 -8 0 0 0 1 0 1 0 -1 0 0 b\3027.dat
+0

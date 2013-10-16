@@ -1,0 +1,63 @@
+0 FILE vehicle_019.mpd.ldr
+0 Was: 0 FILE Mtepushr.ldr
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 14 0 0 0 1 0 0 0 1 0 0 0 1 Oteconn2.ldr
+1 1 -132 -4 6 0 0 -1 0 1 0 1 0 0 minifigg.ldr
+0 Was: 0 FILE minifigg.ldr
+0 // Left Leg
+1 1 0 -28 0 1 0 0 0 0.886 0.5 0 -0.5 0.886 3817.dat
+0 // Right Leg
+1 1 0 -28 0 1 0 0 0 0.986 -0.12 0 0.12 0.986 3816.dat
+1 1 0 -38.4 -6.3 1 0 0 0 0.886 -0.5 0 0.5 0.886 upperbody.ldr
+0 Was: 0 FILE upperbody.ldr
+0 // Hips
+1 1 0 0 0 1 0 0 0 1 0 0 0 1 3815.dat
+0 // Torso
+1 1 0 -32 0 1 0 0 0 1 0 0 0 1 973p26.dat
+0 // Head
+1 14 0 -56 0 0.707 0 -0.707 0 1 0 0.707 0 0.707 3626bp03.dat
+0 // hair
+1 4 0 -56 0 0.707 0 -0.707 0 1 0 0.707 0 0.707 3901.dat
+0 // Arms and Hands
+1 1 -15.552 -24 0 0.9859 -0.17 0 0.17 0.9859 0 0 0 1 arm-r.ldr
+1 1 0 -24 0 1 0 0 0 0.17 0.9859 0 -0.9859 0.17 arm-l.ldr
+
+0 
+0 Was: 0 FILE arm-l.ldr
+1 16 0 0 0 0.9859 -0.17 0 0.17 0.9859 0 0 0 1 d976c15.dat
+0 Was: 0 FILE arm-r.ldr
+1 16 0 0 0 1 0 0 0 -0.3 0.9 0 -0.9 -0.3 arm-r-w-hand.ldr
+0 Was: 0 FILE arm-r-w-hand.ldr
+0 // arm-r
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3818.dat
+1 15 -4.9 19.5 -10.5 1 0 0 0 0.707 -0.707 0 0.707 0.707 hand-r.ldr
+0 Was: 0 FILE hand-r.ldr
+0 // hand
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 hrwgear.ldr
+0 Was: 0 FILE hrwgear.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3820.dat
+0 Was: 0 FILE d976c15.dat
+1 16 15.552 0 0 0.9859 0.17 0 -0.17 0.9859 0 0 0 1 3819.dat
+1 15 23.6943 17.7843 -9.9 0.9859 0.1202 -0.1202 -0.17 0.6972 -0.6972 0 0.7071 0.7071 3820.dat
+0 Was: 0 FILE Oteconn2.ldr
+0 Oteconn1 on Wheels
+0 Name: vehicle_019.mpd.ldr
+0 Author: Tore Eriksson
+0 Unofficial Datsville Other Model
+0 Parent: Classified!
+0 Location: Classified!
+
+1 7 40 -24 0 0 0 -1 0 1 0 1 0 0 6157.dat
+1 7 -40 -24 0 0 0 -1 0 1 0 1 0 0 6157.dat
+1 4 40 -20 -40 1 0 0 0 1 0 0 0 1 4624.dat
+1 256 40 -20 -40 1 0 0 0 1 0 0 0 1 3641.dat
+1 4 -40 -20 -40 1 0 0 0 1 0 0 0 1 4624.dat
+1 256 -40 -20 -40 1 0 0 0 1 0 0 0 1 3641.dat
+1 4 40 -20 40 -1 0 0 0 1 0 0 0 -1 4624.dat
+1 256 40 -20 40 1 0 0 0 1 0 0 0 1 3641.dat
+1 4 -40 -20 40 -1 0 0 0 1 0 0 0 -1 4624.dat
+1 256 -40 -20 40 1 0 0 0 1 0 0 0 1 3641.dat
+1 16 20 -104 40 1 0 0 0 1 0 0 0 1 vehicle_019_oteconn1.ldr
+0 
+0

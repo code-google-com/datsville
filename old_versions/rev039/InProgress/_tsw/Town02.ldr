@@ -1,0 +1,36 @@
+0 Town 0 East 2 North...
+0 Name: Town02.ldr
+0 Author: John VanZwieten
+0 Unofficial Datsville Town Sub-Model
+0 Parent: Town.ldr
+
+0 !LDSWITCH DEFINE x606p01b Replace
+
+0 // Rev033: TE moved Datsville Police Building
+0 // from Town02 to Town0-2
+0 // 1 16 -8960 0 0 -1 0 0 0 1 0 0 0 -1 b__polis.ldr
+
+
+0 !LDSWITCH x606p01b
+0 !LDSWITCH CASE Replace
+ 1 0 -7680 0 640 0 0 1 0 1 0 -1 0 0 606p01.dat
+ 1 0 -8320 0 640 0 0 1 0 1 0 -1 0 0 606p01.dat
+ 1 0 -8960 0 640 0 0 1 0 1 0 -1 0 0 606p01.dat
+ 1 0 -9600 0 640 0 0 1 0 1 0 -1 0 0 606p01.dat
+ 1 0 -10240 0 640 0 0 1 0 1 0 -1 0 0 606p01.dat
+ 1 0 -10880 0 640 0 0 1 0 1 0 -1 0 0 606p01.dat
+ 1 0 -11520 0 640 0 0 1 0 1 0 -1 0 0 606p01.dat
+ 1 0 -12160 0 640 0 0 1 0 1 0 -1 0 0 606p01.dat
+ 1 0 -12800 0 640 0 0 1 0 1 0 -1 0 0 606p01.dat
+0 !LDSWITCH CASE Restore
+ 0 1 2 -7680 0 640 0 0 1 0 1 0 -1 0 0 x606p01b.dat
+ 0 1 2 -8320 0 640 0 0 1 0 1 0 -1 0 0 x606p01b.dat
+ 0 1 2 -8960 0 640 0 0 1 0 1 0 -1 0 0 x606p01b.dat
+ 0 1 2 -9600 0 640 0 0 1 0 1 0 -1 0 0 x606p01b.dat
+ 0 1 2 -10240 0 640 0 0 1 0 1 0 -1 0 0 x606p01b.dat
+ 0 1 2 -10880 0 640 0 0 1 0 1 0 -1 0 0 x606p01b.dat
+ 0 1 2 -11520 0 640 0 0 1 0 1 0 -1 0 0 x606p01b.dat
+ 0 1 2 -12160 0 640 0 0 1 0 1 0 -1 0 0 x606p01b.dat
+ 0 1 2 -12800 0 640 0 0 1 0 1 0 -1 0 0 x606p01b.dat
+0 !LDSWITCH END
+0
