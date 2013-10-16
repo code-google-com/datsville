@@ -1,0 +1,16 @@
+0 FILE infrastructure_sidewalklight.ldr
+0 Streetlight 4 Version 3
+0 Sidewalk 32 with corners
+0 Name: infrastructure_sidewalklight.ldr
+0 Was: Tlight1.dat
+0 Author:
+0 Unofficial Datsville Sub-Model
+0 Parent: _tsw07.ldr
+
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 0 0 24 100 1 0 0 0 1 0 0 0 1 4589.dat
+1 0 0 -56 100 1 0 0 0 -1 0 0 0 -1 3957.dat
+1 47 0 -64 100 1 0 0 0 -1 0 0 0 -1 3626b.dat
+1 0 0 -88 100 1 0 0 0 -1 0 0 0 -1 4073.dat
+0

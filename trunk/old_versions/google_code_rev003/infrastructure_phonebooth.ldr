@@ -1,0 +1,41 @@
+0 FILE infrastructure_phonebooth.ldr
+0 Minifig Payphone
+0 Name: infrastructure_phonebooth.ldr
+0 Was: Tphone.dat
+0 Author: Jonathan Wilson
+0 Unofficial Datsville Other Model
+0 Parent: Town-10.ldr
+
+0 !HISTORY 2009-11-29 TE Replaced slope bricks according to instructions
+0 !LDBOXER LEVEL 1
+
+0 These 2 should be 1 slope brick 45 2 x 2 with telephone and buttons pattern
+0 1 0 20 -80 10 0 0 -1 0 1 0 1 0 0 3040p33.dat
+0 1 0 20 -80 -10 0 0 -1 0 1 0 1 0 0 3040p33.dat
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 14 20 -80 0 0 0 -1 0 1 0 1 0 0 3039p11.dat
+0 REM Done! (TE)
+
+1 7 0 0 0 0 0 1 0 1 0 -1 0 0 b\3004.dat
+1 7 0 -24 0 0 0 1 0 1 0 -1 0 0 b\3004.dat
+1 7 0 -48 0 0 0 -1 0 1 0 1 0 0 b\3660.dat
+1 7 0 -56 0 0 0 1 0 1 0 -1 0 0 b\3710.dat
+1 7 30 -56 0 0 0 1 0 1 0 -1 0 0 b\3020.dat
+1 47 40 -128 -30 0 0 -1 0 1 0 1 0 0 2449.dat
+1 47 20 -80 -30 1 0 0 0 1 0 0 0 1 b\3005.dat
+1 47 20 -104 -30 1 0 0 0 1 0 0 0 1 b\3005.dat
+1 47 20 -128 -30 1 0 0 0 1 0 0 0 1 b\3005.dat
+1 47 20 -128 30 1 0 0 0 1 0 0 0 1 b\3005.dat
+1 47 20 -104 30 1 0 0 0 1 0 0 0 1 b\3005.dat
+1 47 20 -80 30 1 0 0 0 1 0 0 0 1 b\3005.dat
+1 7 0 -80 0 0 0 1 0 1 0 -1 0 0 b\3010.dat
+1 7 0 -104 0 0 0 1 0 1 0 -1 0 0 b\3010.dat
+1 7 0 -128 0 0 0 1 0 1 0 -1 0 0 b\3010.dat
+1 47 40 -128 30 0 0 -1 0 1 0 1 0 0 2449.dat
+1 25 20 -152 0 0 0 -1 0 1 0 1 0 0 b\4861.dat
+1 25 0 -152 -10 1 0 0 0 1 0 0 0 1 3040b.dat
+1 25 0 -152 10 -1 0 0 0 1 0 0 0 -1 3040b.dat
+0 
+0 Boxed 5 parts.
+0

@@ -1,0 +1,10 @@
+0 Untitled
+0 Name: snotroad_threewaystop.ldr
+0 Author: MLCad
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 15 -220 0 300 -1 0 0 0 1 0 0 0 -1 3570p01.dat
+1 15 -300 0 -220 0 0 1 0 1 0 -1 0 0 3570p01.dat
+1 15 220 0 -300 1 0 0 0 1 0 0 0 1 3570p01.dat
+0

@@ -1,0 +1,17 @@
+0 FILE infrastructure_rjvtks2.ldr
+0 Train Track Section - Two straight
+0 Name: infrastructure_rjvtks2.ldr
+0 Was: Ttrtrack.dat
+0 Author: John VanZwieten
+0 Unofficial Datsville Railway Sub-Model
+0 Parent: Town-20.ldr
+
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 16 -50 -16 -160 0 0 1 0 1 0 -1 0 0 3228a.dat
+1 16 50 -16 -160 0 0 1 0 1 0 -1 0 0 3228a.dat
+1 16 50 -16 -480 0 0 1 0 1 0 -1 0 0 3228a.dat
+1 16 -50 -16 -480 0 0 1 0 1 0 -1 0 0 3228a.dat
+1 8 0 0 -320 1 0 0 0 1 0 0 0 1 767.dat
+1 8 0 0 -640 1 0 0 0 1 0 0 0 1 767.dat
+0

@@ -1,0 +1,30 @@
+0 Datsville Town Hall
+0 Name: Bjvthall.ldr
+0 Was: Thall.dat
+0 Author: John VanZwieten
+0 Unofficial Datsville Building Model
+0 Parent: Town00.ldr
+0 Location: -3570 -200 640
+
+0 !HISTORY 2009-11-30 TE Fixed 30 LDU Offset
+0 !LDBOXER LEVEL A
+
+0 // INSTRUCTIONS on Camera.dat and look_at.dat information files
+0 // Uncomment, save, start L3P-AddOn, pick this file, 
+0 // (DON'T click "Run L3P"!),
+0 // click "Get Camera and Look At settings from Model File",
+0 // pick this file's Parent or Town.ldr, then click "Run L3P"
+
+0 // Bird's eye view of Town Hall (far from optimal)
+0 1 16  -3550 -352 816  1 0 0  0 1 0  0 0 1  look_at.dat
+0 1 16  -2893 -1490 1656  1 0 0  0 1 0  0 0 1  camera.dat
+
+0 REM Move to townpeep(?)
+ 1 16 0 144 -100 1 0 0 0 1 0 0 0 1 mlzmayor.ldr
+
+1 16  0 0 0  1 0 0  0 1 0  0 0 1  _bjvth1.ldr
+1 16  0 0 0  1 0 0  0 1 0  0 0 1  _bjvth2.ldr
+1 16  0 0 0  1 0 0  0 1 0  0 0 1  _bjvth3.ldr
+1 16  0 0 0  1 0 0  0 1 0  0 0 1  _bjvth4.ldr
+1 16  0 0 0  1 0 0  0 1 0  0 0 1  _bjvth5.ldr
+0

@@ -1,0 +1,173 @@
+0 Town Scene Main.
+0 Name: block_010.ldr
+0 Was: town_full.dat
+0 Author: John VanZwieten
+0 Unofficial Datsville Town Model
+0 NoParent
+
+0 /////////////////////////////////////////////////////////////////////////////
+0 !LDSWITCH DEFINE x606p01b Replace
+
+0 // Earth Scraper - Moved to Town10.ldr (TE, Rev033)
+0 1 2 -2330 -64 4200 -1 0 0 0 1 0 0 0 -1 vdhscrp.ldr
+
+
+0 REM 3 x 9 Baseplates; 9 pcs
+
+0 !LDSWITCH x606p01b
+0 !LDSWITCH CASE Replace
+0 !LDSWITCH CASE Restore
+0 1 2 -2560 0 7700 1 0 0 0 1 0 0 0 1 x606p01b.dat
+0 1 2 -2560 0 8340 1 0 0 0 1 0 0 0 1 x606p01b.dat
+0 1 2 -2560 0 8980 1 0 0 0 1 0 0 0 1 x606p01b.dat
+0 1 2 -2560 0 9620 1 0 0 0 1 0 0 0 1 x606p01b.dat
+0 1 2 -2560 0 10260 1 0 0 0 1 0 0 0 1 x606p01b.dat
+0 !LDSWITCH END
+
+0 REM end of 3 x 9 Baseplates; 9 pcs
+
+0 /////////////////////////////////////////////////////////////////////////////
+0 !LDSWITCH DEFINE TOWNPEEP Inline
+
+0 !LDSWITCH TOWNPEEP
+0 !LDSWITCH CASE Inline
+0 Town10
+0 // men watching bridge contruction site
+0 // Earth Scraper - Moved from Town20.ldr (TE, Rev033)
+
+0 
+0 !LDSWITCH CASE Use
+0 0
+0 !LDSWITCH End
+
+0 REM end of 3 x 4 Baseplates
+
+
+0 REM end of 3 x 4 Baseplates
+
+0 // Added sidewalks (TE, Rev034)
+0 To Town00...
+
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 2 -2080 -8 4320 -1 0 0 0 1 0 0 0 -1 91405.dat
+1 2 -1760 -8 4320 -1 0 0 0 1 0 0 0 -1 91405.dat
+1 2 -1760 -8 4640 -1 0 0 0 1 0 0 0 -1 91405.dat
+1 2 -1760 -8 4960 -1 0 0 0 1 0 0 0 -1 91405.dat
+1 2 -1440 -8 4960 -1 0 0 0 1 0 0 0 -1 91405.dat
+1 2 -1120 -8 4960 -1 0 0 0 1 0 0 0 -1 91405.dat
+1 2 -800 -8 4960 -1 0 0 0 1 0 0 0 -1 91405.dat
+1 2 -800 -8 4640 -1 0 0 0 1 0 0 0 -1 91405.dat
+1 2 -800 -8 4320 -1 0 0 0 1 0 0 0 -1 91405.dat
+1 2 -1120 -8 4640 -1 0 0 0 1 0 0 0 -1 91405.dat
+1 2 -1440 -8 4640 -1 0 0 0 1 0 0 0 -1 91405.dat
+1 2 -2080 -8 4640 -1 0 0 0 1 0 0 0 -1 91405.dat
+1 2 -2080 -8 4960 -1 0 0 0 1 0 0 0 -1 91405.dat
+1 2 -2080 -8 5280 -1 0 0 0 1 0 0 0 -1 91405.dat
+1 2 -1760 -8 5280 -1 0 0 0 1 0 0 0 -1 91405.dat
+1 2 -1440 -8 5280 -1 0 0 0 1 0 0 0 -1 91405.dat
+1 2 -1120 -8 5280 -1 0 0 0 1 0 0 0 -1 91405.dat
+1 2 -800 -8 5280 -1 0 0 0 1 0 0 0 -1 91405.dat
+1 2 -480 -8 4960 -1 0 0 0 1 0 0 0 -1 91405.dat
+1 2 -480 -8 4640 -1 0 0 0 1 0 0 0 -1 91405.dat
+1 2 -480 -8 4320 -1 0 0 0 1 0 0 0 -1 91405.dat
+1 2 -480 -8 5280 -1 0 0 0 1 0 0 0 -1 91405.dat
+0 // To Town11...
+
+0 // To Town11...
+0 To Town00...
+
+0 /////////////////////////////////////////////////////////////////////////////
+
+0 REM Added Belvedere (TE, Rev029)
+0 REM end Added Belvedere
+
+0 REM Added more grass around jphills (TE, Rev029)
+0 REM end Added more grass
+
+0 REM Moved jphills and jphouse 10LDU (TE, Rev029)
+0 Inlined:  1 2 1230 -8 5500 -1 0 0 0 1 0 0 0 -1 ljphill1.ldr
+0 Inlined:  1 2 1870 -8 5500 -1 0 0 0 1 0 0 0 -1 ljphill1.ldr
+0 Inlined:  1 2 1730 -8 3860 1 0 0 0 1 0 0 0 1 ljphill1.ldr
+0 Inlined:  1 2 490 -8 4170 1 0 0 0 1 0 0 0 1 ljphill2.ldr
+0 Inlined:  1 2 330 -8 5030 0 0 1 0 1 0 -1 0 0 ljphill2.ldr
+0 Inlined:  1 2 2470 -8 5190 -1 0 0 0 1 0 0 0 -1 ljphill2.ldr
+0 Inlined:  1 2 2630 -8 4330 0 0 -1 0 1 0 1 0 0 ljphill2.ldr
+0 Inlining done.
+
+
+
+
+0 Inlined: 1 2 -160 -8 3480 1 0 0 0 1 0 0 0 1 _tsw04.ldr
+0 Inlined: 1 2 -160 -8 4000 1 0 0 0 1 0 0 0 1 _tsw06.ldr
+0 Inlined: 1 2 160 -8 4000 0 0 1 0 1 0 -1 0 0 _tsw06.ldr
+0 Inlined: 1 2 -160 -8 2800 0 0 -1 0 1 0 1 0 0 _tsw06.ldr
+0 Inlined: 1 2 -160 -8 3680 0 0 -1 0 1 0 1 0 0 _tsw06.ldr
+0 Inlined: 1 2 160 -8 2800 -1 0 0 0 1 0 0 0 -1 _tsw06.ldr
+0 Inlined: 1 2 -160 -8 2440 1 0 0 0 1 0 0 0 1 _tsw08.ldr
+0 Inlined: 1 2 -160 -8 4080 1 0 0 0 1 0 0 0 1 _tsw16.ldr
+0 Inlined: 1 2 160 -8 4680 -1 0 0 0 1 0 0 0 -1 _tsw16.ldr
+0 Inlined: 1 2 240 -8 4000 0 0 1 0 1 0 -1 0 0 _tsw16.ldr
+0 Inlined: 1 2 880 -8 4000 0 0 1 0 1 0 -1 0 0 _tsw16.ldr
+0 Inlined: 1 2 -160 -8 2840 1 0 0 0 1 0 0 0 1 _tsw16.ldr
+0 Inlining done.
+0 // Rev034: TE added even more sidewalks
+
+0 REM 6 x 4 Baseplates; 20 pcs
+0 1 10 -1280 0 4480 0 0 1 0 1 0 -1 0 0 606p01.dat
+
+0 REM Moved jphills and jphouse 10LDU (TE, Rev029)
+1 0 -1280 -8 4500 0 0 -1 0 1 0 1 0 0 building_022_houseonahill.mpd
+0 Inlined:  1 2 1230 -8 5500 -1 0 0 0 1 0 0 0 -1 ljphill1.ldr
+1 2 -1280 -8 5120 -1 0 0 0 1 0 0 0 -1 infrastructure_ljphill1.ldr
+0 Inlined:  1 2 1870 -8 5500 -1 0 0 0 1 0 0 0 -1 ljphill1.ldr
+0 Inlined:  1 2 1730 -8 3860 1 0 0 0 1 0 0 0 1 ljphill1.ldr
+0 Inlined:  1 2 490 -8 4170 1 0 0 0 1 0 0 0 1 ljphill2.ldr
+1 2 -1920 -8 4480 1 0 0 0 1 0 0 0 1 infrastructure_ljphill2.ldr
+1 13 -640 0 5120 1 0 0 0 1 0 0 0 1 b\3811.dat
+1 13 -1280 0 5120 1 0 0 0 1 0 0 0 1 b\3811.dat
+1 13 -1920 0 5120 1 0 0 0 1 0 0 0 1 b\3811.dat
+1 13 -1920 0 4480 1 0 0 0 1 0 0 0 1 b\3811.dat
+1 13 -640 0 4480 1 0 0 0 1 0 0 0 1 b\3811.dat
+1 13 -1280 0 4480 1 0 0 0 1 0 0 0 1 b\3811.dat
+0 Inlined:  1 2 330 -8 5030 0 0 1 0 1 0 -1 0 0 ljphill2.ldr
+1 2 -1920 -8 5120 0 0 1 0 1 0 -1 0 0 infrastructure_ljphill2.ldr
+0 Inlined:  1 2 2470 -8 5190 -1 0 0 0 1 0 0 0 -1 ljphill2.ldr
+1 2 -640 -8 5120 -1 0 0 0 1 0 0 0 -1 infrastructure_ljphill2.ldr
+0 Inlined:  1 2 2630 -8 4330 0 0 -1 0 1 0 1 0 0 ljphill2.ldr
+1 2 -640 -8 4480 0 0 -1 0 1 0 1 0 0 infrastructure_ljphill2.ldr
+1 2 -340 8 4780 0 0 -1 0 1 0 1 0 0 building_058_bundenogkanden.mpd
+0 Inlining done.
+
+0 /////////////////////////////////////////////////////////////////////////////
+
+0 REM Added Belvedere (TE, Rev029)
+1 7 -740 -176 4920 1 0 0 0 1 0 0 0 1 building_040_lookouttower.ldr
+0 REM end Added Belvedere
+
+
+0 // Rev034: TE added 3 more baseplates
+0 REM end of 5 x 4 Baseplates
+
+
+0 1 12 -280 -8 3380 0 0 1 0 1 0 -1 0 0 b\3026.dat
+1 7 -1440 -8 4400 1 0 0 0 1 0 0 0 1 b\48288.dat
+1 7 -1440 -8 4240 1 0 0 0 1 0 0 0 1 b\48288.dat
+1 7 -1120 -8 4400 1 0 0 0 1 0 0 0 1 b\48288.dat
+1 7 -1120 -8 4240 1 0 0 0 1 0 0 0 1 b\48288.dat
+1 2 -420 -8 5080 -1 0 0 0 1 0 0 0 -1 b\3036.dat
+1 2 -420 -8 4520 -1 0 0 0 1 0 0 0 -1 b\3034.dat
+0

@@ -1,0 +1,15 @@
+0 Flower with Stem
+0 Name: Pteflow3.ldr
+0 Was: Flower3.dat
+0 Tore Eriksson
+0 Unofficial Datsville Plant Model
+0 Parent: Bcwhous1.ldr
+0 Datsville Rev. TE008
+
+0 Unofficial Shortcut File
+
+1 2 0 0 0 1 0 0 0 1 0 0 0 1 3741.dat
+1 16 -19.04 -24 -11 -0.5 0.435 -0.865 0 1 0.5 0.865 0.25 -0.5 3742.dat
+1 16 20.78 -28 -12 -0.5 -0.435 0.865 0 1 0.5 -0.865 0.25 -0.5 3742.dat
+1 16 0 -20 20 1 0 0 0 1 0.5 0 -0.5 1 3742.dat
+0

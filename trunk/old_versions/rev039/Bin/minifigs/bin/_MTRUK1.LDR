@@ -1,0 +1,26 @@
+0 Truck Driver
+0 Name: Mtruk1.ldr
+0 Was: Trdriver.dat
+0 Author:
+0 Unofficial Datsville Minifig Model
+0 Parent: V__truk1.ldr
+
+0 Official LCad update 99-03
+0 legs & hip
+1 1 0 -9 0 1 0 0 0 0 1 0 -1 0 3817.dat
+1 1 0 -9 0 1 0 0 0 0 1 0 -1 0 3816.dat
+1 1 0 -21 0 1 0 0 0 1 0 0 0 1 970.dat
+0 torso
+1 1 0 -53 0 1 0 0 0 1 0 0 0 1 973p11.dat
+0 head
+1 14 0 -77 0 1 0 0 0 1 0 0 0 1 3626bp01.dat
+0 hat
+1 0 0 -74 0 1 0 0 0 1 0 0 0 1 3624.dat
+0 airtank
+0 arms
+1 15 0 -45 0 1 0 0 0 1 0 0 0 1 975.dat
+1 15 0 -45 0 1 0 0 0 1 0 0 0 1 976.dat
+0 hands
+1 14 -22 -25 -15.5 0 0 1 -0.71 0.71 0 0.71 0.71 0 977.dat
+1 14 22 -25 -15.5 0 0 1 -0.71 0.71 0 0.71 0.71 0 977.dat
+0

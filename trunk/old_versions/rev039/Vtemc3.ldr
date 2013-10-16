@@ -1,0 +1,58 @@
+0 Motorcycle 2 Wheel (y=-18)
+0 Name: Vtemc3.ldr
+0 Author: Tore Eriksson
+0 Unofficial Datsville Vehicle Model
+0 Parent: 
+0 Author: Alex Taylor [anathema] (x900c04.dat)
+0 Author: Kevin M Bane (x900c02.dat)
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 // Front wheel (y=0, z=-90)
+1 7 0 0 -90 1 0 0 0 1 0 0 0 1 3464.dat
+1 256 0 0 -90 0 0 1 0 1 0 -1 0 0 3641.dat
+
+0 // Back Wheel (0,0,0)
+1 7 0 0 0 1 0 0 0 1 0 0 0 1 3464.dat
+1 256 0 0 0 0 0 1 0 1 0 -1 0 0 3641.dat
+
+1 1 0 0 -90 1 0 0 0 .383 -.924 0 .924 .383 dx901.dat
+1 1 0 -30 0 1 0 0 0 1 0 0 0 1 dx900.dat
+
+1 15 0 -38 0  0 0 1  0 1 0 -1 0 0  3069b.dat
+1 1  18 -20 0  0 -1 0  0 0 -1  1 0 0  3069bps8.dat
+1 1  -18 -20 0  0 1 0  0 0 -1  -1 0 0  3069bps8.dat
+1 47  0 -44 -92  1 0 0  0 0 -1  0 1 0  4073.dat
+1 36  0 -20 28  1 0 0  0 0 1  0 -1 0  3070a.dat
+
+0 2 4  -100 0 0  100 0 0 
+0
+
+0 ~Bike  2 Wheel Motorcycle Minifig Rider (Shortcut)
+0 Name: x900c02.dat
+0 Author: Kevin M Bane
+0 UNOFFICIAL Shortcut Update 2001-01
+
+0 HISTORY 2006-08-05 [WilliamH] Replaced obsolete parts (arms and hands)
+
+0 // Legs
+1 7 0 -28 -31 1 0 0 0 .927 .375 0 -.375 .927 3817.dat
+1 7 0 -28 -31 1 0 0 0 .927 .375 0 -.375 .927 3816.dat
+0 // Hips
+1 7 0 -39.78 -33.29 1 0 0 0 .982 -.191 0 .191 .982 3815.dat
+0 // Torso
+1 7 0 -71.192 -39.396 1 0 0 0 .982 -.191 0 .191 .982 973.dat
+0
+0 // Head
+ 0 1 14 0 -94.751 -43.975 1 0 0 0 .982 -.191 0 .191 .982 3626bp01.dat
+ 1 7  0 -95.751 -43.975 1 0 0 0 .982 -.191 0 .191 .982 _vtemc1.ldr
+0 // Helmet w/ Visor
+ 0 1 1 0 -97.696 -42.5 1 0 0 0 .982 -.191 0 .191 .982 2446.dat
+ 0 1 46 0 -97.696 -42.5 1 0 0 0 .982 -.191 0 .191 .982 2447.dat
+0 // Arms
+1 7 -15.552 -62.328 -37.833 0.986 -0.170 0 0.147 0.853 0.5 -0.085 -0.493 0.866 3818.DAT
+1 7 15.552 -62.328 -37.833 0.986 0.170 0 -0.147 0.853 0.5 0.08495 -0.49275 0.866 3819.DAT
+0 // Hans/Gloves
+1 15 -23.552 -52.605 -54.994 0.077 -0.995 -0.058 0.961 0.089 -0.260 0.263 -0.036 0.964 3820.DAT
+1 15 23.552 -52.605 -54.994 0.077 0.995 0.054 -0.961 0.089 -0.273 -0.263 -0.036 0.960 3820.DAT
+0

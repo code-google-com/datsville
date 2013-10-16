@@ -1,0 +1,42 @@
+0 Town Scene Main.
+0 Name: Town.ldr
+0 Was: town_full.dat
+0 Author: John VanZwieten
+0 Unofficial Datsville Town Model
+0 NoParent
+
+0 !LDSWITCH DEFINE TOWNPEEP Inline
+
+0 // Camera view from Belvedere
+ 0 1 16  2450 -896 5010  1 0 0  0 1 0  0 0 1  camera.dat
+ 0 1 16  0 -96 0  1 0 0  0 1 0  0 0 1  look_at.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 town20.ldr
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 town11.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 town10.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 town1-1.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 town1-2.ldr
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 town02.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 town01.ldr
+0 // Central Square
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 town00.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 town0-1.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 town0-2.ldr
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 town-10.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 town-11.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 town-1-1.ldr
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 town-21.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 town-20.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 town-2-1.ldr
+
+0 !LDSWITCH TOWNPEEP
+0 !LDSWITCH CASE Inline
+ 0
+0 !LDSWITCH CASE Use
+ 0 1 16 0 0 0 1 0 0 0 1 0 0 0 1 townpeep.ldr
+0 !LDSWITCH End
+0

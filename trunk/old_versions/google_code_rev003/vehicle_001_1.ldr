@@ -1,0 +1,11 @@
+0 FILE _vfgdoz0.ldr
+0 What is this?
+0 Name: _vfgdoz0.ldr
+0 Was: 0.dat
+0 Unofficial Datsville Vehicle Sub-Model
+0 Parent: vfgdozr1.dat
+
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 b\3001.dat
+0

@@ -1,0 +1,16 @@
+0 Petrol Station Scene with Baseplates
+0 Name: Bjwgas.ldr
+0 Was: Stscene.dat
+0 Author: Jonathan Wilson
+0 Unofficial Datsville Building Model
+0 Parent: Town-10.ldr
+0 Location: -3100 -8 -3100
+
+0 !LDBOXER LEVEL 0
+
+ 1 0 0 0 0 1 0 0 0 1 0 0 0 1 _bjwgas1.ldr
+ 1 0 -60 -24 -50 1 0 0 0 1 0 0 0 1 Vjwute2.ldr
+ 1 0 0 0 -20 1 0 0 0 1 0 0 0 1 Mjwufig.ldr
+ 1 0 140 -40 -70 1 0 0 0 1 0 0 0 1 Vjwtankr.ldr
+ 1 0 -300 -8 180 1 0 0 0 1 0 0 0 1 Mjwmfig.ldr
+0

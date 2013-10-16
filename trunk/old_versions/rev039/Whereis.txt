@@ -1,0 +1,46 @@
+PARENT   FILE          X    Y      Z  DESCRIPTION
+TOWN20   bbsbait   -3140  -56   5320  Bait
+TOWN11   bjwcrick  -5520  -16   4060  Datsville Cricket Ground
+TOWN1-1  badhous2   -660    0   4480  House with Porch (v2) and Yard
+TOWN1-1  bjphous1   1170   -8   4350  House on a hill
+TOWN1-1  bklsafe    -520  -24   2720  Safe House
+TOWN1-1  bbgwtowr  -1390 -352   2490  Water Tower
+TOWN1-1  ommbelvd   2250 -176   4910  Datsville Belvedere
+TOWN1-2  bmhmine    3200    0   3200  Mining Facility
+TOWN01   baiuniv   -6160   -8   3030  Summer House (Datsville College)
+TOWN00   bjvthall  -3570 -200    640  Datsville Town Hall
+TOWN00   bmhcarri  -3680 -192   -640  Carriage House (Former Hospital)
+TOWN00   bmppost   -3160    0   1720  Datsville Post Office
+TOWN00   bjjbank   -3900   -8   1560  National Bank (Version 1.0)
+TOWN00   bjaparis  -1710   -8   1670  Parisian Shop
+TOWN00   btbmovie  -2400    0   -980  Datsville Movie Theather
+TOWN00   bcwglass  -2180    0   1670  Glass Store
+TOWN00   otbjjm    -2560  -24    640  Datsville J Jessiman Monument
+TOWN0-1  badhous1   -420    0    420  Jeff Stemble's House with Porch
+TOWN0-1  baihous1    540    0   -800  Anders Isaksson, My Real Home
+TOWN0-1  bcwhous1  -1080    0   -540  House - Sidewalk Blocks no garage
+TOWN0-1  bjgchur   -1520   -8    440  Chapel at Eastwicke - 6090 Royal Knight'
+TOWN0-1  bjshous1   -420    0    420  Jeff Stemble's House with Porch
+TOWN0-1  btehous1   -480    0   -480  Tore's Parents' House
+TOWN0-1  bblhous1    540    0   1940  Bram's Home
+TOWN0-1  bblcott    -740    0    200  Bram L's Cottage
+TOWN0-1  bbshous1   -560  -24    820  Casa Verde
+TOWN0-1  bbshous2   1140  -32   -450  Mission-Style House
+TOWN0-1  bbstrplx   -540  -56   1670  Triplex
+TOWN0-1  bjvhous1   1420   -8   1880  My House
+TOWN0-1  bmmmemo   -1260   -8    840  Datsville Memorial
+TOWN0-1  brdfire1    640    0    640  Legofield Fire Company Station 2
+TOWN0-2  b__polis   2560    0    640  Datsville Police Building
+TOWN0-2  bjgham     3200    0    640  L3GO Amateur Radio Club (and MoonBounce Antenna)
+TOWN-11  bbsapt    -4160  -32  -3360  Apartment House Single
+TOWN-10  bbsgroc   -3110  -32  -1760  Brickman's Grocery
+TOWN-10  bjwphone  -4000   -8  -2180  Datsville Phone Company Exchange
+TOWN-10  bjwpolis  -1720   -8  -2380  Datsville Police HQ (complete assembly s
+TOWN-10  bjwgas    -3100   -8  -3100  Petrol Station Scene with Baseplates
+TOWN-1-1 badshopc  -1280   -8  -3200  Shopping Center
+TOWN-1-1 brvhosp     390  -16  -3280  Datsville Hospital
+TOWN-1-1 btbhous1   -600  -24  -1320  Datsville house. Thomas Burgeres house
+TOWN-1-1 brfhous1    360  -16  -1320  House with Green Roof
+TOWN-20  btttstat  -1920    0  -4080  Datsville Train Station
+TOWN-2-1 bfgmoske   1280  -40  -3860  Mosque, minifig scale
+

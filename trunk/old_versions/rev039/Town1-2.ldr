@@ -1,0 +1,21 @@
+0 Town Section 1 East 2 North...
+0 Name: Town1-2.ldr
+0 Author: Tore Eriksson
+0 Unofficial Datsville Town Sub-Model
+0 Parent: Town.ldr
+0 // #declare L3Location = <1000.34+500,-290.03,1870.33+400>;
+
+ 1 14 3420 0 3200  1 0 0  0 1 0  0 0 1  Vjwrockb.ldr
+
+ 1 7  3200 0 3200  -1 0 0  0 1 0  0 0 -1  Bmhmine.ldr
+ 1 8  3640 0 3100  1 0 0  0 1 0  0 0 1  Ojjpile.ldr
+
+ 1 7  3840 0 3840  1 0 0  0 1 0  0 0 1  3811.dat
+ 1 7  3840 0 3200  -1 0 0  0 1 0  0 0 -1  30473.dat
+ 1 7  3840 0 2560  1 0 0  0 1 0  0 0 1  3811.dat
+
+ 1 7  3200 0 3840  1 0 0  0 1 0  0 0 1  30473.dat
+
+ 1 7  2560 0 3840  1 0 0  0 1 0  0 0 1  3811.dat
+0 // 1 15  1190 24 3680  0 0 -1  0 1 0  1 0 0  Pending\S0052.ldr
+0

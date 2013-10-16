@@ -1,0 +1,32 @@
+0 Minifig Mail Man
+0 Name: Mjvmail.ldr
+0 Was: Tmmailm.dat
+0 Author: John VanZwieten
+0 Unofficial Datsville Minifig Model
+0 Parent: Town00.ldr
+
+0 Inlined:1 16 0 0 0 1 0 0 0 1 0 0 0 1 979.dat
+0 Minifig (Complete Figure Shortcut)
+0 Author: Leonardo Zide
+0 Official LCad update 99-03
+
+0 legs & hip
+1 1 0 -28 0 1 0 0 0 1 0 0 0 1 3817.dat
+1 1 0 -28 0 1 0 0 0 1 0 0 0 1 3816.dat
+1 1 0 -40 0 1 0 0 0 1 0 0 0 1 970.dat
+0 torso
+1 1 0 -72 0 1 0 0 0 1 0 0 0 1 973p11.dat
+0 head
+1 14 0 -96 0 1 0 0 0 1 0 0 0 1 3626bp05.dat
+0 hat
+1 1 0 -96 0 1 0 0 0 1 0 0 0 1 3624.dat
+0 1 6 0 -100 0 0.7 0 0 0 1 0 0 0 0.7 4740.dat
+0 airtank
+0 1 2 0 -74 0 1 0 0 0 1 0 0 0 1 3838.dat
+0 arms
+1 1 0 -64 0 1 0 0 0 1 0 0 0 1 975.dat
+1 1 0 -64 0 1 0 0 0 1 0 0 0 1 976.dat
+0 hands
+1 14 -23 -44 -15.5 0 0 1 -0.71 0.71 0 0.71 0.71 0 977.dat
+1 14 23 -44 -15.5 0 0 1 -0.71 0.71 0 0.71 0.71 0 977.dat
+0
