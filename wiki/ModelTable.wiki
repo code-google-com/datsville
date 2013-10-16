@@ -1,4 +1,4 @@
-#summary Table of models.
+#summary Table of models. (Outdated)
 
 = Introduction =
 
@@ -6,6 +6,7 @@ Here's a table of models in Datsville. Models marked with "TLC" were designed by
 
 Sub-models need to be removed from the table or marked as such. At some point I will add a seventh column listing the models' coordinates within the scene, and two others for the creation and last update dates.
 
+This table is heavily outdated.
 
 = Alphabetical by Original Filename =
 
