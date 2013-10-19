@@ -46,3 +46,7 @@ FOR STEPPED TERRAIN:
 	stl2dat meshlab_output_stepped.stl -ldr -raw
 22. Open the LDR model in MLCAD. The model may be upside-down, so rotate 180 degrees around the x-axis if needed.
 23. You're basically done. You can do any post-processing you want in LETGUI, such as adding conditional lines using Edger2 or converting triangles to rectangles using rectifier.
+
+TO DO:
+
+1. I still need to figure out how to split the heightfield mesh into 8x8 sections.
