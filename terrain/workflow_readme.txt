@@ -50,3 +50,4 @@ FOR STEPPED TERRAIN:
 TO DO:
 
 1. I still need to figure out how to split the heightfield mesh into 8x8 sections.
+2. In my case I had to also raise the terrain by 1024 units in order to get the water level at the right level.

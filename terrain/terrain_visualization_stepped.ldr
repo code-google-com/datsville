@@ -10,5 +10,5 @@
 1 16 -10240 0 -10240 1 0 0 0 1 0 0 0 1 gridb32x.dat
 1 16 10240 0 -10240 1 0 0 0 1 0 0 0 1 gridb32x.dat
 1 1 0 0 0 1 0 0 0 1 0 0 0 1 water.ldr
-1 2 0 -1024 0 1 0 0 0 1 0 0 0 1 meshlab_output_stepped.ldr
+1 2 0 0 0 1 0 0 0 1 0 0 0 1 meshlab_output_stepped.ldr
 0
