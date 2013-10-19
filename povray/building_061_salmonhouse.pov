@@ -16,11 +16,7 @@
 // ldconfig.ldr: D:\LDraw\ldconfig.ldr
 // Commandline:  "C:\Programs Windows\l3p14beta\l3p.exe" W:\LDraw\datsville\google_code\building_061_salmonhouse.mpd -o -cg15,45,0
 
-#if (version < 3.1)
-	#error "This POV code requires at least version 3.1\n"
-#end
-
-#include "ldr_wrapper_showcase_1.4.inc"
+#include "ldr_wrapper_1.4.inc"
 
 //// Primitive stud4a.dat
 #ifndef (stud4a_dot_dat)
