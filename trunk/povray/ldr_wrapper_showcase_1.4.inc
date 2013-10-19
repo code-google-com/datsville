@@ -1,5 +1,9 @@
 //+kfi0 +kff3 +ki0 +kf1 +kc
 
+#if (version < 3.7)
+	#error "This POV code requires at least version 3.7\n"
+#end
+
 #declare NoRadiosity		= 1;	// not used currently
 
 #declare L3Quality		= 3;	// Quality level, 0=BBox, 1=no refr, 2=normal, 3=studlogo, 4=stud2logo
@@ -39,7 +43,7 @@ background {color rgb 0.8}
 
 global_settings
 {
-	assumed_gamma	1.8
+	assumed_gamma	1.0
 	adc_bailout	0.005
 	max_trace_level	50
 	ambient_light	0
