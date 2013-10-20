@@ -2,6 +2,9 @@
 0 Name: block_021.ldr
 0 Author: MLCad
 0 Unofficial Model
+0 !COLOUR red-brown CODE 70 VALUE #694027 EDGE 0 ALPHA 255
+0 !COLOUR medium-stone CODE 71 VALUE #A3A2A4 EDGE 0 ALPHA 255
+0 !COLOUR dark-stone CODE 72 VALUE #635F61 EDGE 15 ALPHA 255
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 -1280 0 8960 0 0 1 0 1 0 -1 0 0 building_045_yellowcastle.mpd
@@ -22,7 +25,7 @@
 1 2 -1900 0 8160 1 0 0 0 1 0 0 0 1 infrastructure_bigtree04.ldr
 1 2 -1060 0 9550 0 0 1 0 1 0 -1 0 0 infrastructure_bigtree01.ldr
 1 2 -560 0 9740 0 0 1 0 1 0 -1 0 0 infrastructure_bigtree04.ldr
-1 2 740 0 8160 1 0 0 0 1 0 0 0 1 infrastructure_bigtree03.ldr
+1 2 60 0 7650 1 0 0 0 1 0 0 0 1 infrastructure_bigtree03.ldr
 1 2 610 0 7680 0 0 1 0 1 0 -1 0 0 infrastructure_bigtree01.ldr
 1 2 1360 0 8150 0 0 1 0 1 0 -1 0 0 infrastructure_bigtree01.ldr
 1 2 1100 0 9070 0 0 1 0 1 0 -1 0 0 infrastructure_bigtree01.ldr
@@ -44,6 +47,7 @@
 1 2 0 0 8320 0 0 1 0 1 0 -1 0 0 infrastructure_bikepathstraight.ldr
 1 2 640 0 8320 0 0 1 0 1 0 -1 0 0 3811.dat
 1 2 640 0 8320 0 0 1 0 1 0 -1 0 0 infrastructure_bikepathstraight.ldr
+1 2 590 0 8290 0 0 1 0 1 0 -1 0 0 building_070_bikerack.mpd
 1 2 640 0 7680 0 0 1 0 1 0 -1 0 0 3811.dat
 1 2 640 0 8960 0 0 1 0 1 0 -1 0 0 3811.dat
 1 2 0 0 8960 0 0 1 0 1 0 -1 0 0 3811.dat
