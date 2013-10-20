@@ -26,7 +26,6 @@ This table is current as of revision 148.
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/block_015.png] || block_015.ldr ||  ||  ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/block_016.png] || block_016.ldr ||  ||  ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/block_017.png] || block_017.ldr ||  ||  ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/block_017_alt.png] || block_017_alt.ldr ||  ||  ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/block_018.png] || block_018.ldr ||  ||  ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/block_019.png] || block_019.ldr ||  ||  ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/block_020.png] || block_020.ldr ||  ||  ||  ||
