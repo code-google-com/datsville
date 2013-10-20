@@ -1,6 +1,6 @@
 #summary Maps of Datsville locations.
 
-[Ed. I won't be able to render more maps until I upgrade my computer. I don't have enough RAM currently. -Mike]
+See ModelsTable for a list of models and their indexes.
 
 Rev 148
 [http://datsville.googlecode.com/svn/wiki/Maps.attach/datsville_rev148_map.png]
