@@ -1,12 +1,18 @@
 #summary List of things to do.
 
-= To-do list =
+= Project =
 
   # Get permission from the original authors for the various models. (CC-BY-SA is preferred.)
   # Determine if any additional model/sub-model organizational steps are needed.
   # Create a collection of helper scripts to make it easy to generate renderings, animations, panoramas and so forth using POV-Ray and/or other software packages.
   # Streamline the model submission process so that new content can be added quickly and easily.
   # Create one or more virtual Web tours.
+
+= Models =
+
   # Strip all vehicles and pedestrians from the building models and add them to the traffic layer.
-  # Add driveways that slope smoothly into the roads.
-  # Traffic layer needs to be double-checked to make sure cars are sitting correctly on trhe ground instead of floating above it or sitting in the grass, etc.
+  # Add driveways that slope smoothly into the roads. (See Mike Gallagher's examples.)
+  # Add wheelchair ramps to SNOT road sidewalks. (See Mike Gallagher's examples.)
+  # Traffic layer needs to be gone over again to make sure cars are sitting correctly on the ground instead of floating above it or sitting in the grass, etc.
+  # Figure out the best way to implement sloped roads.
+  # Add the construction vehicles I created for the Mining Facility.
