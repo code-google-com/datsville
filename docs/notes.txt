@@ -1,8 +1,0 @@
-MLCad
-- Doesn't like nested MPD files.
-- Weird drag-and-duplicate mouse gesture that I dislike.
-- Parts lose focus when pressing toolbar buttons (i.e. rotate).
-- The white camper in Tore's "pending" folder is a very nice model.
-
-LDView
-- Specify location/look at.

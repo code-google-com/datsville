@@ -1,0 +1,18 @@
+#summary Notes regarding software
+
+= MLCad =
+  # Doesn't like nested MPD files.
+  # Weird drag-and-duplicate mouse gesture that I dislike.
+  # Parts lose focus when pressing toolbar buttons (i.e. rotate).
+  # After changing views the model you're looking at may no longer be in view, requiring you to locate it again with the camera.
+
+= LDView =
+  # Can't specify camera location/look at.
+  # Camera movement controls way too fast for large models.
+
+= SR 3D Builder =
+  # Doesn't like Datsville at all. Can't get it to load the complete model.
+
+= LDCad =
+  # Does not recognize boxed parts in the "b" directory.
+  # Wonky camera controls.

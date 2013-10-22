@@ -16,3 +16,5 @@
   # Traffic layer needs to be gone over again to make sure cars are sitting correctly on the ground instead of floating above it or sitting in the grass, etc.
   # Figure out the best way to implement sloped roads.
   # Add the construction vehicles I created for the Mining Facility.
+  # Building 58 has a lower storey that is being clipped by the ground.
+  # The white camper in Tore's "pending" folder is a very nice model. I would like to use it.
