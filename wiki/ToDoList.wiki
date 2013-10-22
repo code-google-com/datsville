@@ -18,3 +18,7 @@
   # Add the construction vehicles I created for the Mining Facility.
   # Building 58 has a lower storey that is being clipped by the ground.
   # The white camper in Tore's "pending" folder is a very nice model. I would like to use it.
+  # Replace petrol station's baseplate with SNOT road model?
+  # Radio tower should be a building model, not an infrastructure model.
+  # The parking lot near the university is ugly and needs to be redesigned.
+  # The cell tower looks more like a tornado siren. Rename?
