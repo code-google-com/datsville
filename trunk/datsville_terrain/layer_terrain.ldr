@@ -20,6 +20,6 @@
 1 7 -10240 -2048 -30720 1 0 0 0 1 0 0 0 1 gridb32x.dat
 1 7 10240 -2048 -30720 1 0 0 0 1 0 0 0 1 gridb32x.dat
 1 7 30720 -2048 -30720 1 0 0 0 1 0 0 0 1 gridb32x.dat
-1 2 0 0 0 1 0 0 0 1 0 0 0 1 terrain_complete.ldr
+1 2 0 0 0 1 0 0 0 1 0 0 0 1 terrain_complete_lines.ldr
 1 1 0 1632 0 1 0 0 0 1 0 0 0 1 terrain_water.ldr
 0

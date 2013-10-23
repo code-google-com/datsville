@@ -2,17 +2,22 @@
 
 = MLCad =
   # Doesn't like nested MPD files.
-  # Weird drag-and-duplicate mouse gesture that I dislike.
+  # Weird drag-and-duplicate mouse gesture that I dislike and don't know how to turn off.
   # Parts lose focus when pressing toolbar buttons (i.e. rotate).
-  # After changing views the model you're looking at may no longer be in view, requiring you to locate it again with the camera.
+  # After changing views the model you're looking at may no longer be visible, requiring you to locate it again by panning the camera. This is a big nusiance for large models since the redraw rate is very slow.
+  # The camera controls for the 3D isometric view are VERY crappy. This is the program's worst feature, IMO. I wish MLCAD had LDView's camera movement controls inside the 3D view window.
 
 = LDView =
   # Can't specify camera location/look at.
-  # Camera movement controls way too fast for large models.
+  # Camera movement controls are way too fast when viewing large models.
+  # No orthographic camera mode.
 
 = SR 3D Builder =
   # Doesn't like Datsville at all. Can't get it to load the complete model.
+  # Model loading is extremely slow.
+  # Can't zoom in/out very far.
+  # Vague error message about duplicate parts. Could potentially pop up very often given the size of Datsville.
+  # Can't seem to find the "b" parts.
 
 = LDCad =
-  # Does not recognize boxed parts in the "b" directory.
   # Wonky camera controls.
