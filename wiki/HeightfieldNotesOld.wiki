@@ -1,6 +1,6 @@
-#summary Notes on how I generated the heightfield.
+#summary Outdated notes on how I generated the heightfield using Wilbur and imported it into LDraw.
 
-=Wilbur=
+= Wilbur =
 
 For the heightfield, I've found that a scale of 1 pixel = 1 baseplate works OK. 
 In the "Surface > Size..." dialog specify the dimensions in pixels you want the 
@@ -27,7 +27,7 @@ explicitely type the file name and extension you want. A pop-up menu will appear
 when trying to save the file. Press the "Set to Map" button in the "Output 
 Bounds" section.
 
-=3DWin=
+= 3DWin =
 
 3DWin is more straightforward. Simply import the DXF file and export as LDR. One 
 thing you should note is that there's no way to manually specify the output file 
