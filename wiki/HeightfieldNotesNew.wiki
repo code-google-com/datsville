@@ -1,4 +1,4 @@
-#summary New instructions on how to create heightfield data using World Machine and import it into LDraw.
+#summary Current instructions on how I created heightfields using World Machine and imported them into LDraw.
 
 
 = FOR NON-STEPPED TERRAIN =

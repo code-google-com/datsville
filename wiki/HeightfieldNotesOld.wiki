@@ -1,4 +1,4 @@
-#summary Outdated notes on how I generated the heightfield using Wilbur and imported it into LDraw.
+#summary Outdated notes on how I generated heightfields using Wilbur and imported them into LDraw using 3DWin.
 
 = Wilbur =
 
