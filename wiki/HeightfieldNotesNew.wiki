@@ -12,8 +12,8 @@
   # Continue to tweak the other heightfield parameters if you want. Then export from World Machine as "worldmachine_output.obj".
   # Open "worldmachine_output.obj" in MeshLab.
   # In MeshLab select "Filters" > "Normals, Curvatures and Orientation" > "Transform: Move, Translate, Center". Check the "translate center of bbox to the origin" box and click "Apply" then "Close".
-  # In MeshLab select "Filters" > "Normals, Curvatures and Orientation" > "Transform: Rotate". Set the Rotation angle to 90 and click "Apply" then "Close".
-  # In MeshLab select "Filters" > "Normals, Curvatures and Orientation" > "Transform: Scale". Uncheck the "Uniform Scaling" box. Then set the X Axis value to 81920, the Y Axis value to 15360, and the Z Axis value to 81920. Click "Apply" then "Close". This dialog is a bit buggy so you will have trouble entering the scaling values.
+  # In MeshLab select "Filters" > "Normals, Curvatures and Orientation" > "Transform: Rotate". Set the Rotation angle to 90 degrees around the x-axis and click "Apply" then "Close".
+  # In MeshLab select "Filters" > "Normals, Curvatures and Orientation" > "Transform: Scale". Uncheck the "Uniform Scaling" box. Then set the X Axis value to 81920, the Y Axis value to 30720, and the Z Axis value to 81920. Click "Apply" then "Close". This dialog is a bit buggy so you will have trouble entering the scaling values.
   # In MeshLab select "File" > "Export Mesh As...". Export the file as "meshlab_output_nosteps.stl".
   # Using the command prompt or a batch file convert the STL file to LDR using "stl2dat.exe". An example of the command line looks like this: {{{stl2dat meshlab_output_nosteps.stl -ldr -raw}}}
   # Open the model in MLCAD. The model may be upside-down, so rotate 180 degrees around the x-axis if needed.
@@ -30,8 +30,8 @@
   # Continue to tweak the other heightfield parameters if you want. Then export from World Machine as "worldmachine_output.obj".
   # Open "worldmachine_output.obj" in MeshLab.
   # In MeshLab select "Filters" > "Normals, Curvatures and Orientation" > "Transform: Move, Translate, Center". Check the "translate center of bbox to the origin" box and click "Apply" then "Close".
-  # In MeshLab select "Filters" > "Normals, Curvatures and Orientation" > "Transform: Rotate". Set the Rotation angle to 90 and click "Apply" then "Close".
-  # In MeshLab select "Filters" > "Normals, Curvatures and Orientation" > "Transform: Scale". Uncheck the "Uniform Scaling" box. Then set the X Axis value to 81920, the Y Axis value to 640, and the Z Axis value to 81920. Click "Apply" then "Close". This dialog is a bit buggy so you will have trouble entering the scaling values.
+  # In MeshLab select "Filters" > "Normals, Curvatures and Orientation" > "Transform: Rotate". Set the Rotation angle to 90 degrees around the x-axis and click "Apply" then "Close".
+  # In MeshLab select "Filters" > "Normals, Curvatures and Orientation" > "Transform: Scale". Uncheck the "Uniform Scaling" box. Then set the X Axis value to 81920, the Y Axis value to 1280, and the Z Axis value to 81920. Click "Apply" then "Close". This dialog is a bit buggy so you will have trouble entering the scaling values.
   # In MeshLab select "File" > "Export Mesh As...". Export the file as "meshlab_output_stepped.stl".
   # Using the command prompt or a batch file convert the STL file to LDR using "stl2dat.exe". An example of the command line looks like this: {{{stl2dat meshlab_output_stepped.stl -ldr -raw}}}
   # Open the LDR file in LDDP.
@@ -39,7 +39,7 @@
   # Save the LDR file in LDDP.
   # Convert the LDR file to Wavefront OBJ using 3DWin. Export as "3DWin_output.obj".......3DWin rotates the model again!!!! Stop using 3DWin!!!!......
   # Open "3DWin_output.obj" in MeshLab.
-  # In MeshLab rotate the model again by 90 degrees if needed because 3DWin changes the rotation when exporting for some reason. Then scale the height by 24 along the y-axis.
+  # In MeshLab rotate the model again around the x-axis by 90 degrees if needed because 3DWin changes the rotation when exporting for some reason. Then scale the height by 24 along the y-axis.
   # In MeshLab select "File" > "Export Mesh As...". Export the file as "meshlab_output_stepped.stl".
   # Using the command prompt or a batch file convert the STL file to LDR using "stl2dat.exe". An example of the command line looks like this: {{{stl2dat meshlab_output_stepped.stl -ldr -raw}}}
   # Open the LDR model in MLCAD. The model may be upside-down, so rotate 180 degrees around the x-axis if needed.
