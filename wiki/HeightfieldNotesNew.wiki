@@ -16,7 +16,7 @@
   # In MeshLab select "Filters" > "Normals, Curvatures and Orientation" > "Transform: Scale". Uncheck the "Uniform Scaling" box. Then set the X Axis value to 81920, the Y Axis value to 15360, and the Z Axis value to 81920. Click "Apply" then "Close". This dialog is a bit buggy so you will have trouble entering the scaling values.
   # In MeshLab select "File" > "Export Mesh As...". Export the file as "meshlab_output_nosteps.stl".
   # Using the command prompt or a batch file convert the STL file to LDR using "stl2dat.exe". An example of the command line looks like this:
-	stl2dat meshlab_output_nosteps.stl -ldr -raw
+	{{{stl2dat meshlab_output_nosteps.stl -ldr -raw}}}
   # Open the model in MLCAD. The model may be upside-down, so rotate 180 degrees around the x-axis if needed.
   # You're basically done. You can do any post-processing you want in LETGUI, such as adding conditional lines using Edger2 or converting triangles to rectangles using rectifier.
 
@@ -35,7 +35,7 @@
   # In MeshLab select "Filters" > "Normals, Curvatures and Orientation" > "Transform: Scale". Uncheck the "Uniform Scaling" box. Then set the X Axis value to 81920, the Y Axis value to 640, and the Z Axis value to 81920. Click "Apply" then "Close". This dialog is a bit buggy so you will have trouble entering the scaling values.
   # In MeshLab select "File" > "Export Mesh As...". Export the file as "meshlab_output_stepped.stl".
   # Using the command prompt or a batch file convert the STL file to LDR using "stl2dat.exe". An example of the command line looks like this:
-	stl2dat meshlab_output_stepped.stl -ldr -raw
+	{{{stl2dat meshlab_output_stepped.stl -ldr -raw}}}
   # Open the LDR file in LDDP.
   # Change decimal accuracy to 0 by going to "Tools" > "Options" > "Configuration Values" tab > "Editor Behavior" subtab and setting "Position Decimal Accuracy" to zero. Then select all (ctrl A) and round everything (ctrl D).
   # Save the LDR file in LDDP.
@@ -44,7 +44,7 @@
   # In MeshLab rotate the model again by 90 degrees if needed because 3DWin changes the rotation when exporting for some reason. Then scale the height by 24 along the y-axis.
   # In MeshLab select "File" > "Export Mesh As...". Export the file as "meshlab_output_stepped.stl".
   # Using the command prompt or a batch file convert the STL file to LDR using "stl2dat.exe". An example of the command line looks like this:
-	stl2dat meshlab_output_stepped.stl -ldr -raw
+	{{{stl2dat meshlab_output_stepped.stl -ldr -raw}}}
   # Open the LDR model in MLCAD. The model may be upside-down, so rotate 180 degrees around the x-axis if needed.
   # All triangle vertices should be integer multiples of 8 at this stage. If you see any decimal values, then you may need one more pass rounding the numbers in LDDP.
   # You're basically done. You can do any post-processing you want in LETGUI, such as adding conditional lines using Edger2 or converting triangles to rectangles using rectifier.
