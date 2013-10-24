@@ -32,10 +32,10 @@
 0 Walk/Don't Walk Lights
 0 Transparent Orange is to be used for the Don't Walk signal.
 0 Color 38 represents transparent orange.
-1 38 0 -166 -34 1 0 0 0 0 -1 0 1 0 b\3070a.dat
-1 38 -34 -166 0 0 1 0 -1 0 0 0 0 1 b\3070a.dat
+1 38 0 -166 -34 1 0 0 0 0 -1 0 1 0 3070a.dat
+1 38 -34 -166 0 0 1 0 -1 0 0 0 0 1 3070a.dat
 0 Transparent Lt. Green (or Chartreuse) is to be used for the Walk signal.
 0 Color 42 represents transparent light green or trans.-chartreuse.
-1 42 0 -142 -34 1 0 0 0 0 -1 0 1 0 b\3070a.dat
-1 42 -34 -142 0 0 1 0 -1 0 0 0 0 1 b\3070a.dat
+1 42 0 -142 -34 1 0 0 0 0 -1 0 1 0 3070a.dat
+1 42 -34 -142 0 0 1 0 -1 0 0 0 0 1 3070a.dat
 0

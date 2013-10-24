@@ -23,3 +23,5 @@
   # The parking lot near the university is ugly and needs to be redesigned.
   # The cell tower looks more like a tornado siren. Rename?
   # Figure out how to split the terrain model into 16 parts.
+  # Make sure all "boxed" parts have edge lines. It's possible Tore's parts all had edge lines, and I overrode them with my own edgeless parts.
+  # SNOT roads can be optimized to use fewer bricks. Need to decide which version of Mike Gallagher's bricks to use because he has created several.

@@ -1,0 +1,8 @@
+I forgot which order these parts should be copied in. I.e. should Tore's parts 
+be copied first and then overridden by my "old" parts and again by my "new" 
+parts? It's been so long since I've worked on them that I forgot.
+
+Not sure if I should remove edge lines from parts. For instance "box.dat".
+
+All my boxed parts are missing their "*.nfo" files, so they cannot be used by 
+Tore's ldboxer program.

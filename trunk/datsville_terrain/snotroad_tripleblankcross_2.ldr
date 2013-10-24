@@ -1,8 +1,8 @@
-﻿0 Untitled
+0 Untitled
 0 Name: infrastructure_roadteecross_2.ldr
 0 Mike Gallagher
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG -1 0
 1 14 310 12 -200 0 0 1 -1 0 0 0 -1 0 b\3794.dat
 1 14 290 12 -200 0 0 1 -1 0 0 0 -1 0 b\3794.dat
@@ -209,6 +209,7 @@
 1 0 8 12 20 0 1 0 0 0 1 1 0 0 b\3023.dat
 1 0 8 12 60 0 1 0 0 0 1 1 0 0 b\3023.dat
 1 0 8 12 100 0 1 0 0 0 1 1 0 0 b\3023.dat
+1 0 8 12 60 0 1 0 0 0 1 1 0 0 b\3023.dat
 1 0 0 12 20 0 1 0 0 0 1 1 0 0 b\3023.dat
 1 0 0 12 60 0 1 0 0 0 1 1 0 0 b\3023.dat
 1 0 0 12 100 0 1 0 0 0 1 1 0 0 b\3023.dat
