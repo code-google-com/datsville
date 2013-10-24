@@ -1,2 +1,2 @@
-stl2dat worldmachine_output.stl -ldr -raw
+stl2dat meshlab_output_1.stl -ldr -raw
 pause
