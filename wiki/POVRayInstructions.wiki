@@ -1,0 +1,5 @@
+#summary Instructions on what to do in POVRay.
+
+==Town Maps==
+
+After converting Datsville using L3P version 1.4, delete any camera and light statements, and delete all the color and material definitions in the "Defines" section, replacing them with a reference to "ldr_wrapper_1.4.inc". Render the scene at 6144 x 3072 pixels. This will produce the isometric image I use in my town maps. You'll need a lot of RAM, but it won't take a lot of time to render.
