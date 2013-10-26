@@ -1,6 +1,0 @@
-- The library should probably be repurposed as a high school or factory since it 
-  seems too for a library compared to the other buildings.
-- Building 58 has a lower storey that is being clipped by the ground.
-- Need to find space and locations for the bus stops.
-- A bike path across the river would be nice based on the design by Jacob Sparre 
-  Anderson.
