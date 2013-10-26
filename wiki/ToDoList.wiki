@@ -28,3 +28,4 @@
   # Baseball players are missing from the baseball field.
   # The grocery store needs some parking spaces.
   # Not sure what "t04i1304.dat" and "t04o1304.dat" are for. Can they be safely deleted?
+  # Why are "dx900.dat" and "dx901.dat" needed?
