@@ -12,20 +12,19 @@
 
   # Strip all vehicles and pedestrians from the building models and add them to the traffic layer.
   # Add driveways that slope smoothly into the roads. (See Mike Gallagher's examples.)
-  # Add wheelchair ramps to SNOT road sidewalks. (See Mike Gallagher's examples.)
   # Traffic layer needs to be gone over again to make sure cars are sitting correctly on the ground instead of floating above it or sitting in the grass, etc.
   # Figure out the best way to implement sloped roads.
   # Add the construction vehicles I created for the Mining Facility.
   # Building 58 has a lower storey that is being clipped by the ground.
-  # The white camper in Tore's "pending" folder is a very nice model. I would like to use it.
+  # The white camper in Tore's "pending" folder is a very nice model. It would be great if we could use it.
   # Replace petrol station's baseplates with SNOT roads?
-  # Radio tower should be a building model, not an infrastructure model.
   # The parking lot near the university is ugly and needs to be redesigned.
   # The cell tower looks more like a tornado siren. Rename?
-  # Figure out how to split the terrain model into 16 parts.
+  # Figure out how to split the terrain model into 16 cells.
   # Make sure all "boxed" parts have edge lines. It's possible Tore's parts all had edge lines, and I overrode them with my own edgeless parts.
-  # SNOT roads can be optimized to use fewer bricks. Need to decide which version of Mike Gallagher's bricks to use because he has created several. See "snotroad_curveblanknocross.ldr" for an example.
+  # Need to consider again which versions of Mike Gallagher's SNOT roads to use because he has created several. The latest versions have wheelchair accessible ramps.
   # Baseball players are missing from the baseball field.
   # The grocery store needs some parking spaces.
   # Not sure what "t04i1304.dat" and "t04o1304.dat" are for. Can they be safely deleted?
-  # Why are "dx900.dat" and "dx901.dat" needed?
+  # Why are "dx900.dat" and "dx901.dat" needed? Also "look_at.dat".
+  # Datsville has a radio tower, but no radio station.
