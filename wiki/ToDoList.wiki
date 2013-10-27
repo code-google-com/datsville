@@ -28,3 +28,6 @@
   # Not sure what "t04i1304.dat" and "t04o1304.dat" are for. Can they be safely deleted?
   # Why are "dx900.dat" and "dx901.dat" needed? Also "look_at.dat".
   # Datsville has a radio tower, but no radio station.
+  # Add sewer drains to SNOT roads.
+  # Get rid of any road baseplates that still might exist.
+  # Update myboxer's "box_list.ini" if possible.

@@ -1,27 +1,35 @@
 #summary Status of relicense permission requests
 
-|| *Author* || *Models* || *Permission* ||
-|| Jeffrey Stembel ||  || attempted to contact on 2009-12-16 ||
-|| Joachim Probst ||  || attempted to contact on 2009-12-16, message bounced back ||
-|| Tore Eriksson ||  || (Public Domain or CC-BY-SA?) http://news.lugnet.com/cad/?n=16672 ||
-|| Michael Horvath ||  || http://news.lugnet.com/cad/?n=15924 ||
-|| Bram Lambrecht ||  || permission via email on 2009-12-16 ||
-|| Nicholas Allan ||  || attempted to contact on 2009-12-16, message bounced back ||
-|| Rob Farver ||  || attempted to contact on 2009-12-16, message bounced back ||
-|| Brian Sauls ||  || permission via email on 2/12/2011 ||
-|| Jonathan Wilson ||  || http://news.lugnet.com/cad/?n=15930 ||
-|| Manfred Moolhuysen || Datsville Belvedere, Datsville Memorial || http://news.lugnet.com/cad/?n=15929 ||
-|| Ryan Dennet ||  || attempted to contact on 2009-12-16 ||
-|| Duane Hess ||  || permission via email on 2009-12-16 ||
-|| Anders Isaksson || Anders Isaksson's House || http://news.lugnet.com/cad/?n=15927 ||
-|| James Jackson ||  || attempted to contact on 2009-12-16 ||
-|| Thomas Burger ||  || attempted to contact on 2009-12-16, message bounced back ||
-|| Fredrik Glöckner ||  || attempted to contact on 2009-12-16 ||
-|| Joseph Gonzalez ||  || attempted to contact on 2009-12-16 ||
-|| Calvin Walton ||  || attempted to contact on 2009-12-16, message bounced back ||
-|| John Van Zwieten ||  || permission via email on 2011-03-02 ||
-|| Robert Virsik ||  || no contact info ||
-|| Martin Svensson (now Palmberg) ||  || (Public Domain or CC-BY-SA?) http://news.lugnet.com/cad/?n=16672 ||
-|| Steve Bliss ||  || permission via email on 2009-12-21, under PD not CC-BY-SA ||
-|| Ben Gatrelle ||  || attempted to contact on 2009-12-16 ||
-|| Mike Gallagher || SNOT roads || permission via email on 2012-01-16 ||
+|| *Author* || *Permission* ||
+|| Anders Isaksson || http://news.lugnet.com/cad/?n=15927 ||
+|| Ben Gatrelle || attempted to contact on 2009-12-16 ||
+|| Bram Lambrecht || permission via email on 2009-12-16 ||
+|| Brian Sauls || permission via email on 2/12/2011 ||
+|| Calvin Walton || attempted to contact on 2009-12-16, message bounced back ||
+|| Duane Hess || permission via email on 2009-12-16 ||
+|| Fredrik Glöckner || attempted to contact on 2009-12-16 ||
+|| Jacob Sparre Andersen || Not contacted yet. ||
+|| James Jackson || attempted to contact on 2009-12-16 ||
+|| Jeffrey Stembel || attempted to contact on 2009-12-16 ||
+|| Jeremy Sproat || Not contacted yet. ||
+|| Joachim Probst || attempted to contact on 2009-12-16, message bounced back ||
+|| John Van Zwieten || permission via email on 2011-03-02 ||
+|| Jonathan Gevaryahu || Not contacted yet. ||
+|| Jonathan Wilson || http://news.lugnet.com/cad/?n=15930 ||
+|| Joseph Gonzalez || attempted to contact on 2009-12-16 ||
+|| Kevin Loch || Not contacted yet. ||
+|| Leonardo Zide || Not contacted yet. ||
+|| Manfred Moolhuysen || http://news.lugnet.com/cad/?n=15929 ||
+|| Martin Svensson (now Palmberg) || (Public Domain or CC-BY-SA?) http://news.lugnet.com/cad/?n=16672 ||
+|| Michael Horvath || http://news.lugnet.com/cad/?n=15924 ||
+|| Mike Gallagher || permission via email on 2012-01-16 ||
+|| Nicholas Allan || attempted to contact on 2009-12-16, message bounced back ||
+|| Rob Farver || attempted to contact on 2009-12-16, message bounced back ||
+|| Rene Virsik || Not contacted yet. ||
+|| Robert Virsik || no contact info ||
+|| Ryan Dennet || attempted to contact on 2009-12-16 ||
+|| Steve Bliss || permission via email on 2009-12-21, under PD not CC-BY-SA ||
+|| Tamyra Teed || Not contacted yet. ||
+|| Tim Gould || Not contacted yet. ||
+|| Thomas Burger || attempted to contact on 2009-12-16, message bounced back ||
+|| Tore Eriksson || (Public Domain or CC-BY-SA?) http://news.lugnet.com/cad/?n=16672 ||
