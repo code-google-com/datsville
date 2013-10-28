@@ -63,7 +63,7 @@
 0 // pickup truck parked beside Calvin's house
 1 2 -1500 -24 -370 1 0 0 0 1 0 0 0 1 vehicle_016_redpickuptruck.ldr
 
-1 1 2460 -24 1220 0 0 1 0 1 0 -1 0 0 vehicle_017_graysemitruck.ldr
+1 1 2460 -24 1220 0 0 1 0 1 0 -1 0 0 vehicle_017_graysemitruck.mpd
 1 15 2350 -18 130 0 0 1 0 1 0 -1 0 0 vehicle_018_graypolicemotorcycle.ldr
 
 1 14 2860 -88 580 0 0 -1 0 1 0 1 0 0 vehicle_019_oteconn1.ldr
