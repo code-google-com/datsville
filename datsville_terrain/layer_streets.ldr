@@ -116,7 +116,7 @@
 1 7 -6720 -640 4160 1 0 0 0 1 0 0 0 1 infrastructure_signnorightturn.ldr
 1 7 -9280 -640 3520 1 0 0 0 1 0 0 0 1 snotroad_doublestripeleftaheadonlydouble.ldr
 1 7 -9280 -640 3520 1 0 0 0 1 0 0 0 1 infrastructure_streetlamppair.ldr
-1 7 -6720 200 3520 1 0 0 0 1 0 0 0 1 snotroad_doublestripeleftaheadonlydouble.ldr
+1 7 -6720 464 3520 1 0 0 0 0.9962 0.0871 0 -0.0871 0.9962 snotroad_doublestripeleftaheadonlydouble.ldr
 1 7 -6720 -640 3520 1 0 0 0 1 0 0 0 1 infrastructure_streetlamppair.ldr
 1 7 -7360 -640 4160 0 0 1 0 1 0 -1 0 0 snotroad_doubleonewaycross.ldr
 1 7 -7360 -640 4160 0 0 1 0 1 0 -1 0 0 infrastructure_streetlamppair.ldr
