@@ -6,7 +6,7 @@
   # Determine if any additional model/sub-model organizational steps are needed.
   # Create a collection of helper scripts to make it easy to generate renderings, animations, panoramas and so forth using POV-Ray and/or other software packages.
   # Streamline the model submission process so that new content can be added quickly and easily.
-  # Create one or more virtual Web tours, or an interactive map like Google Maps.
+  # Create one or more virtual Web tours, or an interactive isometric map like a cross between SimCity and Google Maps.
 
 = Models =
 
@@ -31,3 +31,5 @@
   # Add sewer drains to SNOT roads.
   # Get rid of any road baseplates that still might exist.
   # Update myboxer's "box_list.ini" if possible.
+  # The city needs fire hydrants.
+  # There are still some TLG-designed models that unfortunately need to be removed.
