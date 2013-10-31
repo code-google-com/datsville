@@ -4,30 +4,13 @@
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
-1 0 0 -64 0 1 0 0 0 1 0 0 0 1 snotroad_doubledash_10.ldr
-1 0 0 0 -640 1 0 0 0 1 0 0 0 1 snotroad_doubledash_00.ldr
-1 0 0 192 -1280 1 0 0 0 1 0 0 0 1 snotroad_doubledash_33.ldr
-1 0 0 384 -1920 1 0 0 0 1 0 0 0 1 snotroad_doubledash_00.ldr
-1 0 0 -128 640 1 0 0 0 1 0 0 0 1 snotroad_doubledash_00.ldr
-1 0 0 -256 1280 1 0 0 0 1 0 0 0 1 snotroad_doubledash_18.ldr
-1 0 0 -384 1920 1 0 0 0 1 0 0 0 1 snotroad_doubledash_00.ldr
-1 7 -170 -8 320 1 0 0 0 1 0 0 0 1 3022.dat
-1 7 330 -8 330 1 0 0 0 1 0 0 0 1 3024.dat
-1 7 330 -16 330 1 0 0 0 1 0 0 0 1 3024.dat
-1 7 330 -24 330 1 0 0 0 1 0 0 0 1 3024.dat
-1 7 330 -32 330 1 0 0 0 1 0 0 0 1 3024.dat
-1 7 330 -40 330 1 0 0 0 1 0 0 0 1 3024.dat
-1 7 330 -48 330 1 0 0 0 1 0 0 0 1 3024.dat
-1 7 330 -56 330 1 0 0 0 1 0 0 0 1 3024.dat
-1 7 330 -64 330 1 0 0 0 1 0 0 0 1 3024.dat
-1 7 330 -72 330 1 0 0 0 1 0 0 0 1 3024.dat
-1 7 330 -80 330 1 0 0 0 1 0 0 0 1 3024.dat
-1 7 330 -88 330 1 0 0 0 1 0 0 0 1 3024.dat
-1 7 330 -96 330 0 0 1 0 1 0 -1 0 0 3024.dat
-1 7 330 -104 330 0 0 1 0 1 0 -1 0 0 3024.dat
-1 7 330 -112 330 0 0 1 0 1 0 -1 0 0 3024.dat
-1 7 330 -120 330 0 0 1 0 1 0 -1 0 0 3024.dat
-1 7 330 -128 330 0 0 1 0 1 0 -1 0 0 3024.dat
+1 0 0 -64 0 1 0 0 0 0.980581 -0.196116 0 0.196116 0.980581 snotroad_doubledash_+0.ldr
+1 0 0 0 -640 1 0 0 0 1 0 0 0 1 snotroad_doubledash_+0.ldr
+1 0 0 192 -1280 1 0 0 0 0.857493 -0.514496 0 0.514496 0.857493 snotroad_doubledash_+4.ldr
+1 0 0 384 -1920 1 0 0 0 1 0 0 0 1 snotroad_doubledash_+0.ldr
+1 0 0 -128 640 1 0 0 0 1 0 0 0 1 snotroad_doubledash_+0.ldr
+1 0 0 -256 1280 1 0 0 0 0.928477 -0.371391 0 0.371391 0.928477 snotroad_doubledash_+2.ldr
+1 0 0 -384 1920 1 0 0 0 1 0 0 0 1 snotroad_doubledash_+0.ldr
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 axis32x.dat
 1 0 0 -128 0 1 0 0 0 1 0 0 0 1 axis32x.dat
 0
