@@ -33,3 +33,4 @@
   # Update myboxer's "box_list.ini" if possible.
   # The city needs fire hydrants.
   # There are still some TLG-designed models that unfortunately need to be removed.
+  # I am thinking about changing the asphalt color from black to dark gray, and the sidewalk color from white to light gray. Those colors look a little more urban. But is that what we want?
