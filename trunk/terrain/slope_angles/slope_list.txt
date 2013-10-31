@@ -1,4 +1,4 @@
-part	aka	slope	angle
+part	label	slope	angle
 4515	10	1/6	11.30993
 60477	18	2/6	21.80141
 4286	33	3/6	30.96376
