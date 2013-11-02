@@ -12,6 +12,7 @@
 
   # Strip all vehicles and pedestrians from the building models and add them to the traffic layer.
   # Add driveways that slope smoothly into the roads. (See Mike Gallagher's examples.)
+  # But how do I build driveways if the adjacent road section lies at an incline?
   # Traffic layer needs to be gone over again to make sure cars are sitting correctly on the ground instead of floating above it or sitting in the grass, etc.
   # Figure out the best way to implement sloped roads.
   # Add the construction vehicles I created for the Mining Facility.
