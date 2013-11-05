@@ -15,7 +15,7 @@ if (typeof(WScript) != 'undefined')
 	{
 		var usage_text = 
 'Invalid number of parameters.\n\n' +
-'cscript myboxer.js [input path] [-o]\n\n' +
+'cscript terrain_colorer.js [input path] [-o]\n\n' +
 '[input path] may be a file or folder.\n' +
 '[-o] specifies to overwrite the input files.'
 		WScript.Echo(usage_text)
