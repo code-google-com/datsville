@@ -1,3 +1,9 @@
+// Script authored by: Michael Horvath
+// Version: 1.0.0
+// Created: 2013/10/27
+// Updated: 2013/10/27
+// License: LGPL (code)
+
 var MssgDebug = false
 var MssgVerbose = true
 var ReplacementCount = 0
