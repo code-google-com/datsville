@@ -1,3 +1,10 @@
+// Script authored by: Michael Horvath
+// Road design by: Michael Gallagher
+// Version: 1.0.0
+// Created: 2013/11/05
+// Updated: 2013/11/05
+// License: LGPL (code), CC-BY-SA (content)
+
 var point_1_x
 var point_1_y
 var point_2_x
@@ -10,11 +17,7 @@ var C_x
 var C_y
 
 var sOutString =	'0 ROTATION CENTER 0 0 0 1 "Custom"\n' +
-			'0 ROTATION CONFIG 0 0\n' +
-			'1 16 -320 240 320 1 0 0 0 -1 0 0 0 -1 grids32x.dat\n' +
-			'1 16 0 0 0 1 0 0 0 1 0 0 0 1 axis32x.dat\n' +
-			'1 16 -640 -64 0 0 0 1 0 1 0 -1 0 0 snotroad_doubledash.ldr\n' +
-			'1 16 640 64 0 0 0 1 0 1 0 -1 0 0 snotroad_doubledash.ldr\n'
+			'0 ROTATION CONFIG 0 0\n'
 
 var fso
 var WshShell
@@ -109,15 +112,20 @@ if (typeof(WScript) != 'undefined')
 		}
 		C_x = 2 * point_3_x - point_4_x
 		C_y = 2 * point_3_y - point_4_y
-		vDoStuff()
-		vWriteOutput()
+		var bPass = vDoStuff()
+		if (bPass == 1)
+			WScript.Echo('Error: The curvature of the spline exceeds 6 degrees at some point. Halting program.')
+		else
+			vWriteOutput()
 	}
 	else
 	{
-		var usage_text =	'Invalid number of parameters.\n\n' +
-					'Example:\n\n' +
-					'\tcscript create_road_spline.js -p1 [-320,-64] -p2 [-120,-64] -p3 [320,64] -p4 [520,64] -o output_file_name.ldr\n'
-		WScript.Echo(usage_text)
+		WScript.Echo
+		(
+			'Invalid number of parameters.\n\n' +
+			'Example:\n\n' +
+			'\tcscript create_road_spline.js -p1 [-320,-64] -p2 [-120,-64] -p3 [320,64] -p4 [520,64] -o output_file_name.ldr\n'
+		)
 	}
 }
 
@@ -178,7 +186,7 @@ function fCalcTimePosition(fTime_1, fTime_2, fStepTime_1, fTargDist)
 	var tCoo_1 = tCoordinates(fTime_1)
 	var tCoo_2 = tCoordinates(fTime_2)
 	var fThisDist = vdistance(tCoo_1, tCoo_2)
-	var fMiniDist = 0.1
+	var fMiniDist = 0.01
 	var fStepTime_2 = fStepTime_1 * 9/10
 	if (Math.abs(fThisDist - fTargDist) < fMiniDist)
 	{
@@ -199,6 +207,15 @@ function fCalcTimePosition(fTime_1, fTime_2, fStepTime_1, fTargDist)
 //	}
 }
 
+function fGetAngleDelta(fTime_1, fTime_2)
+{
+	var thisDiv_1 = vnormalize(tDerivatives(fTime_1))
+	var thisDiv_2 = vnormalize(tDerivatives(fTime_2))
+	var angle_1 = Math.acos(thisDiv_1[0]) * 180/Math.PI
+	var angle_2 = Math.acos(thisDiv_2[0]) * 180/Math.PI
+	return Math.abs(angle_1 - angle_2)
+}
+
 function vConstructSpline(fTime, tRow, sPart)
 {
 	var thisCoo = tCoordinates(fTime)
@@ -213,13 +230,10 @@ function vConstructSpline(fTime, tRow, sPart)
 		[-thisDiv[1], thisDiv[0], 0],		// |B,E,H|
 		[0, 0, 1]				// |C,F,I|
 	]
-	// |c00,c01,c02|
-	// |c10,c11,c12|
-	// |c20,c21,c22|
 	var outpMat = [[],[],[]]
-	outpMat[0][0] = rotxMat[0][0] * thisMat[0][0] + rotxMat[0][1] * thisMat[1][0] + rotxMat[0][2] * thisMat[2][0]	// c00 = a00b00 + a01b10 + a02b20
-	outpMat[0][1] = rotxMat[0][0] * thisMat[0][1] + rotxMat[0][1] * thisMat[1][1] + rotxMat[0][2] * thisMat[2][1]	// c01 = a00b01 + a01b11 + a02b21
-	outpMat[0][2] = rotxMat[0][0] * thisMat[0][2] + rotxMat[0][1] * thisMat[1][2] + rotxMat[0][2] * thisMat[2][2]	// c02 = a00b02 + a01b12 + a02b22
+	outpMat[0][0] = rotxMat[0][0] * thisMat[0][0] + rotxMat[0][1] * thisMat[1][0] + rotxMat[0][2] * thisMat[2][0]	// c00 = a00b00 + a01b10 + a02b20	// |c00,c01,c02|
+	outpMat[0][1] = rotxMat[0][0] * thisMat[0][1] + rotxMat[0][1] * thisMat[1][1] + rotxMat[0][2] * thisMat[2][1]	// c01 = a00b01 + a01b11 + a02b21	// |c10,c11,c12|
+	outpMat[0][2] = rotxMat[0][0] * thisMat[0][2] + rotxMat[0][1] * thisMat[1][2] + rotxMat[0][2] * thisMat[2][2]	// c02 = a00b02 + a01b12 + a02b22	// |c20,c21,c22|
 	outpMat[1][0] = rotxMat[1][0] * thisMat[0][0] + rotxMat[1][1] * thisMat[1][0] + rotxMat[1][2] * thisMat[2][0]	// c10 = a10b00 + a11b10 + a12b20
 	outpMat[1][1] = rotxMat[1][0] * thisMat[0][1] + rotxMat[1][1] * thisMat[1][1] + rotxMat[1][2] * thisMat[2][1]	// c11 = a10b01 + a11b11 + a12b21
 	outpMat[1][2] = rotxMat[1][0] * thisMat[0][2] + rotxMat[1][1] * thisMat[1][2] + rotxMat[1][2] * thisMat[2][2]	// c12 = a10b02 + a11b12 + a12b22
@@ -237,24 +251,42 @@ function vDoStuff()
 		var target_distance = thisRow[1]
 		var steps_distance_big = target_distance/fGetCurveLength() * 1/0.9
 		var isOdd = thisRow[3]
-		var fTime = steps_distance_big/2
+		var fTime_1 = steps_distance_big/2
+		var fTime_2 = 0
+		var fAngleDelta = 0
 		if (isOdd)
 		{
-			vConstructSpline(fTime - steps_distance_big/4, thisRow, thisRow[7])
-			fTime = fCalcTimePosition(fTime - steps_distance_big/2, fTime + steps_distance_big/2, steps_distance_big, target_distance)
+			vConstructSpline(fTime_1 - steps_distance_big/4, thisRow, thisRow[7])
+			fTime_2 = fCalcTimePosition(fTime_1 - steps_distance_big/2, fTime_1 + steps_distance_big/2, steps_distance_big, target_distance)
+			fAngleDelta = fGetAngleDelta(fTime_1, fTime_2)
+			//WScript.Echo(fAngleDelta)
+			fTime_1 = fTime_2
+			if (fAngleDelta > 6)
+				return 1
 		}
-		while (fTime <= (1 - steps_distance_big/2))
+		while (fTime_1 <= (1 - steps_distance_big/2))
 		{
-			vConstructSpline(fTime, thisRow, thisRow[6])
-			fTime = fCalcTimePosition(fTime, fTime + steps_distance_big, steps_distance_big, target_distance)
+			vConstructSpline(fTime_1, thisRow, thisRow[6])
+			fTime_2 = fCalcTimePosition(fTime_1, fTime_1 + steps_distance_big, steps_distance_big, target_distance)
+			fAngleDelta = fGetAngleDelta(fTime_1, fTime_2)
+			//WScript.Echo(fAngleDelta)
+			fTime_1 = fTime_2
+			if (fAngleDelta > 6)
+				return 1
 		}
-		// may not always be the case depending on the shape of the curve
+		// may not always be the case depending on the shape and size of the curve
 		if (isOdd)
 		{
-			vConstructSpline(fTime - steps_distance_big/4, thisRow, thisRow[7])
-			fTime = fCalcTimePosition(fTime - steps_distance_big/2, fTime + steps_distance_big/2, steps_distance_big, target_distance)
+			vConstructSpline(fTime_1 - steps_distance_big/4, thisRow, thisRow[7])
+			fTime_2 = fCalcTimePosition(fTime_1 - steps_distance_big/2, fTime_1 + steps_distance_big/2, steps_distance_big, target_distance)
+			fAngleDelta = fGetAngleDelta(fTime_1, fTime_2)
+			//WScript.Echo(fAngleDelta)
+			fTime_1 = fTime_2
+			if (fAngleDelta > 6)
+				return 1
 		}
 	}
+	return 0
 }
 
 function vWriteOutput()
