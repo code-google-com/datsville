@@ -4,6 +4,21 @@
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
-1 2 0 0 0 0 0 1 0 1 0 -1 0 0 terrain_stepped_standin.ldr
+1 2 0 0 0 0 0 1 0 1 0 -1 0 0 terrain_stepped_standin_01.ldr
+1 2 0 0 0 0 0 1 0 1 0 -1 0 0 terrain_stepped_standin_02.ldr
+1 2 0 0 0 0 0 1 0 1 0 -1 0 0 terrain_stepped_standin_03.ldr
+1 2 0 0 0 0 0 1 0 1 0 -1 0 0 terrain_stepped_standin_04.ldr
+1 2 0 0 0 0 0 1 0 1 0 -1 0 0 terrain_stepped_standin_05.ldr
+1 2 0 0 0 0 0 1 0 1 0 -1 0 0 terrain_stepped_standin_06.ldr
+1 2 0 0 0 0 0 1 0 1 0 -1 0 0 terrain_stepped_standin_07.ldr
+1 2 0 0 0 0 0 1 0 1 0 -1 0 0 terrain_stepped_standin_08.ldr
+1 2 0 0 0 0 0 1 0 1 0 -1 0 0 terrain_stepped_standin_09.ldr
+1 2 0 0 0 0 0 1 0 1 0 -1 0 0 terrain_stepped_standin_10.ldr
+1 2 0 0 0 0 0 1 0 1 0 -1 0 0 terrain_stepped_standin_11.ldr
+1 2 0 0 0 0 0 1 0 1 0 -1 0 0 terrain_stepped_standin_12.ldr
+1 2 0 0 0 0 0 1 0 1 0 -1 0 0 terrain_stepped_standin_13.ldr
+1 2 0 0 0 0 0 1 0 1 0 -1 0 0 terrain_stepped_standin_14.ldr
+1 2 0 0 0 0 0 1 0 1 0 -1 0 0 terrain_stepped_standin_15.ldr
+1 2 0 0 0 0 0 1 0 1 0 -1 0 0 terrain_stepped_standin_16.ldr
 1 1 0 1920 0 1 0 0 0 1 0 0 0 1 terrain_water.ldr
 0
