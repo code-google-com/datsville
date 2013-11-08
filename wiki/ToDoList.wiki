@@ -10,27 +10,25 @@
 
 = Models =
 
-  # Strip all vehicles and pedestrians from the building models and add them to the traffic layer.
+  # Strip (or inline) all vehicles and pedestrians from the building models and add them to the traffic layer.
   # Add driveways that slope smoothly into the roads. (See Mike Gallagher's examples.)
   # But how do I build driveways if the adjacent road section lies at an incline?
-  # Traffic layer needs to be gone over again to make sure cars are sitting correctly on the ground instead of floating above it or sitting in the grass, etc.
+  # Traffic layer needs to be gone over again to make sure cars are sitting correctly on the ground instead of floating above, sitting in the grass, etc.
   # Figure out the best way to implement sloped roads.
-  # Add the construction vehicles I created for the Mining Facility.
   # Building 58 has a lower storey that is being clipped by the ground.
   # The white camper in Tore's "pending" folder is a very nice model. It would be great if we could use it.
   # Replace petrol station's baseplates with SNOT roads?
-  # The parking lot near the university is ugly and needs to be redesigned.
+  # The parking lots near the university and apartment complex are ugly and need to be redesigned.
   # The cell tower looks more like a tornado siren. Rename?
-  # Figure out how to split the terrain model into 16 cells.
-  # Make sure all "boxed" parts have edge lines. It's possible Tore's parts all had edge lines, and I overrode them with my own edgeless parts.
-  # Need to consider again which versions of Mike Gallagher's SNOT roads to use because he has created several. The latest versions have wheelchair accessible ramps.
+  # Make sure all "boxed" parts have edge lines. It's possible Tore's parts all had edge lines, and I overrode them with my own edgeline-less parts mistakenly.
+  # Need to consider again which versions of Mike Gallagher's SNOT roads to use because he has created several. The latest versions have blue wheelchair accessible ramps.
   # Baseball players are missing from the baseball field.
   # The grocery store needs some parking spaces.
   # Not sure what "t04i1304.dat" and "t04o1304.dat" are for. Can they be safely deleted?
   # Why are "dx900.dat" and "dx901.dat" needed? Also "look_at.dat".
   # Datsville has a radio tower, but no radio station.
   # Add sewer drains to SNOT roads.
-  # Get rid of any road baseplates that still might exist.
+  # Replace any road baseplates that still might exist with SNOT roads.
   # Update myboxer's "box_list.ini" if possible.
   # The city needs fire hydrants.
   # There are still some TLG-designed models that unfortunately need to be removed.
