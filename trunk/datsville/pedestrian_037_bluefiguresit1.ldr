@@ -1,0 +1,17 @@
+0 New Model
+0 Name: pedestrian_037_figuresit1.ldr
+0 Author: Michael Horvath
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 0 8 -9 0 0 -1 0 0 0 1 -1 0 0 3816.dat
+1 0 8 -9 0 0 -1 0 0 0 1 -1 0 0 3817.dat
+1 0 8 -21 0 0 0 1 0 1 0 -1 0 0 3815.dat
+1 1 8 -53 0 0 0 1 0 1 0 -1 0 0 973.dat
+1 14 8 -77 0 0 0 1 0 1 0 -1 0 0 3626bp01.dat
+1 0 8 -77 0 0 0 1 0 1 0 -1 0 0 3624.dat
+1 1 8 -44 0 0 -0.71 0.71 0 0.71 0.71 -1 0 0 975.dat
+1 1 8 -44 0 0 -0.71 0.71 0 0.71 0.71 -1 0 0 976.dat
+1 14 -20 -40 22 1 0 0 0 1 0 0 0 1 977.dat
+1 14 -20 -40 -22 1 0 0 0 1 0 0 0 1 977.dat
+0

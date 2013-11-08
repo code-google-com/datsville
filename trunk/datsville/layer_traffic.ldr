@@ -1,15 +1,20 @@
 0 Town Scene Main.
-0 Name: traffic.ldr
+0 Name: layer_traffic.ldr
 0 Was: town_full.dat
 0 Author: John VanZwieten
 0 Unofficial Datsville Town Model
 0 NoParent
 
-0 EXTRACT
-
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
+1 16 3760 -40 2420 1 0 0 0 1 0 0 0 1 vehicle_048_bluedigger.mpd
+1 16 3590 -32 2300 1 0 0 0 1 0 0 0 1 pedestrian_038_blueworker.ldr
+1 16 3180 -36 1960 1 0 0 0 1 0 0 0 1 vehicle_049_blueloader.mpd
+1 16 2740 -36 1760 0 0 1 0 1 0 -1 0 0 vehicle_050_bluecargo.ldr
+1 16 3820 -36 2160 0 0 -1 0 1 0 1 0 0 vehicle_052_bluedozer.ldr
+0 EXTRACT
+
 1 2 -2600 -92 5795 -0.71 0 0.71 0 1 0 -0.71 0 -0.71 vehicle_001_yellowbulldozer.mpd
 1 2 -2620 -24 4700 -1 0 0 0 1 0 0 0 -1 vehicle_002_yellowheavyequipmentcarrier.ldr
 1 2 -3600 24 5800 0 0 1 0 1 0 -1 0 0 vehicle_003_redfireboat.ldr
