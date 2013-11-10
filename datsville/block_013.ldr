@@ -122,7 +122,7 @@
 0 // Rev033: TE moved Datsville Police Building
 0 // from Town02 to Town0-2
 1 7 2560 -8 640 0 0 1 0 1 0 -1 0 0 building_008_roundpolicebuilding.ldr
-1 7 3860 -8 620 0 0 -1 0 1 0 1 0 0 building_044_amateurradioclubbuilding.mpd
+1 7 3860 -8 620 0 0 -1 0 1 0 1 0 0 building_044_amateurradioclubbuilding.ldr
 1 7 3320 -8 640 0 0 -1 0 1 0 1 0 0 building_069_amateurradioclubantenna.mpd
 1 13 3200 0 640 0 0 1 0 1 0 -1 0 0 3811.dat
 1 13 2560 0 640 0 0 1 0 1 0 -1 0 0 3811.dat
