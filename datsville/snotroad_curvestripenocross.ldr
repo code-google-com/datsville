@@ -2,7 +2,7 @@
 0 Name: snotroad_curvestripenocross.ldr
 0 Author: MLCad
 0 Unofficial Model
-0 ROTATION CENTER -836.586 4 282.237 1 "Custom" 
+0 ROTATION CENTER -836.586 4 282.237 1 "Custom"
 0 ROTATION CONFIG -1 0
 1 14 -310 12 192 0 0 -1 -1 0 0 0 1 0 3794a.dat
 1 14 -290 12 192 0 0 -1 -1 0 0 0 1 0 3794a.dat
@@ -310,4 +310,3 @@
 1 0 72 12 10 0 1 0 0 0 1 1 0 0 3024.dat
 1 0 64 12 10 0 1 0 0 0 1 1 0 0 3024.dat
 1 0 184 12 -290 0 1 0 0 0 1 1 0 0 3623.dat
-0

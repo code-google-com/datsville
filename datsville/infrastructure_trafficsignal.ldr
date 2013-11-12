@@ -7,7 +7,7 @@
 0 Vehicles of up to 11 bricks high can clear this signal.
 0 For additional clearance add more 1x1 bricks underneath.
 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 15 0 -120 0 1 0 0 0 1 0 0 0 1 2453.dat
 1 14 0 -128 0 -1 0 0 0 1 0 0 0 -1 2420.dat
@@ -38,4 +38,3 @@
 0 Color 42 represents transparent light green or trans.-chartreuse.
 1 42 0 -142 -34 1 0 0 0 0 -1 0 1 0 3070a.dat
 1 42 -34 -142 0 0 1 0 -1 0 0 0 0 1 3070a.dat
-0

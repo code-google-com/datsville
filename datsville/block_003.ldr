@@ -73,7 +73,7 @@
 
 
 0 1 12 -2840 -8 2240 0 0 1 0 1 0 -1 0 0 3033.dat
-0 
+0
 
 0 From Town10...
 0 1 2 -2380 0 2540 -1 0 0  0 1 0  0 0 1 Ltesw16h.ldr
@@ -81,7 +81,7 @@
 
 0 // Added sidewalks (TE, Rev034)
 
-0 
+0
 
 0 /////////////////////////////////////////////////////////////////////////////
 0 !LDSWITCH DEFINE TOWNPEEP Inline
@@ -162,7 +162,7 @@
 0 Inlined: 1 2 880 -8 1440 0 0 1 0 1 0 -1 0 0 _tsw16.ldr
 0 Inlining done.
 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 16 -1320 -8 560 0 0 1 0 1 0 -1 0 0 building_003_eastwickechapel.ldr
 1 16 -580 -8 640 0 0 -1 0 1 0 1 0 0 building_043_datsvillememorial.ldr
@@ -216,4 +216,3 @@
 1 2 -660 -8 540 0 0 -1 0 1 0 1 0 0 3958.dat
 1 2 -1120 -8 480 1 0 0 0 1 0 0 0 1 91405.dat
 1 13 -640 0 640 1 0 0 0 1 0 0 0 1 3811.dat
-0

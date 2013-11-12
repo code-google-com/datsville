@@ -6,7 +6,7 @@
 0 Unofficial Datsville Vehicle Model
 0 Parent: Townpeep.ldr
 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 0 0 16 -110 0 0 1 0 1 0 -1 0 0 3832.dat
 1 0 0 16 90 0 0 1 0 1 0 -1 0 0 3832.dat
@@ -106,6 +106,6 @@
 1 46 -30 -6 -214 1 0 0 0 0 -1 0 1 0 3024.dat
 1 36 -30 -6 194 1 0 0 0 0 1 0 -1 0 3024.dat
 1 36 30 -6 194 1 0 0 0 0 1 0 -1 0 3024.dat
-1 0 30 -32 180 1 0 0 0 1 0 0 0 1 3957.dat
-1 0 -30 -32 180 1 0 0 0 1 0 0 0 1 3957.dat
-0
+1 0 30 -32 180 1 0 0 0 1 0 0 0 1 3957a.dat
+1 0 -30 -32 180 1 0 0 0 1 0 0 0 1 3957a.dat
+

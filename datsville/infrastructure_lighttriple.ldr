@@ -1,10 +1,9 @@
 0 Untitled
-0 Name: snotroad_threewaylight.ldr
+0 Name: infrastructure_lighttriple.ldr
 0 Author: MLCad
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 16 -220 -8 290 0 0 -1 0 1 0 1 0 0 infrastructure_trafficsignal.ldr
 1 16 -290 -8 -220 -1 0 0 0 1 0 0 0 -1 infrastructure_trafficsignal.ldr
 1 16 220 -8 -290 0 0 1 0 1 0 -1 0 0 infrastructure_trafficsignal.ldr
-0

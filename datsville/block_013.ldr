@@ -37,7 +37,7 @@
 
 
 0 REM Added sidewalks (TE, Rev034)
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 2 2400 -8 480 -1 0 0 0 1 0 0 0 -1 91405.dat
 1 2 2720 -8 480 -1 0 0 0 1 0 0 0 -1 91405.dat
@@ -103,7 +103,7 @@
 
 0 REM Rev034 1 2 1640 -8 1860 0 0 1 0 1 0 -1 0 0 3026.dat
 0 1 2 1940 -8 -280 1 0 0 0 1 0 0 0 1 3026.dat
-0 
+0
 
 0 /////////////////////////////////////////////////////////////////////////////
 
@@ -135,14 +135,3 @@
 0 // Rev033: TE added L3GO Amateur Radio Club
 
 0 // Rev034: TE added more sidewalks
-
-
-
-
-
-0 
-
-
-
-
-0

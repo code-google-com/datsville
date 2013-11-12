@@ -8,7 +8,7 @@
 
 0 !LDBOXER LEVEL A
 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 2 -60 -484 -40 0.707 0 0.707 0 1 0 -0.707 0 0.707 pedestrian_012_manexplorerbinoculars.ldr
 
@@ -95,4 +95,3 @@
 1 7 -60 -528 -70 1 0 0 0 1 0 0 0 1 3010.dat
 1 7 -90 -528 -40 0 0 1 0 1 0 -1 0 0 3004.dat
 1 7 -60 -528 -10 1 0 0 0 1 0 0 0 1 3010.dat
-0

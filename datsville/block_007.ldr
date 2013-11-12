@@ -6,7 +6,7 @@
 0 NoParent
 
 0 /////////////////////////////////////////////////////////////////////////////
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 16 -3680 -8 2720 1 0 0 0 1 0 0 0 1 infrastructure_bigtree03.ldr
 1 16 -3840 -8 2440 1 0 0 0 1 0 0 0 1 infrastructure_bigtree03.ldr
@@ -73,7 +73,7 @@
 0 // men watching bridge contruction site
 0 // Earth Scraper - Moved from Town20.ldr (TE, Rev033)
 
-0 
+0
 0 !LDSWITCH CASE Use
 0 0
 0 !LDSWITCH End
@@ -138,7 +138,7 @@
 0 // To Town-11...
 
 0 // To Town-11...
-0 
+0
 
 0 /////////////////////////////////////////////////////////////////////////////
 0 !LDSWITCH DEFINE TOWNPEEP Inline
@@ -215,12 +215,10 @@
 
 
 0 1 12 -2840 -8 2240 0 0 1 0 1 0 -1 0 0 3033.dat
-0 
+0
 
 0 From Town10...
 0 1 2 -2380 0 2540 -1 0 0  0 1 0  0 0 1 Ltesw16h.ldr
 0 1 2 -2740 0 2540 1 0 0  0 1 0  0 0 -1  Ltesw16h.ldr
 
 0 // Added sidewalks (TE, Rev034)
-
-0

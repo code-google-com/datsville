@@ -3,7 +3,7 @@
 0 Name: building_068.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 7 0 240 0 1 0 0 0 1 0 0 0 1 building_068_roof.ldr
 1 7 0 0 0 1 0 0 0 1 0 0 0 1 building_068_fence.ldr
@@ -287,13 +287,13 @@
 1 15 580 -16 470 -1 0 0 0 1 0 0 0 -1 815.dat
 1 15 580 -64 440 -1 0 0 0 1 0 0 0 -1 70163.dat
 1 15 580 -16 470 -1 0 0 0 1 0 0 0 -1 814.dat
-0
+
 0 FILE building_068_roof.ldr
 0 New Model
 0 Name: building_068_roof.ldr
 0 Author: MLCad
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 15 -580 -488 240 0 0 1 0 1 0 -1 0 0 building_068_rooftile_a.ldr
 1 15 -580 -488 80 0 0 1 0 1 0 -1 0 0 building_068_rooftile_a.ldr
@@ -449,13 +449,13 @@
 1 15 0 -616 -80 0 0 -1 0 1 0 1 0 0 3035.dat
 1 15 0 -616 80 0 0 -1 0 1 0 1 0 0 3035.dat
 1 15 0 -616 240 0 0 -1 0 1 0 1 0 0 3035.dat
-0
+
 0 FILE building_068_fence.ldr
 0 New Model
 0 Name: building_068_fence.ldr
 0 Author: MLCad
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 16 580 -72 930 -1 0 0 0 1 0 0 0 -1 3684.dat
 1 16 540 -72 930 -1 0 0 0 1 0 0 0 -1 3684.dat
@@ -567,13 +567,13 @@
 1 7 610 -144 340 0 0 1 0 1 0 -1 0 0 3004.dat
 1 7 610 -120 340 0 0 1 0 1 0 -1 0 0 3004.dat
 1 7 610 -96 340 0 0 1 0 1 0 -1 0 0 3004.dat
-0
+
 0 FILE building_068_booth.ldr
 0 New Model
 0 Name: building_068_booth.ldr
 0 Author: MLCad
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 47 0 -168 -30 1 0 0 0 1 0 0 0 1 4872.dat
 1 7 -30 -48 0 0 0 1 0 1 0 -1 0 0 3010.dat
@@ -589,13 +589,13 @@
 1 7 10 -72 30 -1 0 0 0 1 0 0 0 -1 3622.dat
 1 7 0 -176 0 0 0 -1 0 1 0 1 0 0 3035.dat
 1 7 -10 -96 -30 0 0 -1 0 1 0 1 0 0 3040p32.dat
-0
+
 0 FILE building_068_shack.ldr
 0 New Model
 0 Name: building_068_shack.ldr
 0 Author: MLCad
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 15 0 -24 -50 1 0 0 0 1 0 0 0 1 3009.dat
 1 15 0 -48 -50 1 0 0 0 1 0 0 0 1 3009.dat
@@ -617,44 +617,35 @@
 1 15 70 -120 0 0 0 -1 0 1 0 1 0 0 3009.dat
 1 15 -50 -120 50 0 0 -1 0 1 0 1 0 0 2453.dat
 1 15 50 -120 50 0 0 -1 0 1 0 1 0 0 2453.dat
-0
+
 0 FILE building_068_tank.ldr
 0 New Model
 0 Name: building_068_tank.ldr
 0 Author: MLCad
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 2 0 -96 0 1 0 0 0 1 0 0 0 1 6259.dat
 1 2 0 -96 0 -1 0 0 0 1 0 0 0 -1 6259.dat
 1 2 0 -96 0 -1 0 0 0 1 0 0 0 -1 30208.dat
-0
+
 0 FILE building_068_rooftile_a.ldr
 0 New Model
 0 Name: building_068_rooftile_a.ldr
 0 Author: MLCad
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 16 0 -24 0 1 0 0 0 1 0 0 0 1 4515.dat
 1 16 0 -8 50 1 0 0 0 1 0 0 0 1 3460.dat
-0 
-0 
-0 
-0 
-0 
-0 
-0
+
 0 FILE building_068_crate.ldr
 0 New Model
 0 Name: building_068_crate.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 19 0 -8 0 1 0 0 0 1 0 0 0 1 61780.dat
 1 19 0 -56 0 1 0 0 0 1 0 0 0 1 3022.dat
-0 
-0 
-0
-0
+

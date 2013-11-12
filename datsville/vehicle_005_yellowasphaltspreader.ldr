@@ -12,7 +12,7 @@
 0 // WRITE Earth Scraper
 0 // WRITE Author: Duane Hess
 0 // SCRAPER FRONT
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 0 -30 0 0 0 0 1 0 1 0 -1 0 0 3700.dat
 1 0 30 0 0 0 0 1 0 1 0 -1 0 0 3700.dat
@@ -229,4 +229,4 @@
 1 0 -30 -57 319 1 0 0 0 -0.5 0.87 0 -0.87 -0.5 3873.dat
 1 0 -30 -73 316 1 0 0 0 0.17 0.98 0 -0.98 0.17 3873.dat
 1 0 -30 -84 304 1 0 0 0 0.72 0.69 0 -0.69 0.72 3873.dat
-0
+

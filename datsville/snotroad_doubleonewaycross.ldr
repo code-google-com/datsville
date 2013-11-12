@@ -2,7 +2,7 @@
 0 Name: snotroad_doubleonewaycross.ldr
 0 Mike Gallagher
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 14 -192 12 310 0 -1 0 -1 0 0 0 0 -1 3794a.dat
 1 14 -192 12 250 0 -1 0 -1 0 0 0 0 -1 3794a.dat
@@ -170,4 +170,3 @@
 1 14 192 12 -250 0 1 0 -1 0 0 0 0 1 3794a.dat
 1 14 192 2 -280 0 1 0 0 0 1 1 0 0 3069b.dat
 1 14 192 2 120 0 1 0 0 0 1 1 0 0 3069b.dat
-0

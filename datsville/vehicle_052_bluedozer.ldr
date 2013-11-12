@@ -1,6 +1,7 @@
 0 Name: dozer.dat
+0 Name: vehicle_052_bluedozer.ldr
 0 WRITE Author: Michael Horvath
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 122c01.dat
 1 0 0 0 40 1 0 0 0 1 0 0 0 1 122c01.dat
@@ -32,4 +33,3 @@
 1 0 -30 6 40 0 0 1 0 1 0 -1 0 0 3641.dat
 1 0 -30 6 0 0 0 1 0 1 0 -1 0 0 3641.dat
 1 0 30 6 0 0 0 -1 0 1 0 1 0 0 3641.dat
-0

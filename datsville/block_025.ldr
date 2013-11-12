@@ -2,7 +2,7 @@
 0 Name: block_025.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 16 -7680 0 -960 0 0 -1 0 1 0 1 0 0 building_036_shoppingcenter.mpd
 1 13 -7040 0 -1920 0 0 -1 0 1 0 1 0 0 3811.dat
@@ -30,4 +30,3 @@
 1 7 -8160 -8 -1120 -1 0 0 0 1 0 0 0 -1 91405.dat
 1 7 -8480 -8 -800 -1 0 0 0 1 0 0 0 -1 91405.dat
 1 7 -8160 -8 -800 -1 0 0 0 1 0 0 0 -1 91405.dat
-0

@@ -45,7 +45,7 @@
 
 
 0 REM 6 x 4 Baseplates
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 13 -1280 0 -3200 1 0 0 0 1 0 0 0 1 3811.dat
 1 13 -1920 0 -3200 1 0 0 0 1 0 0 0 1 3811.dat
@@ -110,7 +110,7 @@
 0 REM Added Baseplates 3 (3) (TE, Rev028)
 0 REM end of 6 x 4 Baseplates
 
-0 
+0
 
 0 /////////////////////////////////////////////////////////////////////////////
 0 !LDSWITCH DEFINE TOWNPEEP Inline
@@ -147,7 +147,7 @@
 0 1 7 -6080 -8 -4480 0 0 1 0 1 0 -1 0 0 rjvtks2.ldr
 0 1 7 -6720 -8 -4480 0 0 1 0 1 0 -1 0 0 rjvtks2.ldr
 0 // end Extracted to Town-21
-0 
+0
 
 0 /////////////////////////////////////////////////////////////////////////////
 
@@ -172,12 +172,11 @@
 0 // 1280 0 -3840 Ltemoske.ldr
 
 0 REM end of 6 x 4 Baseplates; 20 pcs
-0 
+0
 
 0 !LDSWITCH TOWNPEEP
 0 !LDSWITCH CASE Inline
-0 
+0
 0 !LDSWITCH CASE Use
 0 1 16 0 0 0 1 0 0 0 1 0 0 0 1 townpeep.ldr
 0 !LDSWITCH End
-0

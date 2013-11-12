@@ -1,6 +1,6 @@
 0 FILE pedestrian_025_womanblondehairredsleeves.LDR
 0 Minifig Wclerk
-0 Name: pedestrian_025_womanblondehairredsleeves.ldr
+0 Name: pedestrian_025_womanblondehairredsleeves.LDR
 0 Was: Wclerk.dat
 0 Author: Leonardo Zide
 0 Unofficial Datsville Minifig Model
@@ -15,16 +15,16 @@
 0 head
 1 14 0 -68 0 1 0 0 0 1 0 0 0 1 3626bp02.dat
 0 hair
- 1 19 0 -68 0 1 0 0 0 1 0 0 0 1 d40239.dat
+1 19 0 -68 0 1 0 0 0 1 0 0 0 1 d40239.dat
 0 Arms and Hands
- 1 4 15.552 -35 0 0.9855 0.1699 0 -0.1699 0.9855 0 0 0 1 3819.dat
- 1 14 23.6904 -17.2243 -9.9 0.9855 0.1201 -0.1201 -0.1699 0.6968 -0.6968 0 0.7071 0.7071 3820.dat
- 1 4 -15.552 -35 0 0.9855 -0.1699 0 0.1699 0.9855 0 0 0 1 3818.dat
- 1 14 -23.6904 -17.2243 -9.9 0.9855 -0.1201 0.1201 0.1699 0.6968 -0.6968 0 0.7071 0.7071 3820.dat
-0
+1 4 15.552 -35 0 0.9855 0.1699 0 -0.1699 0.9855 0 0 0 1 3819.dat
+1 14 23.6904 -17.2243 -9.9 0.9855 0.1201 -0.1201 -0.1699 0.6968 -0.6968 0 0.7071 0.7071 3820.dat
+1 4 -15.552 -35 0 0.9855 -0.1699 0 0.1699 0.9855 0 0 0 1 3818.dat
+1 14 -23.6904 -17.2243 -9.9 0.9855 -0.1201 0.1201 0.1699 0.6968 -0.6968 0 0.7071 0.7071 3820.dat
+
 0 FILE D40239.DAT
 0 Minifig Hair Long Straight
-0 Name: d40239.dat
+0 Name: D40239.DAT
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Unofficial_Part
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
@@ -3506,9 +3506,10 @@
 5 24 10.805 2.469 -4.475 9.338 2.115 -6.63 10.004 1.172 -4.143 9.801 2.79 -5.474
 5 24 10.805 2.469 -4.475 9.801 2.79 -5.474 9.338 2.115 -6.63 11.086 4 -4.592
 5 24 11.086 4 -4.592 9.801 2.79 -5.474 10.805 2.469 -4.475 11.86 7.248 -4.019
+
 0 FILE 34RING7.DAT
 0 Ring  7 x 0.75
-0 Name: 34ring7.dat
+0 Name: 34RING7.DAT
 0 Author: Alex Taylor [anathema]
 0 !LDRAW_ORG Unofficial_Primitive
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
@@ -3525,4 +3526,4 @@
 4 16 -6.4673 0 -2.6789 -7.3912 0 -3.0616 -5.6568 0 -5.6568 -4.9497 0 -4.9497
 4 16 -4.9497 0 -4.9497 -5.6568 0 -5.6568 -3.0616 0 -7.3912 -2.6789 0 -6.4673
 4 16 -2.6789 0 -6.4673 -3.0616 0 -7.3912 0 0 -8 0 0 -7
-0
+

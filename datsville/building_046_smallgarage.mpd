@@ -3,7 +3,7 @@
 0 Name: building_046.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 0 -190 -32 30 1 0 0 0 1 0 0 0 1 vehicle_026_bluecoupe.ldr
 1 14 -300 -8 -10 1 0 0 0 1 0 0 0 1 3069b.dat
@@ -981,13 +981,13 @@
 1 7 610 -296 40 0 0 1 0 1 0 -1 0 0 3245a.dat
 1 7 610 -296 80 0 0 1 0 1 0 -1 0 0 3245a.dat
 1 7 610 -296 120 0 0 1 0 1 0 -1 0 0 3245a.dat
-0
+
 0 FILE building_046_pillar.ldr
 0 New Model
 0 Name: building_046_pillar.ldr
 0 Author: MLCad
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 16 -10 -24 0 1 0 0 0 1 0 0 0 1 3002.dat
 1 16 0 -48 -10 0 0 1 0 1 0 -1 0 0 3002.dat
@@ -1010,27 +1010,14 @@
 1 16 0 -120 -30 1 0 0 0 1 0 0 0 1 3004.dat
 1 16 0 -168 -30 1 0 0 0 1 0 0 0 1 3004.dat
 1 16 0 -216 -30 1 0 0 0 1 0 0 0 1 3004.dat
-0
+
 0 FILE building_046_rooftile.ldr
 0 New Model
 0 Name: building_046_rooftile.ldr
 0 Author: MLCad
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 16 0 -24 0 1 0 0 0 1 0 0 0 1 4515.dat
 1 16 0 -8 50 1 0 0 0 1 0 0 0 1 3460.dat
-0 
-0 
-0 
-0 
-0 
-0 
-0 
-0 
-0 
-0 
-0 
-0 
-0
-0
+

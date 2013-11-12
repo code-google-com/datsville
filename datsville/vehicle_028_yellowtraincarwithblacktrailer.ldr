@@ -7,7 +7,7 @@
 0 Unofficial Datsville Train Model
 0 Parent: Town-20.ldr
 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 14 0 -40 0 0 0 1 0 1 0 -1 0 0 4093a.dat
 1 0 0 -16 -170 1 0 0 0 1 0 0 0 1 vehicle_028_rjjtfc1.ldr
@@ -65,4 +65,4 @@
 0 NOSTEP
 0 Trailer
 1 0 0 -64 -120 1 0 0 0 1 0 0 0 1 vehicle_041_graytractortrailer.ldr
-0
+

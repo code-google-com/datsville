@@ -3,7 +3,7 @@
 0 Name: building_048.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 16 -40 0 160 0 0 -1 0 1 0 1 0 0 building_048_counter.ldr
 1 16 -120 0 220 0 0 -1 0 1 0 1 0 0 building_048_cabinet.ldr
@@ -160,13 +160,13 @@
 1 14 168 -180 200 0 -1 0 0 0 -1 1 0 0 4150p02.dat
 1 4 130 -200 250 0 0 -1 0 1 0 1 0 0 2462.dat
 1 4 130 -176 250 0 0 -1 0 1 0 1 0 0 2462.dat
-0
+
 0 FILE building_048_cabinet.ldr
 0 New Model
 0 Name: building_048_cabinet.ldr
 0 Author: MLCad
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 16 0 -72 -10 1 0 0 0 1 0 0 0 1 3853.dat
 1 16 0 -80 0 1 0 0 0 1 0 0 0 1 87079.dat
@@ -175,13 +175,13 @@
 1 16 0 -24 10 1 0 0 0 1 0 0 0 1 3010.dat
 1 16 -40 -72 -22 0 0 -1 0 1 0 1 0 0 3856.dat
 1 16 40 -72 -22 0 0 1 0 1 0 -1 0 0 3856.dat
-0
+
 0 FILE building_048_sign.ldr
 0 New Model
 0 Name: building_048_sign.ldr
 0 Author: MLCad
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 4 0 -240 0 1 0 0 0 1 0 0 0 1 30517.dat
 1 15 -70 -288 -10 1 0 0 0 1 0 0 0 1 3005ptp.dat
@@ -212,13 +212,13 @@
 1 15 60 -278 -20 -1 0 0 0 0 1 0 1 0 6134.dat
 1 14 -60 -268 28 1 0 0 0 0 1 0 -1 0 4150p02.dat
 1 14 60 -268 -28 -1 0 0 0 0 1 0 1 0 4150p02.dat
-0
+
 0 FILE building_048_counter.ldr
 0 New Model
 0 Name: building_048_counter.ldr
 0 Author: MLCad
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 4 0 -24 -10 1 0 0 0 1 0 0 0 1 6111.dat
 1 4 0 -48 -10 1 0 0 0 1 0 0 0 1 6111.dat
@@ -228,44 +228,31 @@
 1 7 -50 -80 -10 -1 0 0 0 1 0 0 0 -1 3040p32.dat
 1 1 30 -80 -10 -0.707107 0 0.707107 0 1 0 -0.707107 0 -0.707107 6264.dat
 1 1 -10 -80 -10 -0.707107 0 0.707107 0 1 0 -0.707107 0 -0.707107 3899.dat
-0
+
 0 FILE building_048_stove.ldr
 0 New Model
 0 Name: building_048_stove.ldr
 0 Author: MLCad
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 16 0 -24 10 1 0 0 0 1 0 0 0 1 3010p04.dat
 1 16 -20 -48 10 1 0 0 0 1 0 0 0 1 3660.dat
 1 16 20 -48 10 1 0 0 0 1 0 0 0 1 3660.dat
 1 16 20 -56 0 1 0 0 0 1 0 0 0 1 3068bd01.dat
-1 16 -20 -56 10 1 0 0 0 1 0 0 0 1 3794.dat
-0 
-1 16 -20 -64 10 1 0 0 0 1 0 0 0 1 60849.dat
+1 16 -20 -56 10 1 0 0 0 1 0 0 0 1 3794a.dat
 0
+1 16 -20 -64 10 1 0 0 0 1 0 0 0 1 60849.dat
+
 0 FILE building_048_table.ldr
 0 New Model
 0 Name: building_048_table.ldr
 0 Author: MLCad
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 15 0 -32 0 1 0 0 0 1 0 0 0 1 3031.dat
 1 4 0 -24 0 1 0 0 0 1 0 0 0 1 3003.dat
 1 4 -60 -8 20 0 0 -1 0 1 0 1 0 0 4079.dat
 1 4 -20 -8 -60 -1 0 0 0 1 0 0 0 -1 4079.dat
-0 
-0 
-0 
-0 
-0 
-0 
-0 
-0 
-0 
-0 
-0 
-0 
-0
-0
+

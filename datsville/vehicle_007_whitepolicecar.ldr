@@ -6,7 +6,7 @@
 0 Unofficial Datsville Vehicle Model
 0 Parent: Townpeep.ldr Bjwpolis.ldr
 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 2441.dat
 1 15 0 -8 60 0 0 1 0 1 0 -1 0 0 3021.dat
@@ -47,4 +47,4 @@
 1 15 30 5 50 0 0 -1 0 1 0 1 0 0 4624.dat
 1 15 -30 5 50 0 0 1 0 1 0 -1 0 0 4624.dat
 1 15 -30 5 -50 0 0 1 0 1 0 -1 0 0 4624.dat
-0
+

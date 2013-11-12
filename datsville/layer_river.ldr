@@ -1,8 +1,8 @@
 0 New Model
-0 Name: layer_water.ldr
+0 Name: layer_river.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 1 -2560 72 5760 0 0 -1 0 1 0 1 0 0 3811.dat
 1 1 -1920 72 5760 0 0 -1 0 1 0 1 0 0 3811.dat
@@ -3026,4 +3026,3 @@
 1 2 -8240 64 6660 -1 0 0 0 1 0 0 0 -1 3036.dat
 1 2 -8400 64 6680 -1 0 0 0 1 0 0 0 -1 3035.dat
 1 2 -8560 64 6660 -1 0 0 0 1 0 0 0 -1 3036.dat
-0

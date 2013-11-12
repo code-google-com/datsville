@@ -1,12 +1,12 @@
 0 FILE ltehill3.ldr
 0 Hill Modul: Inner Curve 1
-0 Name: Ltehill3.ldr
+0 Name: ltehill3.ldr
 0 Author: Tore Eriksson
 0 Unofficial Datsville Landscape Sub-Model
 0 Parent: Town0-2.ldr
-0 
+0
 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 7 -260 -24 -300 1 0 0 0 1 0 0 0 1 3001.dat
 1 7 -260 -24 -260 1 0 0 0 1 0 0 0 1 3001.dat
@@ -69,4 +69,3 @@
 1 7 110 -192 -140 0 0 1 0 1 0 -1 0 0 3009.dat
 1 7 -140 -192 110 1 0 0 0 1 0 0 0 -1 3009.dat
 
-0

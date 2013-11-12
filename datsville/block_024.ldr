@@ -2,7 +2,7 @@
 0 Name: block_024.ldr
 0 Author: MLCad
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 13 2560 0 -3200 1 0 0 0 1 0 0 0 1 3811.dat
 1 13 3200 0 -3200 1 0 0 0 1 0 0 0 1 3811.dat
@@ -26,4 +26,3 @@
 1 2 3360 -8 -4320 0 0 -1 0 1 0 1 0 0 91405.dat
 1 2 3680 -8 -4320 0 0 -1 0 1 0 1 0 0 91405.dat
 1 2 4000 -8 -4320 0 0 -1 0 1 0 1 0 0 91405.dat
-0

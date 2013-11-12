@@ -1,7 +1,8 @@
 0 FILE loader.dat
 0 Name: loader.dat
+0 Name: loader.dat
 0 WRITE Author: Michael Horvath
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 122c01.dat
 1 0 0 0 40 1 0 0 0 1 0 0 0 1 122c01.dat
@@ -62,15 +63,14 @@
 1 7 -50 -32 10 0.71 0 0.71 0 1 0 -0.71 0 0.71 3841.dat
 1 7 -50 -32 50 0.71 0 0.71 0 1 0 -0.71 0 0.71 3841.dat
 1 7 -50 -32 70 0.71 0 0.71 0 1 0 -0.71 0 0.71 3841.dat
-0
+
 0 FILE bed.dat
 0 Name: bed.dat
+0 Name: bed.dat
 0 WRITE Author: Michael Horvath
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 1 0 0 0 1 0 0 0 1 0 0 0 1 314e.dat
 1 7 0 -18 -30 1 0 0 0 1 0 0 0 1 2512.dat
 1 1 0 -42 -80 1 0 0 0 1 0 0 0 1 2432.dat
-0 
-0
-0
+
