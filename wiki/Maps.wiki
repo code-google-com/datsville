@@ -4,6 +4,9 @@ See ModelsTable for a list of models and their indexes.
 
 These map images are 6144x3072 pixels in size. Save them to your harddrive to see them at a greater scale.
 
+Rev 256
+[http://datsville.googlecode.com/svn/wiki/Maps.attach/datsville_rev256_map.png]
+
 Rev 148
 [http://datsville.googlecode.com/svn/wiki/Maps.attach/datsville_rev148_map.png]
 
