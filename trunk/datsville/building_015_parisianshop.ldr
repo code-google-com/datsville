@@ -15,7 +15,7 @@
 0 | | bagud
 0 | | |
 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 0 60 -8 0 0 0 -1 0 1 0 1 0 0 3036.dat
 1 0 -60 -8 0 0 0 -1 0 1 0 1 0 0 3036.dat
@@ -110,7 +110,7 @@
 1 1 -123 -76 114.5 0 0 1 -0.707 0.707 0 0.707 0.707 0 977.dat
 1 1 -77 -76 114.5 0 0 1 -0.707 0.707 0 0.707 0.707 0 977.dat
 
-0 
+0
 0 Inlined: 1 4 100 -32 130 1 0 0 0 1 0 0 0 1 clothes.dat
 0 TITLE Clothes exhibitet in a Parisian shop.
 
@@ -140,7 +140,6 @@
 1 4 77 -76 114.5 0 0 1 -0.707 0.707 0 0.707 0.707 0 977.dat
 1 4 123 -76 114.5 0 0 1 -0.707 0.707 0 0.707 0.707 0 977.dat
 
-0 
+0
 0 NOSTEP
 0 Boxed 12 parts.
-0

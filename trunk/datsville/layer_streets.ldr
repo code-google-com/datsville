@@ -2,8 +2,8 @@
 0 Name: layer_streets.ldr
 0 Author: MLCad
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 0 MLCAD HIDE 1 7 -320 0 -320 1 0 0 0 1 0 0 0 1 gridb32x.dat
 1 7 -2560 0 0 0 0 1 0 1 0 -1 0 0 snotroad_tripleonewaynocross.ldr
@@ -402,4 +402,3 @@
 1 7 1600 -8 -4480 0 0 -1 0 1 0 1 0 0 infrastructure_railsection.ldr
 
 1 7 0 0 -4480 0 0 -1 0 1 0 1 0 0 infrastructure_railcrossing.ldr
-0

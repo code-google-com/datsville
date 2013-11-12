@@ -1,7 +1,8 @@
 0 FILE digger.dat
 0 Name: digger.dat
+0 Name: digger.dat
 0 WRITE Author: Michael Horvath
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 30062.dat
 1 1 0 8 -50 1 0 0 0 1 0 0 0 1 3039.dat
@@ -49,36 +50,34 @@
 1 0 0 -105.51 -49.48 0 0 -1 1 -0.09 0 -0.09 -1 0 arm.dat
 1 0 0 -155.45 -115.13 0 0 -1 -0.34 0.94 0 0.94 0.34 0 arm.dat
 1 0 0 -97.87 -191.45 0 0 1 1 0 0 0 1 0 claw.dat
-0
+
 0 FILE claw.dat
 0 Name: claw.dat
+0 Name: claw.dat
 0 WRITE Author: Michael Horvath
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 4275b.dat
 1 0 0 16 0 1 0 0 0 1 0 0 0 1 4275b.dat
 1 0 0 8 0 -1 0 0 0 1 0 0 0 -1 4276b.dat
 1 0 65.11 19.6 0 0.97 0.26 0 -0.26 0.97 0 0 0 1 nail.dat
 1 0 65.36 4.87 0 0.97 0.26 0 0.26 -0.97 0 0 0 -1 nail.dat
-0 
-0
+
 0 FILE arm.dat
 0 Name: arm.dat
+0 Name: arm.dat
 0 WRITE Author: Michael Horvath
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 4504.dat
 1 14 0 -8 0 1 0 0 0 1 0 0 0 1 3666.dat
-0 
-0 
-0
+
 0 FILE nail.dat
 0 Name: nail.dat
+0 Name: nail.dat
 0 WRITE Author: Michael Horvath
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 14 0 0 0 1 0 0 0 1 0 0 0 1 4626.dat
 1 0 -38 14 0 0 1 0 0 0 -1 -1 0 0 3023.dat
-0 
-0
-0
+

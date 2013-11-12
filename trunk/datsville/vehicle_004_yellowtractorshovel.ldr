@@ -6,7 +6,7 @@
 0 Unofficial Datsville Vehicle Model
 0 Parent: Town20.ldr
 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 14 0 0 0 0 0 1 0 1 0 -1 0 0 3832.dat
 1 0 0 8 -70 1 0 0 0 1 0 0 0 1 3023.dat
@@ -76,4 +76,4 @@
 1 14 43 18 40 0 0 1 0 1 0 -1 0 0 3482.dat
 1 0 43 18 40 0 0 -1 0 1 0 1 0 0 2346.dat
 1 0 -41 18 40 0 0 1 0 1 0 -1 0 0 2346.dat
-0
+

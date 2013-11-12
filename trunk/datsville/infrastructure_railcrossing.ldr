@@ -7,7 +7,7 @@
 0 Parent: Town-20.ldr
 0 Datsville Rev. TE008
 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 7 0 0 0 0 0 -1 0 1 0 1 0 0 snotroad_doublestriperailxing.ldr
 1 7 0 -16 240 0 0 -1 0 1 0 1 0 0 3032.dat
@@ -82,4 +82,3 @@
 1 15 -150 -80 -240 -1 0 0 0 1 0 0 0 -1 70163.dat
 1 15 -280 -16 -210 0 0 1 0 1 0 -1 0 0 649p01.dat
 1 15 280 -16 210 0 0 -1 0 1 0 1 0 0 649p01.dat
-0

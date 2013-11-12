@@ -8,7 +8,7 @@
 
 
 0 Driver
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 4 0 -16 -70 1 0 0 0 1 0 0 0 1 pedestrian_024_manshelllogoredcapsitting.ldr
 
@@ -65,6 +65,6 @@
 1 14 0 -112 -80 1 0 0 0 1 0 0 0 1 4213.dat
 1 14 10 -120 -90 1 0 0 0 1 0 0 0 1 2555.dat
 1 14 -10 -120 -90 1 0 0 0 1 0 0 0 1 2555.dat
-1 7 -5 -128 -103 0 -1 0 1 0 0 0 0 1 4599.dat
-1 7 7 -128 -103 0 1 0 -1 0 0 0 0 1 4599.dat
-0
+1 7 -5 -128 -103 0 -1 0 1 0 0 0 0 1 4599a.dat
+1 7 7 -128 -103 0 1 0 -1 0 0 0 0 1 4599a.dat
+

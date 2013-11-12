@@ -7,7 +7,7 @@
 0 Unofficial Datsville Train Model
 0 Parent: Rjjtofc.ldr
 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 0 0 -40 0 0 0 1 0 1 0 -1 0 0 3738.dat
 1 7 -40 -40 20 0 0 1 0 1 0 -1 0 0 3832.dat
@@ -128,4 +128,4 @@
 0 NOSTEP
 1 36 50 -134 324 1 0 0 0 0 1 0 -1 0 3070a.dat
 1 36 -50 -134 324 1 0 0 0 0 1 0 -1 0 3070a.dat
-0
+

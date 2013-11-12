@@ -7,7 +7,7 @@
 
 0 /////////////////////////////////////////////////////////////////////////////
 0 !LDSWITCH DEFINE TOWNPEEP Inline
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 16 -1820 -8 3020 -1 0 0 0 1 0 0 0 -1 building_021_houseporchyard.mpd
 
@@ -17,7 +17,7 @@
 0 // men watching bridge contruction site
 0 // Earth Scraper - Moved from Town20.ldr (TE, Rev033)
 
-0 
+0
 0 !LDSWITCH CASE Use
 0 0
 0 !LDSWITCH End
@@ -146,7 +146,7 @@
 
 
 0 1 12 -280 -8 3380 0 0 1 0 1 0 -1 0 0 3026.dat
-0 
+0
 
 0 /////////////////////////////////////////////////////////////////////////////
 0 !LDSWITCH DEFINE TOWNPEEP Inline
@@ -219,7 +219,7 @@
 
 
 0 1 12 -2840 -8 2240 0 0 1 0 1 0 -1 0 0 3033.dat
-0 
+0
 
 0 From Town10...
 0 1 2 -2380 0 2540 -1 0 0  0 1 0  0 0 1 Ltesw16h.ldr
@@ -227,7 +227,7 @@
 
 0 // Added sidewalks (TE, Rev034)
 
-0 
+0
 
 0 /////////////////////////////////////////////////////////////////////////////
 0 !LDSWITCH DEFINE TOWNPEEP Inline
@@ -319,4 +319,3 @@
 
 0 REM Rev034 1 2 1640 -8 1860 0 0 1 0 1 0 -1 0 0 3026.dat
 0 1 2 1940 -8 -280 1 0 0 0 1 0 0 0 1 3026.dat
-0

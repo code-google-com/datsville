@@ -19,8 +19,8 @@
 0 Hill Template: Rear Side
 0 Author: Joachim Probst (jprobst@shaodw-corner.ows.es)
 0 Un-Official Part
-0 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 2 280 -24 220 0 0 1 0 1 0 -1 0 0 3006.dat
 1 2 280 -24 20 0 0 1 0 1 0 -1 0 0 3006.dat
@@ -54,12 +54,12 @@
 1 2 280 -72 -300 0 0 1 0 1 0 -1 0 0 3003.dat
 1 2 280 -120 -300 0 0 1 0 1 0 -1 0 0 3003.dat
 1 2 280 -168 -300 0 0 1 0 1 0 -1 0 0 3003.dat
-0 
+0
 0 Inlined: 1 2 0 0 -200 1 0 0 0 1 0 0 0 1 hillside.dat
 0 Hill Template: Slope Side
 0 Author: Joachim Probst (jprobst@shadow-corner.ows.es)
 0 Un-Official Part
-0 
+0
 1 2 -280 -24 300 1 0 0 0 1 0 0 0 1 3001.dat
 1 2 -220 -48 300 1 0 0 0 1 0 0 0 1 3001.dat
 1 2 -170 -72 300 1 0 0 0 1 0 0 0 1 3002.dat
@@ -86,12 +86,12 @@
 1 2 130 -168 300 0 0 1 0 1 0 -1 0 0 3004.dat
 1 2 170 -120 300 0 0 1 0 1 0 -1 0 0 3004.dat
 1 2 170 -24 300 0 0 1 0 1 0 -1 0 0 3004.dat
-0 
+0
 0 Inlined: 1 2 0 0 -800 1 0 0 0 1 0 0 0 1 hillside.dat
 0 Hill Template: Slope Side
 0 Author: Joachim Probst (jprobst@shadow-corner.ows.es)
 0 Un-Official Part
-0 
+0
 1 2 -280 -24 -300 1 0 0 0 1 0 0 0 1 3001.dat
 1 2 -220 -48 -300 1 0 0 0 1 0 0 0 1 3001.dat
 1 2 -170 -72 -300 1 0 0 0 1 0 0 0 1 3002.dat
@@ -118,7 +118,7 @@
 1 2 130 -168 -300 0 0 1 0 1 0 -1 0 0 3004.dat
 1 2 170 -120 -300 0 0 1 0 1 0 -1 0 0 3004.dat
 1 2 170 -24 -300 0 0 1 0 1 0 -1 0 0 3004.dat
-0 
+0
 1 2 -99 -184 -30 0 0 1 0 1 0 -1 0 0 building_022_bjphou1.ldr
 1 4 130 -192 300 1 0 0 0 1 0 0 0 1 infrastructure_bigtree02.ldr
 1 4 280 -192 210 1 0 0 0 1 0 0 0 1 infrastructure_bigtree02.ldr
@@ -160,7 +160,7 @@
 1 2 -100 -96 270 1 0 0 0 1 0 0 0 1 3009.dat
 1 2 -80 -120 270 1 0 0 0 1 0 0 0 1 3009.dat
 1 2 -80 -144 270 1 0 0 0 1 0 0 0 1 3004.dat
-0
+
 0 FILE building_022_bjphou1.ldr
 0 Mannheim
 0 Name: building_022_bjphou1.ldr
@@ -169,7 +169,7 @@
 0 Unofficial Datsville Building Sub-Model
 0 Parent: Bjphous1.ldr
 0 !LDBOXER LEVEL A
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 14 -120 -32 70 1 0 0 0 1 0 0 0 1 infrastructure_flowercomplete.ldr
 0 Inlined: 1 6 -10 -112 -110 1 0 0 0 1 0 0 0 1 window4.dat
@@ -179,7 +179,7 @@
 1 6 -10 -112 -110 1 0 0 0 1 0 0 0 1 3853.dat
 1 6 24 -108 -116 0 0 1 0 1 0 -1 0 0 3854.dat
 1 6 -44 -108 -116 0 0 -1 0 1 0 1 0 0 3854.dat
-0 
+0
 0 Inlined: 1 6 90 -112 -110 1 0 0 0 1 0 0 0 1 window4.dat
 0 Komplettes Fenster 4x3 mit Fensterkreuz
 0 Author: Joachim Probst (jprobst@shadow-corner.ows.es)
@@ -187,24 +187,24 @@
 1 6 90 -112 -110 1 0 0 0 1 0 0 0 1 3853.dat
 1 6 124 -108 -116 0 0 1 0 1 0 -1 0 0 3854.dat
 1 6 56 -108 -116 0 0 -1 0 1 0 1 0 0 3854.dat
-0 
+0
 0 Inlined: 1 6 130 -112 350 -1 0 0 0 1 0 0 0 -1 window3.dat
 0 Komplettes Fenster 4x3 mit Glasscheibe
 0 Author: Joachim Probst (jprobst@shadow-corner.ows.es)
 0 Status: Un-Official Element
 1 6 130 -112 350 -1 0 0 0 1 0 0 0 -1 3853.dat
 1 39 130 -112 350 -1 0 0 0 1 0 0 0 -1 3855.dat
-0 
+0
 0 Inlined: 1 6 -50 -112 350 -1 0 0 0 1 0 0 0 -1 window3.dat
 0 Komplettes Fenster 4x3 mit Glasscheibe
 0 Author: Joachim Probst (jprobst@shadow-corner.ows.es)
 0 Status: Un-Official Element
 1 6 -50 -112 350 -1 0 0 0 1 0 0 0 -1 3853.dat
 1 39 -50 -112 350 -1 0 0 0 1 0 0 0 -1 3855.dat
-0 
+0
 0 Inlined: 1 15 -80 -112 230 1 0 0 0 1 0 0 0 1 door1.dat
 0 Door 1 x 4 x 5 Left with Solid Pattern
-0 
+0
 1 15 150 -16 -110 1 0 0 0 1 0 0 0 1 3008.dat
 1 15 -70 -16 -110 1 0 0 0 1 0 0 0 1 3008.dat
 1 15 40 -16 -110 1 0 0 0 1 0 0 0 1 3622.dat
@@ -356,7 +356,7 @@
 1 7 140 -48 310 1 0 0 0 1 0 0 0 1 3070a.dat
 1 6 70 -48 320 1 0 0 0 1 0 0 0 1 3068b.dat
 1 7 70 -48 280 1 0 0 0 1 0 0 0 1 3068b.dat
-1 7 140 -64 330 -0.71 0 -0.71 0 1 0 0.71 0 -0.71 4599.dat
+1 7 140 -64 330 -0.71 0 -0.71 0 1 0 0.71 0 -0.71 4599a.dat
 1 7 80 -96 280 1 0 0 0 1 0 0 0 1 3021.dat
 1 15 100 -104 280 0 0 1 0 1 0 -1 0 0 3023.dat
 1 0 160 -16 -90 1 0 0 0 1 0 0 0 1 3062b.dat
@@ -404,7 +404,7 @@
 1 15 -30 -16 320 0 0 1 0 1 0 -1 0 0 3022.dat
 1 15 20 -16 280 0 0 1 0 1 0 -1 0 0 3004.dat
 1 15 20 -40 280 0 0 1 0 1 0 -1 0 0 3660.dat
-1 7 20 -64 270 0.71 0 -0.71 0 1 0 0.71 0 0.71 4599.dat
+1 7 20 -64 270 0.71 0 -0.71 0 1 0 0.71 0 0.71 4599a.dat
 1 15 -120 0 320 1 0 0 0 1 0 0 0 1 3021.dat
 1 15 -120 0 280 1 0 0 0 1 0 0 0 1 3021.dat
 1 15 -120 0 250 1 0 0 0 1 0 0 0 1 3623.dat
@@ -597,12 +597,9 @@
 1 4 80 -216 80 0 0 1 0 1 0 -1 0 0 4477.dat
 1 4 80 -216 -120 0 0 1 0 1 0 -1 0 0 3710.dat
 1 4 80 -216 -50 0 0 1 0 1 0 -1 0 0 3623.dat
-0 
+0
 0 // Boxed 230 parts ().
 0 // Boxed 15 parts (T).
 0 // Boxed 23 parts (B).
 0 // Boxed Total 268 parts by LDBoxer v2010a.
-0 
-0 
-0
-0
+

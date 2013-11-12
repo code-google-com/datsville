@@ -1,5 +1,5 @@
 0 Datsville Phone Company Exchange
-0 Name: building_033.ldr
+0 Name: building_033_telephoneexchange.ldr
 0 Was: Tphoneco.dat
 0 Author: Jonathan Wilson
 0 Unofficial Datsville Building Model
@@ -9,7 +9,7 @@
 0 !LDBOXER LEVEL A
 
 0 REM desk & dishb inlined
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 15 10 -120 -90 0 0 1 0 1 0 -1 0 0 73436.dat
 1 15 90 -120 -40 0 0 1 0 1 0 -1 0 0 3754.dat
@@ -74,6 +74,5 @@
 1 25 0 -304 -90 1 0 0 0 1 0 0 0 1 3009.dat
 1 25 0 -328 -90 1 0 0 0 1 0 0 0 1 3009.dat
 
-0 
-0 Boxed 4 parts.
 0
+0 Boxed 4 parts.

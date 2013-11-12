@@ -1,5 +1,6 @@
 0 FILE building_021_houseporchyard.ldr
 0 Name: building_021_houseporchyard.ldr
+0 Name: building_021_houseporchyard.ldr
 0 Was: Tstemb2.dat Tstemb2.mpd
 0 Author: Jeff "Auld Dragon" Stembel
 0 Unofficial Datsville Building Model
@@ -15,7 +16,7 @@
 0 EXTRACT
 0 1 2 -280 -72 -130 1 0 0 0 1 0 0 0 1 vjsa09s2.ldr
 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 2 120 -48 40 1 0 0 0 1 0 0 0 1 building_021_badhou2.ldr
 
@@ -40,10 +41,10 @@
 
 0 Inlined: 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stonwall.dat
 0 MPD Author: Jeff "Auld Dragon" Stembel < Dragonelf1@aol.com
-0 
+0
 0 This 0.MPD was compiled using M-Peedy
 0 http://www.flash.net/~onyx/M-Peedy/M-Peedy.html
-0 
+0
 0 Stonewall
 0 Author: Jeff "Auld Dragon" Stembel < Dragonelf1@aol.com >
 
@@ -98,7 +99,7 @@
 1 7 410 -56 0 0 0 1 0 1 0 -1 0 0 4477.dat
 1 8 410 -56 110 1 0 0 0 1 0 0 0 1 3024.dat
 1 7 410 -56 220 0 0 1 0 1 0 -1 0 0 4477.dat
-0 
+0
 0 Inlined: 1 16 -570 0 0 1 0 0 0 1 0 0 0 1 stnwall3.dat
 0 Author: Jeff "Auld Dragon" Stembel < Dragonelf1@aol.com >
 
@@ -148,29 +149,29 @@
 1 7 -570 -56 0 0 0 1 0 1 0 -1 0 0 4477.dat
 1 8 -570 -56 110 1 0 0 0 1 0 0 0 1 3024.dat
 1 7 -570 -56 220 0 0 1 0 1 0 -1 0 0 4477.dat
-0 
-0 
-0 
+0
+0
+0
 
-0 
+0
 0 Inlined: 1 16 -570 0 330 1 0 0 0 1 0 0 0 1 stnwall2.dat
 0 Author: Jeff "Auld Dragon" Stembel < Dragonelf1@aol.com >
 
 1 7 -570 -24 330 1 0 0 0 1 0 0 0 1 3005.dat
 1 7 -570 -32 330 1 0 0 0 1 0 0 0 1 3024.dat
 1 7 -570 -56 330 1 0 0 0 1 0 0 0 1 3005.dat
-0 
+0
 
-0 
+0
 0 Inlined: 1 16 410 0 330 1 0 0 0 1 0 0 0 1 stnwall2.dat
 0 Author: Jeff "Auld Dragon" Stembel < Dragonelf1@aol.com >
 
 1 7 410 -24 330 1 0 0 0 1 0 0 0 1 3005.dat
 1 7 410 -32 330 1 0 0 0 1 0 0 0 1 3024.dat
 1 7 410 -56 330 1 0 0 0 1 0 0 0 1 3005.dat
-0 
+0
 
-0 
+0
 0 Inlined: 1 16 -80 0 330 1 0 0 0 1 0 0 0 1 stnwall4.dat
 0 Author: Jeff "Auld Dragon" Stembel < Dragonelf1@aol.com >
 
@@ -236,12 +237,12 @@
 1 7 360 -48 330 1 0 0 0 1 0 0 0 1 3710.dat
 1 8 300 -48 330 1 0 0 0 1 0 0 0 1 3023.dat
 1 7 340 -56 330 1 0 0 0 1 0 0 0 1 3666.dat
-0 
-0 
+0
+0
 
-0 
+0
 
-0 
+0
 0 Inlined: 1 2 -280 -8 120 1 0 0 0 1 0 0 0 1 garage.dat
 0 House with Porch: Garage
 0 Author: Jeff "Auld Dragon" Stembel
@@ -395,7 +396,7 @@
 1 0 -340 -248 40 0 0 1 0 1 0 -1 0 0 4515.dat
 1 0 -220 -248 200 0 0 -1 0 1 0 1 0 0 4515.dat
 1 0 -340 -248 200 0 0 1 0 1 0 -1 0 0 4515.dat
-0 
+0
 
 0 1 0 0 0 -640 0 0 1 0 1 0 -1 0 0 606p01.dat
 1 7 160 -8 -340 1 0 0 0 1 0 0 0 1 3020.dat
@@ -726,7 +727,7 @@
 1 15 220 -56 -340 1 0 0 0 1 0 0 0 1 3022.dat
 1 2 80 -64 -260 1 0 0 0 1 0 0 0 1 3470.dat
 1 2 240 -64 -260 1 0 0 0 1 0 0 0 1 3470.dat
-0
+
 0 FILE building_021_badhou2.ldr
 0 House with Porch (v2)
 0 Name: building_021_badhou2.ldr
@@ -737,7 +738,7 @@
 0 !LDBOXER LEVEL A
 0 Inlined: 1 6 90 -224 10 1 0 0 0 1 0 0 0 1 bed.dat
 0 Author: Jeff "Auld Dragon" Stembel
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 0 90 -216 40 0 0 1 0 1 0 -1 0 0 3023.dat
 1 0 90 -216 -10 0 0 1 0 1 0 -1 0 0 3623.dat
@@ -763,8 +764,8 @@
 1 0 90 -256 70 -1 0 0 0 1 0 0 0 -1 3623.dat
 1 0 110 -264 70 -1 0 0 0 1 0 0 0 -1 4073.dat
 1 0 70 -264 70 -1 0 0 0 1 0 0 0 -1 4073.dat
-0 
-0 
+0
+0
 1 15 190 -24 -120 0 0 1 0 1 0 -1 0 0 3004.dat
 1 15 190 -24 0 0 0 1 0 1 0 -1 0 0 3004.dat
 1 15 190 -24 130 0 0 -1 0 1 0 1 0 0 3622.dat
@@ -1237,13 +1238,9 @@
 1 0 140 -456 40 1 0 0 0 1 0 0 0 1 3300.dat
 1 7 170 -432 50 0 0 1 0 1 0 -1 0 0 3144.dat
 1 15 -180 -504 40 1 0 0 0 1 0 0 0 1 3300.dat
-0 
+0
 0 // Boxed 274 parts ().
 0 // Boxed 49 parts (T).
 0 // Boxed 19 parts (B).
 0 // Boxed Total 342 parts by LDBoxer v2010a.
-0 
-0 
-0 
-0
-0
+

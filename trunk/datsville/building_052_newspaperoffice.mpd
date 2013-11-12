@@ -3,7 +3,7 @@
 0 Name: building_052.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 building_052_floor_b.ldr
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 building_052_roof.ldr
@@ -196,14 +196,14 @@
 1 0 180 -96 -280 1 0 0 0 1 0 0 0 1 678.dat
 1 0 60 -96 -280 1 0 0 0 1 0 0 0 1 678.dat
 1 15 -100 -96 -210 1 0 0 0 0 1 0 -1 0 4150p03.dat
-0
+
 0 FILE building_052_clock.ldr
 0 New Model
 0 Name: building_052_clock.ldr
 0 Author: MLCad
 0 Unofficial Model
-0 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 15 50 30 18 1 0 0 0 0 1 0 -1 0 4150p03.dat
 1 0 60 20 2 1 0 0 0 0 1 0 -1 0 4081a.dat
@@ -212,19 +212,13 @@
 1 0 40 20 -10 -1 0 0 0 0 1 0 1 0 4073.dat
 1 15 50 30 -18 -1 0 0 0 0 1 0 1 0 4150p03.dat
 1 0 8 0 0 0 -1 0 0 0 -1 1 0 0 3957a.dat
-0 
-0 
-0 
-0 
-0 
-0 
-0
+
 0 FILE building_052_roof.ldr
 0 New Model
 0 Name: building_052_roof.ldr
 0 Author: MLCad
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 0 140 -408 -170 1 0 0 0 1 0 0 0 1 30363.dat
 1 0 170 -408 -140 0 0 -1 0 1 0 1 0 0 30363.dat
@@ -329,13 +323,13 @@
 1 7 250 -432 -160 0 0 1 0 1 0 -1 0 0 3008.dat
 1 7 200 -432 -250 1 0 0 0 1 0 0 0 1 3009.dat
 1 7 180 -408 -250 -1 0 0 0 1 0 0 0 -1 3008.dat
-0
+
 0 FILE building_052_floor_b.ldr
 0 New Model
 0 Name: building_052_floor_b.ldr
 0 Author: MLCad
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 7 60 -312 250 1 0 0 0 1 0 0 0 1 3455.dat
 1 7 180 -312 250 1 0 0 0 1 0 0 0 1 3455.dat
@@ -541,13 +535,13 @@
 1 7 230 -216 -250 1 0 0 0 1 0 0 0 1 87087.dat
 1 7 -240 -336 -180 0 0 -1 0 1 0 1 0 0 3001.dat
 1 7 -240 -360 -140 0 0 -1 0 1 0 1 0 0 3001.dat
-0
+
 0 FILE building_052_desk.ldr
 0 New Model
 0 Name: building_052_desk.ldr
 0 Author: MLCad
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 6 -50 -8 20 0 0 -1 0 1 0 1 0 0 3023.dat
 1 6 50 -8 20 0 0 -1 0 1 0 1 0 0 3023.dat
@@ -562,13 +556,13 @@
 1 0 20 -48 30 1 0 0 0 1 0 0 0 1 3023.dat
 1 0 20 -65 20 1 0 0 0 0.258819 -0.965926 0 0.965926 0.258819 6134.dat
 1 0 20 -77.3028 14.8914 1 0 0 0 0.258819 -0.965926 0 0.965926 0.258819 3068b.dat
-0
+
 0 FILE building_052_table_a.ldr
 0 New Model
 0 Name: building_052_table_a.ldr
 0 Author: MLCad
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 6 0 -32 0 1 0 0 0 1 0 0 0 1 3035.dat
 1 6 -60 -24 20 1 0 0 0 1 0 0 0 1 u9026.dat
@@ -578,7 +572,7 @@
 1 15 50 -40 0 0 0 -1 0 1 0 1 0 0 3069bpa4.dat
 1 15 -40 -40 10 -1 0 0 0 1 0 0 0 -1 3069bpa3.dat
 1 15 0 -40 -10 -1 0 0 0 1 0 0 0 -1 3069bp53.dat
-0
+
 0 FILE building_052_table_b.ldr
 0 New Model
 0 Name: building_052_table_b.ldr
@@ -588,7 +582,7 @@
 0 Name: building_052_table_a.ldr
 0 Author: MLCad
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 6 0 -32 0 1 0 0 0 1 0 0 0 1 3035.dat
 1 6 -60 -24 20 1 0 0 0 1 0 0 0 1 u9026.dat
@@ -598,9 +592,4 @@
 1 15 -40 -40 -10 1 0 0 0 1 0 0 0 1 3069bp0c.dat
 1 15 10 -40 0 0 0 -1 0 1 0 1 0 0 3069bp01.dat
 1 15 30 -40 20 0 0 -1 0 1 0 1 0 0 3069bp0b.dat
-0 
-0 
-0 
-0 
-0
-0
+

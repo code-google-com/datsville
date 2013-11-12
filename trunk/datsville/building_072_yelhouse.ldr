@@ -1,8 +1,8 @@
 0 Yellow house
 0 Name: building_072_yelhouse.ldr
 0 Author: Brian (barbcue) Sauls,  barbcue@home.com
-0 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 15 10 -128 -150 -1 0 0 0 1 0 0 0 -1 3861.dat
 1 14 12 -32 -120 0 0 1 0 1 0 -1 0 0 3004.dat
@@ -404,4 +404,3 @@
 1 0 -160 -424 -60 1 0 0 0 1 0 0 0 1 3041.dat
 1 0 -240 -424 -60 1 0 0 0 1 0 0 0 1 3041.dat
 1 0 -240 -424 -60 1 0 0 0 1 0 0 0 1 3041.dat
-0

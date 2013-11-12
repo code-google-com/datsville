@@ -2,7 +2,7 @@
 0 Name: building_054_blueranchstyle.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 110 60 -32 170 1 0 0 0 1 0 0 0 1 3009.dat
 1 110 -60 -32 170 1 0 0 0 1 0 0 0 1 3009.dat
@@ -156,4 +156,3 @@
 1 4 -90 -8 -130 1 0 0 0 1 0 0 0 1 3741c01.dat
 1 4 -230 -8 -130 1 0 0 0 1 0 0 0 1 3741c01.dat
 1 4 -30 -8 -130 -1 0 0 0 1 0 0 0 -1 3741c01.dat
-0

@@ -2,7 +2,7 @@
 0 Name: snotroad_doublestripeleftaheadonlydouble.ldr
 0 Mike Gallagher
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 14 -192 12 310 0 -1 0 -1 0 0 0 0 -1 3794a.dat
 1 14 -192 12 250 0 -1 0 -1 0 0 0 0 -1 3794a.dat
@@ -314,4 +314,3 @@
 1 0 -48 12.1 -30 0 -1 0 1 0 0 0 0 1 3665.dat
 1 0 -168 12.1 -210 0 -1 0 0 0 1 -1 0 0 3024.dat
 1 0 -144 12.1 -190 0 -1 0 0 0 1 -1 0 0 3024.dat
-0

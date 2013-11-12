@@ -2,7 +2,7 @@
 0 Name: snotroad_tripleblanknocross.ldr
 0 Mike Gallagher
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG -1 0
 1 14 310 12 -200 0 0 1 -1 0 0 0 -1 0 3794a.dat
 1 14 290 12 -200 0 0 1 -1 0 0 0 -1 0 3794a.dat
@@ -188,4 +188,3 @@
 1 0 200 12 -270.5 0 1 0 0 0 1 1 0 0 3024.dat
 1 0 192 12 -270.5 0 1 0 0 0 1 1 0 0 3024.dat
 1 15 208 2 -300.5 0 1 0 0 0 1 1 0 0 3004.dat
-0

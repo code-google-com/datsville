@@ -5,8 +5,8 @@
 0 Unofficial Datsville Town Model
 0 NoParent
 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 16 3760 -40 2420 1 0 0 0 1 0 0 0 1 vehicle_048_bluedigger.mpd
 1 16 3590 -32 2300 1 0 0 0 1 0 0 0 1 pedestrian_038_blueworker.ldr
@@ -127,5 +127,3 @@
 
 1 2 -2490 -32 5000 0 0 1 0 1 0 -1 0 0 vehicle_043_towercrane.mpd
 1 7 -2720 -104 -4480 0 0 1 0 1 0 -1 0 0 vehicle_045_redpassengertrain.mpd
-
-0

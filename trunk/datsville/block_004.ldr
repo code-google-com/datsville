@@ -84,7 +84,7 @@
 0 Inlined: 1 2 880 -8 1440 0 0 1 0 1 0 -1 0 0 _tsw16.ldr
 0 Inlining done.
 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 16 980 -16 600 0 0 1 0 1 0 -1 0 0 building_007_firecompany.ldr
 
@@ -103,4 +103,3 @@
 1 2 1440 -8 800 1 0 0 0 1 0 0 0 1 91405.dat
 1 2 1440 -8 480 1 0 0 0 1 0 0 0 1 91405.dat
 1 13 1280 0 640 1 0 0 0 1 0 0 0 1 3811.dat
-0

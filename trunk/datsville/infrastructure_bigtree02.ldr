@@ -6,7 +6,7 @@
 0 Unofficial Datsville Plant Model
 0 Parent: Bjphous1.ldr
 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 6 0 -24 0 1 0 0 0 1 0 0 0 1 3941.dat
 1 6 0 -48 0 1 0 0 0 1 0 0 0 1 3941.dat
@@ -64,4 +64,4 @@
 1 2 -34.641 -296 -20 0.574 0 0.819 0 -1 0 0.819 0 -0.574 2423.dat
 1 6 0 -320 0 -1 0 0 0 1 0 0 0 -1 4589.dat
 1 2 0 -328 0 -1 0 0 0 1 0 0 0 -1 2417.dat
-0
+

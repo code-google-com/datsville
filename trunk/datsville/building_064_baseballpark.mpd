@@ -3,7 +3,7 @@
 0 Name: building_064_baseballpark.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 19 450 -16 -450 -1 0 0 0 1 0 0 0 -1 2450.dat
 1 19 450 -16 130 0 0 1 0 1 0 -1 0 0 2450.dat
@@ -120,26 +120,26 @@
 1 47 540 -224 -540 1 0 0 0 1 0 0 0 1 6002.dat
 1 47 460 -224 -540 1 0 0 0 1 0 0 0 1 2572.dat
 1 47 540 -224 -460 0 0 -1 0 1 0 1 0 0 2572.dat
-0
+
 0 FILE building_064_bleacherssmall.ldr
 0 New Model
 0 Name: building_064_bleacherssmall.ldr
 0 Author: MLCad
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 4 0 -24 0 1 0 0 0 1 0 0 0 1 2445.dat
 1 15 90 -8 0 0 0 -1 0 1 0 1 0 0 3023.dat
 1 15 90 -16 0 0 0 -1 0 1 0 1 0 0 3023.dat
 1 15 -90 -8 0 0 0 -1 0 1 0 1 0 0 3023.dat
 1 15 -90 -16 0 0 0 -1 0 1 0 1 0 0 3023.dat
-0
+
 0 FILE building_064_bleacherslarge_a.ldr
 0 New Model
 0 Name: building_064_bleacherslarge_a.ldr
 0 Author: MLCad
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 15 -90 -48 20 0 0 -1 0 1 0 1 0 0 3009.dat
 1 15 -90 -72 40 0 0 -1 0 1 0 1 0 0 3010.dat
@@ -153,11 +153,7 @@
 1 1 0 -56 -20 -1 0 0 0 1 0 0 0 -1 4282.dat
 1 1 0 -80 20 -1 0 0 0 1 0 0 0 -1 4282.dat
 1 1 0 -104 60 -1 0 0 0 1 0 0 0 -1 4282.dat
-0 
-0 
-0 
-0 
-0
+
 0 FILE building_064_bleacherslarge_b.ldr
 0 New Model
 0 Name: building_064_bleacherslarge_b.ldr
@@ -167,7 +163,7 @@
 0 Name: building_064_bleacherslarge_a.ldr
 0 Author: MLCad
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 15 -90 -48 20 0 0 -1 0 1 0 1 0 0 3009.dat
 1 15 -90 -72 40 0 0 -1 0 1 0 1 0 0 3010.dat
@@ -181,13 +177,4 @@
 1 1 0 -56 -20 -1 0 0 0 1 0 0 0 -1 4282.dat
 1 1 0 -80 20 -1 0 0 0 1 0 0 0 -1 4282.dat
 1 1 0 -104 60 -1 0 0 0 1 0 0 0 -1 4282.dat
-0 
-0 
-0 
-0 
-0 
-0 
-0 
-0 
-0
-0
+

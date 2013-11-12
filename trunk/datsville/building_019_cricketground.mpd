@@ -9,7 +9,7 @@
 
 0 !LDBOXER LEVEL A
 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 2 586 0 0 1 0 0 0 1 0 0 0 1 building_019_bjwcri1.ldr
 1 2 -768 0 0 1 0 0 0 1 0 0 0 1 building_019_bjwcri2.ldr
@@ -344,7 +344,7 @@
 1 15 470 -96 150 1 0 0 0 1 0 0 0 1 3062b.dat
 1 15 470 -120 150 1 0 0 0 1 0 0 0 1 3062b.dat
 1 2 420 0 0 1 0 0 0 1 0 0 0 1 3031.dat
-0
+
 0 FILE building_019_bjwcri1.ldr
 0 Datsville Cricket Ground Stand
 0 Name: building_019_bjwcri1.ldr
@@ -353,7 +353,7 @@
 0 Unofficial Datsville Building Sub-Model
 0 Parent: Bjwcrick.ldr
 0 !LDBOXER LEVEL A
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 7 0 0 100 0 0 1 0 1 0 -1 0 0 3460.dat
 1 7 0 0 -80 0 0 1 0 1 0 -1 0 0 4477.dat
@@ -450,8 +450,7 @@
 1 7 170 -144 -100 0 0 1 0 1 0 -1 0 0 3006.dat
 1 7 170 -152 40 0 0 1 0 1 0 -1 0 0 4282.dat
 1 7 170 -152 -160 0 0 1 0 1 0 -1 0 0 3020.dat
-0 
-0
+
 0 FILE building_019_bjwcri2.ldr
 0 Datsville Cricket Ground Members Stand
 0 Name: building_019_bjwcri2.ldr
@@ -460,7 +459,7 @@
 0 Unofficial Datsville Building Sub-Model
 0 Parent: Bjwcrick.ldr
 0 !LDBOXER LEVEL A
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 7 50 0 -100 0 0 1 0 1 0 -1 0 0 3033.dat
 1 7 50 0 100 0 0 1 0 1 0 -1 0 0 3033.dat
@@ -627,6 +626,4 @@
 1 7 30 -376 100 0 0 1 0 1 0 -1 0 0 3030.dat
 1 7 130 -376 100 0 0 1 0 1 0 -1 0 0 3033.dat
 1 7 130 -376 -100 0 0 1 0 1 0 -1 0 0 3033.dat
-0 
-0
-0
+

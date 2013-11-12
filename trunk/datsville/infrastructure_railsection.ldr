@@ -5,7 +5,7 @@
 0 Unofficial Datsville Railway Sub-Model
 0 Parent: Town-20.ldr
 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 16 -50 -16 -160 0 0 1 0 1 0 -1 0 0 3228a.dat
 1 16 50 -16 -160 0 0 1 0 1 0 -1 0 0 3228a.dat
@@ -31,4 +31,3 @@
 1 7 -70 0 -60 0 0 1 0 1 0 -1 0 0 3710.dat
 1 7 -70 0 -380 0 0 1 0 1 0 -1 0 0 3710.dat
 1 7 70 0 -380 0 0 1 0 1 0 -1 0 0 3710.dat
-0

@@ -1,12 +1,12 @@
 0 FILE ljphill1.ldr
 0 Hill Modul: Side 1
-0 Name: Ljphill1.ldr
+0 Name: ljphill1.ldr
 0 Was: Thill2s.dat
 0 Author: Joachim Probst (jprobst@shadow-corner.ows.es)
 0 Unofficial Datsville Landscape Sub-Model
 0 Parent: Town1-1.ldr Town0-2.ldr
-0 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 16 -220 -24 -260 1 0 0 0 1 0 0 0 1 6212.dat
 1 16 220 -24 -260 1 0 0 0 1 0 0 0 1 6212.dat
@@ -47,4 +47,4 @@
 1 16 220 -192 220 1 0 0 0 1 0 0 0 1 733.dat
 1 16 -20 -192 220 1 0 0 0 1 0 0 0 1 733.dat
 1 16 100 -192 220 0 0 1 0 1 0 -1 0 0 3006.dat
-0
+

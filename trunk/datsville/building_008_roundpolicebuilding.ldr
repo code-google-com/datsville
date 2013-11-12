@@ -9,7 +9,7 @@
 
 0 !LDBOXER LEVEL A
 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 0 80 -24 -230 1 0 0 0 1 0 0 0 1 3004.dat
 1 0 -80 -24 -230 1 0 0 0 1 0 0 0 1 3004.dat
@@ -330,6 +330,5 @@
 1 7 80 -313 0 1 0 0 0 1 0 0 0 1 3957a.dat
 1 0 80 -313 280 1 0 0 0 1 0 0 0 1 3957a.dat
 1 0 -80 -313 280 1 0 0 0 1 0 0 0 1 3957a.dat
-0 
-0 Boxed 48 parts.
 0
+0 Boxed 48 parts.

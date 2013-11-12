@@ -11,19 +11,19 @@
 0 // Earth Scraper - Moved to Town10.ldr (TE, Rev033)
 0 1 2 -2330 -64 4200 -1 0 0 0 1 0 0 0 -1 vdhscrp.ldr
 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 16 -3360 -8 5480 0 0 -1 0 1 0 1 0 0 building_020_baitshop.ldr
 
@@ -65,7 +65,7 @@
 0 // men watching bridge contruction site
 0 // Earth Scraper - Moved from Town20.ldr (TE, Rev033)
 
-0 
+0
 0 !LDSWITCH CASE Use
 0 0
 0 !LDSWITCH End
@@ -216,4 +216,3 @@
 0 To Town00...
 1 2 -3540 -8 4820 0 0 1 0 1 0 -1 0 0 30145.dat
 1 2 -3530 -8 5450 -1 0 0 0 1 0 0 0 -1 3685.dat
-0

@@ -5,7 +5,7 @@
 0 Unofficial Datsville Minifig Model
 0 Parent: Bjjbank.ldr
 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 0 BFC NOCERTIFY
 
@@ -50,7 +50,7 @@
 1 14 80 -45 220 0 1 0 0 0 -1.3 -1.3 0 0 4-4disc.dat
 1 14 80 -41 220 0 1 0 0 0 -1.3 -1.3 0 0 4-4disc.dat
 1 14 80 -37 220 0 1 0 0 0 -1.3 -1.3 0 0 4-4disc.dat
-0 
+0
 0 Inlining done.
 1 14 89 -88 221 0 0 1 0 1 0 -1 0 0 3626bp03.dat
 0 Arms and Hands
@@ -58,4 +58,4 @@
 1 14 80.1 -37.2243 196.31 0 0.7071 0.7071 -0.1699 0.6968 -0.6968 -0.9855 -0.1201 0.1201 3820.dat
 1 2 90 -55 235.552 0 -0.7071 0.7071 0.1699 0.6968 0.6968 -0.9855 0.1201 0.1201 3818.dat
 1 14 69.6353 -49.5781 241.56 0 0 1 0.1699 0.9855 0 -0.9855 0.1699 0 3820.dat
-0
+

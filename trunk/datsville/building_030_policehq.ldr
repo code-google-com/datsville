@@ -22,7 +22,7 @@
 0 Sattelite Dish
 0 Author: Jonathan Wilson
 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 0 -37.62 -310.42 140 0 0.71 0.71 0 0.71 -0.71 -1 0 0 6134.dat
 1 0 -2.12 -317.52 140 0 0.71 0.71 0 -0.71 0.71 1 0 0 3956.dat
@@ -355,7 +355,7 @@
 1 0 -80 -272 10 1 0 0 0 1 0 0 0 1 3666.dat
 1 15 -10 -296 -110 1 0 0 0 1 0 0 0 1 3144.dat
 1 15 170 -296 150 1 0 0 0 1 0 0 0 1 3144.dat
-0 
+0
 0 Inlining done.
 0 Inlined: 1 0 380 0 -280 1 0 0 0 1 0 0 0 1 _bjwpol2.ldr
 0 Police Parking Lot
@@ -369,6 +369,5 @@
 
 0 EXTRACT
 
-0 
-0 Inlining done.
 0
+0 Inlining done.

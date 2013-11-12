@@ -9,8 +9,8 @@
 
 0 Title: Cargo Delivery Truck
 0 Filename: cargo.dat
-0 
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 0 0 0 -50 1 0 0 0 1 0 0 0 1 4600.dat
 1 0 0 0 110 1 0 0 0 1 0 0 0 1 4600.dat
@@ -71,4 +71,4 @@
 1 0 30 0 110 0 0 -1 0 1 0 1 0 0 4084.dat
 1 0 30 0 50 0 0 -1 0 1 0 1 0 0 4084.dat
 1 0 30 0 -50 0 0 -1 0 1 0 1 0 0 4084.dat
-0
+

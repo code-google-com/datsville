@@ -2,7 +2,7 @@
 0 Name: infrastructure_roadbridge.ldr
 0 Author: MLCad
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 0 -160 -96 0 0 0 -1 0 1 0 1 0 0 48288.dat
 1 0 -320 -96 0 0 0 -1 0 1 0 1 0 0 48288.dat
@@ -325,4 +325,3 @@
 1 7 1160 -24 -180 -1 0 0 0 1 0 0 0 -1 3001.dat
 1 7 1080 -24 -180 -1 0 0 0 1 0 0 0 -1 3001.dat
 1 7 1080 -48 -180 -1 0 0 0 1 0 0 0 -1 3001.dat
-0

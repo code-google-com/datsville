@@ -1,6 +1,7 @@
 0 Name: worker.dat
+0 Name: pedestrian_038_blueworker.ldr
 0 WRITE Author: Michael Horvath
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 1 0 0 0 1 0 0 0 1 0 0 0 1 3816.dat
 1 1 0 0 0 1 0 0 0 1 0 0 0 1 3817.dat
@@ -13,4 +14,3 @@
 1 14 -22 -31 -28 0 0 -1 0 1 0 1 0 0 977.dat
 1 7 -22 -31 -32 1 0 0 0 1 0 0 0 1 3841.dat
 1 14 22 -31 -28 0 0 -1 0 1 0 1 0 0 977.dat
-0
