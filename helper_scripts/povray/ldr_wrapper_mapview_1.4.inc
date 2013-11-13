@@ -1,3 +1,5 @@
+// +q7
+
 #if (version < 3.7)
 	#error "This POV code requires at least version 3.7\n"
 #end
@@ -26,22 +28,26 @@
 
 //#include "fastrad.inc"		// slooowwwwwww!!!
 
-global_settings {
-   assumed_gamma 1.0
-   adc_bailout 0.005
-   max_trace_level 50
-   ambient_light 1
-   radiosity {
-      pretrace_start 0.08
-      pretrace_end 0.02 // Try 0.01 if you see random black spots.
-      count 20
-      error_bound 1
-      recursion_limit 1
-      normal on
-      brightness 1.4
-      always_sample no
-      gray_threshold 0.8
-      media on}}
+global_settings
+{
+	assumed_gamma	1.0
+	adc_bailout	0.005
+	max_trace_level	0	//50
+	ambient_light	1
+	radiosity
+	{
+		pretrace_start	0.08
+		pretrace_end	0.02 // Try 0.01 if you see random black spots.
+		count		20
+		error_bound	1
+		recursion_limit	1
+		normal		on
+		brightness	1.4
+		always_sample	no
+		gray_threshold	0.8
+		media		on
+	}
+}
 
 
 #include "ldr_materials_1.4.inc"
