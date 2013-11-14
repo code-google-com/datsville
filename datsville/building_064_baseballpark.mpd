@@ -3,7 +3,7 @@
 0 Name: building_064_baseballpark.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 19 450 -16 -450 -1 0 0 0 1 0 0 0 -1 2450.dat
 1 19 450 -16 130 0 0 1 0 1 0 -1 0 0 2450.dat
@@ -84,7 +84,11 @@
 1 2 -160 -8 160 0 0 1 0 1 0 -1 0 0 91405.dat
 1 2 -480 -8 160 0 0 1 0 1 0 -1 0 0 91405.dat
 1 2 -320 -8 -640 -1 0 0 0 1 0 0 0 -1 building_064_bleacherslarge_a.ldr
+1 2 -320 -141 -670 -1 0 0 0 1 0 0 0 -1 pedestrian_035_blackpreppiesitting.ldr
+1 2 -380 -117 -630 -1 0 0 0 1 0 0 0 -1 pedestrian_034_blondefemalesitting.ldr
 1 2 640 -8 320 0 0 1 0 1 0 -1 0 0 building_064_bleacherslarge_b.ldr
+1 2 670 -141 320 0 0 1 0 1 0 -1 0 0 pedestrian_033_pinkfemalesitting.ldr
+1 2 630 -117 400 0 0 1 0 1 0 -1 0 0 pedestrian_032_pinkpunksitting.ldr
 1 2 -480 -8 480 0 0 1 0 1 0 -1 0 0 91405.dat
 1 2 -160 -8 480 0 0 1 0 1 0 -1 0 0 91405.dat
 1 2 160 -8 480 0 0 1 0 1 0 -1 0 0 91405.dat
@@ -120,13 +124,32 @@
 1 47 540 -224 -540 1 0 0 0 1 0 0 0 1 6002.dat
 1 47 460 -224 -540 1 0 0 0 1 0 0 0 1 2572.dat
 1 47 540 -224 -460 0 0 -1 0 1 0 1 0 0 2572.dat
+1 2 460 -88 -510 -1 0 0 0 1 0 0 0 -1 pedestrian_031_blueteambatter.ldr
+1 2 260 -86 -608 -1 0 0 0 1 0 0 0 -1 pedestrian_030_blueteamsitting.ldr
+1 2 200 -86 -608 -1 0 0 0 1 0 0 0 -1 pedestrian_030_blueteamsitting.ldr
+1 2 120 -86 -608 -1 0 0 0 1 0 0 0 -1 pedestrian_030_blueteamsitting.ldr
+1 2 341 -80 -611 -1 0 0 0 1 0 0 0 -1 pedestrian_029_blueteamstanding.ldr
+1 2 1 -80 -611 -1 0 0 0 1 0 0 0 -1 pedestrian_029_blueteamstanding.ldr
+1 2 -79 -80 -611 -1 0 0 0 1 0 0 0 -1 pedestrian_029_blueteamstanding.ldr
+1 2 -191 -88 140 0 0 -1 0 1 0 1 0 0 pedestrian_029_blueteamstanding.ldr
+1 2 180 -104 -176 0.707107 0 -0.707107 0 1 0 0.707107 0 0.707107 pedestrian_028_redteamstanding.ldr
+1 2 551 -80 -540 0 0 1 0 1 0 -1 0 0 pedestrian_028_redteamstanding.ldr
+1 2 -250 -88 80 0 0 -1 0 1 0 1 0 0 pedestrian_028_redteamstanding.ldr
+1 2 -190 -88 -440 0 0 -1 0 1 0 1 0 0 pedestrian_028_redteamstanding.ldr
+1 2 439 -88 210 1 0 0 0 1 0 0 0 1 pedestrian_028_redteamstanding.ldr
+1 2 -80 -88 210 1 0 0 0 1 0 0 0 1 pedestrian_028_redteamstanding.ldr
+1 2 280 -80 791 1 0 0 0 1 0 0 0 1 pedestrian_028_redteamstanding.ldr
+1 2 -820 -80 791 1 0 0 0 1 0 0 0 1 pedestrian_028_redteamstanding.ldr
+1 2 -811 -80 -400 0 0 -1 0 1 0 1 0 0 pedestrian_028_redteamstanding.ldr
+1 2 60 -86 -608 -1 0 0 0 1 0 0 0 -1 pedestrian_030_blueteamsitting.ldr
 
+0
 0 FILE building_064_bleacherssmall.ldr
 0 New Model
 0 Name: building_064_bleacherssmall.ldr
 0 Author: MLCad
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 4 0 -24 0 1 0 0 0 1 0 0 0 1 2445.dat
 1 15 90 -8 0 0 0 -1 0 1 0 1 0 0 3023.dat
@@ -134,12 +157,13 @@
 1 15 -90 -8 0 0 0 -1 0 1 0 1 0 0 3023.dat
 1 15 -90 -16 0 0 0 -1 0 1 0 1 0 0 3023.dat
 
+0
 0 FILE building_064_bleacherslarge_a.ldr
 0 New Model
 0 Name: building_064_bleacherslarge_a.ldr
 0 Author: MLCad
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 -90 -48 20 0 0 -1 0 1 0 1 0 0 3009.dat
 1 15 -90 -72 40 0 0 -1 0 1 0 1 0 0 3010.dat
@@ -154,6 +178,7 @@
 1 1 0 -80 20 -1 0 0 0 1 0 0 0 -1 4282.dat
 1 1 0 -104 60 -1 0 0 0 1 0 0 0 -1 4282.dat
 
+0
 0 FILE building_064_bleacherslarge_b.ldr
 0 New Model
 0 Name: building_064_bleacherslarge_b.ldr
@@ -163,7 +188,7 @@
 0 Name: building_064_bleacherslarge_a.ldr
 0 Author: MLCad
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 -90 -48 20 0 0 -1 0 1 0 1 0 0 3009.dat
 1 15 -90 -72 40 0 0 -1 0 1 0 1 0 0 3010.dat
@@ -178,3 +203,6 @@
 1 1 0 -80 20 -1 0 0 0 1 0 0 0 -1 4282.dat
 1 1 0 -104 60 -1 0 0 0 1 0 0 0 -1 4282.dat
 
+0 
+0
+0
