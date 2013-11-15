@@ -1,0 +1,17 @@
+0 Untitled
+0 Name: infrastructure_streetlamp_3.ldr
+0 Author: Michael Heidemann
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 288 0 -8 -10 0 0 -1 0 1 0 1 0 0 30383.dat
+1 288 0 -87 0 0 1 0 -1 0 0 0 0 1 3706.dat
+1 288 0 -24 0 1 0 0 0 0 -1 0 1 0 482.dat
+1 288 0 -147 0 0 1 0 0 0 -1 -1 0 0 59443.dat
+1 288 0 -198 0 0 0 1 0 1 0 -1 0 0 6553.dat
+1 288 0 -198 0 0 0 1 0 1 0 -1 0 0 3705.dat
+1 288 0 -198 50 0 1 0 -1 0 0 0 0 1 32013.dat
+1 288 0 -198 -50 0 -1 0 -1 0 0 0 0 -1 32013.dat
+1 46 0 -188 50 0 0 1 0 1 0 -1 0 0 4740.dat
+1 46 0 -188 -50 0 0 1 0 1 0 -1 0 0 4740.dat
+0
