@@ -1,0 +1,17 @@
+0 Untitled
+0 Name: snotroad_vs_baseplate.ldr
+0 Author: Michael Horvath
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 axis32x.dat
+1 13 320 0 0 1 0 0 0 1 0 0 0 1 3811.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 91405.dat
+1 16 0 -8 0 1 0 0 0 1 0 0 0 1 91405.dat
+1 16 0 8 0 1 0 0 0 1 0 0 0 1 91405.dat
+1 16 0 16 0 1 0 0 0 1 0 0 0 1 91405.dat
+1 16 0 24 0 1 0 0 0 1 0 0 0 1 91405.dat
+1 16 -320 0 0 1 0 0 0 1 0 0 0 1 snotroad_doubledash_+0.ldr
+1 16 -110 12 -330 1 0 0 0 1 0 0 0 1 87087.dat
+1 16 -140 32 -330 1 0 0 0 0 1 0 -1 0 87087.dat
+0

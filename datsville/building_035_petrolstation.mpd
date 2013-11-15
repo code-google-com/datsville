@@ -9,14 +9,15 @@
 
 0 !LDBOXER LEVEL 0
 
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
-1 7 0 0 0 1 0 0 0 1 0 0 0 1 building_035_1.LDR
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 building_035_1.LDR
 1 0 -60 -24 -50 1 0 0 0 1 0 0 0 1 vehicle_038_redpickuptruck02.ldr
 1 0 0 0 -20 1 0 0 0 1 0 0 0 1 pedestrian_020_manbluestripeswhitecapsunglasses.ldr
 1 0 140 -40 -70 1 0 0 0 1 0 0 0 1 vehicle_039_yellowshelltankertruck.ldr
 1 0 -300 -8 180 1 0 0 0 1 0 0 0 1 pedestrian_021_manredoverallsredcap.ldr
 
+0
 0 FILE building_035_1.LDR
 0 Petrol Station with Baseplates
 0 Name: building_035_1.LDR
@@ -31,7 +32,7 @@
 0 Petrol Station
 0 Author: Jonathan Wilson
 
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 40 -16 -80 -1 0 0 0 1 0 0 0 -1 building_035_5.LDR
 1 15 40 -16 80 1 0 0 0 1 0 0 0 1 building_035_5.LDR
@@ -366,13 +367,8 @@
 1 4 -80 -224 -200 1 0 0 0 1 0 0 0 1 2445.dat
 1 15 -190 -208 100 0 0 1 0 1 0 -1 0 0 3004.dat
 1 14 270 -208 -40 0 0 1 0 1 0 -1 0 0 2465.dat
-0
+0 
 0 Inlining done.
-1 7 0 0 0 0 0 -1 0 1 0 1 0 0 309p01.dat
-1 7 -400 0 160 0 0 1 0 1 0 -1 0 0 3865.dat
-1 7 -400 0 -160 0 0 1 0 1 0 -1 0 0 3865.dat
-1 7 210 -8 -310 0 0 -1 0 1 0 1 0 0 2420.dat
-1 7 160 -8 -310 1 0 0 0 1 0 0 0 1 3023.dat
 1 7 280 -8 -180 1 0 0 0 1 0 0 0 1 3031.dat
 1 7 280 -8 -260 1 0 0 0 1 0 0 0 1 3031.dat
 1 7 280 -8 -310 1 0 0 0 1 0 0 0 1 3710.dat
@@ -432,8 +428,6 @@
 1 7 -360 -8 160 1 0 0 0 1 0 0 0 1 3068b.dat
 1 7 -360 -8 120 1 0 0 0 1 0 0 0 1 3068b.dat
 1 7 -430 -8 140 0 0 1 0 1 0 -1 0 0 4162.dat
-1 7 180 -8 310 1 0 0 0 1 0 0 0 1 3710.dat
-1 7 210 -8 290 1 0 0 0 1 0 0 0 1 3024.dat
 1 7 230 -8 290 1 0 0 0 1 0 0 0 1 3024.dat
 1 7 250 -8 290 1 0 0 0 1 0 0 0 1 3024.dat
 1 7 270 -8 290 1 0 0 0 1 0 0 0 1 3024.dat
@@ -471,6 +465,7 @@
 1 15 -160 -72 20 1 0 0 0 1 0 0 0 1 4740.dat
 1 0 -160 -96 20 0 0 1 0 1 0 -1 0 0 4599a.dat
 
+0
 0 FILE building_035_5.LDR
 0 Petrol Station Pump
 0 Name: building_035_5.LDR
@@ -481,7 +476,7 @@
 
 0 !LDBOXER LEVEL 0
 
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 14 0 0 0 0 0 1 0 1 0 -1 0 0 3020.dat
 1 4 0 -8 0 0 0 1 0 1 0 -1 0 0 3020.dat
@@ -508,6 +503,7 @@
 1 7 0 0 0 1 0 0 0 1 0 0 0 1 building_035_BJWGS51.LDR
 1 7 0 0 0 -1 0 0 0 1 0 0 0 1 building_035_BJWGS51.LDR
 
+0
 0 FILE building_035_2.LDR
 0 Shell Sign  1 x 24
 0 Name: building_035_2.LDR
@@ -518,7 +514,7 @@
 
 0 !LDBOXER LEVEL 0
 
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 14 -180 -204 -210 -1 0 0 0 -5 0 0 0 -1 stud3.dat
 1 14 -160 -204 -210 -1 0 0 0 -5 0 0 0 -1 stud3.dat
@@ -1100,6 +1096,7 @@
 
 0 Inlining done.
 
+0
 0 FILE building_035_4.LDR
 0 Main Sign
 0 Name: building_035_4.LDR
@@ -1110,7 +1107,7 @@
 
 0 !LDBOXER LEVEL 0
 
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 270 -124 -250 26 0 0 0 116 0 0 0 6 box4.dat
 4 15 300 -8 -240 296 -8 -244 244 -8 -244 240 -8 -240
@@ -1216,6 +1213,7 @@
 1 15 270 -72 -240 0.43 0 0 0 0 0.5 0 -1 0 building_035_BJWGS41.LDR
 1 15 270 -208 -240 0.43 0 0 0 0 0.5 0 -1 0 building_035_BJWGS42.LDR
 
+0
 0 FILE building_035_X772PARR.DAT
 0 Brick  1 x  2 x  2 with Arrow Sign Pattern
 0 Name: building_035_X772PARR.DAT
@@ -1224,7 +1222,7 @@
 0 Unofficial Datsville Part
 0 Parent: _building_0351.ldr
 
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 0 BFC NOCERTIFY
 
@@ -1655,6 +1653,7 @@
 
 0 Inlining done.
 
+0
 0 FILE building_035_X772PSHE.DAT
 0 Brick  1 x  2 x  2 with Shell Logo Sign Pattern
 0 Name: building_035_X772PSHE.DAT
@@ -1663,7 +1662,7 @@
 0 Unofficial Datsville Part
 0 Parent: _building_0351.ldr
 
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 0 BFC NOCERTIFY
 
@@ -1882,6 +1881,7 @@
 
 0 Inlining done.
 
+0
 0 FILE building_035_3.LDR
 0 Select Shop Sign
 0 Name: building_035_3.LDR
@@ -1892,7 +1892,7 @@
 
 0 !LDBOXER LEVEL 0
 
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 4 -200 -124 -260 0 0 1 0 -1 0 -1 0 0 stud4.dat
 1 4 -200 -124 -240 0 0 1 0 -1 0 -1 0 0 stud4.dat
@@ -3155,6 +3155,7 @@
 
 0 Inlining done.
 
+0
 0 FILE building_035_BJWGS51.LDR
 0 Petrol Station Pump Hose Pair
 0 Name: building_035_BJWGS51.LDR
@@ -3164,7 +3165,7 @@
 
 0 !LDBOXER LEVEL 0
 
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 5 24 14 -100 -20 14 -96 -20 13.8478 -100 -20.7654 13.8478 -100 -19.2346
 4 256 14 -100 -20 14 -96 -20 13.8478 -96 -19.2346 13.8478 -100 -19.2346
@@ -3633,6 +3634,7 @@
 1 256 39 -14 -12 0 -15 -2 0 0 15 -15 0 0 t04i1304.dat
 1 256 39 -14 -12 0 -15 -2 0 0 15 -15 0 0 t04o1304.dat
 
+0
 0 FILE building_035_BJWGS41.LDR
 0 Main Sign Bitmap 1
 0 Name: building_035_BJWGS41.LDR
@@ -3643,7 +3645,7 @@
 
 0 !LDBOXER LEVEL 0
 
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 4 8 66.5 0 -134.5 -64.5 0 -134.5 -64.5 0 -133.5 66.5 0 -133.5
 4 8 66.5 0 -133.5 -64.5 0 -133.5 -64.5 0 -132.5 66.5 0 -132.5
@@ -5451,6 +5453,7 @@
 4 0 66.5 0 132.5 -64.5 0 132.5 -64.5 0 133.5 66.5 0 133.5
 4 0 66.5 0 133.5 -64.5 0 133.5 -64.5 0 134.5 66.5 0 134.5
 
+0
 0 FILE building_035_BJWGS42.LDR
 0 Main Sign Bitmap 2
 0 Name: building_035_BJWGS42.LDR
@@ -5464,7 +5467,7 @@
 0 Main Sign Shell Logo
 0 Author: Jonathan Wilson
 
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 4 15 70.5 0 -129.5 -70.5 0 -129.5 -70.5 0 -116 70.5 0 -116
 4 15 70.5 0 -32.5 -70.5 0 -32.5 -70.5 0 -9.5 70.5 0 -9.5
@@ -6947,3 +6950,6 @@
 4 8 70.5 0 134.5 -70.5 0 134.5 -70.5 0 135.5 70.5 0 135.5
 4 8 70.5 0 135.5 -70.5 0 135.5 -70.5 0 136.5 70.5 0 136.5
 
+0 
+0
+0
