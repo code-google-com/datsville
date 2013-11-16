@@ -17,22 +17,23 @@
   # Figure out the best way to implement sloped roads.
   # Building 58 has a lower storey that is being clipped by the ground.
   # The white camper in Tore's "pending" folder is a very nice model. It would be great if we could use it.
-  # Replace petrol station's baseplates with SNOT roads?
-  # The parking lots near the university and apartment complex are ugly and need to be redesigned.
+  # <s>Replace petrol station's baseplates with SNOT roads?</s>
+  # <s>The parking lots near the university and apartment complex are ugly and need to be redesigned.</s>
   # The cell tower looks more like a tornado siren. Rename?
   # Make sure all "boxed" parts have edge lines. It's possible Tore's parts all had edge lines, and I overrode them with my own edgeline-less parts mistakenly.
   # Need to consider again which versions of Mike Gallagher's SNOT roads to use because he has created several. The latest versions have blue wheelchair accessible ramps.
-  # Baseball players are missing from the baseball field.
+  # <s>Baseball players are missing from the baseball field.</s>
   # The grocery store needs some parking spaces.
   # Not sure what "t04i1304.dat" and "t04o1304.dat" are for. Can they be safely deleted?
   # Why are "dx900.dat" and "dx901.dat" needed? Also "look_at.dat".
   # Datsville has a radio tower, but no radio station.
   # Add sewer drains to SNOT roads.
-  # Replace any road baseplates that still might exist with SNOT roads.
+  # <s>Replace any road baseplates that still might exist with SNOT roads.</s>
   # Update myboxer's "box_list.ini" if possible.
   # The city needs fire hydrants.
   # There are still some TLG-designed models that unfortunately need to be removed.
   # I am thinking about changing the asphalt color from black to dark gray, and the sidewalk color from white to light gray. Those colors look a little more urban. But is that what we want?
   # I would like to add a model of a giant tree.
   # Houses need bushes, gardens, etc. around them.
-  # Baseball field needs spotlights.
+  # Baseball field needs spotlights and a fence surrounding the outfield.
+  # One-way streets need two neighboring traffic signals at intersections since both lanes are going in the same direction.
