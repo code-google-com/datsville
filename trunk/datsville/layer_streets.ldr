@@ -177,9 +177,9 @@
 1 7 -7680 0 -2560 0 0 -1 0 1 0 1 0 0 infrastructure_streetlampsingle.ldr
 1 7 -8320 0 -2560 0 0 -1 0 1 0 1 0 0 snotroad_doublestripecross.ldr
 1 7 -8320 0 -2560 0 0 -1 0 1 0 1 0 0 infrastructure_streetlamppair.ldr
-1 7 -7680 0 640 0 0 1 0 1 0 -1 0 0 snotroad_tripleblanknocross.ldr
+1 7 -7680 0 640 0 0 1 0 1 0 -1 0 0 snotroad_triplestripenocross.ldr
 1 7 -7680 0 640 0 0 1 0 1 0 -1 0 0 infrastructure_streetlampsingle.ldr
-1 7 -8320 0 640 0 0 1 0 1 0 -1 0 0 snotroad_tripleblankcross_2.ldr
+1 7 -8320 0 640 0 0 1 0 1 0 -1 0 0 snotroad_triplestripecross_2.ldr
 1 7 -8320 0 640 0 0 1 0 1 0 -1 0 0 infrastructure_streetlampsingle.ldr
 1 7 -2560 0 4480 -1 0 0 0 1 0 0 0 -1 snotroad_doublestripecross.ldr
 1 7 -2560 0 5120 1 0 0 0 1 0 0 0 1 snotroad_doublestripenocross.ldr
@@ -352,9 +352,9 @@
 1 7 -5120 0 0 1 0 0 0 1 0 0 0 1 snotroad_tripleblanknocross.ldr
 1 7 -5120 0 0 1 0 0 0 1 0 0 0 1 infrastructure_streetlampsingle.ldr
 1 7 -5120 0 -640 0 0 1 0 1 0 -1 0 0 snotroad_curveblanknocross.ldr
-1 7 -7680 0 3840 0 0 1 0 1 0 -1 0 0 snotroad_tripleblanknocross.ldr
+1 7 -7680 0 3840 0 0 1 0 1 0 -1 0 0 snotroad_triplestripenocross.ldr
 1 7 -7680 0 3840 1 0 0 0 1 0 0 0 1 infrastructure_signstopsingle.ldr
-1 7 -8960 0 3200 1 0 0 0 1 0 0 0 1 snotroad_tripleblanknocross.ldr
+1 7 -8960 0 3200 1 0 0 0 1 0 0 0 1 snotroad_triplestripenocross.ldr
 1 7 -8960 0 3200 0 0 -1 0 1 0 1 0 0 infrastructure_signstopsingle.ldr
 1 7 -7680 0 3200 0 0 1 0 1 0 -1 0 0 snotroad_curvestripenocross.ldr
 1 7 -7420 -8 3210 0 0 1 0 1 0 -1 0 0 infrastructure_busstop.ldr
