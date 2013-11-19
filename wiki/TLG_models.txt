@@ -1,5 +1,5 @@
 vehicle_004_yellowtractorshovel.ldr
 building_003_eastwickechapel.ldr
-building_018_datsvillecollege.ldr ???
-building_041_collegelawn.ldr ???
-building_035_petrolstation.mpd (shell logo)
+building_018_datsvillecollege.ldr
+building_041_collegelawn.ldr
+building_035_petrolstation.mpd (shell logo only?)
