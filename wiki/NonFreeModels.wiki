@@ -1,0 +1,8 @@
+#summary Models with non-free licenses that need to be replaced
+
+|| *Model* || *Issue* ||
+|| vehicle_004_yellowtractorshovel.ldr || TLG ||
+|| building_003_eastwickechapel.ldr || TLG ||
+|| building_018_datsvillecollege.ldr || TLG ||
+|| building_041_collegelawn.ldr || probably TLG ||
+|| building_035_petrolstation.mpd || (shell logo, other?) ||
