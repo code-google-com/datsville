@@ -1,0 +1,17 @@
+0 New Model
+0 Name: pedestrian_053_blueworkersitting.ldr
+0 Author: Michael Horvath
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 1 0 -9 28 1 0 0 0 0 1 0 -1 0 3816.dat
+1 1 0 -9 28 1 0 0 0 0 1 0 -1 0 3817.dat
+1 1 0 -21 28 1 0 0 0 1 0 0 0 1 3815.dat
+1 1 0 -53 28 1 0 0 0 1 0 0 0 1 973.dat
+1 14 0 -77 28 1 0 0 0 1 0 0 0 1 3626bp01.dat
+1 1 0 -77 28 1 0 0 0 1 0 0 0 1 3833.dat
+1 1 0 -44 28 1 0 0 0 0.71 0.71 0 -0.71 0.71 975.dat
+1 1 0 -44 28 1 0 0 0 0.71 0.71 0 -0.71 0.71 976.dat
+1 14 22 -40 0 0 0 -1 0 1 0 1 0 0 977.dat
+1 14 -22 -40 0 0 0 -1 0 1 0 1 0 0 977.dat
+0

@@ -1,6 +1,6 @@
-0 FILE O__CRANE.LDR
+0 FILE vehicle_043_O__CRANE.LDR
 0 Crane
-0 Name: O__CRANE.LDR
+0 Name: vehicle_043_O__CRANE.LDR
 0 Was: Tcrane.dat
 0 Author:
 0 Unofficial Datsville Other Model
@@ -8,11 +8,13 @@
 
 0 Location: -2180 -32 5000
 
-1 7 0 4 0 1 0 0 0 1 0 0 0 1 _o__cra1.ldr
-1 7 -60 -216 -120 1 0 0 0 1 0 0 0 1 _o__cra2.ldr
-1 7 -60 -464 -120 1 0 0 0 1 0 0 0 1 _o__cra2.ldr
-1 7 -60 -784 -20 1 0 0 0 1 0 0 0 1 _o__cra3.ldr
-1 7 -60 -848 -80 1 0 0 0 1 0 0 0 1 _o__cra4.ldr
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 7 0 4 0 1 0 0 0 1 0 0 0 1 vehicle_043__O__CRA1.LDR
+1 7 -60 -216 -120 1 0 0 0 1 0 0 0 1 vehicle_043__O__CRA2.LDR
+1 7 -60 -464 -120 1 0 0 0 1 0 0 0 1 vehicle_043__O__CRA2.LDR
+1 7 -60 -784 -20 1 0 0 0 1 0 0 0 1 vehicle_043__O__CRA3.LDR
+1 7 -60 -848 -80 1 0 0 0 1 0 0 0 1 vehicle_043__O__CRA4.LDR
 
 0 1 7 -60 -712 -120 1 0 0 0 1 0 0 0 1 crsect.dat
 0 1 7 -60 -960 -120 1 0 0 0 1 0 0 0 1 crsect.dat
@@ -21,9 +23,10 @@
 0 1 7 -60 -1704 -120 1 0 0 0 1 0 0 0 1 crsect.dat
 0 1 7 -60 -1952 -120 1 0 0 0 1 0 0 0 1 crsect.dat
 
-0 FILE _O__CRA1.LDR
+0
+0 FILE vehicle_043__O__CRA1.LDR
 0 Crane Base
-0 Name: _O__CRA1.LDR
+0 Name: vehicle_043__O__CRA1.LDR
 0 Was: Cranebas.dat
 0 Author:
 0 Unofficial Datsville Other Sub-Model
@@ -31,6 +34,8 @@
 
 0 !LDBOXER LEVEL 0
 
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 3002.dat
 1 0 -60 0 0 1 0 0 0 1 0 0 0 1 3002.dat
 1 0 -120 0 0 1 0 0 0 1 0 0 0 1 3002.dat
@@ -116,9 +121,10 @@
 1 0 20 -88 10 1 0 0 0 1 0 0 0 1 3070a.dat
 1 0 -140 -88 -170 1 0 0 0 1 0 0 0 1 3070a.dat
 
-0 FILE _O__CRA2.LDR
+0
+0 FILE vehicle_043__O__CRA2.LDR
 0 Crane Section
-0 Name: _O__CRA2.LDR
+0 Name: vehicle_043__O__CRA2.LDR
 0 Was: Crsect.dat
 0 Author:
 0 Unofficial Datsville Other Sub-Model
@@ -126,6 +132,8 @@
 
 0 !LDBOXER LEVEL 0
 
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
 1 15 0 0 0 1 0 0 0 1 0 0 0 1 4519.dat
 1 15 -20 0 0 0 0 1 1 0 0 0 1 0 32039.dat
 1 15 20 0 0 0 0 -1 -1 0 0 0 1 0 32039.dat
@@ -147,9 +155,10 @@
 1 15 -40 72 0 0 -1 0 1 0 0 0 0 1 3708.dat
 1 15 40 72 0 0 -1 0 1 0 0 0 0 1 3708.dat
 
-0 FILE _O__CRA3.LDR
+0
+0 FILE vehicle_043__O__CRA3.LDR
 0 Crane Top
-0 Name: _O__CRA3.LDR
+0 Name: vehicle_043__O__CRA3.LDR
 0 Was: Cranetop.dat
 0 Author:
 0 Unofficial Datsville Other Sub-Model
@@ -157,6 +166,8 @@
 
 0 !LDBOXER LEVEL 0
 
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 3894.dat
 1 0 0 0 -40 1 0 0 0 1 0 0 0 1 3894.dat
 1 0 0 0 -80 1 0 0 0 1 0 0 0 1 3894.dat
@@ -201,9 +212,10 @@
 1 4 -40 8 -135 1 0 0 0 1 0 0 0 1 32123a.dat
 1 4 40 8 -135 1 0 0 0 1 0 0 0 1 32123a.dat
 
-0 FILE _O__CRA4.LDR
+0
+0 FILE vehicle_043__O__CRA4.LDR
 0 Crane Arm
-0 Name: _O__CRA4.LDR
+0 Name: vehicle_043__O__CRA4.LDR
 0 Was: Cranearm.dat
 0 Author:
 0 Unofficial Datsville Other Sub-Model
@@ -211,6 +223,8 @@
 
 0 !LDBOXER LEVEL 0
 
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
 1 4 0 24 0 1 0 0 0 1 0 0 0 1 3404.dat
 1 15 0 -8 0 1 0 0 0 1 0 0 0 1 3029.dat
 1 4 0 0 0 1 0 0 0 1 0 0 0 1 6222.dat
@@ -352,16 +366,7 @@
 1 0 -10 80 -150 1 0 0 0 1 0 0 0 1 4593.dat
 1 0 -10 80 -130 0.707107 -0.707107 0 0.707107 0.707107 0 0 0 1 4593.dat
 1 6 20 80 -140 0 0 1 0 1 0 -1 0 0 4079.dat
-1 1 30 56 -140 0 0 1 0 1 0 -1 0 0 3815.dat
-1 1 30 72 -140 0 -1 0 0 0 1 -1 0 0 3817.dat
-1 1 30 72 -140 0 -1 0 0 0 1 -1 0 0 3816.dat
-1 7 30 24 -140 0 0 1 0 1 0 -1 0 0 973p19.dat
-1 7 30 32 -140 0 0 1 0 1 0 -1 0 0 976.dat
-1 7 30 32 -140 0 0 1 0 1 0 -1 0 0 975.dat
-1 14 10 56 -160 0.707107 0.707107 0 -0.707107 0.707107 0 0 0 1 977.dat
-1 14 10 56 -120 0.707107 0.707107 0 -0.707107 0.707107 0 0 0 1 977.dat
-1 14 30 0 -140 0 0 1 0 1 0 -1 0 0 3626bp04.dat
-1 4 30 0 -140 0 0 1 0 1 0 -1 0 0 3833.dat
+1 6 0 80 -140 1 0 0 0 1 0 0 0 1 pedestrian_052_craneoperator.ldr
 1 15 50 -8 -140 0 0 -1 0 1 0 1 0 0 6154.dat
 1 41 20 -8 -170 -1 0 0 0 1 0 0 0 -1 2362b.dat
 1 15 20 64 -170 1 0 0 0 1 0 0 0 1 3004.dat
@@ -380,3 +385,5 @@
 1 15 -1410 -40 30 1 0 0 0 1 0 0 0 1 3623.dat
 1 15 -1410 -40 -30 1 0 0 0 1 0 0 0 1 3623.dat
 
+0
+0

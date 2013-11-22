@@ -58,7 +58,7 @@
 1 16 -600 -8 3360 -1 0 0 0 1 0 0 0 -1 building_004_bramlcottage.ldr
 1 15 -600 -8 3500 -1 0 0 0 1 0 0 0 -1 87079.dat
 1 15 -600 -8 3460 -1 0 0 0 1 0 0 0 -1 87079.dat
-1 16 -1390 -8 2450 1 0 0 0 1 0 0 0 1 building_014_watertower.ldr
+1 16 -1390 -8 2450 1 0 0 0 1 0 0 0 1 building_014_watertower.mpd
 1 0 -1050 -8 2790 1 0 0 0 1 0 0 0 1 infrastructure_bigtree01.ldr
 1 0 -1050 -8 3110 0 0 1 0 1 0 -1 0 0 infrastructure_bigtree01.ldr
 1 0 -1050 -8 3430 0 0 1 0 1 0 -1 0 0 infrastructure_bigtree01.ldr
@@ -68,10 +68,10 @@
 1 13 -1280 0 3200 1 0 0 0 1 0 0 0 1 3811.dat
 1 13 -640 0 2560 1 0 0 0 1 0 0 0 1 3811.dat
 1 13 -640 0 3200 1 0 0 0 1 0 0 0 1 3811.dat
-1 16 -1440 -8 1760 1 0 0 0 1 0 0 0 1 building_015_parisianshop.ldr
+1 16 -1440 -8 1760 1 0 0 0 1 0 0 0 1 building_015_parisianshop.mpd
 1 16 -2000 -8 1770 1 0 0 0 1 0 0 0 1 building_042_glassstore.ldr
 1 13 -1920 0 1920 1 0 0 0 1 0 0 0 1 3811.dat
-1 16 -640 -8 1940 1 0 0 0 1 0 0 0 1 building_012_triplex.ldr
+1 16 -640 -8 1940 1 0 0 0 1 0 0 0 1 building_012_triplex.mpd
 1 16 -1150 -8 1840 1 0 0 0 1 0 0 0 1 infrastructure_bigtree01.ldr
 1 16 -1050 -8 2150 1 0 0 0 1 0 0 0 1 infrastructure_bigtree01.ldr
 1 16 -550 -8 2330 1 0 0 0 1 0 0 0 1 infrastructure_bigtree01.ldr

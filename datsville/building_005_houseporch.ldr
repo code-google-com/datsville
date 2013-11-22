@@ -4,11 +4,6 @@
 0 Author: Jeff "Auld Dragon" Stembel
 0 < Dragonelf1@aol.com >
 0 Unofficial Datsville Building Model
-0 Parent: Town0-1.ldr
-0 Location: -420 0 420
-
-0 !LDBOXER LEVEL A
-
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 15 150 -24 -100 0 0 1 0 1 0 -1 0 0 3004.dat
@@ -360,4 +355,3 @@
 1 0 0 -456 60 1 0 0 0 1 0 0 0 1 3299.dat
 1 0 80 -456 60 1 0 0 0 1 0 0 0 1 3299.dat
 1 15 -140 -504 60 1 0 0 0 1 0 0 0 1 3300.dat
-0 Boxed 160 parts.
