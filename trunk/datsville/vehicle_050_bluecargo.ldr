@@ -1,7 +1,7 @@
-0 Name: cargo.dat
+0 Name: vehicle_050_bluecargo.ldr
 0 Name: vehicle_050_bluecargo.ldr
 0 WRITE Author: Michael Horvath
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 122c01.dat
 1 0 0 0 40 1 0 0 0 1 0 0 0 1 122c01.dat
@@ -32,14 +32,6 @@
 1 14 30 -56 80 0 0 -1 0 1 0 1 0 0 2432.dat
 1 14 0 -64 80 1 0 0 0 1 0 0 0 1 3068b.dat
 1 14 0 -16 20 1 0 0 0 1 0 0 0 1 4079.dat
+1 14 0 -16 0 1 0 0 0 1 0 0 0 1 pedestrian_055_blackcapworkersitting.ldr
 1 14 0 -16 -10 1 0 0 0 1 0 0 0 1 2412a.dat
-1 1 0 -16 30 1 0 0 0 0 1 0 -1 0 3816.dat
-1 1 0 -16 30 1 0 0 0 0 1 0 -1 0 3817.dat
-1 1 0 -32 30 1 0 0 0 1 0 0 0 1 3815.dat
-1 1 0 -64 30 1 0 0 0 1 0 0 0 1 973.dat
-1 14 0 -88 30 1 0 0 0 1 0 0 0 1 3626bp01.dat
-1 0 0 -88 30 1 0 0 0 1 0 0 0 1 3833.dat
-1 1 0 -56 30 1 0 0 0 0.71 0.71 0 -0.71 0.71 975.dat
-1 1 0 -56 30 1 0 0 0 0.71 0.71 0 -0.71 0.71 976.dat
-1 14 22 -52 2 0 0 -1 0 1 0 1 0 0 977.dat
-1 14 -22 -52 2 0 0 -1 0 1 0 1 0 0 977.dat
+0

@@ -38,3 +38,6 @@
   # Houses need bushes, gardens, etc. around them.
   # Baseball field needs spotlights and a fence surrounding the outfield.
   # One-way streets need two neighboring traffic signals at intersections since both lanes are going in the same direction.
+  # Make sure streetlamps don't block driveways.
+  # Make sure sreetlamps can be ratcheted to the correct angle when placed on sloping streets.
+  # All minifigures should be unique. Even players on the baseball teams.

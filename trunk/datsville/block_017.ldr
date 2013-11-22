@@ -26,5 +26,5 @@
 1 13 -5760 0 -640 0 0 1 0 1 0 -1 0 0 building_031_carriagehouse.mpd
 1 13 -5120 0 -1920 1 0 0 0 1 0 0 0 1 3811.dat
 1 13 -5120 0 -1280 1 0 0 0 1 0 0 0 1 3811.dat
-1 16 -5920 -8 160 -1 0 0 0 1 0 0 0 -1 building_033_telephoneexchange.ldr
+1 16 -5920 -8 160 -1 0 0 0 1 0 0 0 -1 building_033_telephoneexchange.mpd
 1 16 -5600 -8 160 0 0 -1 0 1 0 1 0 0 infrastructure_celltower.mpd

@@ -2,7 +2,7 @@
 0 Name: block_011.ldr
 0 Author: John VanZwieten, Michael Horvath
 0 Unofficial Datsville Town Model
-1 16 -3360 -8 5480 0 0 -1 0 1 0 1 0 0 building_020_baitshop.ldr
+1 16 -3360 -8 5480 0 0 -1 0 1 0 1 0 0 building_020_baitshop.mpd
 1 13 -3200 0 5120 1 0 0 0 1 0 0 0 1 3811.dat
 1 13 -3200 0 4480 1 0 0 0 1 0 0 0 1 3811.dat
 1 16 -3200 -8 4480 1 0 0 0 1 0 0 0 1 building_060_icecreamparlor.mpd
