@@ -6,7 +6,7 @@
 0 Unofficial Datsville Vehicle Model
 0 Parent: Town20.ldr
 
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 14 0 0 0 0 0 1 0 1 0 -1 0 0 3832.dat
 1 0 0 8 -70 1 0 0 0 1 0 0 0 1 3023.dat
@@ -77,3 +77,14 @@
 1 0 43 18 40 0 0 -1 0 1 0 1 0 0 2346.dat
 1 0 -41 18 40 0 0 1 0 1 0 -1 0 0 2346.dat
 
+0
+0 FILE vehicle_004_wrapper.ldr
+0 New Model
+0 Name: vehicle_004_wrapper.ldr
+0 Author: Michael Horvath
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 16 0 -54 0 1 0 0 0 1 0 0 0 1 vehicle_004_yellowtractorshovel.ldr
+0
+0

@@ -1,3 +1,4 @@
+0 FILE vehicle_011_graybmwsedan.ldr
 0 Car BMW
 0 Name: vehicle_011_graybmwsedan.ldr
 0 Was: Tcbmw.dat
@@ -5,7 +6,7 @@
 0 Unofficial Datsville Vehicle Model
 0 Parent: Townpeep.ldr
 
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 -16 0 1 0 0 0 1 0 0 0 1 6157.dat
 1 0 0 -16 -10 1 0 0 0 1 0 0 0 1 3794a.dat
@@ -108,3 +109,14 @@
 1 0 -40 -11 140 1 0 0 0 1 0 0 0 1 3139.dat
 1 0 40 -11 140 1 0 0 0 1 0 0 0 1 3139.dat
 1 0 40 -11 0 1 0 0 0 1 0 0 0 1 3139.dat
+0
+0 FILE vehicle_011_wrapper.ldr
+0 New Model
+0 Name: vehicle_011_wrapper.ldr
+0 Author: Michael Horvath
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 16 0 -7 -70 1 0 0 0 1 0 0 0 1 vehicle_011_graybmwsedan.ldr
+0
+0
