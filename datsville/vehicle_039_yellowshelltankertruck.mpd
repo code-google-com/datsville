@@ -1,12 +1,83 @@
-0 FILE vehicle_042_yellowtankertrailer.ldr
+0 FILE vehicle_039_yellowshelltankertruck.ldr
+0 Petrol Tanker
+0 Name: vehicle_039_yellowshelltankertruck.ldr
+0 Was: Tanker.dat
+0 Author: Jonathan Wilson
+0 Unofficial Datsville Vehicle Model
+0 Parent: building_035.ldr
+
+
+0 Driver
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 4 0 -55 -70 1 0 0 0 1 0 0 0 1 pedestrian_024_manshelllogoredcapsitting.ldr
+
+0 Trailer
+1 0 0 -39 0 1 0 0 0 1 0 0 0 1 vehicle_039_yellowtankertrailer.ldr
+
+
+0 Petrol Tanker Cab
+0 Author: Jonathan Wilson
+1 15 0 -47 40 1 0 0 0 1 0 0 0 1 3788.dat
+1 15 0 -47 -120 1 0 0 0 1 0 0 0 1 3788.dat
+1 15 0 -47 -80 1 0 0 0 1 0 0 0 1 3788.dat
+1 15 0 -31 -120 1 0 0 0 1 0 0 0 1 3022.dat
+1 15 0 -31 -80 1 0 0 0 1 0 0 0 1 3022.dat
+1 15 0 -31 40 1 0 0 0 1 0 0 0 1 3022.dat
+1 15 0 -47 -40 0 0 1 0 1 0 -1 0 0 3832.dat
+1 15 0 -23 -120 1 0 0 0 1 0 0 0 1 4600.dat
+1 15 0 -23 -80 1 0 0 0 1 0 0 0 1 4600.dat
+1 15 0 -23 40 1 0 0 0 1 0 0 0 1 4600.dat
+1 15 31 -18 -120 0 0 -1 0 1 0 1 0 0 4624.dat
+1 15 31 -18 -80 0 0 -1 0 1 0 1 0 0 4624.dat
+1 0 30 -18 -120 0 0 -1 0 1 0 1 0 0 3641.dat
+1 0 30 -18 -80 0 0 -1 0 1 0 1 0 0 3641.dat
+1 0 30 -18 40 0 0 -1 0 1 0 1 0 0 3641.dat
+1 15 30 -18 40 0 0 -1 0 1 0 1 0 0 4624.dat
+1 15 -30 -18 -120 0 0 1 0 1 0 -1 0 0 4624.dat
+1 15 -30 -18 -80 0 0 1 0 1 0 -1 0 0 4624.dat
+1 0 -30 -18 -120 0 0 1 0 1 0 -1 0 0 3641.dat
+1 0 -30 -18 -80 0 0 1 0 1 0 -1 0 0 3641.dat
+1 0 -30 -18 40 0 0 1 0 1 0 -1 0 0 3641.dat
+1 15 -30 -18 40 0 0 1 0 1 0 -1 0 0 4624.dat
+1 15 0 -55 -40 0 0 1 0 1 0 -1 0 0 3030.dat
+1 15 0 -63 40 -1 0 0 0 1 0 0 0 -1 3731.dat
+1 4 30 -79 -110 1 0 0 0 1 0 0 0 1 3822.dat
+1 4 -30 -79 -110 1 0 0 0 1 0 0 0 1 3821.dat
+1 0 0 -79 -130 1 0 0 0 1 0 0 0 1 4175.dat
+1 4 0 -71 -130 1 0 0 0 1 0 0 0 1 3023.dat
+1 4 0 -63 -130 1 0 0 0 1 0 0 0 1 3023.dat
+1 4 0 -63 -110 1 0 0 0 1 0 0 0 1 3829c01.dat
+1 4 -30 -79 -130 1 0 0 0 1 0 0 0 1 4070.dat
+1 46 -30 -69 -144 1 0 0 0 0 -1 0 1 0 3024.dat
+1 46 30 -69 -144 1 0 0 0 0 -1 0 1 0 3024.dat
+1 4 30 -79 -130 1 0 0 0 1 0 0 0 1 4070.dat
+1 4 30 -87 -130 0 0 -1 0 1 0 1 0 0 2420.dat
+1 4 -30 -87 -130 1 0 0 0 1 0 0 0 1 2420.dat
+1 4 -30 -95 -110 1 0 0 0 1 0 0 0 1 3024.dat
+1 4 30 -95 -110 1 0 0 0 1 0 0 0 1 3024.dat
+1 4 0 -95 -130 1 0 0 0 1 0 0 0 1 3710.dat
+1 47 0 -143 -110 1 0 0 0 1 0 0 0 1 3823.dat
+1 14 0 -143 -50 1 0 0 0 1 0 0 0 1 4214.dat
+1 4 0 -79 -50 1 0 0 0 1 0 0 0 1 3010.dat
+1 4 0 -87 -50 1 0 0 0 1 0 0 0 1 3710.dat
+1 4 0 -95 -50 1 0 0 0 1 0 0 0 1 3710.dat
+1 14 0 -151 -80 1 0 0 0 1 0 0 0 1 4213.dat
+1 14 10 -159 -90 1 0 0 0 1 0 0 0 1 2555.dat
+1 14 -10 -159 -90 1 0 0 0 1 0 0 0 1 2555.dat
+1 7 -5 -167 -103 0 -1 0 1 0 0 0 0 1 4599a.dat
+1 7 7 -167 -103 0 1 0 -1 0 0 0 0 1 4599a.dat
+
+0 
+0
+0 FILE vehicle_039_yellowtankertrailer.ldr
 0 Petrol Tanker Trailer
-0 Name: vehicle_042_yellowtankertrailer.ldr
+0 Name: vehicle_039_yellowtankertrailer.ldr
 0 Was: Tankerb.dat
 0 Author: Jonathan Wilson
 0 Unofficial Datsville Vehicle Model
 0 Parent: Vjwtankr.ldr
-
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 0 -8 110 1 0 0 0 1 0 0 0 1 3788.dat
 1 15 0 -8 290 1 0 0 0 1 0 0 0 1 3787.dat
@@ -74,4 +145,7 @@
 1 4 0 -128 70 1 0 0 0 1 0 0 0 1 4032a.dat
 1 4 0 -128 170 1 0 0 0 1 0 0 0 1 4032a.dat
 1 4 0 -128 270 1 0 0 0 1 0 0 0 1 4032a.dat
-
+0 
+0 
+0
+0

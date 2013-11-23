@@ -7,14 +7,14 @@
 0 Parent: Town-20.ldr
 0 Location: -2720 -96 -4480
 
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
-0 MLCAD HIDE 1 0 0 0 0 1 0 0 0 1 0 0 0 1 DB425SharedWheelset.ldr
-1 0 0 -16 -620 1 0 0 0 1 0 0 0 1 DB425Cab.ldr
-1 0 0 -16 620 -1 0 0 0 1 0 0 0 -1 DB425Cab.ldr
-1 0 0 0 -300 -1 0 0 0 1 0 0 0 -1 DB425SharedWheelsetUnP.ldr
-1 0 0 0 300 -1 0 0 0 1 0 0 0 -1 DB425SharedWheelset.ldr
-1 0 0 -16 0 1 0 0 0 1 0 0 0 1 DB425Car.ldr
+0 MLCAD HIDE 1 0 0 -79 0 1 0 0 0 1 0 0 0 1 vehicle_045_DB425SharedWheelset.ldr
+1 0 0 -95 -620 1 0 0 0 1 0 0 0 1 vehicle_045_DB425Cab.ldr
+1 0 0 -95 620 -1 0 0 0 1 0 0 0 -1 vehicle_045_DB425Cab.ldr
+1 0 0 -79 -300 -1 0 0 0 1 0 0 0 -1 vehicle_045_DB425SharedWheelsetUnP.ldr
+1 0 0 -79 300 -1 0 0 0 1 0 0 0 -1 vehicle_045_DB425SharedWheelset.ldr
+1 0 0 -95 0 1 0 0 0 1 0 0 0 1 vehicle_045_DB425Car.ldr
 
 0 // Removing origial train track (TE Rev030)
 0 1 8 0 88 320 0 0 1 0 1 0 -1 0 0 2865.dat
@@ -28,12 +28,13 @@
 0 1 8 0 88 -960 0 0 1 0 1 0 -1 0 0 2865.dat
 0 // end Removing origial train track
 
-0 FILE DB425Cab.ldr
+0
+0 FILE vehicle_045_DB425Cab.ldr
 0 New Model
-0 Name: DB425Cab.ldr
+0 Name: vehicle_045_DB425Cab.ldr
 0 Author: Tim Gould
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 4 0 8 -260 0 0 -1 0 1 0 1 0 0 3020.dat
 1 4 10 0 -240 0 0 -1 0 1 0 1 0 0 2436a.dat
@@ -87,7 +88,7 @@
 1 0 50 -80 -240 0 0 -1 0 1 0 1 0 0 2377.dat
 1 47 50 -80 -240 0 0 -1 0 1 0 1 0 0 4862.dat
 1 47 -50 -80 -240 0 0 1 0 1 0 -1 0 0 4862.dat
-1 4 0 32 -170 1 0 0 0 1 0 0 0 1 DB425FrontWheelset.ldr
+1 4 0 32 -170 1 0 0 0 1 0 0 0 1 vehicle_045_DB425FrontWheelset.ldr
 1 8 30 -88 300 0 0 -1 0 1 0 1 0 0 30136.dat
 1 8 30 -64 300 0 0 -1 0 1 0 1 0 0 30136.dat
 1 8 30 -40 300 0 0 -1 0 1 0 1 0 0 30136.dat
@@ -215,17 +216,18 @@
 1 8 10 -8 -290 1 0 0 0 1 0 0 0 1 50746.dat
 1 8 30 -8 -290 1 0 0 0 1 0 0 0 1 50746.dat
 1 39 0 -96 -270 -1 0 0 0 1 0 0 0 -1 4215b.dat
-1 39 64 10 -270 0 -1 0 1 0 0 0 0 1 DB425FrontPanelR.ldr
-1 39 -64 10 -270 0 1 0 -1 0 0 0 0 1 DB425FrontPanelL.ldr
-1 39 0 -12 -40 0 0 -1 1 0 0 0 -1 0 DB425Door.ldr
-1 39 0 -12 160 0 0 1 1 0 0 0 1 0 DB425Door.ldr
+1 39 64 10 -270 0 -1 0 1 0 0 0 0 1 vehicle_045_DB425FrontPanelR.ldr
+1 39 -64 10 -270 0 1 0 -1 0 0 0 0 1 vehicle_045_DB425FrontPanelL.ldr
+1 39 0 -12 -40 0 0 -1 1 0 0 0 -1 0 vehicle_045_DB425Door.ldr
+1 39 0 -12 160 0 0 1 1 0 0 0 1 0 vehicle_045_DB425Door.ldr
 
-0 FILE DB425FrontPanelR.ldr
+0
+0 FILE vehicle_045_DB425FrontPanelR.ldr
 0 New Model
-0 Name: DB425FrontPanelR.ldr
+0 Name: vehicle_045_DB425FrontPanelR.ldr
 0 Author: Tim Gould
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 4 -30 0 0 0 0 1 0 1 0 -1 0 0 41748.dat
 1 4 0 0 0 1 0 0 0 1 0 0 0 1 4070.dat
@@ -235,12 +237,13 @@
 1 0 0 10 -22 1 0 0 0 0 -1 0 1 0 4073.dat
 1 47 0 10 -30 1 0 0 0 0 -1 0 1 0 4073.dat
 
-0 FILE DB425FrontPanelL.ldr
+0
+0 FILE vehicle_045_DB425FrontPanelL.ldr
 0 New Model
-0 Name: DB425FrontPanelL.ldr
+0 Name: vehicle_045_DB425FrontPanelL.ldr
 0 Author: Tim Gould
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 4 0 0 0 1 0 0 0 1 0 0 0 1 4070.dat
 1 4 10 24 0 1 0 0 0 1 0 0 0 1 3023.dat
@@ -250,12 +253,13 @@
 1 47 0 10 -30 1 0 0 0 0 -1 0 1 0 4073.dat
 1 4 30 0 0 0 0 -1 0 1 0 1 0 0 41747.dat
 
-0 FILE DB425FWSCladL.ldr
+0
+0 FILE vehicle_045_DB425FWSCladL.ldr
 0 New Model
-0 Name: DB425FWSCladL.ldr
+0 Name: vehicle_045_DB425FWSCladL.ldr
 0 Author: Tim Gould
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 8 0 0 0 1 0 0 0 1 0 0 0 1 3023.dat
 1 15 10 -8 -20 0 0 1 0 1 0 -1 0 0 3623.dat
@@ -268,12 +272,13 @@
 1 4 -10 -32 0 0 0 1 0 1 0 -1 0 0 3070b.dat
 1 8 10 8 0 1 0 0 0 1 0 0 0 1 3024.dat
 
-0 FILE DB425Door.ldr
+0
+0 FILE vehicle_045_DB425Door.ldr
 0 New Model
-0 Name: DB425Door.ldr
+0 Name: vehicle_045_DB425Door.ldr
 0 Author: Tim Gould
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 0 0 -50 1 0 0 0 1 0 0 0 1 3666.dat
 1 15 0 -8 -50 1 0 0 0 1 0 0 0 1 3666.dat
@@ -310,12 +315,13 @@
 1 15 0 -40 50 1 0 0 0 1 0 0 0 1 6636.dat
 1 15 -50 -24 50 1 0 0 0 1 0 0 0 1 3024.dat
 
-0 FILE DB425FWSCladR.ldr
+0
+0 FILE vehicle_045_DB425FWSCladR.ldr
 0 New Model
-0 Name: DB425FWSCladR.ldr
+0 Name: vehicle_045_DB425FWSCladR.ldr
 0 Author: Tim Gould
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 8 0 0 0 1 0 0 0 1 0 0 0 1 3023.dat
 1 15 -10 -8 -20 0 0 1 0 1 0 -1 0 0 3623.dat
@@ -328,12 +334,13 @@
 1 4 10 -32 0 0 0 1 0 1 0 -1 0 0 3070b.dat
 1 8 -10 8 0 1 0 0 0 1 0 0 0 1 3024.dat
 
-0 FILE DB425FrontWheelset.ldr
+0
+0 FILE vehicle_045_DB425FrontWheelset.ldr
 0 New Model
-0 Name: DB425FrontWheelset.ldr
+0 Name: vehicle_045_DB425FrontWheelset.ldr
 0 Author: Tim Gould
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 0 30 1 0 0 0 1 0 0 0 1 2878c01.dat
 1 0 0 8 0 0 0 -1 0 1 0 1 0 0 3795.dat
@@ -356,16 +363,17 @@
 1 8 0 24 -50 1 0 0 0 1 0 0 0 1 3710.dat
 1 0 0 -8 0 0 0 -1 0 1 0 1 0 0 2460.dat
 1 8 10 8 -70 0 0 -1 0 1 0 1 0 0 4070.dat
-1 0 32 8 -70 0 -1 0 1 0 0 0 0 1 DB425FWSCladL.ldr
-1 0 -32 8 -70 0 1 0 -1 0 0 0 0 1 DB425FWSCladR.ldr
+1 0 32 8 -70 0 -1 0 1 0 0 0 0 1 vehicle_045_DB425FWSCladL.ldr
+1 0 -32 8 -70 0 1 0 -1 0 0 0 0 1 vehicle_045_DB425FWSCladR.ldr
 1 8 -10 8 -70 0 0 1 0 1 0 -1 0 0 4070.dat
 
-0 FILE DB425SharedWheelset.ldr
+0
+0 FILE vehicle_045_DB425SharedWheelset.ldr
 0 Shared Wheelset - Powered
-0 Name: DB425SharedWheelset.ldr
+0 Name: vehicle_045_DB425SharedWheelset.ldr
 0 Author: Tim Gould
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 8 0 1 0 0 0 1 0 0 0 1 2894c01.dat
 1 0 30 16 0 1 0 0 0 1 0 0 0 1 2871a.dat
@@ -375,12 +383,13 @@
 1 0 0 16 80 0 0 1 0 1 0 -1 0 0 3680c01.dat
 1 7 0 8 80 0 0 1 0 1 0 -1 0 0 4032a.dat
 
-0 FILE DB425SharedWheelsetUnP.ldr
+0
+0 FILE vehicle_045_DB425SharedWheelsetUnP.ldr
 0 Shared wheelset - unpowered
-0 Name: DB425SharedWheelsetUnP.ldr
+0 Name: vehicle_045_DB425SharedWheelsetUnP.ldr
 0 Author: Tim Gould
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 16 -50 1 0 0 0 1 0 0 0 1 2878c01.dat
 1 0 0 16 50 1 0 0 0 1 0 0 0 1 2878c01.dat
@@ -414,12 +423,13 @@
 1 7 0 8 80 0 0 1 0 1 0 -1 0 0 4032a.dat
 1 7 0 8 -80 0 0 1 0 1 0 -1 0 0 4032a.dat
 
-0 FILE DB425Car.ldr
+0
+0 FILE vehicle_045_DB425Car.ldr
 0 New Model
-0 Name: DB425Car.ldr
+0 Name: vehicle_045_DB425Car.ldr
 0 Author: Tim Gould
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 4 30 -120 120 0 0 -1 0 1 0 1 0 0 3037.dat
 1 4 30 -120 200 0 0 -1 0 1 0 1 0 0 3037.dat
@@ -487,7 +497,7 @@
 1 4 -50 -64 220 0 0 1 0 1 0 -1 0 0 6556.dat
 1 47 50 -64 220 0 0 -1 0 1 0 1 0 0 4034.dat
 1 47 -50 -64 220 0 0 1 0 1 0 -1 0 0 4034.dat
-1 39 0 -12 140 0 0 1 1 0 0 0 1 0 DB425Door.ldr
+1 39 0 -12 140 0 0 1 1 0 0 0 1 0 vehicle_045_DB425Door.ldr
 0 New Model
 0 Name: DB425Car.ldr
 0 Author: Tim Gould
@@ -593,8 +603,8 @@
 1 47 -50 -64 40.001 0 0 1 0 1 0 -1 0 0 4034.dat
 1 4 -50 -64 -40 0 0 1 0 1 0 -1 0 0 6556.dat
 1 47 -50 -64 -39.999 0 0 1 0 1 0 -1 0 0 4034.dat
-1 39 0 -12 -139.999 0 0 -1 1 0 0 0 -1 0 DB425Door.ldr
-0
+1 39 0 -12 -139.999 0 0 -1 1 0 0 0 -1 0 vehicle_045_DB425Door.ldr
+0 
 1 8 -10 -144 -160 0 0 1 0 1 0 -1 0 0 2877.dat
 1 8 10 -144 -160 0 0 -1 0 1 0 1 0 0 2877.dat
 1 8 0 -144 -190 -1 0 0 0 1 0 0 0 -1 3004.dat
@@ -613,3 +623,6 @@
 1 7 48 -176.08 172.894 0 0.965926 0.258819 0 -0.258819 0.965926 1 0 0 3820.dat
 1 7 -48 -176.08 172.894 0 -0.965926 -0.258819 0 -0.258819 0.965926 -1 0 0 3820.dat
 
+0 
+0
+0

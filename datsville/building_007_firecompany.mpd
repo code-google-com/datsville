@@ -11,13 +11,13 @@
 
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
-1 2 30 -30 -540 0 0 -1 0 1 0 1 0 0 vehicle_030_redfiretruck01.mpd
-1 2 0 -30 -340 0 0 -1 0 1 0 1 0 0 vehicle_031_redfiretruck02ladder.mpd
-1 2 -233 -32 380 -1 0 0 0 1 0 0 0 -1 vehicle_032_redfiretruck03.ldr
-1 2 170 -39 260 0 0 -1 0 1 0 1 0 0 vehicle_008_redfirecar.ldr
-1 2 180 -54 400 0 0 -1 0 1 0 1 0 0 vehicle_033_redfiretruck04suv.ldr
-1 2 -114 -40 460 -1 0 0 0 1 0 0 0 -1 vehicle_034_redfiretruck05.mpd
-1 2 80 -38 -130 0 0 -1 0 1 0 1 0 0 vehicle_035_redfiretruck06.ldr
+1 2 30 0 -540 0 0 -1 0 1 0 1 0 0 vehicle_030_redfiretruck01.mpd
+1 2 0 2 -340 0 0 -1 0 1 0 1 0 0 vehicle_031_redfiretruck02ladder.mpd
+1 2 -233 0 380 -1 0 0 0 1 0 0 0 -1 vehicle_032_redfiretruck03.ldr
+1 2 170 0 260 0 0 -1 0 1 0 1 0 0 vehicle_008_redfirecar.ldr
+1 2 180 0 400 0 0 -1 0 1 0 1 0 0 vehicle_033_redfiretruck04suv.ldr
+1 2 -114 0 460 -1 0 0 0 1 0 0 0 -1 vehicle_034_redfiretruck05.mpd
+1 2 80 0 -130 0 0 -1 0 1 0 1 0 0 vehicle_035_redfiretruck06.ldr
 0 
 1 15 290 -24 -630 1 0 0 0 1 0 0 0 1 3062b.dat
 1 15 290 -24 -450 1 0 0 0 1 0 0 0 1 3062b.dat
@@ -1146,6 +1146,8 @@
 1 15 -10 -16 -350 1 0 0 0 1 0 0 0 1 3024.dat
 1 15 30 -16 -210 1 0 0 0 1 0 0 0 1 3024.dat
 1 15 -50 -16 -260 0 0 1 0 1 0 -1 0 0 3023.dat
+0 
+0 
 0 
 0 
 0 

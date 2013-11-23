@@ -6,8 +6,8 @@
 0 Unofficial Datsville Building Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
-1 15 210 -72 10 -1 0 0 0 1 0 0 0 -1 pedestrian_025_womanblondehairredsleeves.mpd
-1 15 170 -72 330 1 0 0 0 1 0 0 0 1 pedestrian_019_manblondehairwhiteshirt.ldr
+1 15 200 -8 10 -1 0 0 0 1 0 0 0 -1 pedestrian_025_womanblondehairredsleeves.mpd
+1 15 160 -8 330 1 0 0 0 1 0 0 0 1 pedestrian_019_manblondehairwhiteshirt.ldr
 1 15 -200 -32 280 1 0 0 0 1 0 0 0 1 building_032_6disp.dat
 1 15 60 -32 280 1 0 0 0 1 0 0 0 1 building_032_4rdisp.dat
 1 15 140 -32 280 1 0 0 0 1 0 0 0 1 building_032_4ldisp.dat
@@ -459,6 +459,7 @@
 1 15 50 -48 0 1 0 0 0 1 0 0 0 1 3005ptr.dat
 1 15 70 -48 0 1 0 0 0 1 0 0 0 1 3005pty.dat
 1 15 -110 -72 0 1 0 0 0 1 0 0 0 1 3005.dat
+0 
 0 
 0 
 0

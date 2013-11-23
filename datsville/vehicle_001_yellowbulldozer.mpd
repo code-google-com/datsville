@@ -1,6 +1,6 @@
-0 FILE vehicle_001_yellowbulldozer.mpd.ldr
+0 FILE vehicle_001_yellowbulldozer.ldr
 0 Minifig scale tracked excavator
-0 Name: vehicle_001_yellowbulldozer.mpd.ldr
+0 Name: vehicle_001_yellowbulldozer.ldr
 0 Was: Tcdozer.dat
 0 Author: Fredrik Gl�ckner
 0 Unofficial Datsville Vehicle Model
@@ -170,6 +170,7 @@
 1 7 -16 0 -20 0 1 0 -1 0 0 0 0 1 4073.dat
 1 7 -16 0 20 0 1 0 -1 0 0 0 0 1 4073.dat
 1 7 -16 0 20 0 1 0 -1 0 0 0 0 1 4073.dat
+0 
 0 
 0 
 0 
