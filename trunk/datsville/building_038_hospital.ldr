@@ -9,9 +9,9 @@
 0 !LDBOXER LEVEL A
 
 0 EXTRACT
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
-1 16 240 -40 20 1 0 0 0 1 0 0 0 1 vehicle_040_whiteambulance.ldr
+1 16 240 0 20 1 0 0 0 1 0 0 0 1 vehicle_040_whiteambulance.mpd
 
 1 15 50 -24 -130 1 0 0 0 1 0 0 0 1 3062b.dat
 1 15 -50 -24 -130 1 0 0 0 1 0 0 0 1 3062b.dat
@@ -47,7 +47,7 @@
 1 4 -310 -24 20 0 0 1 0 1 0 -1 0 0 3633.dat
 1 4 -310 -24 -60 0 0 1 0 1 0 -1 0 0 3633.dat
 1 4 -310 -24 -110 1 0 0 0 1 0 0 0 1 3005.dat
-1 4 -290 -24 -130 0 0 1 0 1 0 -1 0 0 3063.dat
+1 4 -290 -24 -130 0 0 1 0 1 0 -1 0 0 3063b.dat
 1 4 -240 -24 -150 1 0 0 0 1 0 0 0 1 3633.dat
 1 4 -190 -24 -150 1 0 0 0 1 0 0 0 1 3005.dat
 1 4 -140 -24 -150 1 0 0 0 1 0 0 0 1 3633.dat
@@ -331,11 +331,12 @@
 1 36 -170 -320 -30 1 0 0 0 1 0 0 0 1 4073.dat
 1 4 170 -144 -163 0 0 1 0 1 0 -1 0 0 3644.dat
 1 4 310 -144 -163 0 0 -1 0 1 0 1 0 0 3644.dat
-0
-0
+0 
+0 
 0 Boxed 78 parts.
-0
+0 
 0 // Boxed 73 parts ().
 0 // Boxed 11 parts (T).
 0 // Boxed 29 parts (B).
 0 // Boxed Total 113 parts by LDBoxer v2010a.
+0

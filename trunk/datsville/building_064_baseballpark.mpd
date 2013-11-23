@@ -84,11 +84,11 @@
 1 2 -160 -8 160 0 0 1 0 1 0 -1 0 0 91405.dat
 1 2 -480 -8 160 0 0 1 0 1 0 -1 0 0 91405.dat
 1 2 -320 -8 -640 -1 0 0 0 1 0 0 0 -1 building_064_bleacherslarge_a.ldr
-1 2 -320 -141 -670 -1 0 0 0 1 0 0 0 -1 pedestrian_035_blackpreppiesitting.ldr
-1 2 -380 -117 -630 -1 0 0 0 1 0 0 0 -1 pedestrian_034_blondefemalesitting.ldr
+1 2 -320 -88 -670 -1 0 0 0 1 0 0 0 -1 pedestrian_035_blackpreppiesitting.ldr
+1 2 -380 -64 -630 -1 0 0 0 1 0 0 0 -1 pedestrian_034_blondefemalesitting.ldr
 1 2 640 -8 320 0 0 1 0 1 0 -1 0 0 building_064_bleacherslarge_b.ldr
-1 2 670 -141 320 0 0 1 0 1 0 -1 0 0 pedestrian_033_pinkfemalesitting.ldr
-1 2 630 -117 400 0 0 1 0 1 0 -1 0 0 pedestrian_032_pinkpunksitting.ldr
+1 2 670 -88 320 0 0 1 0 1 0 -1 0 0 pedestrian_033_pinkfemalesitting.ldr
+1 2 630 -64 400 0 0 1 0 1 0 -1 0 0 pedestrian_032_pinkpunksitting.ldr
 1 2 -480 -8 480 0 0 1 0 1 0 -1 0 0 91405.dat
 1 2 -160 -8 480 0 0 1 0 1 0 -1 0 0 91405.dat
 1 2 160 -8 480 0 0 1 0 1 0 -1 0 0 91405.dat
@@ -124,24 +124,25 @@
 1 47 540 -224 -540 1 0 0 0 1 0 0 0 1 6002.dat
 1 47 460 -224 -540 1 0 0 0 1 0 0 0 1 2572.dat
 1 47 540 -224 -460 0 0 -1 0 1 0 1 0 0 2572.dat
-1 2 460 -88 -510 -1 0 0 0 1 0 0 0 -1 pedestrian_031_blueteambatter.ldr
-1 2 260 -86 -608 -1 0 0 0 1 0 0 0 -1 pedestrian_030_blueteamsitting.ldr
-1 2 200 -86 -608 -1 0 0 0 1 0 0 0 -1 pedestrian_030_blueteamsitting.ldr
-1 2 120 -86 -608 -1 0 0 0 1 0 0 0 -1 pedestrian_030_blueteamsitting.ldr
-1 2 341 -80 -611 -1 0 0 0 1 0 0 0 -1 pedestrian_029_blueteamstanding.ldr
-1 2 1 -80 -611 -1 0 0 0 1 0 0 0 -1 pedestrian_029_blueteamstanding.ldr
-1 2 -79 -80 -611 -1 0 0 0 1 0 0 0 -1 pedestrian_029_blueteamstanding.ldr
-1 2 -191 -88 140 0 0 -1 0 1 0 1 0 0 pedestrian_029_blueteamstanding.ldr
-1 2 180 -104 -176 0.707107 0 -0.707107 0 1 0 0.707107 0 0.707107 pedestrian_028_redteamstanding.ldr
-1 2 551 -80 -540 0 0 1 0 1 0 -1 0 0 pedestrian_028_redteamstanding.ldr
-1 2 -250 -88 80 0 0 -1 0 1 0 1 0 0 pedestrian_028_redteamstanding.ldr
-1 2 -190 -88 -440 0 0 -1 0 1 0 1 0 0 pedestrian_028_redteamstanding.ldr
-1 2 439 -88 210 1 0 0 0 1 0 0 0 1 pedestrian_028_redteamstanding.ldr
-1 2 -80 -88 210 1 0 0 0 1 0 0 0 1 pedestrian_028_redteamstanding.ldr
-1 2 280 -80 791 1 0 0 0 1 0 0 0 1 pedestrian_028_redteamstanding.ldr
-1 2 -820 -80 791 1 0 0 0 1 0 0 0 1 pedestrian_028_redteamstanding.ldr
-1 2 -811 -80 -400 0 0 -1 0 1 0 1 0 0 pedestrian_028_redteamstanding.ldr
-1 2 60 -86 -608 -1 0 0 0 1 0 0 0 -1 pedestrian_030_blueteamsitting.ldr
+1 2 460 -16 -510 -1 0 0 0 1 0 0 0 -1 pedestrian_031_blueteambatter.ldr
+1 2 460 -8 -590 -1 0 0 0 1 0 0 0 -1 pedestrian_027_baseballumpire.ldr
+1 2 260 -32 -608 -1 0 0 0 1 0 0 0 -1 pedestrian_030_blueteamsitting.ldr
+1 2 200 -32 -608 -1 0 0 0 1 0 0 0 -1 pedestrian_030_blueteamsitting.ldr
+1 2 120 -32 -608 -1 0 0 0 1 0 0 0 -1 pedestrian_030_blueteamsitting.ldr
+1 2 341 -16 -611 -1 0 0 0 1 0 0 0 -1 pedestrian_029_blueteamstanding.ldr
+1 2 1 -8 -611 -1 0 0 0 1 0 0 0 -1 pedestrian_029_blueteamstanding.ldr
+1 2 -79 -8 -611 -1 0 0 0 1 0 0 0 -1 pedestrian_029_blueteamstanding.ldr
+1 2 -191 -8 140 0 0 -1 0 1 0 1 0 0 pedestrian_029_blueteamstanding.ldr
+1 2 180 -32 -176 0.707107 0 -0.707107 0 1 0 0.707107 0 0.707107 pedestrian_028_redteamstanding.ldr
+1 2 551 -8 -540 0 0 1 0 1 0 -1 0 0 pedestrian_028_redteamstanding.ldr
+1 2 -250 -8 80 0 0 -1 0 1 0 1 0 0 pedestrian_028_redteamstanding.ldr
+1 2 -190 -16 -440 0 0 -1 0 1 0 1 0 0 pedestrian_028_redteamstanding.ldr
+1 2 439 -8 210 1 0 0 0 1 0 0 0 1 pedestrian_028_redteamstanding.ldr
+1 2 -80 -16 210 1 0 0 0 1 0 0 0 1 pedestrian_028_redteamstanding.ldr
+1 2 280 -16 791 1 0 0 0 1 0 0 0 1 pedestrian_028_redteamstanding.ldr
+1 2 -820 -8 791 1 0 0 0 1 0 0 0 1 pedestrian_028_redteamstanding.ldr
+1 2 -811 -8 -400 0 0 -1 0 1 0 1 0 0 pedestrian_028_redteamstanding.ldr
+1 2 60 -32 -608 -1 0 0 0 1 0 0 0 -1 pedestrian_030_blueteamsitting.ldr
 
 0
 0 FILE building_064_bleacherssmall.ldr
@@ -203,6 +204,9 @@
 1 1 0 -80 20 -1 0 0 0 1 0 0 0 -1 4282.dat
 1 1 0 -104 60 -1 0 0 0 1 0 0 0 -1 4282.dat
 
+0 
+0 
+0 
 0 
 0
 0

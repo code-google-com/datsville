@@ -11,11 +11,11 @@
 0 REM (Work in progress. Second floor w/Bank President coming soon.)
 
 0 REM Minifigs
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
-1 16 80 -8 -210 1 0 0 0 1 0 0 0 1 pedestrian_013_manblacksuitdriving.ldr
-1 16 80 -8 -210 1 0 0 0 1 0 0 0 1 pedestrian_014_mandarkskingraysuitdriving.ldr
-1 16 80 -16 -210 1 0 0 0 1 0 0 0 1 pedestrian_015_mangreengraysuitmustache.ldr
+1 16 -140 -16 80 1 0 0 0 1 0 0 0 1 pedestrian_013_manblacksuitdriving.ldr
+1 16 -140 -16 -60 1 0 0 0 1 0 0 0 1 pedestrian_014_mandarkskingraysuitdriving.ldr
+1 16 170 -16 10 1 0 0 0 1 0 0 0 1 pedestrian_015_mangreengraysuitmustache.ldr
 0 Loan Officer
 0 1 0 -220 -17 288 1 0 0 0 0 1 0 -1 0 3816.dat
 0 1 0 -220 -17 288 1 0 0 0 0 1 0 -1 0 3817.dat
@@ -365,5 +365,6 @@
 0 1 15 -180 -8 -120 0 0 1 0 1 0 -1 0 0 cadillac.dat
 0 (The Bank President's Cadillac is optional at this point.)
 
-0
+0 
 0 Boxed 85 parts.
+0

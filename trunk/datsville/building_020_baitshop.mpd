@@ -6,8 +6,8 @@
 0 Unofficial Datsville Building Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
-1 6 -240 -60 -90 1 0 0 0 1 0 0 0 1 pedestrian_009_manblueoverallsmustache.ldr
-1 6 71 -60 -290 1 0 0 0 1 0 0 0 1 pedestrian_010_manblueoverallssunglasses.ldr
+1 6 -240 -32 -90 1 0 0 0 1 0 0 0 1 pedestrian_009_manblueoverallsmustache.ldr
+1 6 81 -32 -270 1 0 0 0 1 0 0 0 1 pedestrian_010_manblueoverallssunglasses.ldr
 1 1 -420 -80 -230 1 0 0 0 1 0 0 0 1 building_020_winpane.dat
 1 0 -220 -40 -200 -1 0 0 0 1 0.09 0 0.09 -1 building_020_buoy1.dat
 1 0 -64 -36 -205 0 -0.12 -0.99 0 0.99 -0.12 1 0 0 building_020_buoy2.dat
@@ -349,6 +349,7 @@
 1 1 0 -72 0 1 0 0 0 1 0 0 0 1 3853.dat
 1 15 -33 -68 -8 0 0 -1 0 1 0 1 0 0 3854.dat
 1 15 34 -68 -8 0 0 1 0 1 0 -1 0 0 3854.dat
+0 
 0 
 0 
 0
