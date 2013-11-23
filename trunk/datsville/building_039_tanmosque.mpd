@@ -3,11 +3,12 @@
 0 Name: building_039.ldr
 0 Author:
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 0 -40 0 1 0 0 0 1 0 0 0 1 building_039_building.ldr
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 building_039_lawn.ldr
 
+0
 0 FILE building_039_building.ldr
 0 Mosque, minifig scale
 0 Name: building_039_building.ldr
@@ -25,7 +26,7 @@
 0 // Model url: http://news.lugnet.com/cad/dat/models/?n=1691
 0 // Approval url: http://news.lugnet.com/cad/dat/models/?n=1900
 
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 19 0 0 120 -1 0 0 0 1 0 0 0 -1 3028.dat
 1 19 0 0 220 -1 0 0 0 1 0 0 0 -1 3029.dat
@@ -543,6 +544,7 @@
 1 19 -155.26 -152 -179.82 -0.263 0 0.973 0 1 0 -0.973 0 -0.263 3024.dat
 1 19 -100.46 -152 -194.62 0.5 0 0.87 0 1 0 -0.87 0 0.5 3024.dat
 
+0
 0 FILE building_039_lawn.ldr
 0 Datsville Mosque Site
 0 Name: building_039_lawn.ldr
@@ -553,7 +555,7 @@
 0 !HISTORY 2010-05-22 TE created and added to Town-2-1.ldr
 0 !LDBOXER LEVEL B
 0 // 1 7  0 -40 -20  1 0 0  0 1 0  0 0 1  Bfgmoske.ldr
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 -100 -32 220 1 0 0 0 1 0 0 0 1 3022.dat
 1 7 100 -32 220 1 0 0 0 1 0 0 0 1 3022.dat
@@ -571,14 +573,14 @@
 1 7 -330 -24 -330 1 0 0 0 1 0 0 0 1 3005.dat
 1 7 330 -24 330 1 0 0 0 1 0 0 0 1 3005.dat
 1 7 330 -24 -330 1 0 0 0 1 0 0 0 1 3005.dat
-1 7 310 -48 -310 1 0 0 0 1 0 0 0 1 3063.dat
-1 7 310 -72 -310 1 0 0 0 1 0 0 0 1 3063.dat
-1 7 -310 -48 310 -1 0 0 0 1 0 0 0 -1 3063.dat
-1 7 -310 -72 310 -1 0 0 0 1 0 0 0 -1 3063.dat
-1 7 310 -48 310 0 0 -1 0 1 0 1 0 0 3063.dat
-1 7 310 -72 310 0 0 -1 0 1 0 1 0 0 3063.dat
-1 7 -310 -48 -310 0 0 1 0 1 0 -1 0 0 3063.dat
-1 7 -310 -72 -310 0 0 1 0 1 0 -1 0 0 3063.dat
+1 7 310 -48 -310 1 0 0 0 1 0 0 0 1 3063b.dat
+1 7 310 -72 -310 1 0 0 0 1 0 0 0 1 3063b.dat
+1 7 -310 -48 310 -1 0 0 0 1 0 0 0 -1 3063b.dat
+1 7 -310 -72 310 -1 0 0 0 1 0 0 0 -1 3063b.dat
+1 7 310 -48 310 0 0 -1 0 1 0 1 0 0 3063b.dat
+1 7 310 -72 310 0 0 -1 0 1 0 1 0 0 3063b.dat
+1 7 -310 -48 -310 0 0 1 0 1 0 -1 0 0 3063b.dat
+1 7 -310 -72 -310 0 0 1 0 1 0 -1 0 0 3063b.dat
 1 7 -330 -72 -240 0 0 1 0 1 0 -1 0 0 30077.dat
 1 7 -330 -72 -120 0 0 1 0 1 0 -1 0 0 30077.dat
 1 7 -330 -72 0 0 0 1 0 1 0 -1 0 0 30077.dat
@@ -624,7 +626,7 @@
 1 7 60 -16 390 1 0 0 0 1 0 0 0 1 3069b.dat
 1 7 -70 -16 360 0 0 1 0 1 0 -1 0 0 3069b.dat
 1 7 70 -16 360 0 0 1 0 1 0 -1 0 0 3069b.dat
-1 6 240 -24 180 -1 0 0 0 1 0 0 0 -1 2536c01.ldr
+1 6 240 -24 180 -1 0 0 0 1 0 0 0 -1 infrastructure_palmtree.ldr
 1 7 -220 -24 -220 -1 0 0 0 1 0 0 0 -1 733.dat
 1 7 -20 -24 -220 -1 0 0 0 1 0 0 0 -1 733.dat
 1 7 180 -24 -220 -1 0 0 0 1 0 0 0 -1 733.dat
@@ -641,5 +643,7 @@
 1 7 -220 -24 300 -1 0 0 0 1 0 0 0 -1 3006.dat
 1 7 -20 -24 300 -1 0 0 0 1 0 0 0 -1 3006.dat
 1 7 180 -24 300 -1 0 0 0 1 0 0 0 -1 3006.dat
-1 6 -280 -24 260 0 0 1 0 1 0 -1 0 0 2536c01.ldr
+1 6 -280 -24 261 0 0 1 0 1 0 -1 0 0 infrastructure_palmtree.ldr
 
+0
+0
