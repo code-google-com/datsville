@@ -12,7 +12,7 @@
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 building_035_1.LDR
-1 0 -60 0 -50 1 0 0 0 1 0 0 0 1 vehicle_038_redpickuptruck02.mpd
+1 0 -60 0 -50 1 0 0 0 1 0 0 0 1 vehicle_038_redpickuptruck02.ldr
 1 0 0 0 -20 1 0 0 0 1 0 0 0 1 pedestrian_020_manbluestripeswhitecapsunglasses.ldr
 1 0 140 0 -70 1 0 0 0 1 0 0 0 1 vehicle_039_yellowshelltankertruck.mpd
 1 0 -300 -8 180 1 0 0 0 1 0 0 0 1 pedestrian_021_manredoverallsredcap.ldr
