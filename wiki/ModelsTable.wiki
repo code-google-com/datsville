@@ -3,8 +3,8 @@
 This table is current as of revision 282.
 
 || *Thumbnail* || *Filename (New)* || *Filename (Old)* || *LUGNET* || *Title* || *Author* ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/axis1x.png] || axis1x.dat ||  ||  || Grid 1x LDU || Michael Horvath ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/axis32x.png] || axis32x.dat ||  ||  || Grid 32x LDU || Michael Horvath ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/axis1x.png] || axis1x.dat ||  ||  || Axes 1x bricks || Michael Horvath ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/axis32x.png] || axis32x.dat ||  ||  || Axes 32x bricks || Michael Horvath ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/block_001.png] || block_001.ldr ||  ||  ||  || John VanZwieten, Michael Horvath, Tore Eriksson ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/block_002.png] || block_002.ldr ||  ||  ||  || John VanZwieten, Michael Horvath, Tore Eriksson ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/block_003.png] || block_003.ldr ||  ||  ||  || John VanZwieten, Michael Horvath, Tore Eriksson ||
@@ -105,8 +105,8 @@ This table is current as of revision 282.
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/building_073_radiotower.png] || building_073_radiotower.ldr ||  ||  || Radio tower || Michael Horvath ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/datsville.png] || datsville.ldr ||  ||  ||  || John VanZwieten, Michael Horvath, Tore Eriksson ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/gridb32x.png] || gridb32x.dat ||  ||  || Grid 32x baseplates || Michael Horvath ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/grids32x.png] || grids32x.dat ||  ||  || Grid 32x studs || Michael Horvath ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/gridu4x.png] || gridu4x.dat ||  ||  || Grid 4x studs || Michael Horvath ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/grids32x.png] || grids32x.dat ||  ||  || Grid 32x bricks || Michael Horvath ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/gridu4x.png] || gridu4x.dat ||  ||  || Grid 4x bricks || Michael Horvath ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/infrastructure_bigtree01.png] || infrastructure_bigtree01.ldr || ttree1.dat ||  ||  || Steve Bliss ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/infrastructure_bigtree02.png] || infrastructure_bigtree02.ldr || ttree1.dat ||  ||  || Steve Bliss ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/infrastructure_bigtree03.png] || infrastructure_bigtree03.ldr ||  ||  ||  || Michael Horvath ||

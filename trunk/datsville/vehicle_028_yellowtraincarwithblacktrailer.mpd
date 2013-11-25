@@ -64,7 +64,7 @@
 1 14 0 -95 -200 1 0 0 0 1 0 0 0 1 3068bp06.dat
 0 NOSTEP
 0 Trailer
-1 0 0 -92 -140 1 0 0 0 1 0 0 0 1 vehicle_041_graytractortrailer.ldr
+1 0 0 -92 -140 1 0 0 0 1 0 0 0 1 vehicle_028_graytractortrailer.ldr
 
 0
 0 FILE vehicle_028_rjjtfc1.ldr
@@ -227,6 +227,7 @@
 0 NOSTEP
 1 36 50 -155 344 1 0 0 0 0 1 0 -1 0 3070a.dat
 1 36 -50 -155 344 1 0 0 0 0 1 0 -1 0 3070a.dat
+0 
 0 
 0 
 0 
