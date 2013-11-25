@@ -11,7 +11,7 @@
 
 = Models =
 
-  # Strip (or inline) all vehicles and pedestrians from the building models and add them to the traffic layer.
+  # Strip all vehicles and pedestrians from the building models and add them to the traffic layer.
   # Add driveways that slope smoothly into the roads. (See Mike Gallagher's examples.)
   # But how do I build driveways if the adjacent road section lies at an incline?
   # Traffic layer needs to be gone over again to make sure cars are sitting correctly on the ground instead of floating above, sitting in the grass, etc.
@@ -25,8 +25,8 @@
   # Need to consider again which versions of Mike Gallagher's SNOT roads to use because he has created several. The latest versions have blue wheelchair accessible ramps.
   # <s>Baseball players are missing from the baseball field.</s>
   # The grocery store needs some parking spaces.
-  # Not sure what "t04i1304.dat" and "t04o1304.dat" are for. Can they be safely deleted?
-  # Why are "dx900.dat" and "dx901.dat" needed? Also "look_at.dat".
+  # <s>Not sure what "t04i1304.dat" and "t04o1304.dat" are for. Can they be safely deleted?</s>
+  # <s>Why are "dx900.dat" and "dx901.dat" needed? Also "look_at.dat".</s>
   # Datsville has a radio tower, but no radio station.
   # Add sewer drains to SNOT roads.
   # <s>Replace any road baseplates that still might exist with SNOT roads.</s>

@@ -71,8 +71,8 @@
 1 1 2460 -24 1220 0 0 1 0 1 0 -1 0 0 vehicle_017_graysemitruck.mpd
 1 15 2350 -18 130 0 0 1 0 1 0 -1 0 0 vehicle_018_graypolicemotorcycle.mpd
 
-1 14 2860 -88 580 0 0 -1 0 1 0 1 0 0 vehicle_041_oteconn1.ldr
-1 14 2900 -88 600 0 0 -1 0 1 0 1 0 0 vehicle_041_oteconn1.ldr
+1 14 2860 -88 580 0 0 -1 0 1 0 1 0 0 vehicle_041_weirdportalwithoutwheels.ldr
+1 14 2900 -88 600 0 0 -1 0 1 0 1 0 0 vehicle_041_weirdportalwithoutwheels.ldr
 
 1 14 3040 -12 940 -0.5 0 0.886 0 1 0 -0.886 0 -0.5 vehicle_019_weirdportalonwheels.mpd
 
