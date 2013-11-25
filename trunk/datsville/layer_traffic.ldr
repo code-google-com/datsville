@@ -69,10 +69,12 @@
 1 2 -1500 -24 -370 1 0 0 0 1 0 0 0 1 vehicle_016_redpickuptruck.ldr
 
 1 1 2460 -24 1220 0 0 1 0 1 0 -1 0 0 vehicle_017_graysemitruck.mpd
-1 15 2350 -18 130 0 0 1 0 1 0 -1 0 0 vehicle_018_graypolicemotorcycle.ldr
+1 15 2350 -18 130 0 0 1 0 1 0 -1 0 0 vehicle_018_graypolicemotorcycle.mpd
 
-1 14 2860 -88 580 0 0 -1 0 1 0 1 0 0 vehicle_019_oteconn1.ldr
-1 14 2900 -88 600 0 0 -1 0 1 0 1 0 0 vehicle_019_oteconn1.ldr
+1 14 2860 -88 580 0 0 -1 0 1 0 1 0 0 vehicle_041_oteconn1.ldr
+1 14 2900 -88 600 0 0 -1 0 1 0 1 0 0 vehicle_041_oteconn1.ldr
+
+1 14 3040 -12 940 -0.5 0 0.886 0 1 0 -0.886 0 -0.5 vehicle_019_weirdportalonwheels.mpd
 
 1 0 -3420 -32 -2960 0 0 -1 0 1 0 1 0 0 vehicle_020_redconvertiblecar.ldr
 
@@ -83,9 +85,9 @@
 0 // convertible car outside gas station (w/ driver)
 1 0 -3300 -42 -3620 0 0 -1 0 1 0 1 0 0 vehicle_022_whiteconvertiblecar.ldr
 
-1 7 -4400 -18 -1900 -1 0 0 0 1 0 0 0 -1 vehicle_023_bluemotorcycleandrider.ldr
-1 7 -4390 -18 -1640 -1 0 0 0 1 0 0 0 -1 vehicle_024_blackmotorcycleandredrider.ldr
-1 7 -4500 -18 -1860 -1 0 0 0 0.886 0.5 0 0.5 -0.886 vehicle_025_redmotorcycleandwhiterider.ldr
+1 7 -4400 -18 -1900 -1 0 0 0 1 0 0 0 -1 vehicle_023_bluemotorcycleandrider.mpd
+1 7 -4390 -18 -1640 -1 0 0 0 1 0 0 0 -1 vehicle_024_blackmotorcycleandredrider.mpd
+1 7 -4500 -18 -1860 -1 0 0 0 0.886 0.5 0 0.5 -0.886 vehicle_025_redmotorcycleandwhiterider.mpd
 
 1 2 -330 -30 -1140 0 0 -1 0 1 0 1 0 0 vehicle_026_bluecoupe.ldr
 
