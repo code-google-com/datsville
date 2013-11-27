@@ -1,0 +1,24 @@
+0 FILE pedestrian_024_manshelllogoredcapsitting.ldr
+0 Tanker Driver
+0 Name: pedestrian_024_manshelllogoredcapsitting.ldr
+0 Was: Tfig.dat
+0 Author: Jonathan Wilson
+0 Unofficial Datsville Minifig Model
+0 Parent: Vjwtankr.ldr
+
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 4 0 -9 0 1 0 0 0 0 1 0 -1 0 3817.dat
+1 4 0 -9 0 1 0 0 0 0 1 0 -1 0 3816.dat
+1 4 0 -21 0 1 0 0 0 1 0 0 0 1 3815.dat
+0 // Replaced by Tore Eriksson
+0 // 1 15 0 -53 0 1 0 0 0 1 0 0 0 1 973p60.dat
+1 15 0 -53 0 1 0 0 0 1 0 0 0 1 973pt2.dat
+1 14 0 -77 0 1 0 0 0 1 0 0 0 1 3626bp01.dat
+1 4 0 -80 0 1 0 0 0 1 0 0 0 1 4485.dat
+0 // Arms & Hands
+1 15 -15.552 -45 0 0.9859 -0.17 0 0.17 0.9859 0 0 0 1 3818.dat
+1 14 -23.6943 -27.2157 -9.9 0.9859 -0.1202 0.1202 0.17 0.6972 -0.6972 0 0.7071 0.7071 3820.dat
+1 15 15.552 -45 0 0.9859 0.17 0 -0.17 0.9859 0 0 0 1 3819.dat
+1 14 23.6943 -27.2157 -9.9 0.9859 0.1202 -0.1202 -0.17 0.6972 -0.6972 0 0.7071 0.7071 3820.dat
+0
