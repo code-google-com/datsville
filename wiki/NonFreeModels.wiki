@@ -6,6 +6,10 @@ If you notice anything else, please let us know.
 || vehicle_004_yellowtractorshovel.ldr || TLG ||
 || building_003_eastwickechapel.ldr || TLG ||
 || building_018_datsvillecollege.ldr || TLG ||
-|| building_041_collegelawn.ldr || probably TLG ||
-|| building_035_petrolstation.mpd || (shell logo, other?) ||
-|| vehicle_039_yellowshelltankertruck.ldr || (shell logo, other?) ||
+|| building_041_collegelawn.ldr || maybe TLG ||
+|| building_035_petrolstation.mpd || shell logo, other? ||
+|| vehicle_039_yellowshelltankertruck.ldr || shell logo, other? ||
+|| pedestrian_022_manshelllogoredcap.ldr || shell logo, other? ||
+|| pedestrian_024_manshelllogoredcapsitting.ldr || shell logo, other? ||
+|| infrastructure_streetlamp || TLG ||
+|| infrastructure_streetlamp_4 || TLG ||

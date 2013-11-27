@@ -4,7 +4,6 @@
 0 Unofficial Datsville Town Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
-1 16 -1320 -8 560 0 0 1 0 1 0 -1 0 0 building_003_eastwickechapel.ldr
 1 16 -580 -8 640 0 0 -1 0 1 0 1 0 0 building_043_datsvillememorial.ldr
 1 16 -840 -8 410 1 0 0 0 1 0 0 0 1 infrastructure_bigtree01.ldr
 1 16 -870 -8 870 1 0 0 0 1 0 0 0 1 infrastructure_bigtree01.ldr

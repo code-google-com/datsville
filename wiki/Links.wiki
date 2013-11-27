@@ -1,5 +1,7 @@
 #summary Useful links.
 
+Recent Datsville discussion at LDraw.org
+  + http://forums.ldraw.org/read.php?16,503
 Jonathan Wilson is looking for his model file
   + http://news.lugnet.com/cad/?n=7681
 Tore Eriksson is looking for author information for his "Unofficial Datsville"
