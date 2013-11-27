@@ -1,0 +1,14 @@
+0 Sidewalk  4 Straight
+0 Author: John VanZwieten
+0 Name: Ljvsw04.ldr
+0 Was: Tsw4.dat _tsw04.ldr
+0 Unofficial Datsville Landscape Model
+
+0 // Used -1-1 = 6
+0 // Used -10 = 4
+0 // Used 0-1 = 4
+0 // Used 00 = 9
+0 // Used 01 = 2
+0 // Used 1-1 = 1
+1 16  -20 8 60  1 0 0  0 1 0  0 0 1  Ljvsw04.ldr
+0

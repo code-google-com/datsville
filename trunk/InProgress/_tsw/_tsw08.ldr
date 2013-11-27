@@ -1,0 +1,17 @@
+0 Sidewalk  8 Straght
+0 Author: John VanZwieten
+0 Name: Ljvsw08.ldr
+0 Was: Tsw8.dat _tsw08.ldr
+0 Unofficial Datsville Landscape Model
+
+0 !LDBOXER LEVEL B
+
+0 // Used -1-1 = 3
+0 // Used -10 = 1
+0 // Used 0-1 = 6
+0 // Used 00 = 5
+0 // Used 01 = 3
+0 // Used 1-1 = 1
+
+ 1 16  -20 8 140  1 0 0  0 1 0  0 0 1  Ljvsw08.ldr
+0
