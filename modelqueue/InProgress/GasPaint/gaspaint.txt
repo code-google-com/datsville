@@ -1,3 +1,0 @@
-The Gaspaint folder is for the repainting of Datsville Gas Station. We have to get it brand neutral instead of the Shell colours..
-
-NB: The Parent: information is not updated for the sub-files inside the MPD.
