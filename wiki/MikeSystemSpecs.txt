@@ -1,0 +1,28 @@
+System #1
+
+	Operating System
+		Windows XP Home Edition 32-bit SP3
+	CPU
+		AMD Sempron
+		Barton 0.13um Technology
+	RAM
+		2.00GB DDR @ 166MHz (2.5-5-3-7)
+	Motherboard
+		ASUSTek Computer INC. Kelut (Socket A)	60 °C
+	Graphics
+		E182H (1366x768@60Hz)
+		128MB NVIDIA GeForce4 Ti 4600 (Undefined)
+	Hard Drives
+		18.6GB Western Digital WDC WD200BB-75CAA0 (ATA)
+		75GB Western Digital WDC WD800JB-00JJC0 (ATA)	44 °C
+	Optical Drives
+		TSSTcorp CDDVDW SH-S202N
+	Audio
+		Realtek AC'97 Audio for VIA Audio Controller
+
+	LDView 4.1 - LDView Preset - Quality
+
+		building_007_firecompany.mpd		8-10 FPS
+		building_031_carriagehouse.mpd		12-15 FPS
+		building_009_miningfacility.mpd		20 FPS
+		building_052_newspaperoffice.mpd	20 FPS

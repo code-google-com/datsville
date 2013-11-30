@@ -1,73 +1,70 @@
-﻿+ Jeff "Auld Dragon" Stembel
-  + Dragonelf1@aol.com			(1999)
-  + jeff@aulddragon.com			(2007)
-+ Joachim Probst
-  + jprobst@shadow-corner.ows.es	(1999, 2000)
-  + Joachim.Probst@epost.de		(2001, dead)
-+ Tore Eriksson
+﻿- Allan, Nicholas
+  - n_l_allan@altavista.net		(1999, 2001, dead)
++ Bliss, Steve
+  + steve.bliss@sbcglobal.net		(2009)
+- Burger, Thomas
+  - tburger34@adelphia.net		(2007, "over quota"?)
++ Dennet, Ryan 
+  + rdennett@firehousemail.com		(2002, 2010)
++ Eriksson, Tore
   + tore.eriksson@mbox325.swipnet.se	(1999, 2009)
   + tore.eson@gmail.com			(2013)
-+ Michael Horvath
+- Farver, Rob
+  - rfarver@rcn.com			(1999, 2005, 2010, dead)
+- Gatrelle, Ben
+  - mail@yellowcastle.com		(2006)
++ Gevaryahu, Jonathan
+  + jgevaryahu@hotmail.com		(2000)
+- Glöckner, Fredrik
+  - fredrigl@math.uio.no		(2006)
+- Gonzalez, Joseph
+  - mescalero.geo@yahoo.com		(2009)
++ Gould, Tim
+  + tgould.lego@gmail.com		(2013)
++ Hess, Duane
+  + legozilla@hotmail.com		(2009)
++ Horvath, Michael
   + mikh2161@gmail.com			(2013)
-+ Bram Lambrecht
++ Isaksson, Anders
+  + isaksson.etuna@telia.com		(2009)
+- Jackson, James
+  - savannius@yahoo.com			(2007)
++ Lambrecht, Bram
   + blambrec@student.chuh.org		(1999)
   + lego@bldesign.org			(2008)
   + bram.lambrecht@gmail.com		(2009)
-+ Nicholas Allan
-  + n_l_allan@altavista.net		(1999, 2001, dead)
-+ Rob Farver
-  + rfarver@rcn.com			(1999, 2005, 2010, dead)
-+ Brian Sauls
-  + barbcue@home.com			(2000, dead)
-+ Jonathan Wilson
-  + jfwfreo@tpgi.com.au			(2009)
-+ Manfred Moolhuysen
+- Loch, Kevin
+  - kloch@opnsys.com			(2004, dead)
++ Moolhuysen, Manfred
   + moom@chello.nl			(2009)
-+ Ryan Dennet
-  + rdennett@firehousemail.com		(2002, 2010)
-+ Duane Hess
-  + legozilla@hotmail.com		(2009)
-+ Anders Isaksson
-  + isaksson.etuna@telia.com		(2009)
-+ James Jackson
-  + savannius@yahoo.com			(2007)
-+ Thomas Burger
-  + tburger34@adelphia.net		(2007, "over quota"?)
-+ Fredrik Glöckner
-  + fredrigl@math.uio.no		(2006)
-+ Joseph Gonzalez
-  + mescalero.geo@yahoo.com		(2009)
-+ Calvin Walton
-  + calvinwalton@home.com		(2001, dead)
-  + calvin.walton@gmail.com		(2009)
-+ John Van Zwieten
-  + john_vanzwieten@msn.com		(2005)
-+ Robert Virsik 
-  + ???
-+ Martin Svensson (now Palmberg)
-  + ???
-+ Steve Bliss
-  + steve.bliss@sbcglobal.net		(2009)
-+ Ben Gatrelle
-  + mail@yellowcastle.com		(2006)
-+ Jacob Sparre Andersen
+- Probst, Joachim
+  + jprobst@shadow-corner.ows.es	(1999, 2000)
+  - Joachim.Probst@epost.de		(2001, dead)
++ Sauls, Brian
+  + barbcue@home.com			(2000, dead)
++ Sparre Andersen, Jacob
   + sparre@nbi.dk			(2006, 2013)
   + http://lego.sparre-andersen.dk	(2013)
-+ Tim Gould
-  + tgould.lego@gmail.com		(2013)
-+ Leonardo Zide
+- Sproat, Jeremy H.
+  - jeremy@sproat.us			(2005, dead)
++ Stembel, Jeff "Auld Dragon"
+  + Dragonelf1@aol.com			(1999)
+  + jeff@aulddragon.com			(2007)
++ Svensson (now Palmberg), Martin
+  + ???
+- Teed, Tamyra
+  - Mookie1@telocity.com		(2002)
+- Van Zwieten, John
+  + john_vanzwieten@msn.com		(2005)
+- Virsik, Rene
+  + saturn5@pobox.sk			(2007)
++ Virsik, Robert 
+  + ???
++ Walton, Calvin
+  - calvinwalton@home.com		(2001, dead)
+  + calvin.walton@gmail.com		(2009)
++ Wilson, Jonathan
+  + jfwfreo@tpgi.com.au			(2009)
++ Zide, Leonardo
   + leozide@gmail.com			(2013)
   + https://www.facebook.com/leozide?fref=ts
-
-
-
-+ Jonathan Gevaryahu
-  + jgevaryahu@hotmail.com		(2000)
-+ Kevin Loch
-  + kloch@opnsys.com			(2004)
-+ Jeremy H. Sproat
-  + jeremy@sproat.us			(2005)
-+ Tamyra Teed
-  + Mookie1@telocity.com		(2002)
-+ Rene Virsik
-  + saturn5@pobox.sk			(2007)

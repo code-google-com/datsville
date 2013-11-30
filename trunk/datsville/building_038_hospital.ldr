@@ -11,7 +11,7 @@
 0 EXTRACT
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
-1 16 240 0 20 1 0 0 0 1 0 0 0 1 vehicle_040_whiteambulance.mpd
+1 16 240 0 20 1 0 0 0 1 0 0 0 1 vehicle_040_whiteambulance.ldr
 
 1 15 50 -24 -130 1 0 0 0 1 0 0 0 1 3062b.dat
 1 15 -50 -24 -130 1 0 0 0 1 0 0 0 1 3062b.dat
