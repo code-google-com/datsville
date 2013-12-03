@@ -26,3 +26,33 @@ System #1
 		building_031_carriagehouse.mpd		12-15 FPS
 		building_009_miningfacility.mpd		20 FPS
 		building_052_newspaperoffice.mpd	20 FPS
+
+
+System #2
+
+	Operating System
+		Microsoft Windows 7 Home Premium 64-bit SP1
+	CPU
+		Intel Core 2 Duo E6600 @ 2.40GHz	36 °C
+		Conroe 65nm Technology
+	RAM
+		3.00GB Single-Channel DDR2 @ 333MHz (5-4-4-14)
+	Motherboard
+		eMachines EMCP73VT-PM (CPU 1)	26 °C
+	Graphics
+		ASUS VS247 (1920x1080@60Hz)
+		767MB GeForce GTX 460 (nVidia)	43 °C
+	Hard Drives
+		466GB Seagate ST350041 8AS SCSI Disk Device (SATA)	35 °C
+	Optical Drives
+		HL-DT-ST DVDRAM GH41N SCSI CdRom Device
+	Audio
+		High Definition Audio Device
+
+	LDView 4.1 - LDView Preset - Quality
+
+		building_007_firecompany.mpd		49-52 FPS
+		building_031_carriagehouse.mpd		60-67 FPS
+		building_009_miningfacility.mpd		150-175 FPS
+		building_052_newspaperoffice.mpd	100-120 FPS
+

@@ -1,0 +1,180 @@
+0 FILE vej_med_tr�.ldr
+0 TITLE        Cykelsti
+0 Name: vej_med_tr�.ldr
+0 DESCRIPTION  Cykelsti med cykelstativ, et tr� og en busk.  En del af min julekalender til Jasmin i 2008.
+0 DESIGN       Jacob Sparre Andersen <sparre@nbi.dk>, december 2008
+0 DRAWING      Jacob Sparre Andersen <sparre@nbi.dk>, december 2008
+0 KEYWORDS     cykelsti, cykelstativ, cykelskur
+0 LICENSE      The Beer-Ware License (Revision 42)
+0 WEB-PAGE     http://lego.sparre-andersen.dk/Julekalender/2008/04/
+0 ILLUSTRATION http://lego.sparre-andersen.dk/Julekalender/2008/04/illustration
+0
+0 Created with the MPD Builder. Can be converted
+0 to LDraw files using the MPD Splitter. Both can
+0 be downloaded from:
+0
+0 http://edb.jacob-sparre.dk/Ada/mpd_files/
+0
+0 L3P, LDLite and LDGLite can process MPD files
+0 directly.
+
+0 TITLE       Micro-scale tree
+0 DESCRIPTION Micro-scale tree from page 15 in the instructions for set 4886.  This model was a part of my advent calendar for Jasmin in 2005.
+0 DESIGN      The LEGO Group
+0 DRAWING     Jacob Sparre Andersen <sparre@nbi.dk>, December 2005
+0
+0
+0 venstre
+0 |     ned
+0 |     |     bagud
+0 |     |     |
+
+0 !COLOUR red-brown CODE 70 VALUE #694027 EDGE 0 ALPHA 255
+0 !COLOUR medium-stone CODE 71 VALUE #A3A2A4 EDGE 0 ALPHA 255
+0 !COLOUR dark-stone CODE 72 VALUE #635F61 EDGE 15 ALPHA 255
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+0 STEP
+
+0 STEP
+
+0 STEP
+
+0 STEP
+
+0 STEP
+
+0 STEP
+
+0 STEP
+
+1 70 -130 -120 220 1 0 0 0 1 0 0 0 1 b\2453.dat
+0 STEP
+
+1 2 -130 -128 220 1 0 0 0 1 0 0 0 1 tr�.ldr
+0 STEP
+
+1 2 320 0 70 0 0 1 0 1 0 -1 0 0 busk.ldr
+0 STEP
+
+1 4 50 -120 -260 1 0 0 0 1 0 0 0 1 b\2453.dat
+1 4 150 -120 -260 1 0 0 0 1 0 0 0 1 b\2453.dat
+1 4 50 -120 -120 1 0 0 0 1 0 0 0 1 b\2453.dat
+1 4 150 -120 -120 1 0 0 0 1 0 0 0 1 b\2453.dat
+0 STEP
+
+1 4 136 -20 -160 0 1 0 -1 0 0 0 0 1 2412b.dat
+1 4 136 -20 -180 0 1 0 -1 0 0 0 0 1 2412b.dat
+1 4 136 -20 -200 0 1 0 -1 0 0 0 0 1 2412b.dat
+1 4 136 -20 -220 0 1 0 -1 0 0 0 0 1 2412b.dat
+0 STEP
+
+1 4 100 -128 -190 0 0 1 0 1 0 -1 0 0 b\3036.dat
+0 STEP
+
+0 FILE tr�.ldr
+0 TITLE       Tree from page 15 in the instructions for set 4886.
+0 Name: tr�.ldr
+0 DESIGN      The LEGO Group
+0 DRAWING     Jacob Sparre Andersen <sparre@nbi.dk>, December 2005
+0
+0
+0 venstre
+0 |     ned
+0 |     |     bagud
+0 |     |     |
+
+0 !COLOUR red-brown CODE 70 VALUE #694027 EDGE 0 ALPHA 255
+0 !COLOUR medium-stone CODE 71 VALUE #A3A2A4 EDGE 0 ALPHA 255
+0 !COLOUR dark-stone CODE 72 VALUE #635F61 EDGE 15 ALPHA 255
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 2 0 0 0 1 0 0 0 1 0 0 0 1 b\3022.dat
+0 STEP
+
+1 2 -10 -24 -10 1 0 0 0 1 0 0 0 1 b\3665.dat
+1 2 10 -24 -10 0 0 -1 0 1 0 1 0 0 b\3665.dat
+1 2 -10 -24 10 0 0 1 0 1 0 -1 0 0 b\3665.dat
+1 2 10 -24 10 -1 0 0 0 1 0 0 0 -1 b\3665.dat
+0 STEP
+
+1 2 0 -32 0 1 0 0 0 1 0 0 0 1 b\3020.dat
+0 STEP
+
+1 2 0 -32 30 1 0 0 0 1 0 0 0 1 b\3023.dat
+1 2 0 -32 -30 1 0 0 0 1 0 0 0 1 b\3023.dat
+0 STEP
+
+1 2 0 -56 0 1 0 0 0 1 0 0 0 1 b\3003.dat
+0 STEP
+
+1 2 -30 -56 -10 1 0 0 0 1 0 0 0 1 3040b.dat
+1 2 10 -56 -30 0 0 -1 0 1 0 1 0 0 3040b.dat
+1 2 30 -56 10 -1 0 0 0 1 0 0 0 -1 3040b.dat
+1 2 -10 -56 30 0 0 1 0 1 0 -1 0 0 3040b.dat
+0 STEP
+
+1 2 -10 -80 -10 1 0 0 0 1 0 0 0 1 3040b.dat
+1 2 10 -80 -10 0 0 -1 0 1 0 1 0 0 3040b.dat
+1 2 10 -80 10 -1 0 0 0 1 0 0 0 -1 3040b.dat
+1 2 -10 -80 10 0 0 1 0 1 0 -1 0 0 3040b.dat
+0 STEP
+
+1 2 0 -88 0 1 0 0 0 1 0 0 0 1 b\3022.dat
+0 STEP
+
+0 front-right-below
+1 2 -30 -24 -10 1 0 0 0 1 0 0 0 1 b\3665.dat
+1 2 10 -24 -30 0 0 -1 0 1 0 1 0 0 b\3665.dat
+1 2 -10 -24 30 0 0 1 0 1 0 -1 0 0 b\3665.dat
+1 2 30 -24 10 -1 0 0 0 1 0 0 0 -1 b\3665.dat
+0 STEP
+
+0 FILE busk.ldr
+0 TITLE       Bush
+0 Name: busk.ldr
+0 DESCRIPTION Minifig scale bush from set 4886.  This model was a part of my advent calendar for Jasmin in 2005.
+0 DESIGN      The LEGO Group
+0 DRAWING     Jacob Sparre Andersen <sparre@nbi.dk>, December 2005
+0
+0
+0 venstre
+0 |     ned
+0 |     |     bagud
+0 |     |     |
+
+0 !COLOUR red-brown CODE 70 VALUE #694027 EDGE 0 ALPHA 255
+0 !COLOUR medium-stone CODE 71 VALUE #A3A2A4 EDGE 0 ALPHA 255
+0 !COLOUR dark-stone CODE 72 VALUE #635F61 EDGE 15 ALPHA 255
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 6 -120 -8 -250 0 0 1 0 1 0 -1 0 0 b\3021.dat
+1 6 -80 -8 -240 0 0 1 0 1 0 -1 0 0 b\3020.dat
+0 STEP
+
+1 6 -20 -8 -260 1 0 0 0 1 0 0 0 1 b\3020.dat
+1 6 -30 -8 -220 1 0 0 0 1 0 0 0 1 b\3021.dat
+0 STEP
+
+1 2 -60 -16 -240 1 0 0 0 1 0 0 0 1 b\3022.dat
+0 STEP
+
+1 2 -50 -40 -250 1 0 0 0 1 0 0 0 1 b\3665.dat
+1 2 -70 -40 -250 1 0 0 0 1 0 0 0 1 b\3665.dat
+1 2 -50 -40 -230 -1 0 0 0 1 0 0 0 -1 b\3665.dat
+1 2 -70 -40 -230 -1 0 0 0 1 0 0 0 -1 b\3665.dat
+0 STEP
+
+1 2 -60 -64 -240 -1 0 0 0 1 0 0 0 -1 b\3001.dat
+0 STEP
+
+1 27 -60 -64 -270 -1 0 0 0 1 0 0 0 -1 b\3004.dat
+1 27 -60 -64 -210 -1 0 0 0 1 0 0 0 -1 b\3004.dat
+0 STEP
+
+1 2 -50 -88 -250 0 0 -1 0 1 0 1 0 0 3040b.dat
+1 2 -50 -88 -230 -1 0 0 0 1 0 0 0 -1 3040b.dat
+1 2 -70 -88 -250 1 0 0 0 1 0 0 0 1 3040b.dat
+1 2 -70 -88 -230 0 0 1 0 1 0 -1 0 0 3040b.dat
+0 STEP
+

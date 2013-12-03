@@ -199,7 +199,7 @@
 1 7 -6680 -8 -20 0 0 -1 0 1 0 1 0 0 infrastructure_busstop.ldr
 1 7 -6400 0 0 1 0 0 0 1 0 0 0 1 infrastructure_streetlamppair.ldr
 1 7 -6400 0 -1280 1 0 0 0 1 0 0 0 1 snotroad_doublestripenocross.ldr
-1 7 -6400 0 -640 1 0 0 0 1 0 0 0 1 snotroad_tripleblanknocross.ldr
+1 7 -6400 0 -640 1 0 0 0 1 0 0 0 1 snotroad_triplestripenocross.ldr
 1 7 -6400 0 -640 1 0 0 0 1 0 0 0 1 infrastructure_streetlampsingle.ldr
 1 7 -6400 0 -1280 1 0 0 0 1 0 0 0 1 infrastructure_streetlamppair.ldr
 1 7 -4480 0 -1920 1 0 0 0 1 0 0 0 1 snotroad_triplestripecross_2.ldr

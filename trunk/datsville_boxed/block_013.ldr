@@ -1,0 +1,22 @@
+0 Town Scene Main.
+0 Name: block_013.ldr
+0 Author: John VanZwieten, Michael Horvath
+0 Unofficial Datsville Town Model
+1 2 2400 -8 480 -1 0 0 0 1 0 0 0 -1 b\91405.dat
+1 2 2720 -8 480 -1 0 0 0 1 0 0 0 -1 b\91405.dat
+1 2 3040 -8 480 -1 0 0 0 1 0 0 0 -1 b\91405.dat
+1 2 3360 -8 480 -1 0 0 0 1 0 0 0 -1 b\91405.dat
+1 2 3680 -8 480 -1 0 0 0 1 0 0 0 -1 b\91405.dat
+1 2 2400 -8 800 -1 0 0 0 1 0 0 0 -1 b\91405.dat
+1 2 2720 -8 800 -1 0 0 0 1 0 0 0 -1 b\91405.dat
+1 2 3040 -8 800 -1 0 0 0 1 0 0 0 -1 b\91405.dat
+1 2 3360 -8 800 -1 0 0 0 1 0 0 0 -1 b\91405.dat
+1 2 3680 -8 800 -1 0 0 0 1 0 0 0 -1 b\91405.dat
+1 2 4000 -8 480 -1 0 0 0 1 0 0 0 -1 b\91405.dat
+1 2 4000 -8 800 -1 0 0 0 1 0 0 0 -1 b\91405.dat
+1 7 2560 -8 640 0 0 1 0 1 0 -1 0 0 building_008_roundpolicebuilding.ldr
+1 7 3860 -8 620 0 0 -1 0 1 0 1 0 0 building_044_amateurradioclubbuilding.ldr
+1 7 3320 -8 640 0 0 -1 0 1 0 1 0 0 building_069_amateurradioclubantenna.mpd
+1 13 3200 0 640 0 0 1 0 1 0 -1 0 0 b\3811.dat
+1 13 2560 0 640 0 0 1 0 1 0 -1 0 0 b\3811.dat
+1 13 3840 0 640 0 0 1 0 1 0 -1 0 0 b\3811.dat

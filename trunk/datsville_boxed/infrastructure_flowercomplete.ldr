@@ -1,0 +1,13 @@
+0 Komplette Blumen mit 6 Blueten
+0 Author: Joachim Probst (jprobst@shadow-corner.ows.es)
+0 Name: infrastructure_flowercomplete.ldr
+0 Was: Flowers2.dat
+0 Author: Joachim Probst
+0 Unofficial Datsville Plant Model
+0 Parent: _bjphou1.ldr
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 16 0 16 0 1 0 0 0 1 0 0 0 1 b\3741c01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 b\3741c01.dat
+
