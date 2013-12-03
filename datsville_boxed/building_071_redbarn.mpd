@@ -1,0 +1,366 @@
+0 FILE neyst.ldr
+0 TITLE        Boat house
+0 Name: neyst.ldr
+0 DESCRIPTION  A traditional Faroese boat house.
+0 DESIGN       Jacob Sparre Andersen <sparre@nbi.dk>
+0 DRAWING      Jacob Sparre Andersen <sparre@nbi.dk>
+0 KEYWORDS      moc, town, transportation, boats, buildings
+0 LICENSE      The Beer-Ware License (Revision 42)
+0 WEB-PAGE     http://lego.sparre-andersen.dk/Transport/Skibe/Neyst/
+0 ILLUSTRATION http://lego.sparre-andersen.dk/Transport/Skibe/Neyst/illustration
+
+0 COLOR   0 black               15  27 42 52 255     27 42 52 255
+0 COLOR   1 blue                 0  13 105 171 255   13 105 171 255
+0 COLOR   2 green                0  40 127 70 255    40 127 70 255
+0 COLOR   4 red                  0  196 40 27 255    196 40 27 255
+0 COLOR   6 brown                0  102 51 0 255     102 51 0 255
+0 COLOR   7 light-gray           0  170 170 170 255  170 170 170 255
+0 COLOR   8 dark-gray            0  109 110 108 255  109 110 108 255
+0 COLOR  14 yellow               0  255 229 0 255    255 229 0 255
+0 COLOR  15 white                0  232 227 217 255  232 227 217 255
+0 COLOR  19 tan                  0  232 207 161 255  232 207 161 255
+0 COLOR  26 magenta              0  216 27 109 255   216 27 109 255
+0 COLOR  27 lime                 0  164 189 70 255    164 189 70 255
+0 COLOR  34 trans-green          0  0 127 51 128     0 127 51 128
+0 COLOR  41 trans-light-blue     0  193 223 240 128  193 223 240 128
+0 COLOR  42 trans-green-yellow   0  204 255 0 128    204 255 0 128
+0 COLOR  46 trans-yellow         0  247 241 141 128  247 241 141 128
+0 COLOR  47 trans-white          0  255 255 255 128  255 255 255 128
+0 COLOR  70 red-brown            0  105 64 39 255    105 64 39 255
+0 COLOR  71 medium-stone         0  163 162 164 255  163 162 164 255
+0 COLOR  72 dark-stone          15  99 95 97 255     99 95 97 255
+0 COLOR 320 dark-red            15  120 0 28 255     120 0 28 255
+
+0         venstre
+0         |    ned
+0         |    |    bagud
+0         |    |    |
+
+1 4 90 0 0 1 0 0 0 1 0 0 0 1 samlet-v.ldr
+1 4 -90 0 0 -1 0 0 0 1 0 0 0 -1 samlet-v.ldr
+0 STEP
+1 14 0 -136 0 1 0 0 0 1 0 0 0 1 loft.ldr
+0 STEP
+1 14 0 -158 144 -1 0 0 0 0 -1 0 -1 0 facade.ldr
+1 14 0 -158 -144 1 0 0 0 0 -1 0 1 0 facade.ldr
+0 STEP
+1 4 -42 -68 164 -1 0 0 0 0 -1 0 -1 0 doer.ldr
+1 4 42 -68 -164 1 0 0 0 0 -1 0 1 0 doer.ldr
+1 4 42 -68 164 1 0 0 0 0 1 0 -1 0 doer.ldr
+1 4 -42 -68 -164 -1 0 0 0 0 1 0 1 0 doer.ldr
+0 STEP
+1 4 66 -216 0 0 -0.71 0.71 0 0.71 0.71 -1 0 0 tag.ldr
+1 4 -66 -216 0 0 0.71 -0.71 0 0.71 0.71 1 0 0 tag.ldr
+0 STEP
+
+0 FILE samlet-v.ldr
+0 Was: 0 FILE samlet-v.ldr
+0 Name: samlet-v.ldr
+0 TITLE Samlet vaeg til baadeskuret
+
+0         venstre
+0         |    ned
+0         |    |    bagud
+0         |    |    |
+
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 skelet.ldr
+1 4 6 -88 0 0 -1 0 0 0 1 -1 0 0 vaeg.ldr
+
+0 FILE loft.ldr
+0 TITLE Loft i baadeskur
+0 Name: loft.ldr
+
+0 COLOR   0 black               15  27 42 52 255     27 42 52 255
+0 COLOR   1 blue                 0  13 105 171 255   13 105 171 255
+0 COLOR   2 green                0  40 127 70 255    40 127 70 255
+0 COLOR   4 red                  0  196 40 27 255    196 40 27 255
+0 COLOR   6 brown                0  102 51 0 255     102 51 0 255
+0 COLOR   7 light-gray           0  170 170 170 255  170 170 170 255
+0 COLOR   8 dark-gray            0  109 110 108 255  109 110 108 255
+0 COLOR  14 yellow               0  255 229 0 255    255 229 0 255
+0 COLOR  15 white                0  232 227 217 255  232 227 217 255
+0 COLOR  19 tan                  0  232 207 161 255  232 207 161 255
+0 COLOR  26 magenta              0  216 27 109 255   216 27 109 255
+0 COLOR  27 lime                 0  164 189 70 255    164 189 70 255
+0 COLOR  34 trans-green          0  0 127 51 128     0 127 51 128
+0 COLOR  41 trans-light-blue     0  193 223 240 128  193 223 240 128
+0 COLOR  42 trans-green-yellow   0  204 255 0 128    204 255 0 128
+0 COLOR  46 trans-yellow         0  247 241 141 128  247 241 141 128
+0 COLOR  47 trans-white          0  255 255 255 128  255 255 255 128
+0 COLOR  70 red-brown            0  105 64 39 255    105 64 39 255
+0 COLOR  71 medium-stone         0  163 162 164 255  163 162 164 255
+0 COLOR  72 dark-stone          15  99 95 97 255     99 95 97 255
+0 COLOR 320 dark-red            15  120 0 28 255     120 0 28 255
+
+0         venstre
+0         |    ned
+0         |    |    bagud
+0         |    |    |
+
+1 15 0 0 90 1 0 0 0 1 0 0 0 1 b\4477.dat
+1 15 0 0 0 0 0 1 0 1 0 -1 0 0 b\3034.dat
+1 15 0 0 -90 1 0 0 0 1 0 0 0 1 b\4477.dat
+0 STEP
+
+1 4 -40 -8 -80 0 0 1 0 1 0 -1 0 0 b\3032.dat
+1 4 -40 -8 60 0 0 1 0 1 0 -1 0 0 b\3035.dat
+1 4 40 -8 -100 0 0 1 0 1 0 -1 0 0 b\3031.dat
+1 4 40 -8 80 0 0 1 0 1 0 -1 0 0 b\3032.dat
+1 4 10 -8 -20 0 0 1 0 1 0 -1 0 0 b\3710.dat
+0 STEP
+
+1 14 50 -32 -130 1 0 0 0 1 0 0 0 1 b\4070.dat
+1 14 -50 -32 -130 1 0 0 0 1 0 0 0 1 b\4070.dat
+1 14 50 -32 130 -1 0 0 0 1 0 0 0 -1 b\4070.dat
+1 14 -50 -32 130 -1 0 0 0 1 0 0 0 -1 b\4070.dat
+0 STEP
+
+0 FILE facade.ldr
+0 TITLE Baadeskurets gavl (overetagen)
+0 Name: facade.ldr
+
+0 COLOR   0 black               15  27 42 52 255     27 42 52 255
+0 COLOR   1 blue                 0  13 105 171 255   13 105 171 255
+0 COLOR   2 green                0  40 127 70 255    40 127 70 255
+0 COLOR   4 red                  0  196 40 27 255    196 40 27 255
+0 COLOR   6 brown                0  102 51 0 255     102 51 0 255
+0 COLOR   7 light-gray           0  170 170 170 255  170 170 170 255
+0 COLOR   8 dark-gray            0  109 110 108 255  109 110 108 255
+0 COLOR  14 yellow               0  255 229 0 255    255 229 0 255
+0 COLOR  15 white                0  232 227 217 255  232 227 217 255
+0 COLOR  19 tan                  0  232 207 161 255  232 207 161 255
+0 COLOR  26 magenta              0  216 27 109 255   216 27 109 255
+0 COLOR  27 lime                 0  164 189 70 255    164 189 70 255
+0 COLOR  34 trans-green          0  0 127 51 128     0 127 51 128
+0 COLOR  41 trans-light-blue     0  193 223 240 128  193 223 240 128
+0 COLOR  42 trans-green-yellow   0  204 255 0 128    204 255 0 128
+0 COLOR  46 trans-yellow         0  247 241 141 128  247 241 141 128
+0 COLOR  47 trans-white          0  255 255 255 128  255 255 255 128
+0 COLOR  70 red-brown            0  105 64 39 255    105 64 39 255
+0 COLOR  71 medium-stone         0  163 162 164 255  163 162 164 255
+0 COLOR  72 dark-stone          15  99 95 97 255     99 95 97 255
+0 COLOR 320 dark-red            15  120 0 28 255     120 0 28 255
+
+0         venstre
+0         |    ned
+0         |    |    bagud
+0         |    |    |
+
+1 14 0 0 0 1 0 0 0 1 0 0 0 1 b\3666.dat
+0 STEP
+
+1 14 -20 -8 10 1 0 0 0 1 0 0 0 1 b\3020.dat
+1 14 60 -8 30 0 0 -1 0 1 0 1 0 0 3936.dat
+1 14 -20 -8 70 0 0 1 0 1 0 -1 0 0 3935.dat
+1 14 0 -8 -20 1 0 0 0 1 0 0 0 1 b\4477.dat
+0 STEP
+
+1 14 20 -16 70 0 0 -1 0 1 0 1 0 0 3936.dat
+1 14 -10 -16 0 0 0 1 0 1 0 -1 0 0 b\3623.dat
+1 14 20 -16 0 0 0 1 0 1 0 -1 0 0 b\3021.dat
+1 14 50 -16 0 0 0 1 0 1 0 -1 0 0 b\3623.dat
+1 14 -60 -16 30 0 0 1 0 1 0 -1 0 0 3935.dat
+1 14 -60 -16 -20 1 0 0 0 1 0 0 0 1 b\3710.dat
+0 STEP
+
+0 FILE doer.ldr
+0 TITLE Door for the boat nest
+0 Name: doer.ldr
+
+0 COLOR   0 black               15  27 42 52 255     27 42 52 255
+0 COLOR   1 blue                 0  13 105 171 255   13 105 171 255
+0 COLOR   2 green                0  40 127 70 255    40 127 70 255
+0 COLOR   4 red                  0  196 40 27 255    196 40 27 255
+0 COLOR   6 brown                0  102 51 0 255     102 51 0 255
+0 COLOR   7 light-gray           0  170 170 170 255  170 170 170 255
+0 COLOR   8 dark-gray            0  109 110 108 255  109 110 108 255
+0 COLOR  14 yellow               0  255 229 0 255    255 229 0 255
+0 COLOR  15 white                0  232 227 217 255  232 227 217 255
+0 COLOR  19 tan                  0  232 207 161 255  232 207 161 255
+0 COLOR  26 magenta              0  216 27 109 255   216 27 109 255
+0 COLOR  27 lime                 0  164 189 70 255    164 189 70 255
+0 COLOR  34 trans-green          0  0 127 51 128     0 127 51 128
+0 COLOR  41 trans-light-blue     0  193 223 240 128  193 223 240 128
+0 COLOR  42 trans-green-yellow   0  204 255 0 128    204 255 0 128
+0 COLOR  46 trans-yellow         0  247 241 141 128  247 241 141 128
+0 COLOR  47 trans-white          0  255 255 255 128  255 255 255 128
+0 COLOR  70 red-brown            0  105 64 39 255    105 64 39 255
+0 COLOR  71 medium-stone         0  163 162 164 255  163 162 164 255
+0 COLOR  72 dark-stone          15  99 95 97 255     99 95 97 255
+0 COLOR 320 dark-red            15  120 0 28 255     120 0 28 255
+
+0         venstre
+0         |    ned
+0         |    |    bagud
+0         |    |    |
+
+1 4 0 0 0 0 0 1 0 1 0 -1 0 0 b\3032.dat
+1 0 -30 -32 0 0 0 1 0 1 0 -1 0 0 2432.dat
+1 0 20 -8 30 1 0 0 0 1 0 0 0 1 4276b.dat
+1 0 20 -8 -30 1 0 0 0 1 0 0 0 1 4276b.dat
+
+0 FILE tag.ldr
+0 TITLE B�deskurets tag
+0 Name: tag.ldr
+
+0 COLOR   0 black               15  27 42 52 255     27 42 52 255
+0 COLOR   1 blue                 0  13 105 171 255   13 105 171 255
+0 COLOR   2 green                0  40 127 70 255    40 127 70 255
+0 COLOR   4 red                  0  196 40 27 255    196 40 27 255
+0 COLOR   6 brown                0  102 51 0 255     102 51 0 255
+0 COLOR   7 light-gray           0  170 170 170 255  170 170 170 255
+0 COLOR   8 dark-gray            0  109 110 108 255  109 110 108 255
+0 COLOR  14 yellow               0  255 229 0 255    255 229 0 255
+0 COLOR  15 white                0  232 227 217 255  232 227 217 255
+0 COLOR  19 tan                  0  232 207 161 255  232 207 161 255
+0 COLOR  26 magenta              0  216 27 109 255   216 27 109 255
+0 COLOR  27 lime                 0  164 189 70 255    164 189 70 255
+0 COLOR  34 trans-green          0  0 127 51 128     0 127 51 128
+0 COLOR  41 trans-light-blue     0  193 223 240 128  193 223 240 128
+0 COLOR  42 trans-green-yellow   0  204 255 0 128    204 255 0 128
+0 COLOR  46 trans-yellow         0  247 241 141 128  247 241 141 128
+0 COLOR  47 trans-white          0  255 255 255 128  255 255 255 128
+0 COLOR  70 red-brown            0  105 64 39 255    105 64 39 255
+0 COLOR  71 medium-stone         0  163 162 164 255  163 162 164 255
+0 COLOR  72 dark-stone          15  99 95 97 255     99 95 97 255
+0 COLOR 320 dark-red            15  120 0 28 255     120 0 28 255
+
+0         venstre
+0         |    ned
+0         |    |    bagud
+0         |    |    |
+
+1 4 80 -8 40 1 0 0 0 1 0 0 0 1 b\3035.dat
+1 4 80 -8 -40 1 0 0 0 1 0 0 0 1 b\3035.dat
+1 4 -80 -8 40 1 0 0 0 1 0 0 0 1 b\3035.dat
+1 4 -80 -8 -40 1 0 0 0 1 0 0 0 1 b\3035.dat
+0 STEP
+
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 b\3795.dat
+1 4 70 0 20 0 0 -1 0 1 0 1 0 0 4276b.dat
+1 4 -70 0 20 0 0 -1 0 1 0 1 0 0 4276b.dat
+1 0 110 0 0 0 0 1 0 1 0 -1 0 0 b\3666.dat
+1 0 -110 0 0 0 0 1 0 1 0 -1 0 0 b\3666.dat
+0 STEP
+
+1 0 -150 -16 -40 0 0 1 0 1 0 -1 0 0 b\3666.dat
+1 0 -110 -16 -40 0 0 1 0 1 0 -1 0 0 b\3666.dat
+1 0 -70 -16 -40 0 0 1 0 1 0 -1 0 0 b\3666.dat
+1 0 -30 -16 -40 0 0 1 0 1 0 -1 0 0 b\3666.dat
+1 0 10 -16 -40 0 0 1 0 1 0 -1 0 0 b\3666.dat
+1 0 50 -16 -40 0 0 1 0 1 0 -1 0 0 b\3666.dat
+1 0 90 -16 -40 0 0 1 0 1 0 -1 0 0 b\3666.dat
+1 0 130 -16 -40 0 0 1 0 1 0 -1 0 0 b\3666.dat
+0 STEP
+
+1 0 -150 -8 -90 1 0 0 0 1 0 0 0 1 b\3024.dat
+1 0 -110 -8 -90 1 0 0 0 1 0 0 0 1 b\3024.dat
+1 0 -70 -8 -90 1 0 0 0 1 0 0 0 1 b\3024.dat
+1 0 -30 -8 -90 1 0 0 0 1 0 0 0 1 b\3024.dat
+1 0 10 -8 -90 1 0 0 0 1 0 0 0 1 b\3024.dat
+1 0 50 -8 -90 1 0 0 0 1 0 0 0 1 b\3024.dat
+1 0 90 -8 -90 1 0 0 0 1 0 0 0 1 b\3024.dat
+1 0 130 -8 -90 1 0 0 0 1 0 0 0 1 b\3024.dat
+0 STEP
+
+0 FILE skelet.ldr
+0 TITLE Skelet til baadeskurets vaegge
+0 Name: skelet.ldr
+
+0 COLOR   0 black               15  27 42 52 255     27 42 52 255
+0 COLOR   1 blue                 0  13 105 171 255   13 105 171 255
+0 COLOR   2 green                0  40 127 70 255    40 127 70 255
+0 COLOR   4 red                  0  196 40 27 255    196 40 27 255
+0 COLOR   6 brown                0  102 51 0 255     102 51 0 255
+0 COLOR   7 light-gray           0  170 170 170 255  170 170 170 255
+0 COLOR   8 dark-gray            0  109 110 108 255  109 110 108 255
+0 COLOR  14 yellow               0  255 229 0 255    255 229 0 255
+0 COLOR  15 white                0  232 227 217 255  232 227 217 255
+0 COLOR  19 tan                  0  232 207 161 255  232 207 161 255
+0 COLOR  26 magenta              0  216 27 109 255   216 27 109 255
+0 COLOR  27 lime                 0  164 189 70 255    164 189 70 255
+0 COLOR  34 trans-green          0  0 127 51 128     0 127 51 128
+0 COLOR  41 trans-light-blue     0  193 223 240 128  193 223 240 128
+0 COLOR  42 trans-green-yellow   0  204 255 0 128    204 255 0 128
+0 COLOR  46 trans-yellow         0  247 241 141 128  247 241 141 128
+0 COLOR  47 trans-white          0  255 255 255 128  255 255 255 128
+0 COLOR  70 red-brown            0  105 64 39 255    105 64 39 255
+0 COLOR  71 medium-stone         0  163 162 164 255  163 162 164 255
+0 COLOR  72 dark-stone          15  99 95 97 255     99 95 97 255
+0 COLOR 320 dark-red            15  120 0 28 255     120 0 28 255
+
+0         venstre
+0         |    ned
+0         |    |    bagud
+0         |    |    |
+
+1 15 0 -24 90 0 0 -1 0 1 0 1 0 0 b\3005.dat
+1 15 0 -24 -90 0 0 -1 0 1 0 1 0 0 b\3005.dat
+1 15 0 -48 90 0 0 -1 0 1 0 1 0 0 b\4070.dat
+1 15 0 -48 -90 0 0 -1 0 1 0 1 0 0 b\4070.dat
+1 15 0 -72 90 0 0 -1 0 1 0 1 0 0 b\3005.dat
+1 15 0 -72 -90 0 0 -1 0 1 0 1 0 0 b\3005.dat
+0 STEP
+
+1 15 0 -80 0 0 0 -1 0 1 0 1 0 0 b\4477.dat
+1 15 0 -104 90 0 0 -1 0 1 0 1 0 0 b\3005.dat
+1 15 0 -104 -90 0 0 -1 0 1 0 1 0 0 b\3005.dat
+1 15 0 -128 90 0 0 -1 0 1 0 1 0 0 b\4070.dat
+1 15 0 -128 -90 0 0 -1 0 1 0 1 0 0 b\4070.dat
+0 STEP
+
+0 FILE vaeg.ldr
+0 TITLE B�deskurets v�g
+0 Name: vaeg.ldr
+
+0 COLOR   0 black               15  27 42 52 255     27 42 52 255
+0 COLOR   1 blue                 0  13 105 171 255   13 105 171 255
+0 COLOR   2 green                0  40 127 70 255    40 127 70 255
+0 COLOR   4 red                  0  196 40 27 255    196 40 27 255
+0 COLOR   6 brown                0  102 51 0 255     102 51 0 255
+0 COLOR   7 light-gray           0  170 170 170 255  170 170 170 255
+0 COLOR   8 dark-gray            0  109 110 108 255  109 110 108 255
+0 COLOR  14 yellow               0  255 229 0 255    255 229 0 255
+0 COLOR  15 white                0  232 227 217 255  232 227 217 255
+0 COLOR  19 tan                  0  232 207 161 255  232 207 161 255
+0 COLOR  26 magenta              0  216 27 109 255   216 27 109 255
+0 COLOR  27 lime                 0  164 189 70 255    164 189 70 255
+0 COLOR  34 trans-green          0  0 127 51 128     0 127 51 128
+0 COLOR  41 trans-light-blue     0  193 223 240 128  193 223 240 128
+0 COLOR  42 trans-green-yellow   0  204 255 0 128    204 255 0 128
+0 COLOR  46 trans-yellow         0  247 241 141 128  247 241 141 128
+0 COLOR  47 trans-white          0  255 255 255 128  255 255 255 128
+0 COLOR  70 red-brown            0  105 64 39 255    105 64 39 255
+0 COLOR  71 medium-stone         0  163 162 164 255  163 162 164 255
+0 COLOR  72 dark-stone          15  99 95 97 255     99 95 97 255
+0 COLOR 320 dark-red            15  120 0 28 255     120 0 28 255
+
+0         venstre
+0         |    ned
+0         |    |    bagud
+0         |    |    |
+
+1 4 120 -16 0 0 0 1 0 1 0 -1 0 0 b\3035.dat
+1 4 40 -16 0 0 0 1 0 1 0 -1 0 0 b\3035.dat
+1 4 -40 -16 0 0 0 1 0 1 0 -1 0 0 b\3035.dat
+1 4 -120 -16 0 0 0 1 0 1 0 -1 0 0 b\3035.dat
+0 STEP
+
+1 0 80 -8 50 1 0 0 0 1 0 0 0 1 b\3460.dat
+1 0 -80 -8 50 1 0 0 0 1 0 0 0 1 b\3460.dat
+1 0 80 -8 -30 1 0 0 0 1 0 0 0 1 b\3460.dat
+1 0 -80 -8 -30 1 0 0 0 1 0 0 0 1 b\3460.dat
+1 4 70 -8 -60 0 0 1 0 1 0 -1 0 0 4275b.dat
+1 4 -70 -8 -60 0 0 1 0 1 0 -1 0 0 4275b.dat
+1 4 140 -8 -10 1 0 0 0 1 0 0 0 1 b\3023.dat
+1 4 -140 -8 -10 1 0 0 0 1 0 0 0 1 b\3023.dat
+0 STEP
+
+1 0 0 0 50 1 0 0 0 1 0 0 0 1 b\3460.dat
+1 0 0 0 -30 1 0 0 0 1 0 0 0 1 b\3460.dat
+1 0 140 0 50 1 0 0 0 1 0 0 0 1 4275b.dat
+1 0 140 0 -10 1 0 0 0 1 0 0 0 1 4275b.dat
+1 0 -140 0 50 -1 0 0 0 1 0 0 0 -1 4275b.dat
+1 0 -140 0 -10 -1 0 0 0 1 0 0 0 -1 4275b.dat
+0 STEP
+
