@@ -2,31 +2,19 @@
 
 See ModelsTable for a list of models and their index numbers.
 
-These map images are 6144x3072 pixels in size. Save them to your harddrive to view them in more detail.
+These map images are 6144x3072 pixels in size. Save them to your harddrive to view them in high definition.
 
-Rev 267
-[http://datsville.googlecode.com/svn/wiki/Maps.attach/datsville_rev267_map.png]
+Rev 298
+[http://datsville.googlecode.com/svn/wiki/Maps.attach/datsville_rev298_map.png]
 
-Rev 256
-[http://datsville.googlecode.com/svn/wiki/Maps.attach/datsville_rev256_map.png]
-
-Rev 148
-[http://datsville.googlecode.com/svn/wiki/Maps.attach/datsville_rev148_map.png]
-
-Rev 004
-[http://datsville.googlecode.com/svn/wiki/Maps.attach/datsville_rev004_map.png]
-
-Rev 003
-[http://datsville.googlecode.com/svn/wiki/Maps.attach/datsville_rev003_map.png]
-
-Rev 002
-[http://datsville.googlecode.com/svn/wiki/Maps.attach/datsville_rev002_map.png]
-
-Rev 001
-[http://datsville.googlecode.com/svn/wiki/Maps.attach/datsville_rev001_map.png]
-
-Tore Eriksson's Rev 039
-[http://datsville.googlecode.com/svn/wiki/Maps.attach/datsville_te_rev039_map.png]
+[http://datsville.googlecode.com/svn/wiki/Maps.attach/datsville_rev267_map.png Rev 267]
+[http://datsville.googlecode.com/svn/wiki/Maps.attach/datsville_rev256_map.png Rev 256]
+[http://datsville.googlecode.com/svn/wiki/Maps.attach/datsville_rev148_map.png Rev 148]
+[http://datsville.googlecode.com/svn/wiki/Maps.attach/datsville_rev004_map.png Rev 004]
+[http://datsville.googlecode.com/svn/wiki/Maps.attach/datsville_rev003_map.png Rev 003]
+[http://datsville.googlecode.com/svn/wiki/Maps.attach/datsville_rev002_map.png Rev 002]
+[http://datsville.googlecode.com/svn/wiki/Maps.attach/datsville_rev001_map.png Rev 001]
+[http://datsville.googlecode.com/svn/wiki/Maps.attach/datsville_te_rev039_map.png Tore Eriksson's Rev 039]
 
 = POV-Ray instructions =
 The POVRay scripts are in "svn\trunk\helper_scripts\povray". After converting Datsville using L3P version 1.4, delete any camera and light statements, and delete all the color and material definitions in the "Defines" section, replacing them with a reference to "ldr_wrapper_mapview_1.4.inc". Render the scene at 6144 x 3072 pixels. This will produce the isometric image I use in my town maps. You'll need a lot of RAM, but it won't take a lot of time to render once it's done parsing.
