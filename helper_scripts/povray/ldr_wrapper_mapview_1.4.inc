@@ -56,6 +56,7 @@ global_settings
 #include "lightsys.inc"			// http://www.ignorancia.org/en/index.php?page=Lightsys
 #include "lightsys_constants.inc"	// http://www.ignorancia.org/en/index.php?page=Lightsys
 
+#declare trans_amount		= <2240,0,-320>;
 #declare light_lumens		= 2;					// float
 #declare light_temp		= Daylight(6100);			// float
 #declare light_color		= Light_Color(light_temp,light_lumens);
@@ -66,7 +67,7 @@ global_settings
 #declare Camera_Horizontal	= 30;
 #declare Camera_Distance	= Camera_Width;
 #declare Camera_Scale		= 4;
-#declare Camera_Translate	= <-1280,0,0>;
+#declare Camera_Translate	= <-1280,0,0> + trans_amount;
 #declare Camera_Up		= -y * Camera_Diagonal * Camera_Width * Camera_Aspect;
 #declare Camera_Right		= +x * Camera_Diagonal * Camera_Width;
 #declare Camera_Location	= -z * Camera_Distance;
@@ -110,8 +111,9 @@ object
 			pigment {gamma_color_adjust(<040,066,018>/255)}
 		}
 		finish { ambient L3Ambient diffuse L3Diffuse }
-		translate <-1/2,0,-1/2>
+		translate <1/2,0,1/2>
 		scale 640
+		translate trans_amount
 	}
 }
 
@@ -133,15 +135,71 @@ sky_sphere
 cylinder
 {
 	0, x*32000, 10
-	pigment {color rgb x}
+	pigment {gamma_color_adjust(x)}
 }
 cylinder
 {
 	0, y*32000, 10
-	pigment {color rgb y}
+	pigment {gamma_color_adjust(y)}
 }
 cylinder
 {
 	0, z*32000, 10
-	pigment {color rgb z}
+	pigment {gamma_color_adjust(z)}
+}
+
+// street grid
+union
+{
+	plane
+	{
+		x,0
+	}
+	plane
+	{
+		x,5120
+	}
+	plane
+	{
+		x,10240
+	}
+	plane
+	{
+		-x,5120
+	}
+	plane
+	{
+		-x,10240
+	}
+	plane
+	{
+		z,0
+	}
+	plane
+	{
+		z,5120
+	}
+	plane
+	{
+		z,10240
+	}
+	plane
+	{
+		-z,5120
+	}
+	plane
+	{
+		-z,10240
+	}
+	pigment
+	{
+		gamma_color_adjust(x+z)
+	}
+	clipped_by
+	{
+		box
+		{
+			<-10241,-120,-10241>, <+10241,+120,+10241>
+		}
+	}
 }
