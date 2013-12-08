@@ -1,0 +1,10 @@
+0 New Model
+0 Name: streets_+1_+2.ldr
+0 Author: Michael Horvath
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 7 4160 0 6080 0 0 -1 0 1 0 1 0 0 infrastructure_roadbridge.ldr
+1 7 4160 0 7360 1 0 0 0 1 0 0 0 1 snotroad_doublestripenocross.ldr
+1 7 4160 0 8000 1 0 0 0 1 0 0 0 1 snotroad_doublestripenocross.ldr
+0

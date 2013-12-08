@@ -1,8 +1,0 @@
-  # Inlined sub-models should be extracted, and the parent model turned into an MPD file.
-  # Models should not contain minifigures or vehicles. Instead, minifigures and vehicles should be extracted and copied into "layer_traffic.ldr".
-  # Vehicles may contain minifigures, however.
-  # Models should not contain part primitives. Part primitives should be replaced with official parts when they become available, or copied into a new file or sub-model of an MPD file if not available.
-  # All baseplates should be replaced with SNOT roads or tiled regions except the pink and teal "guide" baseplates used for orienting models.
-  # Buildings should have interiors including beds, appliances, stairs, etc..
-  # It's a good idea that unparked vehicles have drivers.
-  # Models should not re-use the same minifigures. All minifigures should be unique, even if they are identical visually.

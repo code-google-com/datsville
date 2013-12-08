@@ -1,0 +1,66 @@
+0 New Model
+0 Name: streets_-1_+1.ldr
+0 Author: Michael Horvath
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 7 -320 0 1600 -1 0 0 0 1 0 0 0 -1 snotroad_doublestriperightonly.ldr
+1 7 -320 0 960 0 0 -1 0 1 0 1 0 0 snotroad_tripleonewaynocross.ldr
+1 7 -320 0 2240 1 0 0 0 1 0 0 0 1 snotroad_doublestripenocross.ldr
+1 7 -320 0 3520 1 0 0 0 1 0 0 0 1 snotroad_quaddotsnocross.ldr
+1 7 -320 0 2880 1 0 0 0 1 0 0 0 1 snotroad_doublestripecross.ldr
+1 7 -320 0 4160 -1 0 0 0 1 0 0 0 -1 snotroad_doublestripecross.ldr
+1 7 -320 0 4800 1 0 0 0 1 0 0 0 1 snotroad_doublestripenocross.ldr
+1 7 -960 0 320 1 0 0 0 1 0 0 0 1 snotroad_doubleonewaydoublecross.ldr
+1 7 -2880 0 320 -1 0 0 0 1 0 0 0 -1 snotroad_tripleonewaynocross.ldr
+1 7 -4160 0 320 0 0 1 0 1 0 -1 0 0 snotroad_tripleblanknocross.ldr
+1 7 -3520 0 320 0 0 1 0 1 0 -1 0 0 snotroad_doublestriperightonly.ldr
+1 7 -4800 0 320 0 0 1 0 1 0 -1 0 0 snotroad_doublestripecross.ldr
+1 7 -960 0 3520 0 0 1 0 1 0 -1 0 0 snotroad_doublestripecross.ldr
+1 7 -1600 0 3520 0 0 -1 0 1 0 1 0 0 snotroad_doublestripecross.ldr
+1 7 -3520 0 3520 0 0 -1 0 1 0 1 0 0 snotroad_doublestripenocross.ldr
+1 7 -4160 0 3520 0 0 -1 0 1 0 1 0 0 snotroad_doublestripenocross.ldr
+1 7 -4800 0 3520 0 0 -1 0 1 0 1 0 0 snotroad_doublestripenocross.ldr
+1 7 -2880 0 3520 0 0 1 0 1 0 -1 0 0 snotroad_doublestripecross.ldr
+1 7 -2240 0 3520 0 0 1 0 1 0 -1 0 0 snotroad_tripleblanknocross.ldr
+1 7 -2240 0 2880 -1 0 0 0 1 0 0 0 -1 snotroad_triplestripecross_2.ldr
+1 7 -2240 0 2240 -1 0 0 0 1 0 0 0 -1 snotroad_doublestripenocross.ldr
+1 7 -2240 0 1600 -1 0 0 0 1 0 0 0 -1 snotroad_triplestripecross_1.ldr
+1 7 -960 0 960 0 0 1 0 1 0 -1 0 0 snotroad_tripleonewaycross_1.ldr
+1 7 -1600 0 960 0 0 1 0 1 0 -1 0 0 snotroad_doubleonewaynocross.ldr
+1 7 -2240 0 960 0 0 -1 0 1 0 1 0 0 snotroad_tripleonewaynocross.ldr
+1 7 -2880 0 960 0 0 -1 0 1 0 1 0 0 snotroad_curveonewaynocross.ldr
+1 7 -320 0 1600 -1 0 0 0 1 0 0 0 -1 infrastructure_streetlamppair.ldr
+1 7 -320 0 960 0 0 -1 0 1 0 1 0 0 infrastructure_streetlampsingle.ldr
+1 7 -320 0 960 0 0 -1 0 1 0 1 0 0 infrastructure_trashcan.ldr
+1 7 -320 0 960 -1 0 0 0 1 0 0 0 -1 infrastructure_signnoleftturn.ldr
+1 7 -320 0 960 0 0 1 0 1 0 -1 0 0 infrastructure_lightdouble.ldr
+1 7 -320 0 2240 1 0 0 0 1 0 0 0 1 infrastructure_streetlamppair.ldr
+1 7 -320 0 3520 1 0 0 0 1 0 0 0 1 infrastructure_lightquad.ldr
+1 7 -320 0 2880 1 0 0 0 1 0 0 0 1 infrastructure_streetlamppair.ldr
+1 7 -960 0 320 1 0 0 0 1 0 0 0 1 infrastructure_trashcan.ldr
+1 7 -960 0 320 -1 0 0 0 1 0 0 0 -1 infrastructure_trashcan.ldr
+1 7 -960 0 320 1 0 0 0 1 0 0 0 1 infrastructure_streetlamppair.ldr
+1 7 -1600 0 960 0 0 -1 0 1 0 1 0 0 infrastructure_trashcan.ldr
+1 7 -1600 0 960 0 0 1 0 1 0 -1 0 0 infrastructure_streetlamppair.ldr
+1 7 -2240 0 960 0 0 -1 0 1 0 1 0 0 infrastructure_streetlampsingle.ldr
+1 7 -2240 0 960 -1 0 0 0 1 0 0 0 -1 infrastructure_signnoleftturn.ldr
+1 7 -2240 0 960 -1 0 0 0 1 0 0 0 -1 infrastructure_signstopsingle.ldr
+1 7 -2880 0 320 -1 0 0 0 1 0 0 0 -1 infrastructure_streetlampsingle.ldr
+1 7 -2880 0 320 -1 0 0 0 1 0 0 0 -1 infrastructure_signnoentryboth.ldr
+1 7 -2880 0 320 0 0 1 0 1 0 -1 0 0 infrastructure_signnoleftturn.ldr
+1 7 -2880 0 320 -1 0 0 0 1 0 0 0 -1 infrastructure_trashcan.ldr
+1 7 -2880 0 320 1 0 0 0 1 0 0 0 1 infrastructure_lightdouble.ldr
+1 7 -4160 0 320 0 0 1 0 1 0 -1 0 0 infrastructure_streetlampsingle.ldr
+1 7 -4160 0 320 0 0 1 0 1 0 -1 0 0 infrastructure_streetlamppair.ldr
+1 7 -4160 0 320 1 0 0 0 1 0 0 0 1 infrastructure_signstopsingle.ldr
+1 7 -960 0 3520 0 0 -1 0 1 0 1 0 0 infrastructure_streetlamppair.ldr
+1 7 -1600 0 3520 0 0 -1 0 1 0 1 0 0 infrastructure_streetlamppair.ldr
+1 7 -3520 0 320 0 0 -1 0 1 0 1 0 0 infrastructure_streetlamppair.ldr
+1 7 -4800 0 320 0 0 1 0 1 0 -1 0 0 infrastructure_streetlamppair.ldr
+1 7 -2240 0 3520 0 0 1 0 1 0 -1 0 0 infrastructure_streetlampsingle.ldr
+1 7 -2240 0 3520 1 0 0 0 1 0 0 0 1 infrastructure_signstopsingle.ldr
+1 7 -2240 0 2880 -1 0 0 0 1 0 0 0 -1 infrastructure_streetlampsingle.ldr
+1 7 -2240 0 2240 -1 0 0 0 1 0 0 0 -1 infrastructure_streetlamppair.ldr
+1 7 -2240 0 1600 -1 0 0 0 1 0 0 0 -1 infrastructure_streetlampsingle.ldr
+0
