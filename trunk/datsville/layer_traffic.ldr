@@ -47,6 +47,7 @@
 1 2 -2960 0 2010 0 0 1 0 1 0 -1 0 0 vehicle_009_graycoupe.ldr
 0 // gray car heading towards triplex
 1 0 -2340 2 -1200 1 0 0 0 1 0 0 0 1 vehicle_010_graystationwagon.ldr
+1 0 -5850 -8 -570 0 0 -1 0 1 0 1 0 0 vehicle_047_pizzadelivery.ldr
 0 !LDSWITCH CASE Use
 0 0
 0 !LDSWITCH End

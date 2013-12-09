@@ -10,23 +10,22 @@
 
 = Models =
 
-  # Strip all vehicles and pedestrians from the building models and add them to the traffic layer.
-  # Add driveways that slope smoothly into the roads. (See Mike Gallagher's examples.)
-  # But how do I build driveways if the adjacent road section lies at an incline?
-  # Traffic layer needs to be gone over again to make sure cars are sitting correctly on the ground instead of floating above, sitting in the grass, etc.
-  # Figure out the best way to implement sloped roads.
+  # Strip all vehicles and pedestrians from building models and add them to the traffic layer.
+  # Add driveways that slope smoothly into the roads. (See Mike Gallagher's examples.) But how do I build driveways if the adjacent road section lies at an incline?
+  # <s>Traffic layer needs to be gone over again to make sure cars and pedestrians are standing correctly on the ground, sitting in the grass, etc.</s>
+  # Figure out the best way to implement sloped roads and heightfield terrain.
   # Building 58 has a lower storey that is being clipped by the ground.
   # The white camper in Tore's "pending" folder is a very nice model. It would be great if we could use it.
   # <s>Replace petrol station's baseplates with SNOT roads?</s>
   # <s>The parking lots near the university and apartment complex are ugly and need to be redesigned.</s>
   # The cell tower looks more like a tornado siren. Repurpose and rename?
-  # Make sure all "boxed" parts have edge lines. It's possible Tore's parts all had edge lines, and I overrode them with my own edgeline-less parts mistakenly.
+  # Make sure all "boxed" parts have edge lines. It's possible Tore's parts all had edge lines, but I overrode them with my own edgeline-less parts mistakenly.
   # Need to consider again which versions of Mike Gallagher's SNOT roads to use because he has created several. The latest versions have blue wheelchair accessible ramps for instance.
   # <s>Baseball players are missing from the baseball field.</s>
   # <s>The grocery store needs some parking spaces.</s>
   # <s>Not sure what "t04i1304.dat" and "t04o1304.dat" are for. Can they be safely deleted?</s>
   # <s>Why are "dx900.dat" and "dx901.dat" needed? Also "look_at.dat".</s>
-  # Datsville has a radio tower, but no radio station.
+  # Datsville has a radio tower, but no radio station building.
   # Add sewer drains to SNOT roads.
   # <s>Replace any road baseplates that still might exist with SNOT roads.</s>
   # <s>Update myboxer's "box_list.ini" if possible.</s>
@@ -35,12 +34,13 @@
   # I am thinking about changing the asphalt color from black to dark gray, and the sidewalk color from white to light gray. Those colors look a little more urban. But is that what we want?
   # I would like to add a model of a giant tree.
   # Houses need bushes, gardens, etc. around them.
+  # There need to be more minifigures walking around or inside buildings. There need to be more of them in general.
   # Baseball field needs spotlights and a fence surrounding the outfield.
   # One-way streets need two neighboring traffic signals at intersections since both lanes are going in the same direction.
   # Make sure streetlamps don't block driveways.
   # Make sure sreetlamps can be ratcheted to the correct angle when placed on sloping inclines.
-  # All minifigures should be unique. Even players on the baseball teams.
+  # All minifigures and vehicles should use unique models. Even players on the baseball teams.
   # Lower shopping center parking lot by 8 LDU. Also, pizza place.
   # <s>A lot of sub-models are "inlined", which is a bad thing as they are better left as MPDs. Need to obtain the original models or reverse this inlining if possible. (Caveat - MLCAD doesn't like nested MPDs however.)</s>
-  # Streets are a major PITA to edit. Need to split them into rectangular "cells".
+  # <s>Streets are a major PITA to edit. Need to split them into rectangular "cells".</s>
   # I'm not real happy with block 8 where the university once stood. It needs to be made more parklike.
