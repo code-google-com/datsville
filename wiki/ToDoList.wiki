@@ -44,3 +44,4 @@
   # <s>A lot of sub-models are "inlined", which is a bad thing as they are better left as MPDs. Need to obtain the original models or reverse this inlining if possible. (Caveat - MLCAD doesn't like nested MPDs however.)</s>
   # <s>Streets are a major PITA to edit. Need to split them into rectangular "cells".</s>
   # I'm not real happy with block 8 where the university once stood. It needs to be made more parklike.
+  # Maybe make areas between shops and sidewalks white instead of gray.
