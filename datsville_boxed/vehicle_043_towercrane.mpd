@@ -10,11 +10,11 @@
 
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
-1 7 0 4 0 1 0 0 0 1 0 0 0 1 vehicle_043__O__CRA1.LDR
-1 7 -60 -216 -120 1 0 0 0 1 0 0 0 1 vehicle_043__O__CRA2.LDR
-1 7 -60 -464 -120 1 0 0 0 1 0 0 0 1 vehicle_043__O__CRA2.LDR
-1 7 -60 -784 -20 1 0 0 0 1 0 0 0 1 vehicle_043__O__CRA3.LDR
-1 7 -60 -848 -80 1 0 0 0 1 0 0 0 1 vehicle_043__O__CRA4.LDR
+1 7 60 -24 80 1 0 0 0 1 0 0 0 1 vehicle_043__O__CRA1.LDR
+1 7 0 -244 -40 1 0 0 0 1 0 0 0 1 vehicle_043__O__CRA2.LDR
+1 7 0 -492 -40 1 0 0 0 1 0 0 0 1 vehicle_043__O__CRA2.LDR
+1 7 0 -812 60 1 0 0 0 1 0 0 0 1 vehicle_043__O__CRA3.LDR
+1 7 0 -876 0 1 0 0 0 1 0 0 0 1 vehicle_043__O__CRA4.LDR
 
 0 1 7 -60 -712 -120 1 0 0 0 1 0 0 0 1 crsect.dat
 0 1 7 -60 -960 -120 1 0 0 0 1 0 0 0 1 crsect.dat
@@ -385,6 +385,7 @@
 1 15 -1410 -40 30 1 0 0 0 1 0 0 0 1 b\3623.dat
 1 15 -1410 -40 -30 1 0 0 0 1 0 0 0 1 b\3623.dat
 
+0 
 0 
 0
 0
