@@ -1,6 +1,6 @@
-0 FILE vej_med_tr�.ldr
+0 FILE building_070_vej_med_tr�.ldr
 0 TITLE        Cykelsti
-0 Name: vej_med_tr�.ldr
+0 Name: building_070_vej_med_tr�.ldr
 0 DESCRIPTION  Cykelsti med cykelstativ, et tr� og en busk.  En del af min julekalender til Jasmin i 2008.
 0 DESIGN       Jacob Sparre Andersen <sparre@nbi.dk>, december 2008
 0 DRAWING      Jacob Sparre Andersen <sparre@nbi.dk>, december 2008
@@ -8,13 +8,13 @@
 0 LICENSE      The Beer-Ware License (Revision 42)
 0 WEB-PAGE     http://lego.sparre-andersen.dk/Julekalender/2008/04/
 0 ILLUSTRATION http://lego.sparre-andersen.dk/Julekalender/2008/04/illustration
-0
+0 
 0 Created with the MPD Builder. Can be converted
 0 to LDraw files using the MPD Splitter. Both can
 0 be downloaded from:
-0
+0 
 0 http://edb.jacob-sparre.dk/Ada/mpd_files/
-0
+0 
 0 L3P, LDLite and LDGLite can process MPD files
 0 directly.
 
@@ -22,8 +22,8 @@
 0 DESCRIPTION Micro-scale tree from page 15 in the instructions for set 4886.  This model was a part of my advent calendar for Jasmin in 2005.
 0 DESIGN      The LEGO Group
 0 DRAWING     Jacob Sparre Andersen <sparre@nbi.dk>, December 2005
-0
-0
+0 
+0 
 0 venstre
 0 |     ned
 0 |     |     bagud
@@ -32,7 +32,7 @@
 0 !COLOUR red-brown CODE 70 VALUE #694027 EDGE 0 ALPHA 255
 0 !COLOUR medium-stone CODE 71 VALUE #A3A2A4 EDGE 0 ALPHA 255
 0 !COLOUR dark-stone CODE 72 VALUE #635F61 EDGE 15 ALPHA 255
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 0 STEP
 
@@ -51,10 +51,10 @@
 1 70 -130 -120 220 1 0 0 0 1 0 0 0 1 2453.dat
 0 STEP
 
-1 2 -130 -128 220 1 0 0 0 1 0 0 0 1 tr�.ldr
+1 2 -130 -128 220 1 0 0 0 1 0 0 0 1 building_070_tr�.ldr
 0 STEP
 
-1 2 320 0 70 0 0 1 0 1 0 -1 0 0 busk.ldr
+1 2 320 0 70 0 0 1 0 1 0 -1 0 0 building_070_busk.ldr
 0 STEP
 
 1 4 50 -120 -260 1 0 0 0 1 0 0 0 1 2453.dat
@@ -72,13 +72,14 @@
 1 4 100 -128 -190 0 0 1 0 1 0 -1 0 0 3036.dat
 0 STEP
 
-0 FILE tr�.ldr
+0
+0 FILE building_070_tr�.ldr
 0 TITLE       Tree from page 15 in the instructions for set 4886.
-0 Name: tr�.ldr
+0 Name: building_070_tr�.ldr
 0 DESIGN      The LEGO Group
 0 DRAWING     Jacob Sparre Andersen <sparre@nbi.dk>, December 2005
-0
-0
+0 
+0 
 0 venstre
 0 |     ned
 0 |     |     bagud
@@ -87,7 +88,7 @@
 0 !COLOUR red-brown CODE 70 VALUE #694027 EDGE 0 ALPHA 255
 0 !COLOUR medium-stone CODE 71 VALUE #A3A2A4 EDGE 0 ALPHA 255
 0 !COLOUR dark-stone CODE 72 VALUE #635F61 EDGE 15 ALPHA 255
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 2 0 0 0 1 0 0 0 1 0 0 0 1 3022.dat
 0 STEP
@@ -130,14 +131,15 @@
 1 2 30 -24 10 -1 0 0 0 1 0 0 0 -1 3665.dat
 0 STEP
 
-0 FILE busk.ldr
+0
+0 FILE building_070_busk.ldr
 0 TITLE       Bush
-0 Name: busk.ldr
+0 Name: building_070_busk.ldr
 0 DESCRIPTION Minifig scale bush from set 4886.  This model was a part of my advent calendar for Jasmin in 2005.
 0 DESIGN      The LEGO Group
 0 DRAWING     Jacob Sparre Andersen <sparre@nbi.dk>, December 2005
-0
-0
+0 
+0 
 0 venstre
 0 |     ned
 0 |     |     bagud
@@ -146,7 +148,7 @@
 0 !COLOUR red-brown CODE 70 VALUE #694027 EDGE 0 ALPHA 255
 0 !COLOUR medium-stone CODE 71 VALUE #A3A2A4 EDGE 0 ALPHA 255
 0 !COLOUR dark-stone CODE 72 VALUE #635F61 EDGE 15 ALPHA 255
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 6 -120 -8 -250 0 0 1 0 1 0 -1 0 0 3021.dat
 1 6 -80 -8 -240 0 0 1 0 1 0 -1 0 0 3020.dat
@@ -178,3 +180,5 @@
 1 2 -70 -88 -230 0 0 1 0 1 0 -1 0 0 3040b.dat
 0 STEP
 
+0
+0
