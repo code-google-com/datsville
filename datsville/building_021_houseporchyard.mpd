@@ -1,13 +1,7 @@
 0 FILE building_021_houseporchyard.ldr
 0 Name: building_021_houseporchyard.ldr
-0 Name: building_021_houseporchyard.ldr
-0 Was: Tstemb2.dat Tstemb2.mpd
 0 Author: Jeff "Auld Dragon" Stembel
-0 Unofficial Datsville Building Model
-0 Parent: Town1-1.ldr
-0 Location: -660 0 4480
-
-0 !LDBOXER LEVEL A
+0 !LDRAW_ORG Unofficial_Model
 
 0 REM Moved Baseplate x-20 (TE, Rev029)
 0 1 0 0 0 0 1 0 0 0 1 0 0 0 1 3811.dat

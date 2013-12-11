@@ -1,14 +1,8 @@
 0 FILE building_019_cricketground.ldr
 0 Datsville Cricket Ground
 0 Name: building_019_cricketground.ldr
-0 Was: Tfield1.dat
 0 Author: Jonathan Wilson
-0 Unofficial Datsville Building Model
-0 Parent: Town11.ldr
-0 Location: -5520 -16 4060
-
-0 !LDBOXER LEVEL A
-
+0 !LDRAW_ORG Unofficial_Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 2 586 0 0 1 0 0 0 1 0 0 0 1 building_019_bjwcri1.ldr

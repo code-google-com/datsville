@@ -1,7 +1,7 @@
-0 FILE building_009_complete.dat
-0 
+0 FILE building_009_complete.ldr
 0 Name: building_009_complete.dat
-0 WRITE Author: Michael Horvath
+0 Author: Michael Horvath
+0 !LDRAW_ORG Unofficial_Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 1 300 -24 140 0 0 1 0 1 0 -1 0 0 3001.dat
@@ -163,26 +163,26 @@
 1 14 -240 -128 -120 0 0 1 0 1 0 -1 0 0 3030.dat
 1 14 -180 -128 -280 1 0 0 0 1 0 0 0 1 3033.dat
 1 1 -160 -137 -280 1 0 0 0 1 0 0 0 1 3680.dat
-1 1 -160 -137 -280 1 0 0 0 1 0 0 0 1 building_009_figure_sit2.dat
+1 1 -160 -137 -280 1 0 0 0 1 0 0 0 1 building_009_figure_sit2.ldr
 1 1 -100 -152 -280 1 0 0 0 1 0 0 0 1 3003.dat
 1 1 -240 -152 -200 0 0 1 0 1 0 -1 0 0 3001.dat
 1 1 -240 -160 -240 0 0 1 0 1 0 -1 0 0 3034.dat
 1 1 -240 -184 -200 0 0 1 0 1 0 -1 0 0 3001.dat
 1 1 -100 -160 -280 1 0 0 0 1 0 0 0 1 3680.dat
-1 1 -100 -160 -280 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 building_009_terminal.dat
+1 1 -100 -160 -280 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 building_009_terminal.ldr
 1 14 20 -128 -180 1 0 0 0 1 0 0 0 1 3035.dat
 1 14 200 -128 -180 1 0 0 0 1 0 0 0 1 3030.dat
 1 1 220 -137 -160 1 0 0 0 1 0 0 0 1 3680.dat
-1 1 220 -137 -160 0 0 1 0 1 0 -1 0 0 building_009_figure_sit1.dat
+1 1 220 -137 -160 0 0 1 0 1 0 -1 0 0 building_009_figure_sit1.ldr
 1 14 240 -128 -80 0 0 1 0 1 0 -1 0 0 3958.dat
 1 1 250 -152 -80 1 0 0 0 1 0 0 0 1 3002.dat
 1 1 240 -160 -80 0 0 1 0 1 0 -1 0 0 4859.dat
 1 1 270 -160 -80 0 0 1 0 1 0 -1 0 0 3023.dat
 1 1 240 -168 -80 1 0 0 0 1 0 0 0 1 3680.dat
-1 1 240 -168 -80 0.707107 0 -0.707107 0 1 0 0.707107 0 0.707107 building_009_terminal.dat
+1 1 240 -168 -80 0.707107 0 -0.707107 0 1 0 0.707107 0 0.707107 building_009_terminal.ldr
 1 14 240 -128 80 0 0 1 0 1 0 -1 0 0 3033.dat
 1 1 240 -136 80 1 0 0 0 1 0 0 0 1 3680.dat
-1 1 240 -136 80 1 0 0 0 1 0 0 0 1 building_009_figure_sit3.dat
+1 1 240 -136 80 1 0 0 0 1 0 0 0 1 building_009_figure_sit3.ldr
 1 14 220 -128 -240 1 0 0 0 1 0 0 0 1 3832.dat
 1 14 40 -128 -230 1 0 0 0 1 0 0 0 1 3460.dat
 1 14 -60 -128 -280 0 0 1 0 1 0 -1 0 0 3795.dat
@@ -371,7 +371,7 @@
 1 47 -180 -224 170 -1 0 0 0 1 0 0 0 -1 4862.dat
 1 47 -220 -224 170 -1 0 0 0 1 0 0 0 -1 4862.dat
 1 1 -200 -224 170 -1 0 0 0 1 0 0 0 -1 4863.dat
-1 1 -30 -144 170 0 0 -1 0 1 0 1 0 0 building_009_gate.dat
+1 1 -30 -144 170 0 0 -1 0 1 0 1 0 0 building_009_gate.ldr
 1 1 40 -248 180 1 0 0 0 1 0 0 0 1 3006.dat
 1 1 170 -248 180 1 0 0 0 1 0 0 0 1 3002.dat
 1 1 220 -248 180 1 0 0 0 1 0 0 0 1 3003.dat
@@ -415,7 +415,7 @@
 1 1 -120 -288 -120 -1 0 0 0 1 0 0 0 -1 3028.dat
 1 1 -120 -288 0 -1 0 0 0 1 0 0 0 -1 3028.dat
 1 1 -120 -288 100 -1 0 0 0 1 0 0 0 -1 3029.dat
-1 1 -80 -290 147 1 0 0 0 1 0 0 0 1 building_009_fan1.dat
+1 1 -80 -290 147 1 0 0 0 1 0 0 0 1 building_009_fan1.ldr
 1 1 140 -280 130 1 0 0 0 1 0 0 0 1 2730.dat
 1 1 230 -280 80 0 0 -1 0 1 0 1 0 0 3297.dat
 1 1 230 -280 0 0 0 -1 0 1 0 1 0 0 3297.dat
@@ -431,7 +431,7 @@
 1 1 -120 -280 -290 1 0 0 0 1 0 0 0 1 3008.dat
 
 0
-0 FILE building_009_fan1.dat
+0 FILE building_009_fan1.ldr
 0 Name: fan1.dat
 0 Name: building_009_fan1.dat
 0 WRITE Author: Michael Horvath
@@ -444,14 +444,14 @@
 1 0 -70 37 -61 1 0 0 0 -1 0 0 0 -1 2421.dat
 
 0
-0 FILE building_009_gate.dat
+0 FILE building_009_gate.ldr
 0 Name: gate.dat
 0 Name: building_009_gate.dat
 0 WRITE Author: Michael Horvath
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
-1 0 0 0 0 1 0 0 0 1 0 0 0 1 building_009_beam.dat
-1 0 0 0 -140 1 0 0 0 1 0 0 0 1 building_009_beam.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 building_009_beam.ldr
+1 0 0 0 -140 1 0 0 0 1 0 0 0 1 building_009_beam.ldr
 1 1 -150 -40 -70 0 0 1 0 1 0 -1 0 0 3034.dat
 1 1 210 -40 -70 0 0 1 0 1 0 -1 0 0 3034.dat
 1 7 130 -32 -70 1 0 0 0 1 0 0 0 1 3832.dat
@@ -463,10 +463,10 @@
 1 7 -50 -48 -80 1 0 0 0 1 0 0 0 1 4162.dat
 1 7 -150 -48 -70 1 0 0 0 1 0 0 0 1 3068b.dat
 1 7 210 -48 -70 1 0 0 0 1 0 0 0 1 3068b.dat
-1 0 170 -16 -70 1 0 0 0 1 0 0 0 1 building_009_orecart.dat
+1 0 170 -16 -70 1 0 0 0 1 0 0 0 1 building_009_orecart.ldr
 
 0
-0 FILE building_009_beam.dat
+0 FILE building_009_beam.ldr
 0 Name: beam.dat
 0 Name: building_009_beam.dat
 0 WRITE Author: Michael Horvath
@@ -502,9 +502,9 @@
 1 46 94 82 0 0 -1 0 1 0 0 0 0 1 3024.dat
 
 0
-0 FILE building_009_terminal.dat
+0 FILE building_009_terminal.ldr
 0 New Model
-0 Name: building_009_terminal.dat
+0 Name: building_009_terminal.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -513,7 +513,7 @@
 1 1 10 -24 0 0 0 1 0 1 0 -1 0 0 3039p34.dat
 
 0
-0 FILE building_009_orecart.dat
+0 FILE building_009_orecart.ldr
 0 Name: cart.dat
 0 Name: building_009_orecart.dat
 0 WRITE Author: Michael Horvath
@@ -545,9 +545,9 @@
 0 
 0 
 0
-0 FILE building_009_figure_sit2.dat
+0 FILE building_009_figure_sit2.ldr
 0 New Model
-0 Name: building_009_figure_sit2.dat
+0 Name: building_009_figure_sit2.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
 0 
@@ -557,9 +557,9 @@
 1 14 0 -8 0 0 0 1 0 1 0 -1 0 0 4079.dat
 1 1 10 -8 0 0 0 -1 0 1 0 1 0 0 pedestrian_036_bluefiguresit2.ldr
 0
-0 FILE building_009_figure_sit1.dat
+0 FILE building_009_figure_sit1.ldr
 0 New Model
-0 Name: building_009_figure_sit1.dat
+0 Name: building_009_figure_sit1.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -578,15 +578,16 @@
 1 14 -20 -48 -22 1 0 0 0 1 0 0 0 1 977.dat
 0 
 0
-0 FILE building_009_figure_sit3.dat
+0 FILE building_009_figure_sit3.ldr
 0 New Model
-0 Name: building_009_figure_sit3.dat
+0 Name: building_009_figure_sit3.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 0 -1 0 1 0 0 0 1 0 0 0 1 3679.dat
 1 14 0 -10 0 -1 0 0 0 1 0 0 0 -1 4079.dat
+0 
 0 
 0 
 0
