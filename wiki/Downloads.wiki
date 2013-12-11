@@ -2,36 +2,36 @@
 
 == Recent SVN Releases ==
 
-http://www.mediafire.com/download/c3x7vhl98ok614a/datsville_rev308.zip
-http://www.mediafire.com/download/y82gnmad455mmnh/datsville_rev307.zip
-http://www.mediafire.com/download/8qtfz162it58cpn/datsville_rev298.zip
-http://www.mediafire.com/download/y09no6qzqvd428n/datsville_rev256.zip
-http://www.mediafire.com/download/bkjfz40zbgwr9zt/datsville_rev224.zip
-http://www.mediafire.com/download/ifntfufa2r84u83/datsville_rev148.zip
+[http://www.mediafire.com/download/c3x7vhl98ok614a/datsville_rev308.zip Revision 308]
+[http://www.mediafire.com/download/y82gnmad455mmnh/datsville_rev307.zip Revision 307]
+[http://www.mediafire.com/download/8qtfz162it58cpn/datsville_rev298.zip Revision 298]
+[http://www.mediafire.com/download/y09no6qzqvd428n/datsville_rev256.zip Revision 256]
+[http://www.mediafire.com/download/bkjfz40zbgwr9zt/datsville_rev224.zip Revision 224]
+[http://www.mediafire.com/download/ifntfufa2r84u83/datsville_rev148.zip Revision 148]
 
 == Pre-SVN Releases ==
 
-http://www.mediafire.com/download/q9cv4df49ghq4tf/datsville_googlecode_rev009.zip
-http://www.mediafire.com/download/pmelxmnix0m2mcq/datsville_googlecode_rev008.zip
-http://www.mediafire.com/download/uy2q5yi2q3gjw1l/datsville_googlecode_rev007.zip
-http://www.mediafire.com/download/3fbgedabjdfoyys/datsville_googlecode_rev006.zip
-http://www.mediafire.com/download/lv631xpjciqbd6i/datsville_googlecode_rev005.zip
-http://www.mediafire.com/download/22v0znrb1cos63n/datsville_googlecode_rev004.zip
-http://www.mediafire.com/download/tgxg8aib6n1ip9o/datsville_googlecode_rev003.zip
-http://www.mediafire.com/download/528ek365fr0e0r1/datsville_googlecode_rev002.zip
-http://www.mediafire.com/download/d1wuvcx43pin5da/datsville_googlecode_rev001.zip
-http://www.mediafire.com/view/tc2xc641shuktqz/old_change_log.txt
+[http://www.mediafire.com/download/q9cv4df49ghq4tf/datsville_googlecode_rev009.zip Revision 9]
+[http://www.mediafire.com/download/pmelxmnix0m2mcq/datsville_googlecode_rev008.zip Revision 8]
+[http://www.mediafire.com/download/uy2q5yi2q3gjw1l/datsville_googlecode_rev007.zip Revision 7]
+[http://www.mediafire.com/download/3fbgedabjdfoyys/datsville_googlecode_rev006.zip Revision 6]
+[http://www.mediafire.com/download/lv631xpjciqbd6i/datsville_googlecode_rev005.zip Revision 5]
+[http://www.mediafire.com/download/22v0znrb1cos63n/datsville_googlecode_rev004.zip Revision 4]
+[http://www.mediafire.com/download/tgxg8aib6n1ip9o/datsville_googlecode_rev003.zip Revision 3]
+[http://www.mediafire.com/download/528ek365fr0e0r1/datsville_googlecode_rev002.zip Revision 2]
+[http://www.mediafire.com/download/d1wuvcx43pin5da/datsville_googlecode_rev001.zip Revision 1]
+[http://www.mediafire.com/view/tc2xc641shuktqz/old_change_log.txt]
 
 == Tore Eriksson's Early Releases ==
 
-http://www.mediafire.com/download/v79l7dks5ccvd5c/Rev039.zip
-http://www.mediafire.com/download/io862cl0nk7u3yc/Rev037.zip
-http://www.mediafire.com/download/d55dxaaia3rny6g/Rev035.zip
-http://www.mediafire.com/download/3623ud27gsegwo8/Rev034.zip
-http://www.mediafire.com/download/7q0tyn0861ts3n6/Rev032.zip
-http://www.mediafire.com/download/8ibdz3gzpdf79qc/Rev029.zip
-http://www.mediafire.com/download/812h1glcky9ube4/Rev028.zip
-http://www.mediafire.com/download/yi8nb8hltckjt6m/Rev026.zip
-http://www.mediafire.com/download/o2yx6gkp70zch4d/Rev024.zip
-http://www.mediafire.com/download/244eqwrpqe4q2rn/Rev022%20-%20Last%20Unboxed%20Version.zip
-http://www.mediafire.com/view/buy8cyre2laxxu9/notes.txt
+[http://www.mediafire.com/download/v79l7dks5ccvd5c/Rev039.zip Revision TE39]
+[http://www.mediafire.com/download/io862cl0nk7u3yc/Rev037.zip Revision TE37]
+[http://www.mediafire.com/download/d55dxaaia3rny6g/Rev035.zip Revision TE35]
+[http://www.mediafire.com/download/3623ud27gsegwo8/Rev034.zip Revision TE34]
+[http://www.mediafire.com/download/7q0tyn0861ts3n6/Rev032.zip Revision TE32]
+[http://www.mediafire.com/download/8ibdz3gzpdf79qc/Rev029.zip Revision TE29]
+[http://www.mediafire.com/download/812h1glcky9ube4/Rev028.zip Revision TE28]
+[http://www.mediafire.com/download/yi8nb8hltckjt6m/Rev026.zip Revision TE26]
+[http://www.mediafire.com/download/o2yx6gkp70zch4d/Rev024.zip Revision TE24]
+[http://www.mediafire.com/download/244eqwrpqe4q2rn/Rev022%20-%20Last%20Unboxed%20Version.zip Revision TE22]
+[http://www.mediafire.com/view/buy8cyre2laxxu9/notes.txt]
