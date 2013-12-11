@@ -3,7 +3,7 @@
 0 Name: building_059_restaraunt.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 building_059_roof.ldr
 1 8 -30 -160 -170 0 0 1 0 1 0 -1 0 0 43708.dat
@@ -45,7 +45,7 @@
 1 19 -140 -80 150 0 0 1 0 1 0 -1 0 0 3021.dat
 1 19 -140 -104 150 0 0 1 0 1 0 -1 0 0 3021.dat
 1 19 -140 -128 150 0 0 1 0 1 0 -1 0 0 3021.dat
-1 19 -130 -8 240 0 0 1 0 1 0 -1 0 0 building_065_toilet.ldr
+1 19 -130 -8 240 0 0 1 0 1 0 -1 0 0 building_059_toilet.ldr
 1 19 240 -8 160 0 0 1 0 1 0 -1 0 0 building_059_cabinet.ldr
 1 19 240 -72 160 0 0 1 0 1 0 -1 0 0 building_059_cabinet.ldr
 1 19 240 -72 240 0 0 1 0 1 0 -1 0 0 building_059_cabinet.ldr
@@ -214,12 +214,13 @@
 1 8 -270 -166 -168 0 0 1 1 0 0 0 1 0 3957a.dat
 1 15 -270 -166 -232 -1 0 0 0 0 1 0 1 0 2335p40.dat
 
+0
 0 FILE building_059_roof.ldr
 0 New Model
 0 Name: building_059_roof.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 8 -210 -232 210 -1 0 0 0 1 0 0 0 -1 43708.dat
 1 8 210 -232 210 0 0 -1 0 1 0 1 0 0 43708.dat
@@ -328,12 +329,13 @@
 1 19 -80 -208 -80 1 0 0 0 1 0 0 0 1 41539.dat
 1 19 -240 -208 -80 1 0 0 0 1 0 0 0 1 41539.dat
 
+0
 0 FILE building_059_cabinet.ldr
 0 New Model
 0 Name: building_059_cabinet.ldr
 0 Author: MLCad
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 -30 -56 10 1 0 0 0 1 0 0 0 1 3581.dat
 1 7 30 -56 10 1 0 0 0 1 0 0 0 1 3581.dat
@@ -344,12 +346,13 @@
 1 7 0 -64 20 1 0 0 0 1 0 0 0 1 3020.dat
 1 7 0 -8 20 1 0 0 0 1 0 0 0 1 3020.dat
 
+0
 0 FILE building_059_stove.ldr
 0 New Model
 0 Name: building_059_stove.ldr
 0 Author: MLCad
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 -20 -48 0 1 0 0 0 1 0 0 0 1 3068bd01.dat
 1 16 0 -40 10 1 0 0 0 1 0 0 0 1 3010.dat
@@ -358,12 +361,13 @@
 1 16 20 -48 0 1 0 0 0 1 0 0 0 1 3068bd01.dat
 1 16 0 -40 -10 1 0 0 0 1 0 0 0 1 3010p41.dat
 
+0
 0 FILE building_059_preptable.ldr
 0 New Model
 0 Name: building_059_preptable.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 -70 -24 0 0 0 -1 0 1 0 1 0 0 3004.dat
 1 16 70 -24 0 0 0 -1 0 1 0 1 0 0 3004.dat
@@ -375,35 +379,38 @@
 1 15 40 -56 0 -1 0 0 0 1 0 0 0 -1 87079.dat
 1 16 -70 -40 0 0 0 -1 0 1 0 1 0 0 3023.dat
 
+0
 0 FILE building_059_sink.ldr
 0 New Model
 0 Name: building_059_sink.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 0 -48 0 1 0 0 0 1 0 0 0 1 3747a.dat
 1 16 0 -48 0 1 0 0 0 1 0 0 0 1 69c01.dat
 1 16 0 -24 0 1 0 0 0 1 0 0 0 1 3004.dat
 
-0 FILE building_065_toilet.ldr
+0
+0 FILE building_059_toilet.ldr
 0 New Model
-0 Name: building_065_toilet.ldr
+0 Name: building_059_toilet.ldr
 0 Author: MLCad
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 0 -24 0 1 0 0 0 1 0 0 0 1 3747a.dat
 1 15 0 -32 -30 1 0 0 0 1 0 0 0 1 3068b.dat
 1 15 0 -56 0 1 0 0 0 1 0 0 0 1 3069b.dat
 1 15 0 -48 0 1 0 0 0 1 0 0 0 1 3004.dat
 
+0
 0 FILE building_059_table.ldr
 0 New Model
 0 Name: building_059_table.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 4 0 -48 0 1 0 0 0 1 0 0 0 1 3031.dat
 1 8 0 -16 70 1 0 0 0 1 0 0 0 1 3023.dat
@@ -425,12 +432,13 @@
 1 8 -20 -40 -20 1 0 0 0 1 0 0 0 1 4073.dat
 1 8 -20 -8 -20 1 0 0 0 1 0 0 0 1 4073.dat
 
+0
 0 FILE building_059_podium.ldr
 0 New Model
 0 Name: building_059_podium.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 8 0 -56 0 1 0 0 0 1 0 0 0 1 3021.dat
 1 8 20 -24 10 1 0 0 0 1 0 0 0 1 3005.dat
@@ -440,3 +448,5 @@
 1 8 0 -24 -10 1 0 0 0 1 0 0 0 1 3622.dat
 1 8 0 -48 -10 1 0 0 0 1 0 0 0 1 3622.dat
 
+0
+0
