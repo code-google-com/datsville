@@ -3,11 +3,6 @@
 0 Name: vehicle_018_graypolicemotorcycle.ldr
 0 Author: Tore Eriksson
 0 Unofficial Datsville Vehicle Model
-0 Parent: Town0-2.ldr
-0 Author: Alex Taylor [anathema] (x900c04.dat)
-0 !LDRAW_ORG Unofficial_Shortcut
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 4 0 -18 -48 1 0 0 0 1 0 0 0 1 3464.dat

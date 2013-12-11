@@ -1,12 +1,7 @@
 0 Datsville FC Heavy Rescue
 0 Name: vehicle_035_redfiretruck06.ldr
-0 Was: Dfcresq.dat
-0 Author: Duane Hess
+0 Author: Duane Hess, Ryan Dennett
 0 Unofficial Datsville Vehicle Model
-0 Parent: Brdfire1.ldr
-
-0 edited by Ryan Dennett
-
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 -38 0 0 0 1 0 1 0 -1 0 0 3832.dat

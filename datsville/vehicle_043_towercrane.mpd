@@ -1,13 +1,8 @@
 0 FILE vehicle_043_O__CRANE.LDR
 0 Crane
 0 Name: vehicle_043_O__CRANE.LDR
-0 Was: Tcrane.dat
 0 Author:
 0 Unofficial Datsville Other Model
-0 Parent: Town20.ldr
-
-0 Location: -2180 -32 5000
-
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 60 -24 80 1 0 0 0 1 0 0 0 1 vehicle_043__O__CRA1.LDR

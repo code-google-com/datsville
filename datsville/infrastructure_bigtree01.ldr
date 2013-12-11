@@ -1,10 +1,7 @@
 0 Tree #7
 0 Name: infrastructure_bigtree01.ldr
-0 Was: Ttree1.dat
 0 Author: Steve Bliss
-0 Unofficial Datsville Plant Model
-0 Parent: Town0-1.ldr
-
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 6 0 -24 0 1 0 0 0 1 0 0 0 1 3941.dat

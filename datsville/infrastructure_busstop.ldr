@@ -1,31 +1,9 @@
-0 Created with the MPD Builder. Can be converted
+0 Untitled
 0 Name: infrastructure_busstop.ldr
-0 to LDraw files using the MPD Splitter. Both can
-0 be downloaded from:
-0
-0 http://edb.jacob-sparre.dk/Ada/mpd_files/
-0
-0 L3P, LDLite and LDGLite can process MPD files
-0 directly.
-
-0 TITLE Bus stop
-0 DESCRIPTION Bus stop from the town Bregnerod.
-0 DESIGN  Katrine Sparre Andersen and Jacob Sparre Andersen and Michael Horvath
-0 DRAWING Jacob Sparre Andersen <sparre@nbi.dk>
-0 KEYWORDS moc, town, transportation
-0 LICENSE The Beer-Ware License (Revision 42)
-0 WEB-PAGE     http://lego.sparre-andersen.dk/Milj%F8er/Bregnerod/Busstoppested/
-0 ILLUSTRATION http://lego.sparre-andersen.dk/Milj%F8er/Bregnerod/Busstoppested/illustration
-
-0 venstre
-0 |    ned
-0 |    |    bagud
-0 |    |    |
-
+0 Author: Michael Horvath
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
-0 STEP
-
 1 47 40 -144 -10 -1 0 0 0 1 0 0 0 -1 2571.dat
 1 2 90 -144 -10 -1 0 0 0 1 0 0 0 -1 6005.dat
 1 2 90 -96 30 -1 0 0 0 1 0 0 0 -1 3005.dat
@@ -40,13 +18,6 @@
 1 2 -90 -144 -10 -1 0 0 0 1 0 0 0 -1 3024.dat
 1 2 90 -144 -10 -1 0 0 0 1 0 0 0 -1 3024.dat
 1 47 -40 -144 -10 -1 0 0 0 1 0 0 0 -1 2571.dat
-0 STEP
-
-0 STEP
-
 1 2 0 -32 0 1 0 0 0 1 0 0 0 1 3034.dat
 1 2 -70 -24 -10 1 0 0 0 1 0 0 0 1 3062b.dat
 1 2 70 -24 -10 1 0 0 0 1 0 0 0 1 3062b.dat
-0 STEP
-
-0 STEP

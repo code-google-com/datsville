@@ -1,10 +1,7 @@
 0 Minifig Faust
-0 Author: Brian Sauls
 0 Name: pedestrian_009_manblueoverallsmustache.ldr
-0 Was: Faust.dat
-0 Unofficial Datsville Minifig Model
-0 Parent: Bbsbait.ldr
-
+0 Author: Brian Sauls
+0 Unofficial Model
 0 Hips
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
@@ -22,5 +19,4 @@
 1 14 23.6943 -45.2157 -8.9 0.9859 0.1202 -0.1202 -0.17 0.6972 -0.6972 0 0.7071 0.7071 3820.dat
 1 14 -15.552 -63 1 0.9859 -0.17 0 0.17 0.9859 0 0 0 1 3818.dat
 1 14 -23.6943 -45.2157 -8.9 0.9859 -0.1202 0.1202 0.17 0.6972 -0.6972 0 0.7071 0.7071 3820.dat
-
 0

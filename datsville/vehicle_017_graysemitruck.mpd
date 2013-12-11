@@ -1,12 +1,8 @@
 0 FILE vehicle_017_graysemitruck.ldr
 0 Truck Big
 0 Name: vehicle_017_graysemitruck.ldr
-0 Was: Tcbigtr.dat
 0 Author:
 0 Unofficial Datsville Vehicle Model
-0 Parent: Town0-2.ldr
-0 Location: -1300 -24 1340
-
 0 Truck Base
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0

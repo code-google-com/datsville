@@ -1,8 +1,7 @@
 0 Datsville house. Thomas Burgeres house
 0 Name: building_027_thomashouse.ldr
-0 Was: Tburger.dat
 0 Author: Thomas Burger
-0 !LDRAW_ORG Unofficial_Model
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 0 1 11 0 24 0 1 0 0 0 1 0 0 0 1 3811.dat
@@ -160,4 +159,3 @@
 1 7 -80 -192 180 -1 0 0 0 1 0 0 0 -1 4515.dat
 1 7 -240 -192 180 -1 0 0 0 1 0 0 0 -1 4515.dat
 0
-0 // Boxed by LDBoxer v2010a.

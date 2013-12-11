@@ -1,15 +1,7 @@
 0 Minifig Mail Man
 0 Name: pedestrian_003_blueoverallsandhat.ldr
-0 Was: Tmmailm.dat
-0 Author: John VanZwieten
-0 Unofficial Datsville Minifig Model
-0 Parent: Town00.ldr
-
-0 Inlined:1 16 0 0 0 1 0 0 0 1 0 0 0 1 979.dat
-0 Minifig (Complete Figure Shortcut)
-0 Author: Leonardo Zide
-0 Official LCad update 99-03
-
+0 Author: John Van Zwieten
+0 Unofficial Model
 0 legs & hip
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
@@ -27,5 +19,4 @@
 1 14 23.6904 -45.2243 -8.9 0.9855 0.1201 -0.1201 -0.1699 0.6968 -0.6968 0 0.7071 0.7071 3820.dat
 1 1 -15.552 -63 1 0.9855 -0.1699 0 0.1699 0.9855 0 0 0 1 3818.dat
 1 14 -23.6904 -45.2243 -8.9 0.9855 -0.1201 0.1201 0.1699 0.6968 -0.6968 0 0.7071 0.7071 3820.dat
-
 0

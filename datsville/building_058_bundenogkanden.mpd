@@ -1,14 +1,5 @@
 0 FILE hus.ldr
-0 Created with the MPD Builder. Can be converted
 0 Name: hus.ldr
-0 to LDraw files using the MPD Splitter. Both can
-0 be downloaded from:
-0
-0 http://edb.jacob-sparre.dk/Ada/mpd_files/
-0
-0 L3P, LDLite and LDGLite can process MPD files
-0 directly.
-
 0 TITLE Bunden og Kanden
 0 DESCRIPTION Town house with shop in the basement. The name and design is inspired by the toy shop Toppen og Bolden in Gentofte. Closed version for shows.
 0 DESIGN  Jacob Sparre Andersen <sparre@nbi.dk>
@@ -17,6 +8,7 @@
 0 LICENSE The Beer-Ware License (Revision 42)
 0 WEB-PAGE     http://lego.sparre-andersen.dk/By/Huse/Bunden_og_Kanden/
 0 ILLUSTRATION http://lego.sparre-andersen.dk/By/Huse/Bunden_og_Kanden/datsville_edition-illustration
+0 Unofficial Model
 0
 0
 0

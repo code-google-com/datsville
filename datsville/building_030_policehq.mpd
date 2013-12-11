@@ -1,9 +1,8 @@
 0 FILE building_030_policehq.ldr
 0 Datsville Police HQ (complete assembly shortcut)
 0 Name: building_030_policehq.ldr
-0 Was: Tpolice1.dat
 0 Author: Jonathan Wilson
-0 !LDRAW_ORG Unofficial_Model
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 -30 -302 140 0.969878 -0.259878 0 0.259878 0.969878 0 0 0 1 building_030_dish.dat
