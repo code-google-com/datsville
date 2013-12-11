@@ -1,14 +1,8 @@
 0 FILE building_035.LDR
 0 Petrol Station Scene with Baseplates
 0 Name: building_035.ldr
-0 Was: Stscene.dat
 0 Author: Jonathan Wilson, Tore Eriksson
-0 Unofficial Datsville Building Model
-0 Parent: Town-10.ldr
-0 Location: -3100 -8 -3100
-
-0 !LDBOXER LEVEL 0
-
+0 !LDRAW_ORG Unofficial_Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 0 0 0 1 0 0 0 1 0 0 0 1 building_035_1.LDR
@@ -22,13 +16,8 @@
 0 FILE building_035_1.LDR
 0 Petrol Station with Baseplates
 0 Name: building_035_1.LDR
-0 Was: Stationb.dat
 0 Author: Jonathan Wilson
 0 Unofficial Datsville Building Model
-0 Parent: building_035.ldr
-
-0 !LDBOXER LEVEL 0
-
 0 Inlined:  1 0 0 0 0 1 0 0 0 1 0 0 0 1 station.dat
 0 Petrol Station
 0 Author: Jonathan Wilson

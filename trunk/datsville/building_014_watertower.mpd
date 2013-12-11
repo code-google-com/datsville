@@ -1,11 +1,8 @@
 0 FILE building_014_watertower.ldr
 0 Water Tower
 0 Name: building_014_watertower.ldr
-0 Was: Twtower.dat
 0 Author: Ben Gatrelle
-0 Unofficial Datsville Building Model
-0 !LDBOXER LEVEL A
-
+0 !LDRAW_ORG Unofficial_Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 -752 0 1 0 0 0 1 0 0 0 1 building_014_watert-4.dat

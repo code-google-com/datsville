@@ -1,7 +1,7 @@
 0 Town Scene Main.
 0 Name: block_013.ldr
 0 Author: John VanZwieten, Michael Horvath
-0 Unofficial Datsville Town Model
+0 !LDRAW_ORG Unofficial_Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 2 4640 -8 160 -1 0 0 0 1 0 0 0 -1 91405.dat

@@ -1,14 +1,8 @@
 0 Bram L's Cottage
 0 Name: building_004_bramlcottage.ldr
 0 Was: Tbram.dat
-0 Author: Bram Lambrecht
-0 <blambrec@student.chuh.org>
-0 Unofficial Datsville Building Model
-0 Parent: Town0-1.ldr
-0 Location: -740 0 200
-
-0 !LDBOXER LEVEL A
-
+0 Author: Bram Lambrecht <blambrec@student.chuh.org>
+0 !LDRAW_ORG Unofficial_Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 4 -170 -32 20 0 0 -1 0 1 0 1 0 0 6111.dat

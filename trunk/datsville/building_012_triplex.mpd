@@ -1,21 +1,8 @@
 0 FILE building_012_triplex.ldr
 0 Triplex
 0 Name: building_012_triplex.ldr
-0 Was: Ttriplex.dat Tapt1.mpd
 0 Author: Brian Sauls
-0 Unofficial Datsville Building Model
-0 Parent: Town0-1.ldr
-0 Location: -540 -56 1670
-
-0 !LDBOXER LEVEL 0
-
-0 
-0 0.MPD was compiled using M-Peedy
-0 
-0 
-0 
-0 baseboard here
-
+0 !LDRAW_ORG Unofficial_Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 80 -24 -150 1 0 0 0 1 0 0 0 1 3008.dat

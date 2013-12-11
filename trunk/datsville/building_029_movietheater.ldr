@@ -2,11 +2,7 @@
 0 Name: building_029_movietheater.ldr
 0 Was: Ttheater.dat
 0 Author: Thomas Burger
-0 Unofficial Datsville Building Model
-0 Parent: Town00.ldr
-0 Location: -2400 0 -980
-
-0 !LDBOXER LEVEL A
+0 !LDRAW_ORG Unofficial_Model
 
 0 NOW PLAYING: STARWARS EP 1 PM
 

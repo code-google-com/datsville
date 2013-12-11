@@ -3,12 +3,7 @@
 0 Name: building_033_telephoneexchange.ldr
 0 Was: Tphoneco.dat
 0 Author: Jonathan Wilson
-0 Unofficial Datsville Building Model
-0 Parent: TOWN-10
-0 Location: -4000 -8 -2180
-
-0 !LDBOXER LEVEL A
-
+0 !LDRAW_ORG Unofficial_Model
 0 REM desk & dishb inlined
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0

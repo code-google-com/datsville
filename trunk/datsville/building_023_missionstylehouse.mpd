@@ -1,9 +1,8 @@
 0 FILE building_023_missionstylehouse.ldr
 0 Mission-Style House
 0 Name: building_023_missionstylehouse.ldr
-0 Was: Tsauls2.dat mishouse.dat
 0 Author: Brian (bbq) Sauls
-0 Unofficial Datsville Building Model
+0 !LDRAW_ORG Unofficial_Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 270 -8 -230 1 0 0 0 1 0 0 0 1 3036.dat
