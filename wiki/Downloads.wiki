@@ -1,0 +1,37 @@
+#summary Download Datsville releases using these links.
+
+== Recent SVN Releases ==
+
+http://www.mediafire.com/download/c3x7vhl98ok614a/datsville_rev308.zip
+http://www.mediafire.com/download/y82gnmad455mmnh/datsville_rev307.zip
+http://www.mediafire.com/download/8qtfz162it58cpn/datsville_rev298.zip
+http://www.mediafire.com/download/y09no6qzqvd428n/datsville_rev256.zip
+http://www.mediafire.com/download/bkjfz40zbgwr9zt/datsville_rev224.zip
+http://www.mediafire.com/download/ifntfufa2r84u83/datsville_rev148.zip
+
+== Pre-SVN Releases ==
+
+http://www.mediafire.com/download/q9cv4df49ghq4tf/datsville_googlecode_rev009.zip
+http://www.mediafire.com/download/pmelxmnix0m2mcq/datsville_googlecode_rev008.zip
+http://www.mediafire.com/download/uy2q5yi2q3gjw1l/datsville_googlecode_rev007.zip
+http://www.mediafire.com/download/3fbgedabjdfoyys/datsville_googlecode_rev006.zip
+http://www.mediafire.com/download/lv631xpjciqbd6i/datsville_googlecode_rev005.zip
+http://www.mediafire.com/download/22v0znrb1cos63n/datsville_googlecode_rev004.zip
+http://www.mediafire.com/download/tgxg8aib6n1ip9o/datsville_googlecode_rev003.zip
+http://www.mediafire.com/download/528ek365fr0e0r1/datsville_googlecode_rev002.zip
+http://www.mediafire.com/download/d1wuvcx43pin5da/datsville_googlecode_rev001.zip
+http://www.mediafire.com/view/tc2xc641shuktqz/old_change_log.txt
+
+== Tore Eriksson's Early Releases ==
+
+http://www.mediafire.com/download/v79l7dks5ccvd5c/Rev039.zip
+http://www.mediafire.com/download/io862cl0nk7u3yc/Rev037.zip
+http://www.mediafire.com/download/d55dxaaia3rny6g/Rev035.zip
+http://www.mediafire.com/download/3623ud27gsegwo8/Rev034.zip
+http://www.mediafire.com/download/7q0tyn0861ts3n6/Rev032.zip
+http://www.mediafire.com/download/8ibdz3gzpdf79qc/Rev029.zip
+http://www.mediafire.com/download/812h1glcky9ube4/Rev028.zip
+http://www.mediafire.com/download/yi8nb8hltckjt6m/Rev026.zip
+http://www.mediafire.com/download/o2yx6gkp70zch4d/Rev024.zip
+http://www.mediafire.com/download/244eqwrpqe4q2rn/Rev022%20-%20Last%20Unboxed%20Version.zip
+http://www.mediafire.com/view/buy8cyre2laxxu9/notes.txt
