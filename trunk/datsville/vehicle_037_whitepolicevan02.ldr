@@ -1,10 +1,7 @@
 0 Police Van
 0 Name: vehicle_037_whitepolicevan02.ldr
-0 Was: Polvan.dat
 0 Author: Jonathan Wilson
 0 Unofficial Datsville Vehicle Model
-0 Parent: _bjwpol2.ldr
-
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 -23 -70 1 0 0 0 1 0 0 0 1 6157.dat

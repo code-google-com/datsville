@@ -1,7 +1,7 @@
 0 FILE building_031.ldr
 0 Name: building_031.dat
 0 Author: Michael Horvath
-0 !LDRAW_ORG Unofficial_Model
+0 Unofficial Model
 0 ROTATION CENTER -402.807 -24 20.3509 1 "Custom" 
 0 ROTATION CONFIG -2 0
 1 0 0 -8 0 1 0 0 0 1 0 0 0 1 building_031_center.ldr

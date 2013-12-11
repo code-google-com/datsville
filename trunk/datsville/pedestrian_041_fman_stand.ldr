@@ -2,10 +2,6 @@
 0 Name: pedestrian_041_fman_stand.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
-0 New Model
-0 Name: fman_sit1.dat
-0 Author: Michael Horvath
-0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 0 -100 1 1 0 0 0 1 0 0 0 1 3834.dat

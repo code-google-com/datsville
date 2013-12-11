@@ -1,19 +1,12 @@
 0 FILE building_021_houseporchyard.ldr
 0 Name: building_021_houseporchyard.ldr
 0 Author: Jeff "Auld Dragon" Stembel
-0 !LDRAW_ORG Unofficial_Model
-
-0 REM Moved Baseplate x-20 (TE, Rev029)
-0 1 0 0 0 0 1 0 0 0 1 0 0 0 1 3811.dat
-0 REM end Moved Baseplate x-20 (TE, Rev029)
-
+0 Unofficial Model
 0 EXTRACT
 0 1 2 -280 -72 -130 1 0 0 0 1 0 0 0 1 vjsa09s2.ldr
-
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 2 120 -48 40 1 0 0 0 1 0 0 0 1 building_021_badhou2.ldr
-
 1 1 250 -64 -130 1 0 0 0 1 0 0 0 1 3741c01.dat
 1 4 290 -64 -130 -1 0 0 0 1 0 0 0 -1 3741c01.dat
 1 4 290 -80 -130 1 0 0 0 1 0 0 0 1 3741c01.dat
@@ -727,7 +720,7 @@
 0 Name: building_021_badhou2.ldr
 0 Was: House2.dat
 0 Author: Jeff "Auld Dragon" Stembel
-0 Unofficial Datsville Building Model
+0 Unofficial Model
 0 Parent: Badhous2.ldr
 0 !LDBOXER LEVEL A
 0 Inlined: 1 6 90 -224 10 1 0 0 0 1 0 0 0 1 bed.dat

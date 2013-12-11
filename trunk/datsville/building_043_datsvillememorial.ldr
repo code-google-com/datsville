@@ -1,13 +1,7 @@
 0 Datsville Memorial
 0 Name: building_043.ldr
 0 Author: Manfred Moolhuysen 1999
-0 Was: Memorial.dat
-0 Unofficial Datsville Building Model
-0 Parent: Town0-1.ldr
-0 Location: -1260 -8 840
-
-0 !LDBOXER LEVEL A
-
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 4 -80 -24 -40 1 0 0 0 1 0 0 0 1 3003.dat
@@ -185,6 +179,3 @@
 1 4 0 -240 10 -1 0 0 0 1 0 0 0 -1 3048.dat
 1 4 0 -240 -10 1 0 0 0 1 0 0 0 1 3048.dat
 0
-0 // Boxed 8 parts ().
-0 // Boxed Total 8 parts by LDBoxer v2010a.
-

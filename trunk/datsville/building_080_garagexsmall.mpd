@@ -1,4 +1,8 @@
 0 FILE building_080_garagexsmall.ldr
+0 New Model
+0 Name: building_080_garagexsmall.ldr
+0 Author: Michael Horvath
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 building_080_level_1.ldr
@@ -8,14 +12,6 @@
 1 0 -20 -8 -20 1 0 0 0 1 0 0 0 1 vehicle_026_bluecoupe.ldr
 0
 0 FILE building_080_level_1.ldr
-0 New Model
-0 Name: building_080_level_1.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: building_046.ldr
-0 Author: Michael Horvath
-0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 400 -48 290 1 0 0 0 1 0 0 0 1 3245a.dat

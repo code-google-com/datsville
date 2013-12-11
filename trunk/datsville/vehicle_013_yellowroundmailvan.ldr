@@ -1,10 +1,7 @@
 0 City Xers Mail Van
 0 Name: vehicle_013_yellowroundmailvan.ldr
-0 Was: Tcmail.dat
 0 Author: Jacob Sparre Andersen
 0 Unofficial Datsville Vehicle Model
-0 Parent: Town00.ldr
-
 0 Postbil
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0

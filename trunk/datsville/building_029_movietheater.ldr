@@ -1,11 +1,8 @@
 0 Datsville Movie Theater
 0 Name: building_029_movietheater.ldr
-0 Was: Ttheater.dat
 0 Author: Thomas Burger
-0 !LDRAW_ORG Unofficial_Model
-
+0 Unofficial Model
 0 NOW PLAYING: STARWARS EP 1 PM
-
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 2 -280 -8 -200 1 0 0 0 1 0 0 0 1 3020.dat

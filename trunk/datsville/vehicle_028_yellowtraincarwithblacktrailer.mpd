@@ -1,12 +1,9 @@
 0 FILE vehicle_028_yellowtraincarwithblacktrailer.ldr
 0 Trailer on Flatcar
 0 Name: vehicle_028_yellowtraincarwithblacktrailer.ldr
-0 Was: Tofc.dat
 0 Author: James Jackson <jejackso@memphis.edu>
 0 http://www.people.memphis.edu/~Jejackso/ledit.html
 0 Unofficial Datsville Train Model
-0 Parent: Town-20.ldr
-
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 14 0 -87 0 0 0 1 0 1 0 -1 0 0 4093a.dat

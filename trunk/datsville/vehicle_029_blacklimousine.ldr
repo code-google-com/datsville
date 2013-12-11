@@ -1,9 +1,7 @@
 0 Car (Tcvirsic.dat)
 0 Name: vehicle_029_blacklimousine.ldr
-0 Was: Tcvirsic.dat
 0 Author: Rene Virsik(?)
 0 Unofficial Datsville Vehicle Model
-0 Parent: Townpeep.ldr
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 -31 -110 0 0 1 0 1 0 -1 0 0 3832.dat

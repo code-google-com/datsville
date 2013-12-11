@@ -1,11 +1,8 @@
 0 FILE vehicle_031_redfiretruck02ladder.ldr
 0 Datsville FC Engine
 0 Name: vehicle_031_redfiretruck02ladder.ldr
-0 Was: Dfcengin.dat
 0 Author: Ryan Dennett
 0 Unofficial Datsville Vehicle Model
-0 Parent: Brdfire1.ldr
-
 0 EXTRACT
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0

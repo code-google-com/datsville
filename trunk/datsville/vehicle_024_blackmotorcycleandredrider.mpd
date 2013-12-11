@@ -3,11 +3,6 @@
 0 Name: vehicle_024_blackmotorcycleandredrider.ldr
 0 Author: Tore Eriksson
 0 Unofficial Datsville Vehicle Model
-0 Parent:
-0 Author: Alex Taylor [anathema] (x900c04.dat)
-0 Author: Kevin M Bane (x900c02.dat)
-0 !LDRAW_ORG Unofficial_Shortcut
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 // Front wheel (y=0, z=-90)
 0 ROTATION CENTER 0 0 0 1 "Custom" 

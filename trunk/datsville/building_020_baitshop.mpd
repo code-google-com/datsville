@@ -2,7 +2,7 @@
 0 Bait Shop
 0 Name: building_020_baitshop.ldr
 0 Author: Brian Sauls
-0 !LDRAW_ORG Unofficial_Model
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 6 -240 -32 -90 1 0 0 0 1 0 0 0 1 pedestrian_009_manblueoverallsmustache.ldr

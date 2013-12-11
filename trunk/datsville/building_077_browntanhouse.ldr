@@ -1,13 +1,10 @@
 0 Tore Eriksson's Old House
 0 Name: building_077_browntanhouse.ldr
-0 Was: L-mon02.dat
 0 Author: Tore Eriksson
-0 Unofficial Datsville Building Model
-0 Parent: <not assigned>
-
-0 1 2 0 0 0   1   0  0    0  1  0   0   0  1 3867.dat
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
+0 1 2 0 0 0   1   0  0    0  1  0   0   0  1 3867.dat
 1 7 -60 0 0 0 0 -1 0 1 0 1 0 0 3456.dat
 1 7 60 0 0 0 0 -1 0 1 0 1 0 0 3456.dat
 1 7 80 -24 130 1 0 0 0 1 0 0 0 1 3010.dat

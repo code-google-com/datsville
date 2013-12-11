@@ -1,5 +1,7 @@
 0 FILE vehicle_019_Mtepushr.ldr
-0 Name: Mtepushr.ldr
+0 Oteconn1 on Wheels
+0 Author: Tore Eriksson
+0 Unofficial Datsville Other Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 14 0 2 0 1 0 0 0 1 0 0 0 1 vehicle_019_Oteconn2.ldr

@@ -1,12 +1,8 @@
 0 7835 Level Crossing
 0 Name: infrastructure_railcrossing.ldr
-0 Was: m7835.dat ttrcross.dat
 0 Author: Jonathan Wilson
 0 Restored from Town.pov by Tore Eriksson
 0 Highly Un-Official Datsville Railway Replacement Sub-Model
-0 Parent: Town-20.ldr
-0 Datsville Rev. TE008
-
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 7 0 0 0 0 0 -1 0 1 0 1 0 0 snotroad_doublestriperailxing.ldr

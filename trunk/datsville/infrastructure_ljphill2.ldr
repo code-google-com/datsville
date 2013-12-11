@@ -1,11 +1,8 @@
 0 Hill Modul: Corner 1
 0 Name: ljphill2.ldr
 0 Was: Thill2co.dat
-0 Author: Joachim Probst
-0 (jprobst@shadow-corner.ows.es)
-0 Unofficial Datsville Landscape Sub-Model
-0 Parent: Town1-1.ldr Town0-2.ldr
-
+0 Author: Joachim Probst (jprobst@shadow-corner.ows.es)
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 16 -260 -24 300 1 0 0 0 1 0 0 0 1 3001.dat
@@ -137,4 +134,3 @@
 1 16 140 -168 100 0 0 1 0 1 0 -1 0 0 2456.dat
 1 16 80 -168 100 0 0 1 0 1 0 -1 0 0 2356.dat
 1 16 220 -192 220 1 0 0 0 1 0 0 0 1 733.dat
-
