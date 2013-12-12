@@ -34,7 +34,9 @@
 1 7 2240 0 -2880 0 0 1 0 1 0 -1 0 0 snotroad_quaddotsnocross.ldr
 1 7 2240 0 -4800 0 0 -1 0 1 0 1 0 0 infrastructure_railcrossing.ldr
 1 7 1600 0 -2880 0 0 1 0 1 0 -1 0 0 snotroad_doublestripecross.ldr
+1 7 1750 -8 -3140 -1 0 0 0 1 0 0 0 -1 infrastructure_busstop.ldr
 1 7 960 0 -2880 0 0 -1 0 1 0 1 0 0 snotroad_doublestripenocross.ldr
+1 7 1090 -8 -3140 -1 0 0 0 1 0 0 0 -1 infrastructure_mailbox.ldr
 1 7 3520 0 -2880 0 0 1 0 1 0 -1 0 0 snotroad_triplestripecross_1.ldr
 1 7 2880 0 -2880 0 0 -1 0 1 0 1 0 0 snotroad_doublestripecross.ldr
 1 7 3840 -8 -4800 0 0 -1 0 1 0 1 0 0 infrastructure_railsection.ldr
@@ -57,7 +59,7 @@
 1 7 4800 0 -2880 0 0 1 0 1 0 -1 0 0 infrastructure_streetlampsingle.ldr
 1 7 2240 0 -3520 1 0 0 0 1 0 0 0 1 infrastructure_streetlamppair.ldr
 1 7 4160 0 -1600 -1 0 0 0 1 0 0 0 -1 infrastructure_streetlamppair.ldr
-1 7 4440 -8 -880 0 0 1 0 1 0 -1 0 0 infrastructure_busstop.ldr
+1 7 4420 -8 -910 0 0 1 0 1 0 -1 0 0 infrastructure_busstop.ldr
 1 7 4160 0 -960 -1 0 0 0 1 0 0 0 -1 infrastructure_streetlamppair.ldr
 1 7 4160 0 -2240 -1 0 0 0 1 0 0 0 -1 infrastructure_streetlamppair.ldr
 1 7 4160 0 -3520 -1 0 0 0 1 0 0 0 -1 infrastructure_streetlamppair.ldr
