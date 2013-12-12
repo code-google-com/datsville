@@ -5,17 +5,17 @@
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
-1 15 -30 -302 140 0.969878 -0.259878 0 0.259878 0.969878 0 0 0 1 building_030_dish.dat
-1 15 70 -272 70 1 0 0 0 1 0 0 0 1 building_030_antenna.dat
-1 15 -110 -272 70 1 0 0 0 1 0 0 0 1 building_030_antenna.dat
-1 15 -130 -72 -110 1 0 0 0 1 0 0 0 1 building_030_celldoor.dat
-1 15 -30 -72 -110 -1 0 0 0 -1 0 0 0 1 building_030_celldoor.dat
-1 15 -80 -144 -190 1 0 0 0 1 0 0 0 1 building_030_desk.dat
-1 15 -170 -136 160 0 0 1 0 1 0 -1 0 0 building_030_desk.dat
-1 15 -50 -136 160 0 0 1 0 1 0 -1 0 0 building_030_desk.dat
-1 15 70 -136 160 0 0 1 0 1 0 -1 0 0 building_030_desk.dat
-1 15 170 -136 160 0 0 1 0 1 0 -1 0 0 building_030_desk.dat
-1 0 -20 -272 140 1 0 0 0 1 0 0 0 1 building_030_dishb.dat
+1 15 -30 -302 140 0.969878 -0.259878 0 0.259878 0.969878 0 0 0 1 building_030_dish.ldr
+1 15 70 -272 70 1 0 0 0 1 0 0 0 1 building_030_antenna.ldr
+1 15 -110 -272 70 1 0 0 0 1 0 0 0 1 building_030_antenna.ldr
+1 15 -130 -72 -110 1 0 0 0 1 0 0 0 1 building_030_celldoor.ldr
+1 15 -30 -72 -110 -1 0 0 0 -1 0 0 0 1 building_030_celldoor.ldr
+1 15 -80 -144 -190 1 0 0 0 1 0 0 0 1 building_030_desk.ldr
+1 15 -170 -136 160 0 0 1 0 1 0 -1 0 0 building_030_desk.ldr
+1 15 -50 -136 160 0 0 1 0 1 0 -1 0 0 building_030_desk.ldr
+1 15 70 -136 160 0 0 1 0 1 0 -1 0 0 building_030_desk.ldr
+1 15 170 -136 160 0 0 1 0 1 0 -1 0 0 building_030_desk.ldr
+1 0 -20 -272 140 1 0 0 0 1 0 0 0 1 building_030_dishb.ldr
 0 
 0 1 2 0 8 0 1 0 0 0 1 0 0 0 1 3811.dat
 1 8 -180 -8 -180 0 0 1 0 1 0 -1 0 0 3033.dat
@@ -130,7 +130,7 @@
 1 47 -110 -88 230 1 0 0 0 1 0 0 0 1 4073.dat
 1 15 -110 -96 220 0 0 1 0 1 0 -1 0 0 3023.dat
 0 
-1 15 -10 -8 140 0 0 -1 0 1 0 1 0 0 building_030_desk.dat
+1 15 -10 -8 140 0 0 -1 0 1 0 1 0 0 building_030_desk.ldr
 0 
 1 15 90 -128 190 1 0 0 0 1 0 0 0 1 73436.dat
 1 15 -130 -128 50 1 0 0 0 1 0 0 0 1 73436.dat
@@ -203,9 +203,9 @@
 1 15 -10 -296 -110 1 0 0 0 1 0 0 0 1 3144.dat
 1 15 170 -296 150 1 0 0 0 1 0 0 0 1 3144.dat
 0
-0 FILE building_030_antenna.dat
+0 FILE building_030_antenna.ldr
 0 Radio Antenna
-0 Name: building_030_antenna.dat
+0 Name: building_030_antenna.ldr
 0 Author: Jonathan Wilson
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -232,9 +232,9 @@
 1 15 0 -48 0 1 0 0 0 1 0 0 0 1 4740.dat
 0 
 0
-0 FILE building_030_celldoor.dat
+0 FILE building_030_celldoor.ldr
 0 Custody Cell Door
-0 Name: building_030_celldoor.dat
+0 Name: building_030_celldoor.ldr
 0 Author: Jonathan Wilson
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -247,9 +247,9 @@
 1 15 16 0 -140 0 1 0 1 0 0 0 0 -1 3623.dat
 0 
 0
-0 FILE building_030_desk.dat
+0 FILE building_030_desk.ldr
 0 Minifig Desk
-0 Name: building_030_desk.dat
+0 Name: building_030_desk.ldr
 0 Author: Jonathan Wilson
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -263,9 +263,9 @@
 1 15 0 -56 20 1 0 0 0 1 0 0 0 1 3666.dat
 0 
 0
-0 FILE building_030_dish.dat
+0 FILE building_030_dish.ldr
 0 Sattelite Dish
-0 Name: building_030_dish.dat
+0 Name: building_030_dish.ldr
 0 Author: Jonathan Wilson
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -277,9 +277,9 @@
 1 15 10 -42 0 1 0 0 0 1 0 0 0 1 4095.dat
 0 
 0
-0 FILE building_030_dishb.dat
+0 FILE building_030_dishb.ldr
 0 Sattelite Dish Base
-0 Name: building_030_dishb.dat
+0 Name: building_030_dishb.ldr
 0 Author: Jonathan Wilson
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -288,6 +288,7 @@
 1 7 0 -8 0 1 0 0 0 1 0 0 0 1 3679.dat
 1 0 0 -16 0 1 0 0 0 1 0 0 0 1 3022.dat
 1 15 -10 -40 0 0 0 1 0 1 0 -1 0 0 3937.dat
+0 
 0 
 0 
 0

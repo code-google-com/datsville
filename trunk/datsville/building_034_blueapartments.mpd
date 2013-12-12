@@ -303,11 +303,8 @@
 0 FILE building_034_bbsapt2.ldr
 0 Left
 0 Name: building_034_bbsapt2.ldr
-0 Was: Apartl.dat
 0 Author: Brian Sauls
-0 Unofficial Datsville Sub-Model
-0 Parent: _bbsapt1.ldr
-0 !LDBOXER LEVEL 0
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 15 -100 32 0 0 0 1 0 1 0 -1 0 0 3008.dat
@@ -562,11 +559,8 @@
 0 FILE building_034_bbsapt3.ldr
 0 Right
 0 Name: building_034_bbsapt3.ldr
-0 Was: Apartl.dat
 0 Author: Brian Sauls
-0 Unofficial Datsville Sub-Model
-0 Parent: _bbsapt1.ldr
-0 !LDBOXER LEVEL 0
+0 Unofficial Model
 0 Inlined: 1 2 -290 -32 220 0 0 -1 0 1 0 1 0 0 bphone.dat
 0 white phone
 0 black-buttone phone--set your own color
@@ -819,4 +813,3 @@
 1 15 90 -128 190 0 0 1 0 1 0 -1 0 0 4162.dat
 1 15 90 -128 90 0 0 1 0 1 0 -1 0 0 3069b.dat
 1 15 90 -128 60 1 0 0 0 1 0 0 0 1 3070a.dat
-

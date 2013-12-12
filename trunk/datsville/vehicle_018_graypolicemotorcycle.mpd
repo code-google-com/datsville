@@ -2,7 +2,7 @@
 0 Police Motorcycle 2 Wheel (y=-18)
 0 Name: vehicle_018_graypolicemotorcycle.ldr
 0 Author: Tore Eriksson
-0 Unofficial Datsville Vehicle Model
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 4 0 -18 -48 1 0 0 0 1 0 0 0 1 3464.dat
@@ -33,21 +33,16 @@
 0 FILE dx901.dat
 0 Bike  2 Wheel Motorcycle Forks (needs work)
 0 Name: dx901.dat
-0 Was: x901.dat
 0 Author: Kevin M Bane
 0 UNOFFICIAL Part Update 2001-01
 0 // Many missing conditional lines
 0 CATEGORY Car
 0 KEYWORDS motorbike, town, minifig, vehicle
 0 // 2006-08-16 WilliamH BFCed
-
-0 Un-Official Datsville Part
-0 Parent: Vtemc1.ldr Vtemc2.ldr
-
+0 Unofficial Part
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 0 BFC CERTIFY CCW
-
 2 24 -9 2.296 -5.543 -13 2.296 -5.543
 2 24 -9 2.296 -5.543 -9 4.243 -4.243
 2 24 -9 4.243 -4.243 -9 5.543 -2.296
@@ -453,20 +448,16 @@
 0 FILE dx900.dat
 0 Bike  2 Wheel Motorcycle Body (needs work)
 0 Name: dx900.dat
-0 Was: x900.dat
 0 Author: Kevin M Bane
 0 UNOFFICIAL Part Update 2001-01
 0 // Many conditional lines missing
 0 CATEGORY Car
 0 KEYWORDS minifig, town, motorbike
-
-0 Un-Official Datsville Part
+0 Unofficial Part
 0 Parent: Vtemc1.ldr Vtemc2.ldr
-
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 0 BFC CERTIFY CCW
-
 0 // 2006-08-16 WilliamH BFCed
 1 16 0 0 -10 1 0 0 0 1 0 0 0 1 stud2.dat
 1 16 0 0 10 1 0 0 0 1 0 0 0 1 stud2.dat

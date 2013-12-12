@@ -12,6 +12,10 @@
 1 0 -20 -8 -20 1 0 0 0 1 0 0 0 1 vehicle_026_bluecoupe.ldr
 0
 0 FILE building_080_level_1.ldr
+0 New Model
+0 Name: building_080_level_1.ldr
+0 Author: Michael Horvath
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 400 -48 290 1 0 0 0 1 0 0 0 1 3245a.dat
@@ -243,7 +247,10 @@
 0 
 0
 0 FILE building_080_level_2.ldr
-0 level_2.ldr
+0 New Model
+0 Name: building_080_level_2.ldr
+0 Author: Michael Horvath
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 400 -56 290 1 0 0 0 1 0 0 0 1 3245a.dat
@@ -430,7 +437,7 @@
 0 FILE building_080_level_3_roof.ldr
 0 New Model
 0 Name: building_080_level_3_roof.ldr
-0 Author: LDraw
+0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
@@ -508,7 +515,7 @@
 0 FILE building_080_cornerpillar.ldr
 0 New Model
 0 Name: building_080_cornerpillar.ldr
-0 Author: MLCad
+0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
@@ -532,7 +539,7 @@
 0 FILE building_080_mainpillar.ldr
 0 New Model
 0 Name: building_080_mainpillar.ldr
-0 Author: LDraw
+0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
@@ -544,7 +551,7 @@
 0 FILE building_080_rooftile.ldr
 0 New Model
 0 Name: building_080_rooftile.ldr
-0 Author: MLCad
+0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
@@ -557,7 +564,7 @@
 0 FILE building_080_ramp_step.ldr
 0 New Model
 0 Name: building_080_ramp_step.ldr
-0 Author: LDraw
+0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0

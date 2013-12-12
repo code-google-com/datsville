@@ -2,7 +2,7 @@
 0 Motorcycle 2 Wheel (y=-18)
 0 Name: vehicle_024_blackmotorcycleandredrider.ldr
 0 Author: Tore Eriksson
-0 Unofficial Datsville Vehicle Model
+0 Unofficial Model
 
 0 // Front wheel (y=0, z=-90)
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -30,7 +30,6 @@
 0 FILE dx900.dat
 0 Bike  2 Wheel Motorcycle Body (needs work)
 0 Name: dx900.dat
-0 Was: x900.dat
 0 Author: Kevin M Bane
 0 UNOFFICIAL Part Update 2001-01
 0 // Many conditional lines missing

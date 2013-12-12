@@ -88,7 +88,7 @@
 0 FILE building_062_windowtop.ldr
 0 New Model
 0 Name: building_062_windowtop.ldr
-0 Author: MLCad
+0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
@@ -98,7 +98,7 @@
 0 FILE building_062_windowbot.ldr
 0 New Model
 0 Name: building_062_windowbot.ldr
-0 Author: MLCad
+0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
@@ -109,7 +109,7 @@
 0 FILE building_062_floor_3.ldr
 0 New Model
 0 Name: building_062_floor_3.ldr
-0 Author: MLCad
+0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
@@ -134,7 +134,7 @@
 0 FILE building_062_floor_2.ldr
 0 New Model
 0 Name: building_062_floor_2.ldr
-0 Author: MLCad
+0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
@@ -162,7 +162,7 @@
 0 FILE building_062_center.ldr
 0 New Model
 0 Name: building_062_center.ldr
-0 Author: MLCad
+0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
@@ -301,12 +301,12 @@
 0 FILE building_062_half.ldr
 0 New Model
 0 Name: building_062_half.ldr
-0 Author: MLCad
+0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 -8 0 1 0 0 0 1 0 0 0 1 building_062_floor_1.ldr
-0 MLCAD HIDE 1 0 0 -8 0 1 0 0 0 1 0 0 0 1 building_062_floor_3.ldr
+0 Michael Horvath HIDE 1 0 0 -8 0 1 0 0 0 1 0 0 0 1 building_062_floor_3.ldr
 1 0 0 -8 0 1 0 0 0 1 0 0 0 1 building_062_floor_2.ldr
 1 0 0 -8 0 1 0 0 0 1 0 0 0 1 building_062_floor_0.ldr
 1 0 -290 -128 -520 0 0 1 0 1 0 -1 0 0 building_062_windowbot.ldr
@@ -1166,11 +1166,11 @@
 0 FILE building_062_floor_0.ldr
 0 New Model
 0 Name: building_062_floor_0.ldr
-0 Author: MLCad
+0 Author: Michael Horvath
 0 Unofficial Model
 0 New Model
 0 Name: floor_2.ldr
-0 Author: MLCad
+0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
@@ -1257,7 +1257,7 @@
 0 FILE building_062_floor_1.ldr
 0 New Model
 0 Name: building_062_floor_1.ldr
-0 Author: MLCad
+0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
@@ -1371,7 +1371,7 @@
 0 FILE building_062_stair.ldr
 0 New Model
 0 Name: building_062_stair.ldr
-0 Author: MLCad
+0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
@@ -1393,7 +1393,7 @@
 0 FILE building_062_floor_4.ldr
 0 New Model
 0 Name: building_062_floor_4.ldr
-0 Author: MLCad
+0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
@@ -1410,7 +1410,7 @@
 0 FILE building_062_desk.ldr
 0 New Model
 0 Name: building_062_desk.ldr
-0 Author: MLCad
+0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
@@ -1441,7 +1441,7 @@
 0 FILE building_062_centerdesk.ldr
 0 New Model
 0 Name: building_062_centerdesk.ldr
-0 Author: MLCad
+0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
@@ -1478,7 +1478,7 @@
 0 FILE building_062_toilet.ldr
 0 New Model
 0 Name: building_062_toilet.ldr
-0 Author: MLCad
+0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0

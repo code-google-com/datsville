@@ -3,8 +3,6 @@
 0 Name: building_007_firecompany.ldr
 0 Author: Ryan Dennett
 0 Unofficial Model
-0 Parent: Town0-1.ldr
-0 Location: 640 0 640
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 2 30 0 -540 0 0 -1 0 1 0 1 0 0 vehicle_030_redfiretruck01.mpd

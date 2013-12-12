@@ -1,7 +1,7 @@
 0 FILE vehicle_019_Mtepushr.ldr
 0 Oteconn1 on Wheels
 0 Author: Tore Eriksson
-0 Unofficial Datsville Other Model
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 14 0 2 0 1 0 0 0 1 0 0 0 1 vehicle_019_Oteconn2.ldr
@@ -9,10 +9,13 @@
 
 0
 0 FILE vehicle_019_minifigg.ldr
-0 // Left Leg
+0 Untitled
 0 Name: vehicle_019_minifigg.ldr
+0 Author: Tore Eriksson
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
+0 // Left Leg
 1 1 0 -28 0 1 0 0 0 0.886 0.5 0 -0.5 0.886 3817.dat
 0 // Right Leg
 1 1 0 -28 0 1 0 0 0 0.986 -0.12 0 0.12 0.986 3816.dat
@@ -20,10 +23,13 @@
 
 0
 0 FILE vehicle_019_upperbody.ldr
-0 // Hips
+0 Untitled
 0 Name: vehicle_019_upperbody.ldr
+0 Author: Tore Eriksson
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
+0 // Hips
 1 1 0 0 0 1 0 0 0 1 0 0 0 1 3815.dat
 0 // Torso
 1 1 0 -32 0 1 0 0 0 1 0 0 0 1 973p26.dat
@@ -37,45 +43,63 @@
 
 0
 0 FILE vehicle_019_arm-l.ldr
-0 Name: arm-l.ldr
+0 Untitled
+0 Name: vehicle_019_arm-l.ldr
+0 Author: Tore Eriksson
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 0 0 0 0.9859 -0.17 0 0.17 0.9859 0 0 0 1 vehicle_019_d976c15.dat
 
 0
 0 FILE vehicle_019_arm-r.ldr
-0 Name: arm-r.ldr
+0 Untitled
+0 Name: vehicle_019_arm-r.ldr
+0 Author: Tore Eriksson
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 0 0 0 1 0 0 0 -0.3 0.9 0 -0.9 -0.3 vehicle_019_arm-r-w-hand.ldr
 
 0
 0 FILE vehicle_019_arm-r-w-hand.ldr
-0 // arm-r
+0 Untitled
 0 Name: vehicle_019_arm-r-w-hand.ldr
+0 Author: Tore Eriksson
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
+0 // arm-r
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 3818.dat
 1 15 -4.9 19.5 -10.5 1 0 0 0 0.707 -0.707 0 0.707 0.707 vehicle_019_hand-r.ldr
 
 0
 0 FILE vehicle_019_hand-r.ldr
-0 // hand
+0 Untitled
 0 Name: vehicle_019_hand-r.ldr
+0 Author: Tore Eriksson
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
+0 // hand
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 vehicle_019_hrwgear.ldr
 
 0
 0 FILE vehicle_019_hrwgear.ldr
-0 Name: hrwgear.ldr
+0 Untitled
+0 Name: vehicle_019_hrwgear.ldr
+0 Author: Tore Eriksson
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 3820.dat
 
 0
 0 FILE vehicle_019_d976c15.dat
-0 Name: d976c15.dat
+0 Untitled
+0 Name: vehicle_019_d976c15.dat
+0 Author: Tore Eriksson
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 15.552 0 0 0.9859 0.17 0 -0.17 0.9859 0 0 0 1 3819.dat
@@ -86,10 +110,7 @@
 0 Oteconn1 on Wheels
 0 Name: vehicle_019_Oteconn2.ldr
 0 Author: Tore Eriksson
-0 Unofficial Datsville Other Model
-0 Parent: Classified!
-0 Location: Classified!
-
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 40 -24 0 0 0 -1 0 1 0 1 0 0 6157.dat
@@ -109,9 +130,7 @@
 0 Mystery Model
 0 Name: vehicle_019_Oteconn1.ldr
 0 Author: Tore Eriksson
-0 Unofficial Datsville Other Model
-0 Parent: Top Secret!
-0 Location: Top Secret!
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 -20 80 -40 1 0 0 0 1 0 0 0 1 3034.dat

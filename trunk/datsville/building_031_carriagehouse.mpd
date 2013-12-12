@@ -1,5 +1,6 @@
 0 FILE building_031.ldr
-0 Name: building_031.dat
+0 Carriage House
+0 Name: building_031.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER -402.807 -24 20.3509 1 "Custom" 
@@ -11,7 +12,8 @@
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 building_031_floor.ldr
 0
 0 FILE building_031_center.ldr
-0 Name: building_031_center.dat
+0 New Model
+0 Name: building_031_center.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -21,7 +23,8 @@
 
 0
 0 FILE building_031_east.ldr
-0 Name: building_031_east.dat
+0 New Model
+0 Name: building_031_east.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -31,7 +34,8 @@
 
 0
 0 FILE building_031_west.ldr
-0 Name: building_031_west.dat
+0 New Model
+0 Name: building_031_west.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -41,7 +45,8 @@
 
 0
 0 FILE building_031_roof.ldr
-0 Name: building_031_roof.dat
+0 New Model
+0 Name: building_031_roof.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 320 -529.83 140 1 "Custom" 
@@ -56,7 +61,8 @@
 
 0
 0 FILE building_031_cbot.ldr
-0 Name: building_031_cbot.dat
+0 New Model
+0 Name: building_031_cbot.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 33.1306 -129.274 -270 1 "Custom" 
@@ -283,7 +289,8 @@
 
 0
 0 FILE building_031_ctop.ldr
-0 Name: building_031_ctop.dat
+0 New Model
+0 Name: building_031_ctop.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 33.1306 -129.274 -270 1 "Custom" 
@@ -448,7 +455,8 @@
 
 0
 0 FILE building_031_croof.ldr
-0 Name: building_031_croof.dat
+0 New Model
+0 Name: building_031_croof.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 320 -422 -120 1 "Custom" 
@@ -601,7 +609,8 @@
 
 0
 0 FILE building_031_ebot.ldr
-0 Name: building_031_ebot.dat
+0 New Model
+0 Name: building_031_ebot.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 450 -54.8982 69.1509 1 "Custom" 
@@ -749,7 +758,8 @@
 
 0
 0 FILE building_031_etop.ldr
-0 Name: building_031_etop.dat
+0 New Model
+0 Name: building_031_etop.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -814,7 +824,8 @@
 
 0
 0 FILE building_031_eroof.ldr
-0 Name: building_031_eroof.dat
+0 New Model
+0 Name: building_031_eroof.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 320 -422 -120 1 "Custom" 
@@ -883,7 +894,8 @@
 
 0
 0 FILE building_031_wbot.ldr
-0 Name: building_031_wbot.dat
+0 New Model
+0 Name: building_031_wbot.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER -341.115 -30 -240 1 "Custom" 
@@ -1008,7 +1020,8 @@
 
 0
 0 FILE building_031_wtop.ldr
-0 Name: building_031_wtop.dat
+0 New Model
+0 Name: building_031_wtop.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -1081,7 +1094,8 @@
 
 0
 0 FILE building_031_wroof.ldr
-0 Name: building_031_wroof.dat
+0 New Model
+0 Name: building_031_wroof.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -1225,7 +1239,8 @@
 
 0
 0 FILE building_031_prp_bed.ldr
-0 Name: building_031_prp_bed.dat
+0 New Model
+0 Name: building_031_prp_bed.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 98.968 24 -21.1559 1 "Custom" 
@@ -1257,7 +1272,8 @@
 
 0
 0 FILE building_031_prp_cabinet_1.ldr
-0 Name: building_031_prp_cabinet_1.dat
+0 New Model
+0 Name: building_031_prp_cabinet_1.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -1324,7 +1340,8 @@
 
 0
 0 FILE building_031_prp_chair.ldr
-0 Name: building_031_prp_chair.dat
+0 New Model
+0 Name: building_031_prp_chair.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -1364,7 +1381,8 @@
 
 0
 0 FILE building_031_prp_control.ldr
-0 Name: building_031_prp_control.dat
+0 New Model
+0 Name: building_031_prp_control.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -1461,7 +1479,8 @@
 
 0
 0 FILE building_031_prp_cylinder_1.ldr
-0 Name: building_031_prp_cylinder_1.dat
+0 New Model
+0 Name: building_031_prp_cylinder_1.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -1473,7 +1492,8 @@
 
 0
 0 FILE building_031_prp_cylinder_2.ldr
-0 Name: building_031_prp_cylinder_2.dat
+0 New Model
+0 Name: building_031_prp_cylinder_2.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -1532,7 +1552,7 @@
 
 0
 0 FILE building_031_prp_sat_dish.ldr
-0 prp_sat_dish.dat
+0 New Model
 0 Name: building_031_prp_sat_dish.ldr
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0

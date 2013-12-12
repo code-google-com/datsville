@@ -45,3 +45,5 @@
   # <s>Streets are a major PITA to edit. Need to split them into rectangular "cells".</s>
   # I'm not real happy with block 8 where the university once stood. It needs to be made more parklike.
   # Maybe make areas between shops and sidewalks white instead of gray.
+  # There may be too many streetlights in Datsville. I should at least try to use single-bulb lamps instead of double.
+  # Train tracks could be bumped up a little more in height.

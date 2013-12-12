@@ -43,8 +43,7 @@
 0 Datsville Town Hall Roof
 0 Name: building_002_bjvth5.ldr
 0 Author: John VanZwieten
-0 Unofficial Datsville Building Sub-Model
-0 Parent: Bjvthall.ldr
+0 Unofficial Model
 0 TE Fixed 30 LDU Offset
 0 !LDBOXER LEVEL A
 0 REM (TE) What on earth is THIS???
@@ -260,8 +259,7 @@
 0 Datsville Town Hall Attic
 0 Name: building_002_bjvth4.ldr
 0 Author: John VanZwieten
-0 Unofficial Datsville Building Sub-Model
-0 Parent: Bjvthall.ldr
+0 Unofficial Model
 0 REM REM REM REM REM  Check 2639.nfo for BUG!
 0 TE Fixed 30 LDU Offset
 0 !LDBOXER LEVEL A
@@ -728,8 +726,7 @@
 0 Datsville Town Hall Second Floor
 0 Name: building_002_bjvth3.ldr
 0 Author: John VanZwieten
-0 Unofficial Datsville Building Sub-Model
-0 Parent: Bjvthall.ldr
+0 Unofficial Model
 0 TE Fixed 30 LDU Offset
 0 !LDBOXER LEVEL A
 0 !LDBOXER INFO Floor Baseplates
@@ -1558,8 +1555,7 @@
 0 Datsville Town Hall First Floor
 0 Name: building_002_bjvth2.ldr
 0 Author: John VanZwieten
-0 Unofficial Datsville Building Sub-Model
-0 Parent: Bjvthall.ldr
+0 Unofficial Model
 0 TE Fixed 30 LDU Offset
 0 !LDBOXER LEVEL A
 0 !LDBOXER INFO Floor Baseplates
@@ -2519,8 +2515,7 @@
 0 Datsville Town Hall Foundation
 0 Name: building_002_bjvth1.ldr
 0 Author: John VanZwieten
-0 Unofficial Datsville Building Sub-Model
-0 Parent: Bjvthall.ldr
+0 Unofficial Model
 0 TE Fixed 30 LDU Offset
 0 !LDBOXER LEVEL A
 0 !LDBOXER INFO Foundation Bricks, rarely seen
