@@ -3,9 +3,9 @@
 0 Name: building_033_telephoneexchange.ldr
 0 Author: Jonathan Wilson
 0 Unofficial Model
-0 REM desk & dishb inlined
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
+0 REM desk & dishb inlined
 1 15 10 -120 -90 0 0 1 0 1 0 -1 0 0 73436.dat
 1 15 90 -120 -40 0 0 1 0 1 0 -1 0 0 3754.dat
 1 15 90 -120 50 0 0 1 0 1 0 -1 0 0 3755.dat
@@ -35,7 +35,7 @@
 1 15 50 -248 -90 1 0 0 0 1 0 0 0 1 3755.dat
 1 15 90 -248 50 0 0 1 0 1 0 -1 0 0 3755.dat
 0 
-1 15 0 -128 10 1 0 0 0 1 0 0 0 1 building_033_desk.dat
+1 15 0 -128 10 1 0 0 0 1 0 0 0 1 building_033_desk.ldr
 0 
 
 
@@ -45,12 +45,12 @@
 1 15 -10 -280 10 1 0 0 0 1 0 0 0 1 3144.dat
 
 0 
-1 15 60 -256 0 1 0 0 0 1 0 0 0 1 building_033_dishb.dat
+1 15 60 -256 0 1 0 0 0 1 0 0 0 1 building_033_dishb.ldr
 0 
 
 
 
-1 15 60 -286 -10 1 0 0 0 0.707107 -0.707107 0 0.707107 0.707107 building_033_dish.dat
+1 15 60 -286 -10 1 0 0 0 0.707107 -0.707107 0 0.707107 0.707107 building_033_dish.ldr
 
 
 
@@ -62,9 +62,9 @@
 0 
 0 Boxed 4 parts.
 0
-0 FILE building_033_desk.dat
+0 FILE building_033_desk.ldr
 0 Minifig Desk
-0 Name: building_033_desk.dat
+0 Name: building_033_desk.ldr
 0 Author: Jonathan Wilson
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -78,9 +78,9 @@
 1 15 0 -56 20 1 0 0 0 1 0 0 0 1 3666.dat
 0 
 0
-0 FILE building_033_dish.dat
+0 FILE building_033_dish.ldr
 0 Sattelite Dish
-0 Name: building_033_dish.dat
+0 Name: building_033_dish.ldr
 0 Author: Jonathan Wilson
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -92,9 +92,9 @@
 1 15 0 10 53 1 0 0 0 0 1 0 -1 0 4095.dat
 0 
 0
-0 FILE building_033_dishb.dat
+0 FILE building_033_dishb.ldr
 0 Sattelite Dish Base
-0 Name: building_033_dishb.dat
+0 Name: building_033_dishb.ldr
 0 Author: Jonathan Wilson
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -103,6 +103,7 @@
 1 7 0 -8 0 0 0 -1 0 1 0 1 0 0 3679.dat
 1 0 0 -16 0 0 0 -1 0 1 0 1 0 0 3022.dat
 1 15 0 -40 -10 1 0 0 0 1 0 0 0 1 3937.dat
+0 
 0 
 0 
 0

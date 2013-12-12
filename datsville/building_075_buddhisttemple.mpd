@@ -124,10 +124,6 @@
 0 Name: building_075_MinaretSideB.ldr
 0 Author: Tim Gould
 0 Unofficial Model
-0 New Model
-0 Name: MinaretSideA.ldr
-0 Author: Tim Gould
-0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 14 0 0 60 0 0 1 0 1 0 -1 0 0 3666.dat

@@ -446,11 +446,8 @@
 0 FILE building_035_5.LDR
 0 Petrol Station Pump
 0 Name: building_035_5.LDR
-0 Was: Pump.dat
 0 Author: Jonathan Wilson
-0 Unofficial Datsville Building Submodel
-0 Parent: _building_0351.ldr
-
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 2 0 0 0 0 0 1 0 1 0 -1 0 0 3020.dat
@@ -483,11 +480,8 @@
 0 FILE building_035_2.LDR
 0 Shell Sign  1 x 24
 0 Name: building_035_2.LDR
-0 Was: Sh.dat
 0 Author: Jonathan Wilson
-0 Unofficial Datsville Building Submodel
-0 Parent: _building_0351.ldr
-
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 220 -208 -210 1 0 0 0 1 0 0 0 1 3666.dat
@@ -507,11 +501,8 @@
 0 FILE building_035_4.LDR
 0 Main Sign
 0 Name: building_035_4.LDR
-0 Was: Sign.dat
 0 Author: Jonathan Wilson
-0 Unofficial Datsville Building Submodel
-0 Parent: _building_0351.ldr
-
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 271 -128 -250 1 0 0 0 1 0 0 0 1 3755.dat
@@ -527,10 +518,8 @@
 0 FILE building_035_X772PSHE.DAT
 0 Brick  1 x  2 x  2 with Shell Logo Sign Pattern
 0 Name: building_035_X772PSHE.DAT
-0 Was: She.dat
 0 Author: Jonathan Wilson
 0 Unofficial Datsville Part
-0 Parent: _building_0351.ldr
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 772.dat
@@ -544,11 +533,8 @@
 0 FILE building_035_3.LDR
 0 Select Shop Sign
 0 Name: building_035_3.LDR
-0 Was: Sel.dat
 0 Author: Jonathan Wilson
-0 Unofficial Datsville Building Submodel
-0 Parent: _building_0351.ldr
-
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 2 -240 -128 -140 0 0 1 0 1 0 -1 0 0 3958.dat
@@ -565,9 +551,7 @@
 0 Petrol Station Pump Hose Pair
 0 Name: building_035_BJWGS51.LDR
 0 Author: Tore Eriksson
-0 Unofficial Datsville Building Submodel
-0 Parent: _building_0355.ldr
-
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 5 24 14 -100 -20 14 -96 -20 13.8478 -100 -20.7654 13.8478 -100 -19.2346

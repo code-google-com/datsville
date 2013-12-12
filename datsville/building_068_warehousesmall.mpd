@@ -291,7 +291,7 @@
 0 FILE building_068_roof.ldr
 0 New Model
 0 Name: building_068_roof.ldr
-0 Author: MLCad
+0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
@@ -453,7 +453,7 @@
 0 FILE building_068_fence.ldr
 0 New Model
 0 Name: building_068_fence.ldr
-0 Author: MLCad
+0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
@@ -571,7 +571,7 @@
 0 FILE building_068_booth.ldr
 0 New Model
 0 Name: building_068_booth.ldr
-0 Author: MLCad
+0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
@@ -593,7 +593,7 @@
 0 FILE building_068_shack.ldr
 0 New Model
 0 Name: building_068_shack.ldr
-0 Author: MLCad
+0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
@@ -621,7 +621,7 @@
 0 FILE building_068_tank.ldr
 0 New Model
 0 Name: building_068_tank.ldr
-0 Author: MLCad
+0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
@@ -632,7 +632,7 @@
 0 FILE building_068_rooftile_a.ldr
 0 New Model
 0 Name: building_068_rooftile_a.ldr
-0 Author: MLCad
+0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0

@@ -13,18 +13,15 @@
 1 2 -453 0 451 0.34 0 0.94 0 1 0 -0.94 0 0.34 building_019_bjwcri2.ldr
 1 2 391 0 282 0.34 0 -0.94 0 1 0 0.94 0 0.34 building_019_bjwcri1.ldr
 1 2 392 0 -281 0.34 0 0.94 0 1 0 -0.94 0 0.34 building_019_bjwcri1.ldr
-1 2 -588 -376 0 1 0 0 0 1 0 0 0 1 building_019_score.dat
-1 2 0 0 0 1 0 0 0 1 0 0 0 1 building_019_oval.dat
+1 2 -588 -376 0 1 0 0 0 1 0 0 0 1 building_019_score.ldr
+1 2 0 0 0 1 0 0 0 1 0 0 0 1 building_019_oval.ldr
 
 0
 0 FILE building_019_bjwcri1.ldr
 0 Datsville Cricket Ground Stand
 0 Name: building_019_bjwcri1.ldr
-0 Was: Stand1.dat
 0 Author: Jonathan Wilson
-0 Unofficial Datsville Building Sub-Model
-0 Parent: Bjwcrick.ldr
-0 !LDBOXER LEVEL A
+0 Unofficial Sub-Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 0 0 100 0 0 1 0 1 0 -1 0 0 3460.dat
@@ -127,11 +124,8 @@
 0 FILE building_019_bjwcri2.ldr
 0 Datsville Cricket Ground Members Stand
 0 Name: building_019_bjwcri2.ldr
-0 Was: Stand2.dat
 0 Author: Jonathan Wilson
-0 Unofficial Datsville Building Sub-Model
-0 Parent: Bjwcrick.ldr
-0 !LDBOXER LEVEL A
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 50 0 -100 0 0 1 0 1 0 -1 0 0 3033.dat
@@ -301,8 +295,9 @@
 1 7 130 -376 -100 0 0 1 0 1 0 -1 0 0 3033.dat
 
 0
-0 FILE building_019_score.dat
+0 FILE building_019_score.ldr
 0 Scorebord For The Datsville Cricket Ground
+0 Name: building_019_score.ldr
 0 Author: Jonathan Wilson
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -351,8 +346,9 @@
 1 15 0 -144 30 0 0 -1 0 1 0 1 0 0 3005pty.dat
 0 
 0
-0 FILE building_019_oval.dat
+0 FILE building_019_oval.ldr
 0 Datsville Cricket Ground Oval
+0 Name: building_019_oval.ldr
 0 Author: Jonathan Wilson
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -629,6 +625,7 @@
 1 15 470 -96 150 1 0 0 0 1 0 0 0 1 3062b.dat
 1 15 470 -120 150 1 0 0 0 1 0 0 0 1 3062b.dat
 1 2 420 0 0 1 0 0 0 1 0 0 0 1 3031.dat
+0 
 0 
 0 
 0
