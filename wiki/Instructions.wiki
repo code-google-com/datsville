@@ -1,7 +1,7 @@
 = General Instructions =
 
-  * Inlined sub-models should be extracted, and the parent model turned into an MPD file.
-  * Models should not contain minifigures or vehicles. Instead, minifigures and vehicles should be extracted and copied into "layer_traffic.ldr".
+  * Inlined sub-models should be extracted into sub-models, and the parent model turned into an MPD file.
+  * Models should ideally not contain minifigures or vehicles. Instead, minifigures and vehicles should be extracted and copied into "layer_traffic.ldr" if possible.
   * Vehicles may contain minifigures, however.
   * Models should not contain part primitives. Part primitives should be replaced with official parts when they become available, or copied into a new file or sub-model of an MPD file if not available.
   * All baseplates should be replaced with SNOT roads or tiled regions except the pink and teal "guide" baseplates used for orienting models.
@@ -13,7 +13,7 @@
 
   # Copy the contents of "svn\trunk\datsville" to "svn\trunk\datsville_boxed", overwriting any files if asked.
   # Execute "svn\trunk\helper_scripts\myboxer\myboxer_convert_datsville_boxed.bat". This will "boxify" the models in that directory.
-  # Convert the "boxed" LDraw models to POV-Ray format by executing "l3p_convert_datsville_boxed.cmd". This will produce a file called "datsville.pov".
+  # Convert the "boxed" LDraw models to POV-Ray format by executing "l3p_convert_datsville_boxed.cmd" in the "svn\trunk\helper_scripts\povray" directory. This will produce a file called "datsville.pov".
   # Open "datsville.pov" in POV-Ray 3.7. You will probably need to install the 64 bit version of POV-Ray as Datsville consumes huge amounts of RAM.
   # Add the strings "#version 3.7;" and "#include "ldr_wrapper_mapview_1.4.inc"" to the top of the POV-Ray file.
   # Delete any camera and light statements. Also delete all the color and material definitions in the "Defines" section.

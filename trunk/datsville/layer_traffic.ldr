@@ -46,7 +46,7 @@
 1 7 -1050 2 220 1 0 0 0 1 0 0 0 1 vehicle_011_graybmwsedan.ldr
 0 // city bus passing central park
 1 2 210 2 420 -1 0 0 0 1 0 0 0 -1 vehicle_012_blueandwhitebus.ldr
-1 15 -1040 -8 1660 0 0 -1 0 1 0 1 0 0 vehicle_013_yellowroundmailvan.ldr
+1 15 -1040 -8 1660 0 0 -1 0 1 0 1 0 0 vehicle_013_yellowroundmailvan_parked.ldr
 1 15 1630 0 7460 0 0 -1 0 1 0 1 0 0 pedestrian_026_castleguard.ldr
 1 15 1450 0 7900 0 0 -1 0 1 0 1 0 0 pedestrian_026_castleguard.ldr
 1 15 2020 0 8250 1 0 0 0 1 0 0 0 1 pedestrian_026_castleguard.ldr
@@ -54,7 +54,7 @@
 0 // truck passing outside memorial
 1 0 940 2 1050 0 0 1 0 1 0 -1 0 0 vehicle_014_blacksemitruck.mpd
 0 // mail van passing (large blue) house
-1 0 2150 2 1450 1 0 0 0 1 0 0 0 1 vehicle_013_yellowroundmailvan.ldr
+1 0 2150 2 1450 1 0 0 0 1 0 0 0 1 vehicle_057_yellowroundmailvan_withdriver.ldr
 0 // 6-wide convertible car passing fire station
 1 0 2460 2 -240 0 0 -1 0 1 0 1 0 0 vehicle_015_whitesportscar.ldr
 0 // pickup truck parked beside Calvin's house
@@ -84,9 +84,9 @@
 1 0 -480 2 3850 0.94 0 -0.34 0 1 0 0.34 0 0.94 pedestrian_001_mustachewalking.ldr
 1 4 -180 -8 390 0 0 1 0 1 0 -1 0 0 pedestrian_002_suitblackhat.ldr
 0 // mailman in central park
-1 0 -670 -8 670 0.71 0 -0.71 0 1 0 0.71 0 0.71 pedestrian_003_blueoverallsandhat.ldr
+1 0 -670 -8 670 0.71 0 -0.71 0 1 0 0.71 0 0.71 pedestrian_003_mailman.ldr
 0 // mailman beside mailvan
-1 15 -1080 -16 1590 -1 0 0 0 1 0 0 0 -1 pedestrian_003_blueoverallsandhat.ldr
+1 15 -1080 -16 1590 -1 0 0 0 1 0 0 0 -1 pedestrian_003_mailman.ldr
 0 // waving man outside t-hall
 1 0 -1180 -8 560 -1 0 0 0 1 0 0 0 -1 pedestrian_004_sleevelesswaving.ldr
 0 // woman leaving central park
@@ -94,7 +94,7 @@
 0 // two men walking towards Calvin's house
 1 2 400 -8 -540 0 0 -1 0 1 0 1 0 0 pedestrian_001_mustachewalking.ldr
 1 1 460 -8 -550 0 0 -1 0 1 0 1 0 0 pedestrian_001_mustachewalking.ldr
-1 15 -1080 -16 1590 -1 0 0 0 1 0 0 0 -1 pedestrian_003_blueoverallsandhat.ldr
+1 15 -1080 -16 1590 -1 0 0 0 1 0 0 0 -1 pedestrian_003_mailman.ldr
 1 2 2540 -8 -80 0 0 1 0 1 0 -1 0 0 pedestrian_004_sleevelesswaving.ldr
 0 // woman outside Tore's parents' house
 1 2 2020 -8 -680 1 0 0 0 1 0 0 0 1 pedestrian_006_womanbrownhairminiskirt.ldr
