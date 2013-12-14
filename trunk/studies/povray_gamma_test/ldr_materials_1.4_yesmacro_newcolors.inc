@@ -242,7 +242,7 @@ material {
 
 //// Color 7 Light_Gray (from ldconfig.ldr)
 #ifndef (L3Texture7)
-#declare L3Texture7 = L3TextureOpaqueRGB(156,153,153)
+#declare L3Texture7 = L3TextureOpaqueRGB(155,161,157)//
 #end
 #ifndef (L3Texture7_slope)
 #declare L3Texture7_slope = L3TextureSlope(L3Texture7)
@@ -272,7 +272,7 @@ material {
 
 //// Color 2 Green (from ldconfig.ldr)
 #ifndef (L3Texture2)
-#declare L3Texture2 = L3TextureOpaqueRGB(0,140,20)
+#declare L3Texture2 = L3TextureOpaqueRGB(37,122,62)//
 #end
 #ifndef (L3Texture2_slope)
 #declare L3Texture2_slope = L3TextureSlope(L3Texture2)
@@ -302,7 +302,7 @@ material {
 
 //// Color 8 Dark_Gray (from ldconfig.ldr)
 #ifndef (L3Texture8)
-#declare L3Texture8 = L3TextureOpaqueRGB(99,95,82)
+#declare L3Texture8 = L3TextureOpaqueRGB(109,110,92)//
 #end
 #ifndef (L3Texture8_slope)
 #declare L3Texture8_slope = L3TextureSlope(L3Texture8)
@@ -317,7 +317,7 @@ material {
 
 //// Color 4 Red (from ldconfig.ldr)
 #ifndef (L3Texture4)
-#declare L3Texture4 = L3TextureOpaqueRGB(196,0,38)
+#declare L3Texture4 = L3TextureOpaqueRGB(201,26,9)//
 #end
 #ifndef (L3Texture4_slope)
 #declare L3Texture4_slope = L3TextureSlope(L3Texture4)
@@ -332,7 +332,7 @@ material {
 
 //// Color 1 Blue (from ldconfig.ldr)
 #ifndef (L3Texture1)
-#declare L3Texture1 = L3TextureOpaqueRGB(0,51,178)
+#declare L3Texture1 = L3TextureOpaqueRGB(0,85,191)//
 #end
 #ifndef (L3Texture1_slope)
 #declare L3Texture1_slope = L3TextureSlope(L3Texture1)
@@ -392,7 +392,7 @@ material {
 
 //// Color 6 Brown (from ldconfig.ldr)
 #ifndef (L3Texture6)
-#declare L3Texture6 = L3TextureOpaqueRGB(92,32,0)
+#declare L3Texture6 = L3TextureOpaqueRGB(88,57,39)//
 #end
 #ifndef (L3Texture6_slope)
 #declare L3Texture6_slope = L3TextureSlope(L3Texture6)
@@ -587,7 +587,7 @@ material {
 
 //// Color 39 Trans_Very_Light_Blue (from ldconfig.ldr)
 #ifndef (L3Texture39)
-#declare L3Texture39 = L3TextureTransparentRGBA(193,223,240,128)
+#declare L3Texture39 = L3TextureTransparentRGBA(193,223,240,128)//--
 #end
 #ifndef (L3Texture39_slope)
 #declare L3Texture39_slope = L3TextureSlope(L3Texture39)
@@ -827,7 +827,7 @@ material {
 
 //// Color 12 Salmon (from ldconfig.ldr)
 #ifndef (L3Texture12)
-#declare L3Texture12 = L3TextureOpaqueRGB(255,133,122)
+#declare L3Texture12 = L3TextureOpaqueRGB(242,112,94)//
 #end
 #ifndef (L3Texture12_slope)
 #declare L3Texture12_slope = L3TextureSlope(L3Texture12)
