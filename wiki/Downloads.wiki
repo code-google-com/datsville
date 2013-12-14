@@ -34,4 +34,8 @@
   * [http://www.mediafire.com/download/yi8nb8hltckjt6m/Rev026.zip Revision TE026]
   * [http://www.mediafire.com/download/o2yx6gkp70zch4d/Rev024.zip Revision TE024]
   * [http://www.mediafire.com/download/244eqwrpqe4q2rn/Rev022%20-%20Last%20Unboxed%20Version.zip Revision TE022]
+  * [http://www.mediafire.com/download/1c68ugj5nci6sl6/Rev017.zip Revision TE017]
+  * [http://www.mediafire.com/download/jrdgwxvlldlm6fh/Rev014.zip Revision TE014]
+  * [http://www.mediafire.com/download/wj7l5gxgttlg35v/Rev013.zip Revision TE013]
+  * [http://www.mediafire.com/download/db9t3mbr3ux3weo/Datsville_Environment_POVray.zip POVray hills and river]
   * [http://www.mediafire.com/view/buy8cyre2laxxu9/notes.txt notes.txt]
