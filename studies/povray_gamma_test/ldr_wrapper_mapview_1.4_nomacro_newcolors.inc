@@ -25,14 +25,13 @@
 #declare L3Phong		= 0.5;
 #declare L3PhongSize		= 40;
 #declare L3Reflection		= 0.04;	// was 0.08
-#declare L3SWT			= L3SW;
 #declare L3SWT			= (L3SW ? L3SW : 0.001);  // At least a small seam when transparent
 
 //#include "fastrad.inc"		// slooowwwwwww!!!
 
 global_settings
 {
-	assumed_gamma	1.0
+	assumed_gamma	2.2
 	adc_bailout	0.005
 	max_trace_level	0	//50
 	ambient_light	1
@@ -52,7 +51,7 @@ global_settings
 }
 
 
-#include "ldr_materials_1.4.inc"
+//#include "ldr_materials_1.4.inc"
 #include "stdinc.inc"
 #include "CIE.inc"			// http://www.ignorancia.org/en/index.php?page=Lightsys
 #include "lightsys.inc"			// http://www.ignorancia.org/en/index.php?page=Lightsys
@@ -96,8 +95,7 @@ camera
 light_source
 {
 	light_source_location
-//	gamma_color_adjust(light_color)
-	light_color
+	color rgb light_color
 	parallel
 }
 
@@ -110,8 +108,8 @@ object
 		pigment
 		{
 			checker
-			pigment {gamma_color_adjust(<067,084,029>/255)}
-			pigment {gamma_color_adjust(<040,066,018>/255)}
+			pigment {color rgb <067,084,029>/255}
+			pigment {color rgb <040,066,018>/255}
 		}
 		finish { ambient L3Ambient diffuse L3Diffuse }
 		translate <1/2,0,1/2>
@@ -128,8 +126,8 @@ sky_sphere
 		gradient -y
 		color_map
 		{
-			[0.0 gamma_color_adjust(<0.6,0.7,1.0>)]
-			[0.7 gamma_color_adjust(<0.0,0.1,0.8>)]
+			[0.0 color rgb <0.6,0.7,1.0>]
+			[0.7 color rgb <0.0,0.1,0.8>]
 		}
 	}
 }
@@ -138,17 +136,17 @@ sky_sphere
 cylinder
 {
 	0, x*32000, 10
-	pigment {gamma_color_adjust(x)}
+	pigment {color rgb x}
 }
 cylinder
 {
 	0, y*32000, 10
-	pigment {gamma_color_adjust(y)}
+	pigment {color rgb y}
 }
 cylinder
 {
 	0, z*32000, 10
-	pigment {gamma_color_adjust(z)}
+	pigment {color rgb z}
 }
 
 // street grid
@@ -196,7 +194,7 @@ union
 	}
 	pigment
 	{
-		gamma_color_adjust(x+z)
+		color rgb x+z
 	}
 	clipped_by
 	{

@@ -52,7 +52,7 @@ global_settings
 }
 
 
-#include "ldr_materials_1.4.inc"
+#include "ldr_materials_1.4_yesmacro_oldcolors.inc"
 #include "stdinc.inc"
 #include "CIE.inc"			// http://www.ignorancia.org/en/index.php?page=Lightsys
 #include "lightsys.inc"			// http://www.ignorancia.org/en/index.php?page=Lightsys

@@ -25,7 +25,6 @@
 #declare L3Phong		= 0.5;
 #declare L3PhongSize		= 40;
 #declare L3Reflection		= 0.04;	// was 0.08
-#declare L3SWT			= L3SW;
 #declare L3SWT			= (L3SW ? L3SW : 0.001);  // At least a small seam when transparent
 
 //#include "fastrad.inc"		// slooowwwwwww!!!
@@ -52,7 +51,7 @@ global_settings
 }
 
 
-#include "ldr_materials_1.4.inc"
+#include "ldr_materials_1.4_yesmacro_newcolors.inc"
 #include "stdinc.inc"
 #include "CIE.inc"			// http://www.ignorancia.org/en/index.php?page=Lightsys
 #include "lightsys.inc"			// http://www.ignorancia.org/en/index.php?page=Lightsys
@@ -96,8 +95,7 @@ camera
 light_source
 {
 	light_source_location
-//	gamma_color_adjust(light_color)
-	light_color
+	gamma_color_adjust(light_color)
 	parallel
 }
 
