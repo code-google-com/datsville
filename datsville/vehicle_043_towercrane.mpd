@@ -1,7 +1,7 @@
 0 FILE vehicle_043_O__CRANE.LDR
 0 Crane
 0 Name: vehicle_043_O__CRANE.LDR
-0 Author:
+0 Author: Kevin Loch
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
@@ -22,7 +22,7 @@
 0 FILE vehicle_043__O__CRA1.LDR
 0 Crane Base
 0 Name: vehicle_043__O__CRA1.LDR
-0 Author:
+0 Author: Kevin Loch
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
@@ -115,7 +115,7 @@
 0 FILE vehicle_043__O__CRA2.LDR
 0 Crane Section
 0 Name: vehicle_043__O__CRA2.LDR
-0 Author:
+0 Author: Kevin Loch
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
@@ -144,7 +144,7 @@
 0 FILE vehicle_043__O__CRA3.LDR
 0 Crane Top
 0 Name: vehicle_043__O__CRA3.LDR
-0 Author:
+0 Author: Kevin Loch
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
@@ -196,7 +196,7 @@
 0 FILE vehicle_043__O__CRA4.LDR
 0 Crane Arm
 0 Name: vehicle_043__O__CRA4.LDR
-0 Author:
+0 Author: Kevin Loch
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
