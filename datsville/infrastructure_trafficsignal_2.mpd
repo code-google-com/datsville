@@ -1,6 +1,6 @@
-0 FILE Untitled.ldr
+0 FILE infrastructure_trafficsignal_2.ldr
 0 Untitled
-0 Name: Untitled.ldr
+0 Name: infrastructure_trafficsignal_2.ldr
 0 Author: Michael Heidemann
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -16,15 +16,15 @@
 1 4 0 -174 0 0 0 -1 1 0 0 0 -1 0 50451.dat
 1 288 0 -170 0 0 0 -1 0 1 0 1 0 0 44809.dat
 1 288 0 -310 0 0 1 0 -1 0 0 0 0 1 32014.dat
-1 288 20 -170 -2 0 0 -1 -1 0 0 0 1 0 pedestrian-sign.ldr
-1 288 -2 -170 20 0 1 0 -1 0 0 0 0 1 pedestrian-sign.ldr
+1 288 20 -170 -2 0 0 -1 -1 0 0 0 1 0 infrastructure_trafficsignal_pedestriansign.ldr
+1 288 -2 -170 20 0 1 0 -1 0 0 0 0 1 infrastructure_trafficsignal_pedestriansign.ldr
 1 288 -112 -310 0 -1 0 0 0 -1 0 0 0 1 2714.dat
-1 288 -164 -310 0 0 0 -1 1 0 0 0 -1 0 traffic-sign.ldr
-1 288 -72 -310 0 1 0 0 0 0 -1 0 1 0 roadname.ldr
+1 288 -164 -310 0 0 0 -1 1 0 0 0 -1 0 infrastructure_trafficsignal_trafficsign.ldr
+1 288 -72 -310 0 1 0 0 0 0 -1 0 1 0 infrastructure_trafficsignal_roadname.ldr
 0
-0 FILE pedestrian-sign.ldr
+0 FILE infrastructure_trafficsignal_pedestriansign.ldr
 0 pedestrian-sign
-0 Name: pedestrian-sign.ldr
+0 Name: infrastructure_trafficsignal_pedestriansign.ldr
 0 Author: Michael Heidemann
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -34,9 +34,9 @@
 1 14 0 -16 0 0 0 1 0 1 0 -1 0 0 50746.dat
 1 288 0 -8 0 0 0 1 -1 0 0 0 -1 0 4274.dat
 0
-0 FILE traffic-sign.ldr
+0 FILE infrastructure_trafficsignal_trafficsign.ldr
 0 traffic-sign
-0 Name: traffic-sign.ldr
+0 Name: infrastructure_trafficsignal_trafficsign.ldr
 0 Author: Michael Heidemann
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -48,9 +48,9 @@
 1 46 20 22 0 1 0 0 0 1 0 0 0 1 4073.dat
 1 36 40 22 0 1 0 0 0 1 0 0 0 1 4073.dat
 0
-0 FILE roadname.ldr
+0 FILE infrastructure_trafficsignal_roadname.ldr
 0 roadname
-0 Name: roadname.ldr
+0 Name: infrastructure_trafficsignal_roadname.ldr
 0 Author: Michael Heidemann
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -58,6 +58,7 @@
 1 10 0 -10 -20 1 0 0 0 1 0 0 0 1 2431.dat
 1 288 -30 -2 -20 -1 0 0 0 1 0 0 0 -1 61252.dat
 1 288 30 -2 -20 -1 0 0 0 1 0 0 0 -1 61252.dat
+0 
 0 
 0 
 0 

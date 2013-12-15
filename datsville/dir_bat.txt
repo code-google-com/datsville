@@ -134,7 +134,7 @@ infrastructure_ltehill3.ldr
 infrastructure_mailbox.ldr
 infrastructure_phonebooth.ldr
 infrastructure_railcrossing.ldr
-infrastructure_railsection.ldr
+infrastructure_railsectionstraight.ldr
 infrastructure_roadbridge.ldr
 infrastructure_rubblepile.ldr
 infrastructure_signnoentryboth.ldr

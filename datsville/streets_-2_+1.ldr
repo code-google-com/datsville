@@ -16,6 +16,8 @@
 1 7 -6720 0 1600 1 0 0 0 1 0 0 0 1 snotroad_doublestripenocross.ldr
 1 7 -6720 0 2240 1 0 0 0 1 0 0 0 1 snotroad_doublestripenocross.ldr
 1 7 -6720 0 960 -1 0 0 0 1 0 0 0 -1 snotroad_doublestripecross.ldr
-1 7 -5440 0 3520 0 0 1 0 1 0 -1 0 0 snotroad_doublestripenocross.ldr
-1 7 -6720 0 2880 1 0 0 0 1 0 0 0 1 snotroad_doublestripecross.ldr
+1 7 -5440 0 3520 0 0 1 0 1 0 -1 0 0 snotroad_triplestripenocross.ldr
+1 7 -6720 0 2880 1 0 0 0 1 0 0 0 1 snotroad_triplestripecross_1.ldr
+1 7 -6080 0 2880 0 0 -1 0 1 0 1 0 0 snotroad_doublestripecross.ldr
+1 7 -5440 0 2880 0 0 1 0 1 0 -1 0 0 snotroad_curvestripenocross.ldr
 0
