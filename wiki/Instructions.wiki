@@ -1,15 +1,18 @@
-= General Instructions =
+#summary Instructions and guidelines on creating content for Datsville.
 
-  * Inlined sub-models should be extracted into sub-models, and the parent model turned into an MPD file.
+= General guidelines =
+
+  * Building, vehicle and minifigure models should be centered and sitting upon the origin. Use axis32x.dat too help orient models.
+  * Inlined sub-models should be extracted and the parent model turned into an MPD file.
   * Models should ideally not contain minifigures or vehicles. Instead, minifigures and vehicles should be extracted and copied into "layer_traffic.ldr" if possible.
   * Vehicles may contain minifigures, however.
   * Models should not contain part primitives. Part primitives should be replaced with official parts when they become available, or copied into a new file or sub-model of an MPD file if not available.
   * All baseplates should be replaced with SNOT roads or tiled regions except the pink and teal "guide" baseplates used for orienting models.
   * Buildings should have interiors including beds, appliances, stairs, etc..
-  * It's a good idea that unparked vehicles have drivers.
-  * Models should not re-use the same minifigures. All minifigures should be unique, even if they are identical visually.
+  * Unparked vehicles should have drivers.
+  * Minifigures should not be re-used. All minifigures should be unique, even if they are identical visually.
 
-= Map-making Instructions =
+= Making maps using POV-Ray =
 
   # Copy the contents of "svn\trunk\datsville" to "svn\trunk\datsville_boxed", overwriting any files if asked.
   # Execute "svn\trunk\helper_scripts\myboxer\myboxer_convert_datsville_boxed.bat". This will "boxify" the models in that directory.

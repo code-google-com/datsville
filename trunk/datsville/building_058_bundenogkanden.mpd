@@ -1,4 +1,4 @@
-0 FILE hus.ldr
+0 FILE building_058_hus.ldr
 0 Name: hus.ldr
 0 TITLE Bunden og Kanden
 0 DESCRIPTION Town house with shop in the basement. The name and design is inspired by the toy shop Toppen og Bolden in Gentofte. Closed version for shows.
@@ -9,17 +9,17 @@
 0 WEB-PAGE     http://lego.sparre-andersen.dk/By/Huse/Bunden_og_Kanden/
 0 ILLUSTRATION http://lego.sparre-andersen.dk/By/Huse/Bunden_og_Kanden/datsville_edition-illustration
 0 Unofficial Model
-0
-0
-0
+0 
+0 
+0 
 0 venstre
 0 |    ned
 0 |    |    bagud
 0 |    |    |
 
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
-1 14 0 0 0 1 0 0 0 1 0 0 0 1 butik.ldr
+1 14 0 0 0 1 0 0 0 1 0 0 0 1 building_058_butik.ldr
 0 STEP
 
 1 4 160 64 190 1 0 0 0 1 0 0 0 1 3460.dat
@@ -234,21 +234,22 @@
 1 4 -200 -312 120 0 0 1 0 1 0 -1 0 0 3035.dat
 0 STEP
 
-0 FILE butik.ldr
+0
+0 FILE building_058_butik.ldr
 0 TITLE Bunden og Kanden
-0 Name: butik.ldr
+0 Name: building_058_butik.ldr
 0 DESCRIPTION Town house with shop in the basement. The name and design is inspired by the toy shop Toppen og Bolden in Gentofte. Version with open back for playing.
 0 DESIGN  Jacob Sparre Andersen <sparre@nbi.dk>
 0 DRAWING Jacob Sparre Andersen <sparre@nbi.dk>
-0
-0
-0
+0 
+0 
+0 
 0 venstre
 0 |    ned
 0 |    |    bagud
 0 |    |    |
 
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 4 -180 64 80 0 0 -1 0 1 0 1 0 0 3033.dat
 1 4 -60 64 80 0 0 -1 0 1 0 1 0 0 3033.dat
@@ -497,3 +498,5 @@
 1 4 210 -280 30 1 0 0 0 1 0 0 0 1 3040b.dat
 0 STEP
 
+0
+0
