@@ -1,11 +1,7 @@
 0 Datsville FC Chief's Car
 0 Name: vehicle_008_redfirecar.ldr
-0 Was: Dfcchief.dat
 0 Author: Ryan Dennett
 0 Unofficial Datsville Vehicle Model
-0 Parent: Townpeep.ldr Brdfire1.ldr
-
-
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 4 0 -39 0 1 0 0 0 1 0 0 0 1 4212b.dat

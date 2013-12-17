@@ -1,7 +1,7 @@
 0 Town Scene Main.
 0 Name: block_006.ldr
 0 Author: John VanZwieten, Michael Horvath
-0 Unofficial Datsville Town Model
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 420 -8 2700 -1 0 0 0 1 0 0 0 -1 building_021_houseporchyard.mpd
@@ -68,7 +68,6 @@
 1 13 960 0 2880 1 0 0 0 1 0 0 0 1 b\3811.dat
 1 13 1600 0 2240 1 0 0 0 1 0 0 0 1 b\3811.dat
 1 13 1600 0 2880 1 0 0 0 1 0 0 0 1 b\3811.dat
-1 16 800 -8 1440 1 0 0 0 1 0 0 0 1 building_015_parisianshop.mpd
 1 16 240 -8 1450 1 0 0 0 1 0 0 0 1 building_042_glassstore.ldr
 1 13 320 0 1600 1 0 0 0 1 0 0 0 1 b\3811.dat
 1 16 1600 -8 1620 1 0 0 0 1 0 0 0 1 building_012_triplex.mpd

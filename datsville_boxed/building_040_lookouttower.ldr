@@ -1,17 +1,10 @@
 0 Datsville Belvedere
 0 Name: building_040_lookouttower.ldr
 0 Author: Manfred Moolhuysen 1999
-0 Was: Belveder.dat
 0 Unofficial Datsville Other Model
-0 Parent: Town1-1.ldr
-0 Location: 2250 -176 4910
-
-0 !LDBOXER LEVEL A
-
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 2 -60 -484 -40 0.707 0 0.707 0 1 0 -0.707 0 0.707 pedestrian_012_manexplorerbinoculars.ldr
-
 1 7 0 -24 0 1 0 0 0 1 0 0 0 1 b\3001.dat
 1 7 -30 -48 10 1 0 0 0 1 0 0 0 1 b\3005.dat
 1 7 30 -48 10 1 0 0 0 1 0 0 0 1 b\3005.dat

@@ -1,13 +1,7 @@
 0 Datsville Hospital
 0 Name: building_038_hospital.ldr
-0 Was: Thosp1.dat
 0 Author: Robert Virsik
-0 Unofficial Datsville Building Model
-0 Parent: Town-1-1.ldr
-0 Location: 390 -16 -3280
-
-0 !LDBOXER LEVEL A
-
+0 Unofficial Model
 0 EXTRACT
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
@@ -332,11 +326,3 @@
 1 4 170 -144 -163 0 0 1 0 1 0 -1 0 0 3644.dat
 1 4 310 -144 -163 0 0 -1 0 1 0 1 0 0 3644.dat
 0 
-0 
-0 Boxed 78 parts.
-0 
-0 // Boxed 73 parts ().
-0 // Boxed 11 parts (T).
-0 // Boxed 29 parts (B).
-0 // Boxed Total 113 parts by LDBoxer v2010a.
-0

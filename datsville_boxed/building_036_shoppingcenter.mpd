@@ -1,15 +1,8 @@
 0 FILE building_036.LDR
 0 Shopping Center
 0 Name: building_036.LDR
-0 Was: Tshopctr.dat
-0 Author: Jeff "Auld Dragon" Stembel
-0 < Dragonelf1@aol.com >
-0 Unofficial Datsville Building Model
-0 Parent: Town-1-1.ldr
-0 Location: -1280 -8 -3200
-
-0 !LDBOXER LEVEL A
-
+0 Author: Jeff "Auld Dragon" Stembel < Dragonelf1@aol.com >
+0 Unofficial Model
 0 1 0 -1280 0 -640 0 0 -1 0 1 0 1 0 0 607p01.dat
 0 1 0 -1280 0 0 1 0 0 0 1 0 0 0 1 606p01.dat
 0 1 0 -1280 0 640 0 0 1 0 1 0 -1 0 0 607p01.dat
@@ -928,13 +921,8 @@
 0 FILE building_036_BADCNT1.LDR
 0 Shopping Center Module 1
 0 Name: building_036_BADCNT1.LDR
-0 Was: Store1.dat
 0 Author: Jeff "Auld Dragon" Stembel
-0 Unofficial Datsville Building Model
-0 Parent: building_036.ldr
-
-0 !LDBOXER LEVEL A
-
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 40 -24 -70 -1 0 0 0 1 0 0 0 -1 4865a.dat
@@ -1411,13 +1399,8 @@
 0 FILE building_036_BADCNT2.LDR
 0 Shopping Center Module 2
 0 Name: building_036_BADCNT2.LDR
-0 Was: Store2.dat
 0 Author: Jeff "Auld Dragon" Stembel
-0 Unofficial Datsville Building Model
-0 Parent: building_036.ldr
-
-0 !LDBOXER LEVEL A
-
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 -320 -24 100 1 0 0 0 1 0 0 0 1 b\3036.dat
@@ -2420,13 +2403,8 @@
 0 FILE building_036_BADCNT3.LDR
 0 Shopping Center Module 3
 0 Name: building_036_BADCNT3.LDR
-0 Was: Store3.dat
 0 Author: Jeff "Auld Dragon" Stembel
-0 Unofficial Datsville Building Model
-0 Parent: building_036.ldr
-
-0 !LDBOXER LEVEL A
-
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 -20 -24 100 1 0 0 0 1 0 0 0 1 b\3026.dat
@@ -2974,22 +2952,12 @@
 1 0 0 -416 -130 1 0 0 0 1 0 0 0 1 b\4477.dat
 1 0 -180 -416 -130 1 0 0 0 1 0 0 0 1 b\3460.dat
 0 
-0 // Boxed 272 parts ().
-0 // Boxed 31 parts (T).
-0 // Boxed 31 parts (B).
-0 // Boxed Total 334 parts by LDBoxer v2010a.
-
 0
 0 FILE building_036_BADCNT4.LDR
 0 Shopping Center Module 4
 0 Name: building_036_BADCNT4.LDR
-0 Was: Store4.dat
 0 Author: Jeff "Auld Dragon" Stembel
-0 Unofficial Datsville Building Model
-0 Parent: building_036.ldr
-
-0 !LDBOXER LEVEL A
-
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 0 -24 100 1 0 0 0 1 0 0 0 1 b\3027.dat
@@ -3564,11 +3532,4 @@
 0 MLCAD HIDE 1 0 -20 -416 350 1 0 0 0 1 0 0 0 1 b\4477.dat
 0 MLCAD HIDE 1 0 -180 -416 350 1 0 0 0 1 0 0 0 1 b\3666.dat
 1 14 -60 -408 -130 1 0 0 0 1 0 0 0 1 b\3010.dat
-
-0 // Boxed 194 parts ().
-0 // Boxed 46 parts (T).
-0 // Boxed 57 parts (B).
-0 // Boxed Total 297 parts by LDBoxer v2010a.
-
-0
 0

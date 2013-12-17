@@ -1,12 +1,7 @@
 0 National Bank (Version 1.0)
 0 Name: building_017_nationalbank.ldr
-0 Was: Tbank.dat
 0 Author: James Jackson
-0 Unofficial Datsville Building Model
-0 Parent: Town00.ldr
-0 Location: -3900 -8 1560
-
-0 !LDBOXER LEVEL A
+0 Unofficial Model
 
 0 REM (Work in progress. Second floor w/Bank President coming soon.)
 

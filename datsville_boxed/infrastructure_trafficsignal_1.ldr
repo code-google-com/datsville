@@ -1,12 +1,9 @@
 0 Houston (Texas) Traffic Signal Version 1.01.
 0 Name: infrastructure_trafficsignal.ldr
-0 Was: Tstsig1.dat
 0 Author: James Jackson
-0 Unofficial Datsville Other Model
-0 Parent: Town0-1.ldr
+0 Unofficial Model
 0 Vehicles of up to 11 bricks high can clear this signal.
 0 For additional clearance add more 1x1 bricks underneath.
-
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 15 0 -120 0 1 0 0 0 1 0 0 0 1 b\2453.dat

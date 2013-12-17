@@ -158,7 +158,7 @@
 0 FILE building_060_table_round.ldr
 0 New Model
 0 Name: building_060_table_round.ldr
-0 Author: MLCad
+0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
@@ -177,7 +177,7 @@
 0 FILE building_060_table_medium.ldr
 0 New Model
 0 Name: building_060_table_medium.ldr
-0 Author: MLCad
+0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
@@ -203,7 +203,7 @@
 0 FILE building_060_kitchen.ldr
 0 New Model
 0 Name: building_060_kitchen.ldr
-0 Author: MLCad
+0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
@@ -268,11 +268,11 @@
 0 FILE building_060_sign.ldr
 0 New Model
 0 Name: building_060_sign.ldr
-0 Author: MLCad
+0 Author: Michael Horvath
 0 Unofficial Model
 0 New Model
 0 Name: diner_sign.ldr
-0 Author: MLCad
+0 Author: Michael Horvath
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0

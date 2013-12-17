@@ -1,7 +1,7 @@
 0 FILE building_039.ldr
 0 New Model
 0 Name: building_039.ldr
-0 Author:
+0 Author: Fredrik Gl�ckner
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
@@ -12,12 +12,10 @@
 0 FILE building_039_building.ldr
 0 Mosque, minifig scale
 0 Name: building_039_building.ldr
-0 Was: mosque.dat
 0 Author: Fredrik Gl�ckner
-0 Unofficial Datsville Building Model
-0 Parent: Town-2-1.ldr
-0 Location: 1280 -40 -3860
-
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
 0 !HISTORY 2001-09-19 Author posted at news:lugnet.cad.dat.models
 0 !HISTORY 2006-10-31 TE added to Pending folder
 0 !HISTORY 2010-05-22 TE moved to Town-2-1.ldr
@@ -25,9 +23,6 @@
 
 0 // Model url: http://news.lugnet.com/cad/dat/models/?n=1691
 0 // Approval url: http://news.lugnet.com/cad/dat/models/?n=1900
-
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CONFIG 0 0
 1 19 0 0 120 -1 0 0 0 1 0 0 0 -1 b\3028.dat
 1 19 0 0 220 -1 0 0 0 1 0 0 0 -1 b\3029.dat
 1 19 -120 -24 60 0 0 1 0 1 0 -1 0 0 3831.dat
@@ -549,14 +544,11 @@
 0 Datsville Mosque Site
 0 Name: building_039_lawn.ldr
 0 Author: Tore Eriksson
-0 Unofficial Datsville Landscape Model
-0 Parent: Town-2-1.ldr
-0 Location: 1280 0 -3840
-0 !HISTORY 2010-05-22 TE created and added to Town-2-1.ldr
-0 !LDBOXER LEVEL B
-0 // 1 7  0 -40 -20  1 0 0  0 1 0  0 0 1  Bfgmoske.ldr
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
+0 !HISTORY 2010-05-22 TE created and added to Town-2-1.ldr
+0 // 1 7  0 -40 -20  1 0 0  0 1 0  0 0 1  Bfgmoske.ldr
 1 7 -100 -32 220 1 0 0 0 1 0 0 0 1 b\3022.dat
 1 7 100 -32 220 1 0 0 0 1 0 0 0 1 b\3022.dat
 1 7 -200 -32 -140 1 0 0 0 1 0 0 0 1 b\3068b.dat
@@ -644,7 +636,4 @@
 1 7 -20 -24 300 -1 0 0 0 1 0 0 0 -1 b\3006.dat
 1 7 180 -24 300 -1 0 0 0 1 0 0 0 -1 b\3006.dat
 1 6 -280 -24 261 0 0 1 0 1 0 -1 0 0 2536c01.dat
-
 0 
-0
-0

@@ -1,16 +1,10 @@
 0 Datsville house. Thomas Burgeres house
 0 Name: building_027_thomashouse.ldr
-0 Was: Tburger.dat
 0 Author: Thomas Burger
-0 Unofficial Datsville Building Model
-0 Parent: Town-1-1.ldr
-0 Location: -600 -24 -1320
-
-0 !LDBOXER LEVEL A
-
-0 1 11 0 24 0 1 0 0 0 1 0 0 0 1 b\3811.dat
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
+0 1 11 0 24 0 1 0 0 0 1 0 0 0 1 b\3811.dat
 1 16 -200 -24 0 1 0 0 0 1 0 0 0 1 b\733.dat
 1 16 0 -24 -60 1 0 0 0 1 0 0 0 1 b\733.dat
 1 16 0 -24 60 1 0 0 0 1 0 0 0 1 b\3006.dat
@@ -165,4 +159,3 @@
 1 7 -80 -192 180 -1 0 0 0 1 0 0 0 -1 b\4515.dat
 1 7 -240 -192 180 -1 0 0 0 1 0 0 0 -1 b\4515.dat
 0
-0 // Boxed by LDBoxer v2010a.

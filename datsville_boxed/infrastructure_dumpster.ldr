@@ -2,7 +2,6 @@
 0 Name: building_036_dumpster.ldr
 0 Author: Michael Horvath
 0 Unofficial Model
-0 
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 6 130 -24 90 1 0 0 0 1 0 0 0 1 b\4733.dat
@@ -136,7 +135,3 @@
 1 1 80 -88 -70 1 0 0 0 1 0 0 0 1 b\3069b.dat
 1 1 50 -88 -40 0 0 1 0 1 0 -1 0 0 b\2431.dat
 1 1 50 -88 40 0 0 1 0 1 0 -1 0 0 b\2431.dat
-
-0 
-0 
-0

@@ -1,11 +1,8 @@
 0 FILE building_014_watertower.ldr
 0 Water Tower
 0 Name: building_014_watertower.ldr
-0 Was: Twtower.dat
 0 Author: Ben Gatrelle
-0 Unofficial Datsville Building Model
-0 !LDBOXER LEVEL A
-
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 -752 0 1 0 0 0 1 0 0 0 1 building_014_watert-4.dat
@@ -19,9 +16,9 @@
 0 Name: building_014_watert-1.dat
 0 Author: Ben Gatrelle
 0 Unofficial Model
-0 row neg. one
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
+0 row neg. one
 1 7 -7.51 -168 -189.74 1 0 0 0 1 0 0 0 1 b\3622.dat
 1 7 -47.51 -168 -185.74 1 0 0 0 1 0 0 0 1 3062b.dat
 1 7 -84.35 -168 -172.69 0.91 0 0.41 0 1 0 -0.41 0 0.91 b\3622.dat
@@ -252,7 +249,7 @@
 0 Water Tower supports sub-file
 0 Name: building_014_watert-2.dat
 0 Author: Ben Gatrelle
-0 Unofficial Sub-Model
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 -1 -528 0 1 0 0 0 1 0 0 0 1 b\3031.dat
@@ -444,9 +441,9 @@
 0 Name: building_014_watert-4.dat
 0 Author: Ben Gatrelle
 0 Unofficial Sub-Model
-0 REM rev020 - TE Replaced color 16 with 7
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
+0 REM rev020 - TE Replaced color 16 with 7
 1 7 0 -56 0 1 0 0 0 1 0 0 0 1 30117.dat
 1 7 0 -56 0 -1 0 0 0 1 0 0 0 1 30117.dat
 1 7 0 -56 0 1 0 0 0 1 0 0 0 -1 30117.dat
@@ -471,11 +468,11 @@
 0 0 Name: watert-4.dat
 0 0 Author: Ben Gatrelle
 0 0 Unofficial Sub-Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
 0 0 bottom dome of tower should really use #30201 Inverted quarter hull
 0 0 but I didn't have access to this piece so I just turned 30117 upside down.
 0 0 Inlined: 1 0 9 -184 -10 -1 0 0 0 -1 0 0 0 1 30117-sb.dat
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CONFIG 0 0
 1 0 0 0 0 1 0 0 0 -1 0 0 0 1 30117.dat
 1 0 0 0 0 -1 0 0 0 -1 0 0 0 1 30117.dat
 1 0 0 0 0 1 0 0 0 -1 0 0 0 -1 30117.dat

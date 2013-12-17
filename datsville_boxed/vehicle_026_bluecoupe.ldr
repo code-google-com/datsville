@@ -1,12 +1,7 @@
 0 Car 2000 Beetle
 0 Name: vehicle_026_bluecoupe.ldr
-0 Was: Tcburger.dat
-0 Author: Thomas Burger
+0 Author: Bram Lambrecht, Thomas Burger
 0 Unofficial Datsville Vehicle Model
-0 Parent: Town-1-1.ldr
-0 OriginalAuthor: Bram Lambrecht
-0 Edited By : Thomas Burger. B2k!!
-
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 -23 0 -1 0 0 0 1 0 0 0 -1 2441.dat
