@@ -1,24 +1,14 @@
 0 FILE building_022_houseonahill.ldr
 0 House on a hill
 0 Name: building_022_houseonahill.ldr
-0 Was: Tprobst.dat
-0 Author: Joachim Probst
-0 (jprobst@shadow-corner.ows.es)
-0 Unofficial Datsville Building Model
-0 Parent: Town1-1.ldr
-0 Location: 1170 -8 4350
-
-0 !LDBOXER LEVEL 0
-
-0 REM Moved Baseplate x+20 (TE, Rev029)
-0 1 7 20 0 0 1 0 0 0 1 0 0 0 1 b\3811.dat
-0 REM end Moved Baseplate
+0 Author: Joachim Probst (jprobst@shadow-corner.ows.es)
+0 Unofficial Model
 
 0 Untitled
 0 Inlined: 1 2 -200 -8 50 0 0 1 0 1 0 -1 0 0 hillrear.dat
 0 Hill Template: Rear Side
 0 Author: Joachim Probst (jprobst@shaodw-corner.ows.es)
-0 Un-Official Part
+0 Unofficial Model
 0
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
@@ -164,11 +154,8 @@
 0 FILE building_022_bjphou1.ldr
 0 Mannheim
 0 Name: building_022_bjphou1.ldr
-0 Was: Mannheim.dat
 0 Author: Joachim Probst(?)
-0 Unofficial Datsville Building Sub-Model
-0 Parent: Bjphous1.ldr
-0 !LDBOXER LEVEL A
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 14 -120 -32 70 1 0 0 0 1 0 0 0 1 infrastructure_flowercomplete.ldr
@@ -598,8 +585,3 @@
 1 4 80 -216 -120 0 0 1 0 1 0 -1 0 0 b\3710.dat
 1 4 80 -216 -50 0 0 1 0 1 0 -1 0 0 b\3623.dat
 0
-0 // Boxed 230 parts ().
-0 // Boxed 15 parts (T).
-0 // Boxed 23 parts (B).
-0 // Boxed Total 268 parts by LDBoxer v2010a.
-

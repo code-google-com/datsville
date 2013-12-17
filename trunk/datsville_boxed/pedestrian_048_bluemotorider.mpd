@@ -1,13 +1,11 @@
 0 FILE pedestrian_048_bluemotorider.ldr
+0 Untitled
 0 Name: pedestrian_048_bluemotorider.ldr
 0 Author: Kevin M Bane
-0 UNOFFICIAL Shortcut Update 2001-01
-
-0 HISTORY 2006-08-05 [WilliamH] Replaced obsolete parts (arms and hands)
-
-0 // Legs
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
+0 // Legs
 1 7 0 -28 -31 1 0 0 0 0.927 0.375 0 -0.375 0.927 3817.dat
 1 7 0 -28 -31 1 0 0 0 0.927 0.375 0 -0.375 0.927 3816.dat
 0 // Hips

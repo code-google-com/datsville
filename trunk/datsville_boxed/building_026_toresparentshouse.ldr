@@ -1,14 +1,7 @@
 0 Tore's Parents' House
 0 Name: building_026_toresparentshouse.ldr
-0 Was: Ttore.dat
-0 Author: Tore Eriksson
-0 tore.eriksson@mbox325.swipnet.se
-0 Unofficial Datsville Building Model
-0 Parent: Town0-1.ldr
-0 Location: -480 0 -480
-
-0 !LDBOXER LEVEL A
-
+0 Author: Tore Eriksson <tore.eriksson@mbox325.swipnet.se>
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 7 140 -32 170 1 0 0 0 1 0 0 0 1 b\3010.dat
@@ -381,4 +374,3 @@
 1 4 -120 -168 -190 -1 0 0 0 1 0 0 0 -1 b\3023.dat
 1 15 -30 -376 90 0.707 0 -0.707 0 1 0 0.707 0 0.707 3144.dat
 0
-0 // Boxed by LDBoxer v2010a.

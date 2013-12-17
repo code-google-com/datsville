@@ -1,13 +1,7 @@
 0 My House
 0 Name: building_010_johnshouse.ldr
-0 Was: Tmyhouse.dat
 0 Author: John VanZwieten
-0 Unofficial Datsville Building Model
-0 Parent: Town0-1.ldr
-0 Location: 1420 -8 1880
-
-0 !LDBOXER LEVEL A
-
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 382 0 -8 20 1 0 0 0 1 0 0 0 1 b\3022.dat

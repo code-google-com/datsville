@@ -1,11 +1,7 @@
 0 Minifig Waving
 0 Name: pedestrian_004_sleevelesswaving.ldr
-0 Was: tmmwave.dat
 0 Author: John VanZwieten
-0 Unofficial Datsville Minifig
-0 Datsville Rev. TE009
-0 Parent: Townpeep.ldr
-
+0 Unofficial Model
 0 legs & hip
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0

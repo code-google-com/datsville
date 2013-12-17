@@ -1,11 +1,7 @@
 0 Minifig Belvedere
 0 Name: pedestrian_012_manexplorerbinoculars.ldr
 0 Author: Tore Eriksson
-0 Unofficial Datsville Minifig Model
-0 Parent: Ommbelvd.ldr
-
-0 !LDBOXER LEVEL 0
-
+0 Unofficial Model
 0 // Hips
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
@@ -29,5 +25,4 @@
 1 14 -17.782 -79.918 -13.4 -0.866 0.361 -0.144 -0.278 -0.325 0.836 0.254 0.764 0.424 3820.dat
 0 // Binoculars
 1 0 -10.966 -88.038 -19.446 -0.896 -0.002 0.311 -0.041 0.932 -0.1 0.301 0.142 0.846 30162.dat
-
 0

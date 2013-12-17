@@ -1,13 +1,7 @@
 0 Datsville Post Office
 0 Name: building_016.ldr
-0 Was: Tpo.dat Bmspost.ldr
 0 Author: Martin Palmberg
-0 Unofficial Datsville Building Model
-0 Parent: Town00.ldr
-0 Location: -3160 0 1720
-
-0 !LDBOXER LEVEL A
-
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 0 280 -24 140 -1 0 0 0 1 0 0 0 -1 b\3001.dat

@@ -1,10 +1,7 @@
 0 Police Patrol Car
 0 Name: vehicle_007_whitepolicecar.ldr
-0 Was: Policec.dat
 0 Author: Jonathan Wilson
 0 Unofficial Datsville Vehicle Model
-0 Parent: Townpeep.ldr Bjwpolis.ldr
-
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 -23 0 1 0 0 0 1 0 0 0 1 2441.dat

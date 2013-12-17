@@ -1,7 +1,7 @@
 0 Town Scene Main.
 0 Name: block_019.ldr
 0 Author: John VanZwieten, Michael Horvath
-0 Unofficial Datsville Town Model
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 13 1120 0 -3520 0 0 -1 0 1 0 1 0 0 b\3857.dat
@@ -142,7 +142,7 @@
 1 13 320 0 -4160 1 0 0 0 1 0 0 0 1 b\3811.dat
 1 15 40 -8 -4200 1 0 0 0 1 0 0 0 1 87079.dat
 1 15 40 -8 -4160 1 0 0 0 1 0 0 0 1 87079.dat
-1 13 340 0 -4100 0 0 -1 0 1 0 1 0 0 building_030_policehq.mpd
+1 13 340 -8 -4100 0 0 -1 0 1 0 1 0 0 building_030_policehq.mpd
 1 15 220 -8 -3780 0 0 -1 0 1 0 1 0 0 6881a.dat
 1 15 300 -8 -3800 0 0 -1 0 1 0 1 0 0 87079.dat
 1 15 300 -8 -3720 0 0 -1 0 1 0 1 0 0 87079.dat

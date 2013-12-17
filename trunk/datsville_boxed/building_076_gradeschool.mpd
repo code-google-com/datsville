@@ -1,12 +1,8 @@
 0 FILE building_076_gradeschool.ldr
-0 MPD Author: Calvin Walton
-0 
-0 This .MPD was compiled using M-Peedy
-0 http://www.flash.net/~onyx/M-Peedy/M-Peedy.html
-0 
 0 Datsville Elementary School
 0 Name: building_076_gradeschool.ldr
 0 Author: Calvin Walton
+0 Unofficial Model
 0 WARNING: Lots of sub-files!
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
@@ -42,7 +38,7 @@
 0 School Walls
 0 Name: building_076_walls.ldr
 0 Author: Calvin Walton
-0 Datsville Elementary School
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 4 -70 -112 -350 0 0 1 0 1 0 -1 0 0 73436.dat
@@ -391,7 +387,7 @@
 0 Classroom Furniture
 0 Name: building_076_class.ldr
 0 Author: Calvin Walton
-0 Datsville Elementary School
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 6 0 0 0 1 0 0 0 1 0 0 0 1 b\3020.dat
@@ -416,7 +412,7 @@
 0 School Office Furniture
 0 Name: building_076_office.ldr
 0 Author: Calvin Walton
-0 Datsville Elementary School
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 6 -70 -8 -100 0 0 1 0 1 0 -1 0 0 b\3023.dat
@@ -455,7 +451,7 @@
 0 Roof
 0 Name: building_076_roof.ldr
 0 Author: Calvin Walton
-0 Datsville Elementary School
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 building_076_ceiling.ldr
@@ -744,7 +740,7 @@
 0 Imac Computer
 0 Name: building_076_imac.ldr
 0 Author: Calvin Walton
-0 Datsville Elementary school
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 b\3660.dat
@@ -754,7 +750,7 @@
 0 Ceiling
 0 Name: building_076_ceiling.ldr
 0 Author: Calvin Walton
-0 Datsville Elementary School
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 0 0 110 1 0 0 0 1 0 0 0 1 building_076_beam1.ldr
@@ -847,7 +843,7 @@
 0 Main Roof Beam
 0 Name: building_076_beam1.ldr
 0 Author: Calvin Walton
-0 Datsville Elementary School
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 20 0 -400 0 0 1 0 1 0 -1 0 0 b\4282.dat
@@ -867,7 +863,7 @@
 0 Crossbeam
 0 Name: building_076_beam3.ldr
 0 Author: Calvin Walton
-0 Datsville Elementary School
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 0 -8 0 1 0 0 0 1 0 0 0 1 b\3020.dat
@@ -880,7 +876,7 @@
 0 Secondary Beam
 0 Name: building_076_beam2.ldr
 0 Author: Calvin Walton
-0 Datsville Elementary School
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 20 0 -280 0 0 1 0 1 0 -1 0 0 b\4282.dat
@@ -894,7 +890,7 @@
 0 Ceiling Panel Holder
 0 Name: building_076_holder.ldr
 0 Author: Calvin Walton
-0 Datsville Elementary School
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 0 0 0 1 0 0 0 1 0 0 0 1 b\3832.dat

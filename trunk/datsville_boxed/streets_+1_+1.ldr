@@ -11,6 +11,7 @@
 1 7 2240 0 960 -1 0 0 0 1 0 0 0 -1 snotroad_quaddotsnocross.ldr
 1 7 4800 0 960 0 0 -1 0 1 0 1 0 0 snotroad_doubleonewaycross.ldr
 1 7 3520 0 960 0 0 1 0 1 0 -1 0 0 snotroad_doubleonewaycross.ldr
+1 7 3040 -8 700 -1 0 0 0 1 0 0 0 -1 infrastructure_mailbox.ldr
 1 7 2880 0 960 0 0 -1 0 1 0 1 0 0 snotroad_doubleonewaycross.ldr
 1 7 320 0 320 1 0 0 0 1 0 0 0 1 snotroad_doubleonewaydoublecross.ldr
 1 7 4160 0 320 1 0 0 0 1 0 0 0 1 snotroad_doublestripeleftaheadonlydouble.ldr
@@ -23,12 +24,14 @@
 1 7 2240 0 3520 0 0 1 0 1 0 -1 0 0 snotroad_quaddotsnocross.ldr
 1 7 4160 0 1600 -1 0 0 0 1 0 0 0 -1 snotroad_doublestriperightaheadonly.ldr
 1 7 4160 0 4160 -1 0 0 0 1 0 0 0 -1 snotroad_doublestripecross.ldr
+1 7 3900 -8 4230 0 0 -1 0 1 0 1 0 0 infrastructure_mailbox.ldr
 1 7 4160 0 4800 1 0 0 0 1 0 0 0 1 snotroad_doublestripenocross.ldr
 1 7 4160 0 2240 -1 0 0 0 1 0 0 0 -1 snotroad_doublestripenocross.ldr
 1 7 4160 0 2880 1 0 0 0 1 0 0 0 1 snotroad_doublestripecross.ldr
 1 7 4160 0 3520 0 0 1 0 1 0 -1 0 0 snotroad_quaddotsnocross.ldr
 1 7 1600 0 3520 0 0 1 0 1 0 -1 0 0 snotroad_doublestripecross.ldr
 1 7 960 0 3520 0 0 -1 0 1 0 1 0 0 snotroad_doublestripenocross.ldr
+1 7 810 -8 3790 1 0 0 0 1 0 0 0 1 infrastructure_busstop.ldr
 1 7 320 0 3520 0 0 -1 0 1 0 1 0 0 snotroad_doublestripecross.ldr
 1 7 2880 0 3520 0 0 -1 0 1 0 1 0 0 snotroad_doublestripecross.ldr
 1 7 3520 0 3520 0 0 1 0 1 0 -1 0 0 snotroad_doublestripecross.ldr

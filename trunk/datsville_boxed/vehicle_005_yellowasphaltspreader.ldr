@@ -1,13 +1,7 @@
 0 Earth Scraper
 0 Name: vehicle_005_yellowasphaltspreader.ldr
-0 Was: Tscrape.dat
 0 Author: Duane Hess
 0 Unofficial Datsville Vehicle Model
-0 Parent: Town10.ldr
-0 Location: -2330 -64 4200
-
-0 REM Moved from Town20.ldr (TE, Rev033)
-
 0 // WRITE Earth Scraper
 0 // WRITE Author: Duane Hess
 0 // SCRAPER FRONT
@@ -228,5 +222,4 @@
 1 0 -30 -121 179 1 0 0 0 -0.5 0.87 0 -0.87 -0.5 3873.dat
 1 0 -30 -137 176 1 0 0 0 0.17 0.98 0 -0.98 0.17 3873.dat
 1 0 -30 -148 164 1 0 0 0 0.72 0.69 0 -0.69 0.72 3873.dat
-
 0

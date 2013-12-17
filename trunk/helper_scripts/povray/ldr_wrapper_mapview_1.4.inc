@@ -1,8 +1,6 @@
 // +q7
 
-#if (version < 3.7)
-	#error "This POV code requires at least version 3.7\n"
-#end
+#version 3.7;
 
 #declare NoRadiosity		= 1;	// not used currently
 
@@ -64,11 +62,11 @@ global_settings
 #declare light_color		= Light_Color(light_temp,light_lumens);
 #declare Camera_Diagonal	= cosd(45);
 #declare Camera_Aspect		= image_height / image_width;
-#declare Camera_Width		= 7680;
+#declare Camera_Width		= 7680 * 4/3;
 #declare Camera_Vertical	= 225;
 #declare Camera_Horizontal	= 30;
 #declare Camera_Distance	= Camera_Width;
-#declare Camera_Scale		= 1;
+#declare Camera_Scale		= 4;
 #declare Camera_Translate	= <-1280,0,0> + trans_amount;
 #declare Camera_Up		= -y * Camera_Diagonal * Camera_Width * Camera_Aspect;
 #declare Camera_Right		= +x * Camera_Diagonal * Camera_Width;

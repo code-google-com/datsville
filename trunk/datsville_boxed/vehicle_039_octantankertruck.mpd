@@ -1,12 +1,8 @@
 0 FILE vehicle_039_octantankertruck.ldr
 0 Petrol Tanker
 0 Name: vehicle_039_octantankertruck.ldr
-0 Was: Tanker.dat vehicle_039_yellowshelltankertruck.ldr
-0 Author: Jonathan Wilson & Tore Eriksson
-0 Unofficial Datsville Vehicle Model
-0 Parent: building_035.ldr
-
-
+0 Author: Jonathan Wilson, Tore Eriksson
+0 Unofficial Model
 0 Driver
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
@@ -23,7 +19,10 @@
 
 0
 0 FILE vehicle_039_White039.ldr
-0 White039.ldr
+0 Untitled
+0 Name: vehicle_039_White039.ldr
+0 Author: Jonathan Wilson, Tore Eriksson
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 0 -8 40 1 0 0 0 1 0 0 0 1 3788.dat
@@ -54,7 +53,10 @@
 
 0
 0 FILE vehicle_039_Red039.ldr
-0 Red039.ldr
+0 Untitled
+0 Name: vehicle_039_Red039.ldr
+0 Author: Jonathan Wilson, Tore Eriksson
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 30 -40 -110 1 0 0 0 1 0 0 0 1 3822.dat
@@ -78,7 +80,10 @@
 
 0
 0 FILE vehicle_039_Yellow039.ldr
-0 Yellow039.ldr
+0 Untitled
+0 Name: vehicle_039_Yellow039.ldr
+0 Author: Jonathan Wilson, Tore Eriksson
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 47 0 -104 -110 1 0 0 0 1 0 0 0 1 3823.dat
@@ -94,15 +99,12 @@
 0 FILE vehicle_039_greentankertrailer.ldr
 0 Petrol Tanker Trailer
 0 Name: vehicle_039_greentankertrailer.ldr
-0 Was: Tankerb.dat
-0 Author: Jonathan Wilson
-0 Unofficial Datsville Vehicle Model
-0 Parent: Vjwtankr.ldr
-
+0 Author: Jonathan Wilson, Tore Eriksson
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 0 0 0 1 0 0 0 1 0 0 0 1 vehicle_039_yellow042.ldr
-1 2 0 0 0 1 0 0 0 1 0 0 0 1 vred042.ldr
+1 2 0 0 0 1 0 0 0 1 0 0 0 1 vehicle_039_vred042.ldr
 1 7 0 0 0 1 0 0 0 1 0 0 0 1 vehicle_039_White042.ldr
 0 // Stickers
 1 15 -40 -76 170 0 1 0 0 0 -1 -1 0 0 168185a.dat
@@ -112,7 +114,10 @@
 
 0
 0 FILE vehicle_039_White042.ldr
-0 White042.ldr
+0 Untitled
+0 Name: vehicle_039_White042.ldr
+0 Author: Jonathan Wilson, Tore Eriksson
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 0 8 290 1 0 0 0 1 0 0 0 1 b\3022.dat
@@ -150,7 +155,10 @@
 1 16 -10 -32 310 0 0 1 0 1 0 -1 0 0 b\3660.dat
 0
 0 FILE vehicle_039_yellow042.ldr
-0 yellow042.ldr
+0 Untitled
+0 Name: vehicle_039_yellow042.ldr
+0 Author: Jonathan Wilson, Tore Eriksson
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 -30 -88 170 0 0 1 0 1 0 -1 0 0 b\2465.dat
@@ -171,8 +179,11 @@
 1 16 10 -120 50 0 0 -1 0 1 0 1 0 0 6081.dat
 1 16 0 -120 170 0 0 1 0 1 0 -1 0 0 b\4282.dat
 0
-0 FILE vred042.ldr
-0 red042.ldr
+0 FILE vehicle_039_vred042.ldr
+0 Untitled
+0 Name: vehicle_039_vred042.ldr
+0 Author: Jonathan Wilson, Tore Eriksson
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 0 -40 250 0 0 1 0 1 0 -1 0 0 b\3035.dat
@@ -184,6 +195,7 @@
 1 4 0 -128 70 1 0 0 0 1 0 0 0 1 b\4032a.dat
 1 4 0 -128 170 1 0 0 0 1 0 0 0 1 b\4032a.dat
 1 4 0 -128 270 1 0 0 0 1 0 0 0 1 b\4032a.dat
+0 
 0 
 0
 0

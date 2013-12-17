@@ -1,10 +1,7 @@
 0 Fire Fighting Boat
 0 Name: vehicle_003_redfireboat.ldr
-0 Was: Tbfire.dat
 0 Author: Ryan Dennett
 0 Unofficial Datsville Vehicle Model
-0 Parent: Town20.ldr
-
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 4 0 -24 20 0 0 1 0 1 0 -1 0 0 b\4854.dat

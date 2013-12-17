@@ -1,14 +1,7 @@
 0 Casa Verde
 0 Name: building_006_casaverde.ldr
-0 Was: Tsauls1.dat
-0 Author: Brian (bbq) Sauls
 0 Author: Brian (barbcue) Sauls
-0 Unofficial Datsville Building Model
-0 Parent: Town0-1.ldr
-0 Location: -560 -24 820
-
-0 !LDBOXER LEVEL A
-
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 7 -200 -32 0 0 0 1 0 1 0 -1 0 0 b\3027.dat

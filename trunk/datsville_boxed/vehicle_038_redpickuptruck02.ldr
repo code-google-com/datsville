@@ -1,11 +1,7 @@
-0 FILE vehicle_038_redpickuptruck02.ldr
 0 Ute Type 2
 0 Name: vehicle_038_redpickuptruck02.ldr
-0 Was: Ute2.dat
 0 Author: Jonathan Wilson
 0 Unofficial Datville Vehicle Model
-0 Parent: building_035.ldr
-
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 4 0 0 130 1 0 0 0 1 0 0 0 1 4600.dat

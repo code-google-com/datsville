@@ -1,15 +1,11 @@
 0 FILE vehicle_014_blacksemitruck.ldr
 0 Truck Big
 0 Name: vehicle_014_blacksemitruck.ldr
-0 Was: Tcbigtr.dat
 0 Author:
-0 Unofficial Datsville Vehicle Model
-0 Parent: Town0-1.ldr
-0 Location: -1300 -24 1340
-
-0 Truck Base
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
+0 Truck Base
 1 0 20 -82 -50 1 0 0 0 1 0 0 0 1 pedestrian_016_manblueoverallsblackhatsitting.ldr
 1 16 0 -82 -110 1 0 0 0 1 0 0 0 1 vehicle_014_1.ldr
 1 0 0 -42 410 1 0 0 0 1 0 0 0 1 vehicle_014_2.ldr
@@ -58,10 +54,8 @@
 0 FILE vehicle_014_4.ldr
 0 Truck spoiler
 0 Name: vehicle_014_4.ldr
-0 Was: Trspoi.dat
 0 Author:
-0 Unofficial Datsville Vehicle Sub-Model
-0 Parent: _vtru11.ldr
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 60 -8 10 1 0 0 0 1 0 0 0 1 3938.dat
@@ -71,10 +65,8 @@
 0 FILE vehicle_014_3.ldr
 0 Truck Wheels
 0 Name: vehicle_014_3.ldr
-0 Was: Trwheels.dat
 0 Author:
-0 Unofficial Datsville Vehicle Sub-Model
-0 Parent: V__truk1.ldr
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 3706.dat
@@ -87,10 +79,8 @@
 0 FILE vehicle_014_2.ldr
 0 Truck Trailer
 0 Name: vehicle_014_2.ldr
-0 Was: Trtrail.dat
 0 Author:
-0 Unofficial Datsville Vehicle Sub-Model
-0 Parent: V__truk1.ldr
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 0 10 200 1 0 0 0 1 0 0 0 1 vehicle_014_3.ldr
@@ -170,10 +160,8 @@
 0 FILE vehicle_014_1.ldr
 0 Truck Cabin
 0 Name: vehicle_014_1.ldr
-0 Was: Trcabin.dat
 0 Author:
-0 Unofficial Datsville Vehicle Sub-Model
-0 Parent: V__truk1.ldr
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 -60 -88 131 1 0 0 0 0.707107 -0.707107 0 0.707107 0.707107 vehicle_014_4.ldr

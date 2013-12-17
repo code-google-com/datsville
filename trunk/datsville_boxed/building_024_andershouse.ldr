@@ -1,13 +1,7 @@
 0 Anders Isaksson, My Real Home
 0 Name: building_024.ldr
-0 Was: Tanders.dat
 0 Author: Anders Isaksson
-0 Unofficial Datsville Building Model
-0 Parent: Town0-1.ldr
-0 Location: 540 0 -800
-
-0 !LDBOXER LEVEL A
-
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 8 300 -24 360 0 0 -1 0 1 0 1 0 0 b\3001.dat
