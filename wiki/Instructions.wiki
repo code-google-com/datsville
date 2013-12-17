@@ -20,4 +20,4 @@
   # Open "datsville.pov" in POV-Ray 3.7. You will probably need to install the 64 bit version of POV-Ray as Datsville consumes huge amounts of RAM.
   # Add the strings "#version 3.7;" and "#include "ldr_wrapper_mapview_1.4.inc"" to the top of the POV-Ray file.
   # Delete any camera and light statements. Also delete all the color and material definitions in the "Defines" section.
-  # Render the scene at 6144x3072 pixels. This will produce the isometric image I use in my town maps. You'll need a lot of RAM, but it won't take a lot of time to render once it's done parsing. You should probably also render Datsville with the "+q7" flag set when creating the maps.
+  # Render the scene at 8192x4096 pixels. This will produce the isometric image I use in my town maps. You'll need a lot of RAM, but it won't take a lot of time to render once it's done parsing. You should probably also render Datsville with the "+q7" flag set when creating the maps.
