@@ -17,4 +17,4 @@ Rev 328
 [http://datsville.googlecode.com/svn/wiki/Maps.attach/datsville_rev003_map.png Rev 003]
 [http://datsville.googlecode.com/svn/wiki/Maps.attach/datsville_rev002_map.png Rev 002]
 [http://datsville.googlecode.com/svn/wiki/Maps.attach/datsville_rev001_map.png Rev 001]
-[http://datsville.googlecode.com/svn/wiki/Maps.attach/datsville_te_rev039_map.png Tore Eriksson's Rev 039]
+[http://datsville.googlecode.com/svn/wiki/Maps.attach/datsville_te_rev039_map.png TE Rev 039]
