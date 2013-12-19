@@ -36,7 +36,7 @@
   # Houses need bushes, gardens, etc. around them.
   # There need to be more minifigures walking around or inside buildings. There need to be more of them in general.
   # Baseball field needs spotlights and a fence surrounding the outfield.
-  # One-way streets need two neighboring traffic signals at intersections since both lanes are going in the same direction.
+  # One-way streets need two traffic signals facing the same direction at intersections since both lanes are going in the same direction.
   # Make sure streetlamps don't block driveways.
   # Make sure sreetlamps can be ratcheted to the correct angle when placed on sloping inclines.
   # All minifigures and vehicles should use unique models. Even players on the baseball teams.
@@ -46,5 +46,5 @@
   # I'm not real happy with block 8 where the university once stood. It needs to be made more parklike.
   # Maybe make areas between shops and sidewalks white instead of gray.
   # There may be too many streetlights in Datsville. I should at least try to use single-bulb lamps instead of double.
-  # Train tracks could be bumped up a little more in height.
+  # <s>Train tracks could be bumped up a little more in height.</s>
   # I'm not real happy with how the city depot and airport turned out. The depot is maybe too large and the airport too small. Need to work on that.

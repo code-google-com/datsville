@@ -15,42 +15,60 @@
 
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
-1 0 0 0 -1860 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
-1 0 0 0 -2000 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_bane-bag.ldr
-1 0 0 0 -2160 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_bane-bag.ldr
-1 15 0 0 -1740 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
-1 0 0 0 -1620 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
-1 15 0 0 -1500 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
-1 0 0 0 -1380 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
-1 15 0 0 -1260 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
-1 0 0 0 -1140 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
-1 15 0 0 -1020 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
-1 0 0 0 -900 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion-venstre_taxiway.ldr
-1 15 0 0 -780 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion-venstre_taxiway.ldr
-1 0 0 0 -660 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion-venstre_taxiway.ldr
-1 15 0 0 -540 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion-venstre_taxiway.ldr
-1 0 0 0 -420 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion-venstre_taxiway.ldr
-1 15 0 0 -300 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion-venstre_taxiway.ldr
-1 0 0 0 -180 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion-venstre_taxiway.ldr
-1 15 0 0 -60 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion-venstre_taxiway.ldr
-1 0 0 0 60 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
-1 15 0 0 180 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
-1 0 0 0 300 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
-1 15 0 0 420 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
-1 0 0 0 540 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
-1 15 0 0 660 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
-1 0 0 0 780 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
-1 15 0 0 900 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
-1 0 0 0 1020 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
-1 15 0 0 1140 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
-1 0 0 0 1260 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
-1 15 0 0 1380 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
-1 0 0 0 1500 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
-1 15 0 0 1620 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
-1 0 0 0 1740 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
-1 15 0 0 1860 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
-1 15 0 0 2000 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_bane-bag.ldr
-1 15 0 0 2160 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_bane-bag.ldr
+1 0 0 0 -260 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
+1 15 0 0 -140 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
+1 0 0 0 -20 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
+1 15 0 0 100 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
+1 0 0 0 220 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
+1 15 0 0 340 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
+1 0 0 0 460 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
+1 15 0 0 580 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
+1 0 0 0 700 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion-venstre_taxiway.ldr
+1 15 0 0 820 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion-venstre_taxiway.ldr
+1 0 0 0 940 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion-venstre_taxiway.ldr
+1 15 0 0 1060 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion-venstre_taxiway.ldr
+1 0 0 0 1180 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion-venstre_taxiway.ldr
+1 15 0 0 1300 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion-venstre_taxiway.ldr
+1 0 0 0 1420 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion-venstre_taxiway.ldr
+1 15 0 0 1540 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion-venstre_taxiway.ldr
+1 0 0 0 -2180 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
+1 0 0 0 -2640 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_bane-bag.ldr
+1 0 0 0 -2800 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_bane-bag.ldr
+1 0 0 -8 -2400 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_numbereast.ldr
+1 15 0 0 -2060 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
+1 0 0 0 -1940 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
+1 15 0 0 -1820 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
+1 0 0 0 -1700 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
+1 15 0 0 -1580 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
+1 0 0 0 -1460 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
+1 15 0 0 -1340 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
+1 0 0 0 -1220 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion-venstre_taxiway.ldr
+1 15 0 0 -1100 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion-venstre_taxiway.ldr
+1 0 0 0 -980 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion-venstre_taxiway.ldr
+1 15 0 0 -860 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion-venstre_taxiway.ldr
+1 0 0 0 -740 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion-venstre_taxiway.ldr
+1 15 0 0 -620 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion-venstre_taxiway.ldr
+1 0 0 0 -500 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion-venstre_taxiway.ldr
+1 15 0 0 -380 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion-venstre_taxiway.ldr
+1 0 0 0 1660 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
+1 15 0 0 1780 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
+1 0 0 0 1900 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
+1 15 0 0 2020 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
+1 0 0 0 2140 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
+1 15 0 0 2260 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
+1 0 0 0 2380 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
+1 15 0 0 2500 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
+1 0 0 0 2620 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
+1 15 0 0 2740 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
+1 0 0 0 2860 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
+1 15 0 0 2980 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
+1 0 0 0 3100 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
+1 15 0 0 3220 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
+1 0 0 0 3340 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
+1 15 0 0 3460 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
+1 15 0 0 3920 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_bane-bag.ldr
+1 15 0 -8 3680 -1 0 0 0 1 0 0 0 -1 infrastructure_airportrunway_numberwest.ldr
+1 15 0 0 4080 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_bane-bag.ldr
 0
 0 FILE infrastructure_airportrunway_banesektion.ldr
 0 TITLE Runway section
@@ -171,6 +189,222 @@
 0 
 0 
 0 
+0 
+0 
+0 
+0 
+0 
+0
+0 FILE infrastructure_airportrunway_numbereast.ldr
+0 New Model
+0 Name: infrastructure_airportrunway_numbereast.ldr
+0 Author: Michael Horvath
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+0 MLCAD HIDE 1 16 0 16 0 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_bane-bag.ldr
+1 15 290 0 80 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 310 0 80 0 0 -1 0 1 0 1 0 0 4162.dat
+1 15 290 0 -80 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 310 0 -80 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 -260 0 120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 -220 0 120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 -180 0 120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 -140 0 120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 -100 0 120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 -60 0 120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 -20 0 120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 20 0 120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 60 0 120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 100 0 120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 140 0 120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 180 0 120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 220 0 120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 260 0 120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 260 0 -120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 220 0 -120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 180 0 -120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 140 0 -120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 100 0 -120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 60 0 -120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 20 0 -120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 -20 0 -120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 -60 0 -120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 -100 0 -120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 -140 0 -120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 -180 0 -120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 -220 0 -120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 -260 0 -120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 270 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 250 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 230 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 210 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 190 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 170 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 150 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 130 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 110 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 0 0 -70 -1 0 0 0 1 0 0 0 -1 4162.dat
+1 0 0 0 70 -1 0 0 0 1 0 0 0 -1 4162.dat
+1 0 0 0 50 -1 0 0 0 1 0 0 0 -1 2431.dat
+1 0 0 0 -50 -1 0 0 0 1 0 0 0 -1 2431.dat
+1 0 -60 0 20 -1 0 0 0 1 0 0 0 -1 3068b.dat
+1 0 -60 0 -20 -1 0 0 0 1 0 0 0 -1 3068b.dat
+1 0 60 0 20 -1 0 0 0 1 0 0 0 -1 3068b.dat
+1 0 0 0 20 -1 0 0 0 1 0 0 0 -1 3068b.dat
+1 0 0 0 -20 -1 0 0 0 1 0 0 0 -1 3068b.dat
+1 0 -90 0 60 0 0 -1 0 1 0 1 0 0 3069b.dat
+1 0 -90 0 -60 0 0 -1 0 1 0 1 0 0 3069b.dat
+1 0 90 0 -60 0 0 -1 0 1 0 1 0 0 3069b.dat
+1 0 90 0 60 0 0 -1 0 1 0 1 0 0 3069b.dat
+1 0 30 0 -20 0 0 -1 0 1 0 1 0 0 3069b.dat
+1 0 60 0 -30 -1 0 0 0 1 0 0 0 -1 3069b.dat
+1 15 -50 0 50 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 -70 0 50 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 -90 0 30 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 -90 0 10 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 -90 0 -10 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 -90 0 -30 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 -70 0 -50 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 -50 0 -50 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 -30 0 -30 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 -30 0 -10 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 -30 0 10 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 -30 0 30 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 30 0 30 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 30 0 10 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 50 0 -10 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 70 0 -10 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 50 0 50 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 70 0 50 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 90 0 30 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 90 0 10 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 90 0 -10 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 90 0 -30 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 70 0 -50 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 50 0 -50 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 -290 0 80 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 -310 0 80 0 0 -1 0 1 0 1 0 0 4162.dat
+1 15 -290 0 -80 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 -310 0 -80 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 -270 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 -250 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 -230 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 -210 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 -190 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 -170 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 -150 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 -130 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 -110 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
+0
+0 FILE infrastructure_airportrunway_numberwest.ldr
+0 New Model
+0 Name: infrastructure_airportrunway_numberwest.ldr
+0 Author: Michael Horvath
+0 Unofficial Model
+0 New Model
+0 Name: infrastructure_airportrunway_numbereast.ldr
+0 Author: Michael Horvath
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+0 MLCAD HIDE 1 16 0 16 0 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_bane-bag.ldr
+1 15 290 0 80 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 310 0 80 0 0 -1 0 1 0 1 0 0 4162.dat
+1 15 290 0 -80 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 310 0 -80 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 270 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 260 0 120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 220 0 120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 180 0 120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 140 0 120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 100 0 120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 60 0 120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 20 0 120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 -20 0 120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 -60 0 120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 -100 0 120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 -140 0 120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 -180 0 120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 -220 0 120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 -260 0 120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 -260 0 -120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 -220 0 -120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 -180 0 -120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 -140 0 -120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 -100 0 -120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 -60 0 -120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 -20 0 -120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 20 0 -120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 60 0 -120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 100 0 -120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 140 0 -120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 180 0 -120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 220 0 -120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 260 0 -120 0 0 -1 0 1 0 1 0 0 87079.dat
+1 0 250 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 230 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 210 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 190 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 170 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 150 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 130 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 110 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 0 0 -70 -1 0 0 0 1 0 0 0 -1 4162.dat
+1 0 -90 0 -70 -1 0 0 0 1 0 0 0 -1 3070b.dat
+1 0 90 0 70 -1 0 0 0 1 0 0 0 -1 3070b.dat
+1 0 70 0 -10 -1 0 0 0 1 0 0 0 -1 3070b.dat
+1 0 -70 0 -10 -1 0 0 0 1 0 0 0 -1 3070b.dat
+1 0 70 0 30 -1 0 0 0 1 0 0 0 -1 3070b.dat
+1 0 -50 0 -30 -1 0 0 0 1 0 0 0 -1 3070b.dat
+1 0 90 0 -70 -1 0 0 0 1 0 0 0 -1 3070b.dat
+1 0 -60 0 20 -1 0 0 0 1 0 0 0 -1 3068a.dat
+1 0 80 0 -40 -1 0 0 0 1 0 0 0 -1 3068a.dat
+1 0 -90 0 -10 0 0 1 0 1 0 -1 0 0 63864.dat
+1 0 -10 0 50 -1 0 0 0 1 0 0 0 -1 63864.dat
+1 0 10 0 30 -1 0 0 0 1 0 0 0 -1 63864.dat
+1 0 10 0 10 -1 0 0 0 1 0 0 0 -1 63864.dat
+1 0 10 0 -10 -1 0 0 0 1 0 0 0 -1 63864.dat
+1 0 10 0 -30 -1 0 0 0 1 0 0 0 -1 63864.dat
+1 0 10 0 -50 -1 0 0 0 1 0 0 0 -1 63864.dat
+1 0 0 0 70 -1 0 0 0 1 0 0 0 -1 4162.dat
+1 0 -90 0 60 0 0 -1 0 1 0 1 0 0 3069b.dat
+1 0 90 0 0 0 0 -1 0 1 0 1 0 0 3069b.dat
+1 0 50 0 20 0 0 -1 0 1 0 1 0 0 3069b.dat
+1 0 -30 0 -20 0 0 -1 0 1 0 1 0 0 3069b.dat
+1 15 -50 0 50 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 -70 0 50 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 -90 0 30 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 -50 0 -10 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 -70 0 -30 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 -90 0 -50 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 -30 0 -50 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 -70 0 -50 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 -50 0 -50 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 -30 0 10 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 -30 0 30 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 30 0 50 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 50 0 -10 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 50 0 50 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 70 0 50 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 90 0 50 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 90 0 30 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 70 0 10 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 50 0 -30 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 50 0 -50 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 15 -290 0 80 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 -310 0 80 0 0 -1 0 1 0 1 0 0 4162.dat
+1 15 -290 0 -80 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 -310 0 -80 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 -270 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 -250 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 -230 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 -210 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 -190 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 -170 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 -150 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 -130 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
+1 0 -110 0 0 0 0 -1 0 1 0 1 0 0 4162.dat
 0 
 0 
 0

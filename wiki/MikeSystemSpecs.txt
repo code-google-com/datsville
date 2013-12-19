@@ -3,7 +3,7 @@ System #1
 	Operating System
 		Windows XP Home Edition 32-bit SP3
 	CPU
-		AMD Sempron
+		AMD Sempron 3000+
 		Barton 0.13um Technology
 	RAM
 		2.00GB DDR @ 166MHz (2.5-5-3-7)
