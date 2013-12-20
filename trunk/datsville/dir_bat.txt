@@ -1,4 +1,3 @@
-
 axis32x.dat
 block_001.ldr
 block_002.ldr
@@ -118,6 +117,10 @@ building_086_redwarehouse.mpd
 building_087_citydepot.ldr
 building_088_fighterjethangar.mpd
 datsville.ldr
+dir_bat.cmd
+dir_bat.txt
+dx900.dat
+dx901.dat
 gridb32x.dat
 gridb8x.dat
 grids32x.dat
@@ -255,6 +258,8 @@ rail_straight.ldr
 snotroad_curveblanknocross.ldr
 snotroad_curveonewaynocross.ldr
 snotroad_curvestripenocross.ldr
+snotroad_doubleblankcross.ldr
+snotroad_doubleblanknocross.ldr
 snotroad_doubledash.ldr
 snotroad_doubleonewaycross.ldr
 snotroad_doubleonewaydoublecross.ldr
@@ -267,6 +272,7 @@ snotroad_doublestripenocross.ldr
 snotroad_doublestriperailxing.ldr
 snotroad_doublestriperightaheadonly.ldr
 snotroad_doublestriperightonly.ldr
+snotroad_halfstripecross.ldr
 snotroad_halfstripenocross.ldr
 snotroad_quadblanknocross.ldr
 snotroad_quaddotsnocross.ldr
@@ -311,14 +317,14 @@ vehicle_014_blacksemitruck.mpd
 vehicle_015_whitesportscar.ldr
 vehicle_016_redpickuptruck.ldr
 vehicle_017_graysemitruck.mpd
-vehicle_018_graypolicemotorcycle.mpd
+vehicle_018_graypolicemotorcycle.ldr
 vehicle_019_weirdportalonwheels.mpd
 vehicle_020_redconvertiblecar.ldr
 vehicle_021_blueandwhitedeliverytruck.ldr
 vehicle_022_whiteconvertiblecar.ldr
-vehicle_023_bluemotorcycleandrider.mpd
-vehicle_024_blackmotorcycleandredrider.mpd
-vehicle_025_redmotorcycleandwhiterider.mpd
+vehicle_023_bluemotorcycleandrider.ldr
+vehicle_024_blackmotorcycleandredrider.ldr
+vehicle_025_redmotorcycleandwhiterider.ldr
 vehicle_026_bluecoupe.ldr
 vehicle_027_grayconvertible.ldr
 vehicle_028_yellowtraincarwithblacktrailer.mpd

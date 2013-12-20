@@ -48,3 +48,5 @@
   # There may be too many streetlights in Datsville. I should at least try to use single-bulb lamps instead of double.
   # <s>Train tracks could be bumped up a little more in height.</s>
   # I'm not real happy with how the city depot and airport turned out. The depot is maybe too large and the airport too small. Need to work on that.
+  # Streets could be broken down into smaller modules for crosswalks, road markers, other road paint. This will need to be done when adding driveways as well.
+  # Maybe make two railroad tracks for the whole length through the city.
