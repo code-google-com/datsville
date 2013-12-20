@@ -1,6 +1,6 @@
-0 FILE Untitled.ldr
+0 FILE building_085_Sculpture.ldr
 0 Untitled
-0 Name: Untitled.ldr
+0 Name: building_085_Sculpture.ldr
 0 Author: Tim Gould
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -11,14 +11,14 @@
 1 15 20 -8 50 1 0 0 0 1 0 0 0 1 3024.dat
 1 15 -40 -16 0 0 0 1 0 1 0 -1 0 0 4592.dat
 1 15 -40 -8 0 0 0 1 0 1 0 -1 0 0 3794a.dat
-1 15 -21 -261 0 0 1 0 -1 0 0 0 0 1 Round.ldr
+1 15 -21 -261 0 0 1 0 -1 0 0 0 0 1 building_085_Round.ldr
 1 15 -40 -16 0 0 -0.325568 0.945519 0 0.945519 0.325568 -1 0 0 4593.dat
 1 15 20 -16 50 1 0 0 0 1 0 0 0 1 3070b.dat
-1 15 0 -138 0 0.686103 -0.241922 -0.686103 0.171065 0.970296 -0.171065 0.707107 0 0.707107 Strut.ldr
+1 15 0 -138 0 0.686103 -0.241922 -0.686103 0.171065 0.970296 -0.171065 0.707107 0 0.707107 building_085_Strut.ldr
 0
-0 FILE Strut.ldr
+0 FILE building_085_Strut.ldr
 0 New Model
-0 Name: Strut.ldr
+0 Name: building_085_Strut.ldr
 0 Author: Tim Gould
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -49,9 +49,9 @@
 1 15 0 -104 0 0 0 1 0 1 0 -1 0 0 3005.dat
 1 15 0 88 0 0 0 1 0 1 0 -1 0 0 3005.dat
 0
-0 FILE Round.ldr
+0 FILE building_085_Round.ldr
 0 New Model
-0 Name: Round.ldr
+0 Name: building_085_Round.ldr
 0 Author: Tim Gould
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -74,6 +74,7 @@
 1 15 0 -56 0 0 0 1 0 1 0 -1 0 0 3070b.dat
 1 15 0 10 -80 -1 0 0 0 0 1 0 1 0 30374.dat
 1 15 0 10 80 1 0 0 0 0 1 0 -1 0 30374.dat
+0 
 0 
 0
 0

@@ -368,7 +368,6 @@
 1 13 -2720 -8 -7580 1 0 0 0 1 0 0 0 1 building_088_fighterjethangar.mpd
 0 MLCAD HIDE 1 11 -4160 8 -7360 1 0 0 0 1 0 0 0 1 3811.dat
 0 MLCAD HIDE 1 13 -3360 0 -7360 1 0 0 0 1 0 0 0 1 3811.dat
-1 13 -2720 -8 -7620 1 0 0 0 1 0 0 0 1 vehicle_084_yellowfighterjet.mpd
 0 MLCAD HIDE 1 13 -2720 0 -7360 1 0 0 0 1 0 0 0 1 3811.dat
 0 MLCAD HIDE 1 13 -2080 0 -7360 1 0 0 0 1 0 0 0 1 3811.dat
 0 MLCAD HIDE 1 13 -1440 0 -7360 1 0 0 0 1 0 0 0 1 3811.dat
@@ -376,11 +375,9 @@
 0 MLCAD HIDE 1 13 -5440 0 -8000 1 0 0 0 1 0 0 0 1 3811.dat
 0 MLCAD HIDE 1 13 -4800 0 -8000 1 0 0 0 1 0 0 0 1 3811.dat
 1 13 160 0 -7680 1 0 0 0 1 0 0 0 1 infrastructure_airporthelipad.ldr
-1 13 160 -8 -7800 1 0 0 0 1 0 0 0 1 vehicle_070_traffichelicopter.ldr
 1 13 -1600 0 -9280 0 0 -1 0 1 0 1 0 0 infrastructure_airportrunway.mpd
 0 MLCAD HIDE 1 13 -4160 0 -8000 1 0 0 0 1 0 0 0 1 3811.dat
 1 13 960 0 -7680 1 0 0 0 1 0 0 0 1 infrastructure_airporthelipad.ldr
-1 13 960 -8 -7760 1 0 0 0 1 0 0 0 1 vehicle_066_policewhitehelicopter.ldr
 0 MLCAD HIDE 1 13 -3360 0 -8000 1 0 0 0 1 0 0 0 1 3811.dat
 0 MLCAD HIDE 1 13 -2720 0 -8000 1 0 0 0 1 0 0 0 1 3811.dat
 0 MLCAD HIDE 1 13 -2080 0 -8000 1 0 0 0 1 0 0 0 1 3811.dat
