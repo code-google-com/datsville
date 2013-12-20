@@ -8,7 +8,7 @@
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
-1 16 5920 0 -4960 0 0 -1 0 1 0 1 0 0 vehicle_028_yellowtraincarwithblacktrailer.mpd
+1 16 5920 0 -4880 0 0 -1 0 1 0 1 0 0 vehicle_028_yellowtraincarwithblacktrailer.mpd
 1 16 710 -56 2850 1 0 0 0 1 0 0 0 1 vehicle_055_mgb.mpd
 1 16 -2960 72 5180 0 0 -1 0 1 0 1 0 0 vehicle_053_citycat.mpd
 1 16 -2950 0 1690 0 0 1 0 1 0 -1 0 0 vehicle_054_monaro.mpd
@@ -111,7 +111,7 @@
 0 // woman entering Brickman's (Up to Rev034: -2740 -16 -2360)
 1 2 -580 -8 -2130 -0.5 0 0.87 0 1 0 -0.87 0 -0.5 pedestrian_026_castleguard.ldr
 1 2 -230 2 4680 0 0 1 0 1 0 -1 0 0 vehicle_043_towercrane.mpd
-1 7 -480 -32 -4800 0 0 1 0 1 0 -1 0 0 vehicle_045_redpassengertrain.mpd
+1 7 -480 -32 -4720 0 0 1 0 1 0 -1 0 0 vehicle_045_redpassengertrain.mpd
 1 0 -3620 0 -3975 -1 0 0 0 1 0 0 0 -1 vehicle_061_garbagetruck.ldr
 1 7 980 0 -420 0 0 -1 0 1 0 1 0 0 vehicle_060_ferraripolice.ldr
 1 7 1730 0 -2970 0 0 -1 0 1 0 1 0 0 vehicle_059_graymotorcyclewithbluerider.ldr
