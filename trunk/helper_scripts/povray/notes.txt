@@ -1,5 +1,0 @@
-After converting Datsville using L3P version 1.4, delete any camera and light 
-statements, and delete all the color and material definitions in the "Defines" 
-section, replacing them with a reference to "ldr_wrapper_1.4.inc". This will 
-produce the isometric image I use in my town maps. The render takes about 15 
-minutes on my computer at 6144 x 3072 pixels, including parsing time.

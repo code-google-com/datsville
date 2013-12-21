@@ -1,4 +1,3 @@
-
 axis32x.dat
 block_001.ldr
 block_002.ldr
@@ -117,7 +116,11 @@ building_085_airportsculpture.mpd
 building_086_redwarehouse.mpd
 building_087_citydepot.ldr
 building_088_fighterjethangar.mpd
+building_089_controltower2.mpd
+building_090_policegraduationpodium.ldr
 datsville.ldr
+dx900.dat
+dx901.dat
 gridb32x.dat
 gridb8x.dat
 grids32x.dat
@@ -150,6 +153,8 @@ infrastructure_mailbox.ldr
 infrastructure_phonebooth.ldr
 infrastructure_roadbridge.ldr
 infrastructure_rubblepile.ldr
+infrastructure_signdetourleft.mpd
+infrastructure_signdetourright.mpd
 infrastructure_signnoentryboth.ldr
 infrastructure_signnoleftturn.ldr
 infrastructure_signnorightturn.ldr
@@ -238,7 +243,7 @@ pedestrian_061_mailmansitting.ldr
 pedestrian_062_bicyclistredshirt.ldr
 pedestrian_063_bluemotorcyclerider.ldr
 pedestrian_064_graychauffeur.ldr
-pedestrian_065_policewhiteshirtandtie.ldr
+pedestrian_065_policewhiteshirtandtiesitting.ldr
 pedestrian_066_policemotorcyclesuitreclining.ldr
 pedestrian_067_policedetectiveblacksuitredshirt.ldr
 pedestrian_068_policedetectiveblacksuitwhiteshirt.ldr
@@ -246,6 +251,9 @@ pedestrian_069_darkjacketbluepants.ldr
 pedestrian_070_policewhiteshirtandtiestanding.ldr
 pedestrian_071_manwithblackhat.ldr
 pedestrian_072_manwithwhitehat.ldr
+pedestrian_073_policewhiteshirtandtiestandingnohat.ldr
+pedestrian_074_policewhiteshirtandtiestandingradio.ldr
+pedestrian_075_policeblackjacketwhitehelmetstanding.ldr
 rail_crossing.mpd
 rail_crossingdouble.mpd
 rail_crossingnogate.ldr
@@ -255,6 +263,8 @@ rail_straight.ldr
 snotroad_curveblanknocross.ldr
 snotroad_curveonewaynocross.ldr
 snotroad_curvestripenocross.ldr
+snotroad_doubleblankcross.ldr
+snotroad_doubleblanknocross.ldr
 snotroad_doubledash.ldr
 snotroad_doubleonewaycross.ldr
 snotroad_doubleonewaydoublecross.ldr
@@ -267,9 +277,11 @@ snotroad_doublestripenocross.ldr
 snotroad_doublestriperailxing.ldr
 snotroad_doublestriperightaheadonly.ldr
 snotroad_doublestriperightonly.ldr
+snotroad_halfstripecross.ldr
 snotroad_halfstripenocross.ldr
 snotroad_quadblanknocross.ldr
 snotroad_quaddotsnocross.ldr
+snotroad_quadstripenocross.ldr
 snotroad_tripleblankcross_1.ldr
 snotroad_tripleblankcross_2.ldr
 snotroad_tripleblanknocross.ldr
@@ -311,14 +323,14 @@ vehicle_014_blacksemitruck.mpd
 vehicle_015_whitesportscar.ldr
 vehicle_016_redpickuptruck.ldr
 vehicle_017_graysemitruck.mpd
-vehicle_018_graypolicemotorcycle.mpd
+vehicle_018_graypolicemotorcycle.ldr
 vehicle_019_weirdportalonwheels.mpd
 vehicle_020_redconvertiblecar.ldr
 vehicle_021_blueandwhitedeliverytruck.ldr
 vehicle_022_whiteconvertiblecar.ldr
-vehicle_023_bluemotorcycleandrider.mpd
-vehicle_024_blackmotorcycleandredrider.mpd
-vehicle_025_redmotorcycleandwhiterider.mpd
+vehicle_023_bluemotorcycleandrider.ldr
+vehicle_024_blackmotorcycleandredrider.ldr
+vehicle_025_redmotorcycleandwhiterider.ldr
 vehicle_026_bluecoupe.ldr
 vehicle_027_grayconvertible.ldr
 vehicle_028_yellowtraincarwithblacktrailer.mpd
@@ -373,4 +385,5 @@ vehicle_080_cherrypicker.ldr
 vehicle_081_asphalttruck.ldr
 vehicle_082_wideloadwarningcar.ldr
 vehicle_083_traytruck.ldr
+vehicle_084_dumptruck2.ldr
 vehicle_084_yellowfighterjet.mpd
