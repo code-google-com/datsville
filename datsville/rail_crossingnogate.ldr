@@ -1,8 +1,8 @@
 0 7835 Level Crossing
 0 Name: rail_crossingnogate.ldr
 0 Author: Jonathan Wilson
+0 Unofficial Model
 0 Restored from Town.pov by Tore Eriksson
-0 Highly Un-Official Datsville Railway Replacement Sub-Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 0 MLCAD HIDE 1 16 0 8 0 0 0 -1 0 1 0 1 0 0 snotroad_doublestriperailxing.ldr

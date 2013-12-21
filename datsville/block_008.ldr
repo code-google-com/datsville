@@ -5,6 +5,7 @@
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 -5680 -16 1600 0 0 1 0 1 0 -1 0 0 building_019_cricketground.mpd
+1 16 -5680 -16 1940 1 0 0 0 1 0 0 0 1 building_090_policegraduationpodium.ldr
 1 13 -3520 0 2240 1 0 0 0 1 0 0 0 1 3811.dat
 1 13 -3520 0 2880 1 0 0 0 1 0 0 0 1 3811.dat
 1 10 -2880 8 2880 1 0 0 0 1 0 0 0 1 3811.dat

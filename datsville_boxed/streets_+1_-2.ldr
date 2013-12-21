@@ -5,15 +5,18 @@
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 4160 0 -6080 -1 0 0 0 1 0 0 0 -1 snotroad_doublestripecross.ldr
+1 7 4160 0 -6080 -1 0 0 0 1 0 0 0 -1 infrastructure_firehydrant.ldr
 1 7 4800 0 -6720 0 0 -1 0 1 0 1 0 0 snotroad_doublestripecross.ldr
-1 7 3520 0 -6720 0 0 1 0 1 0 -1 0 0 snotroad_doublestripecross.ldr
-1 7 2880 0 -6720 0 0 -1 0 1 0 1 0 0 snotroad_doublestripecross.ldr
+1 7 3520 0 -6720 0 0 1 0 1 0 -1 0 0 snotroad_halfstripecross.ldr
+1 7 3200 0 -6720 0 0 -1 0 1 0 1 0 0 snotroad_triplestripenocross.ldr
+1 7 2880 0 -6720 0 0 -1 0 1 0 1 0 0 snotroad_halfstripecross.ldr
 1 7 1600 0 -6720 0 0 1 0 1 0 -1 0 0 snotroad_doublestripecross.ldr
 1 7 960 0 -6720 0 0 -1 0 1 0 1 0 0 snotroad_doublestripenocross.ldr
-1 7 320 0 -6720 0 0 -1 0 1 0 1 0 0 snotroad_doublestripecross.ldr
-1 7 4160 0 -5440 1 0 0 0 1 0 0 0 1 snotroad_doublestripenocross.ldr
+1 7 320 0 -6720 0 0 -1 0 1 0 1 0 0 snotroad_triplestripecross_1.ldr
+1 7 4160 0 -5440 1 0 0 0 1 0 0 0 1 snotroad_doublestriperailxing.ldr
 1 7 2240 0 -6080 -1 0 0 0 1 0 0 0 -1 snotroad_doublestripecross.ldr
-1 7 2240 0 -5440 1 0 0 0 1 0 0 0 1 snotroad_doublestripenocross.ldr
+1 7 2240 0 -6080 -1 0 0 0 1 0 0 0 -1 infrastructure_firehydrant.ldr
+1 7 2240 0 -5440 1 0 0 0 1 0 0 0 1 snotroad_doublestriperailxing.ldr
 1 7 4160 0 -6720 0 0 1 0 1 0 -1 0 0 snotroad_quaddotsnocross.ldr
 1 7 4160 -16 -6720 0 0 1 0 1 0 -1 0 0 infrastructure_signstopquad.ldr
 1 7 2240 0 -6720 0 0 1 0 1 0 -1 0 0 snotroad_quaddotsnocross.ldr

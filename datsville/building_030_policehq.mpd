@@ -169,7 +169,7 @@
 1 15 -90 -256 -90 0 0 1 0 1 0 -1 0 0 73436.dat
 1 15 -130 -248 30 0 0 1 0 1 0 -1 0 0 73435.dat
 1 15 -80 -160 -180 1 0 0 0 1 0 0 0 1 building_030_desk.dat
-1 15 -80 -136 -220 -1 0 0 0 1 0 0 0 -1 pedestrian_065_policewhiteshirtandtie.ldr
+1 15 -80 -136 -220 -1 0 0 0 1 0 0 0 -1 pedestrian_065_policewhiteshirtandtiesitting.ldr
 1 15 -160 -152 160 0 0 1 0 1 0 -1 0 0 building_030_desk.dat
 1 15 -130 -128 160 0 0 1 0 1 0 -1 0 0 pedestrian_070_policewhiteshirtandtiestanding.ldr
 1 15 10 -128 160 0 0 1 0 1 0 -1 0 0 pedestrian_070_policewhiteshirtandtiestanding.ldr
@@ -276,6 +276,8 @@
 1 15 29 -91 0 0 1 0 -1 0 0 0 0 1 4285b.dat
 1 15 39 -91 0 0 1 0 -1 0 0 0 0 1 4740.dat
 1 15 45 -91 0 0 -1 0 1 0 0 0 0 1 4095.dat
+0 
+0 
 0 
 0
 0

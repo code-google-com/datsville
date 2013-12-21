@@ -1,7 +1,7 @@
 0 Minifig Bicycle Template
 0 Name: vehicle_058_graybicyclewithrider.ldr
 0 Author: Tore Eriksson
-0 Unofficial Datsville Vehicle Template
+0 Unofficial Model
 
 0 bicycle frame
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -9,7 +9,7 @@
 1 16 0 -51 40 1 0 0 0 1 0 0 0 1 4719.dat
 
 0 bicycle headlight
-1 47 0 -55 -50 1 0 0 0 0 -1 0 1 0 b\4073.dat
+1 47 0 -55 -50 1 0 0 0 0 -1 0 1 0 4073.dat
 
 0 REM bicycle rear tire
 1 256 0 -21 40 0 0 1 0 1 0 -1 0 0 2807.dat
