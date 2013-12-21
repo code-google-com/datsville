@@ -1,8 +1,8 @@
 #summary Screenshots of development in progress.
 
-2103/12/19
+2013/12/19
 [http://datsville.googlecode.com/svn/wiki/Screenshots.attach/ldview_screenshot_018.png]
-2103/11/15
+2013/11/15
 [http://datsville.googlecode.com/svn/wiki/Screenshots.attach/ldview_screenshot_017.png]
 2013/11/08
 [http://datsville.googlecode.com/svn/wiki/Screenshots.attach/ldview_screenshot_016.png]
