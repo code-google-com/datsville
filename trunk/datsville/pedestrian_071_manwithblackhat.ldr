@@ -2,13 +2,13 @@
 0 Name: pedestrian_071_manwithblackhat.ldr
 0 Author: Jacob Sparre Andersen <sparre@nbi.dk>, July 2005
 0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
 0 venstre
 0 |    ned
 0 |    |    bagud
 0 |    |    |
 0 legs & hip
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CONFIG 0 0
 1 16 0 -56 1 1 0 0 0 1 0 0 0 1 3817.dat
 1 16 0 -56 1 1 0 0 0 1 0 0 0 1 3816.dat
 1 16 0 -68 1 1 0 0 0 1 0 0 0 1 3815.dat

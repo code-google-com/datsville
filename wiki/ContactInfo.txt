@@ -1,5 +1,5 @@
 ﻿- Allan, Nicholas
-  - n_l_allan@altavista.net		(1999, 2001, dead)
+  - n_l_allan@altavista.net		(1999, 2001, deadlink)
 + Bliss, Steve
   + steve.bliss@sbcglobal.net		(2009)
 - Burger, Thomas
@@ -11,7 +11,7 @@
   + tore.eriksson@mbox325.swipnet.se	(1999, 2009)
   + tore.eson@gmail.com			(2013)
 - Farver, Rob
-  - rfarver@rcn.com			(1999, 2005, 2010, dead)
+  - rfarver@rcn.com			(1999, 2005, 2010, deadlink)
 - Gatrelle, Ben
   - mail@yellowcastle.com		(2006)
 + Gevaryahu, Jonathan
@@ -30,24 +30,28 @@
   + isaksson.etuna@telia.com		(2009)
 - Jackson, James
   - savannius@yahoo.com			(2007)
+
+  - jejackso@memphis.edu		(????)
+  - http://www.people.memphis.edu/~Jejackso/ledit.html	(????)
+
 + Lambrecht, Bram
   + blambrec@student.chuh.org		(1999)
   + lego@bldesign.org			(2008)
   + bram.lambrecht@gmail.com		(2009)
 - Loch, Kevin
-  - kloch@opnsys.com			(2004, dead)
+  - kloch@opnsys.com			(2004, deadlink)
 + Moolhuysen, Manfred
   + moom@chello.nl			(2009)
 - Probst, Joachim
   + jprobst@shadow-corner.ows.es	(1999, 2000)
-  - Joachim.Probst@epost.de		(2001, dead)
+  - Joachim.Probst@epost.de		(2001, deadlink)
 + Sauls, Brian
-  + barbcue@home.com			(2000, dead)
+  + barbcue@home.com			(2000, deadlink)
 + Sparre Andersen, Jacob
   + sparre@nbi.dk			(2006, 2013)
   + http://lego.sparre-andersen.dk	(2013)
 - Sproat, Jeremy H.
-  - jeremy@sproat.us			(2005, dead)
+  - jeremy@sproat.us			(2005, deadlink)
 + Stembel, Jeff "Auld Dragon"
   + Dragonelf1@aol.com			(1999)
   + jeff@aulddragon.com			(2007)
@@ -62,10 +66,14 @@
 + Virsik, Robert 
   + ???
 + Walton, Calvin
-  - calvinwalton@home.com		(2001, dead)
+  - calvinwalton@home.com		(2001, deadlink)
   + calvin.walton@gmail.com		(2009)
 + Wilson, Jonathan
   + jfwfreo@tpgi.com.au			(2009)
 + Zide, Leonardo
   + leozide@gmail.com			(2013)
   + https://www.facebook.com/leozide?fref=ts
+
+
++ Garcia, D. M.
+  - boneboney@aol.com			(????)

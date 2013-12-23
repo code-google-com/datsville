@@ -1,6 +1,8 @@
 0 FILE building_030_policehq.ldr
 0 Datsville Police HQ
+0 Name: FILE building_030_policehq.ldr
 0 Author: Jonathan Wilson
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 20 -24 -270 1 0 0 0 1 0 0 0 1 3010.dat
@@ -206,7 +208,9 @@
 0
 0 FILE building_030_celldoor.ldr
 0 Custody Cell Door
+0 Name: building_030_celldoor.ldr
 0 Author: Jonathan Wilson
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 0 0 -1 0 0 0 1 0 0 0 -1 6020.dat
@@ -218,7 +222,9 @@
 0
 0 FILE building_030_desk.ldr
 0 Minifig Desk
+0 Name: building_030_desk.ldr
 0 Author: Jonathan Wilson
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 50 0 -10 0 0 1 0 1 0 -1 0 0 3622.dat
@@ -231,7 +237,9 @@
 0
 0 FILE building_030_dishb.ldr
 0 Sattelite Dish Base
+0 Name: building_030_dishb.ldr
 0 Author: Jonathan Wilson
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 -80 0 1 0 0 0 1 0 0 0 1 3680.dat
@@ -242,7 +250,9 @@
 0
 0 FILE building_030_antenna.ldr
 0 Radio Antenna
+0 Name: building_030_antenna.ldr
 0 Author: Jonathan Wilson
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 0 0 0 1 0 0 0 1 0 0 0 1 2569.dat
@@ -268,7 +278,9 @@
 0
 0 FILE building_030_dish.ldr
 0 Sattelite Dish
+0 Name: building_030_dish.ldr
 0 Author: Jonathan Wilson
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 -10 -112 0 0 0 1 0 1 0 -1 0 0 6134.dat
