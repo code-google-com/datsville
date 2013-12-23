@@ -112,13 +112,13 @@
 1 7 -160 0 -80 -1 0 0 0 1 0 0 0 -1 87079.dat
 1 7 -240 0 -80 -1 0 0 0 1 0 0 0 -1 87079.dat
 1 7 -240 0 -120 -1 0 0 0 1 0 0 0 -1 87079.dat
-1 7 -250 -24 380 -1 0 0 0 1 0 0 0 -1 building_007_desk.dat
+1 7 -250 -24 380 -1 0 0 0 1 0 0 0 -1 building_007_desk.ldr
 0 
 1 7 -60 -48 600 0 0 1 0 1 0 -1 0 0 3830.dat
-1 7 -60 -48 940 0 0 -1 0 1 0 1 0 0 building_007_doorleft.dat
+1 7 -60 -48 940 0 0 -1 0 1 0 1 0 0 building_007_doorleft.ldr
 0 
 1 7 -300 -48 600 0 0 -1 0 1 0 1 0 0 3831.dat
-1 7 -300 -48 940 0 0 -1 0 1 0 1 0 0 building_007_doorrite.dat
+1 7 -300 -48 940 0 0 -1 0 1 0 1 0 0 building_007_doorrite.ldr
 0 
 1 7 -310 -48 480 0 0 1 0 1 0 -1 0 0 3008.dat
 1 7 -310 -48 300 0 0 1 0 1 0 -1 0 0 6111.dat
@@ -418,7 +418,7 @@
 1 0 -90 -192 41 0 0 1 0 1 0 -1 0 0 3008.dat
 1 0 -40 -192 -49 1 0 0 0 1 0 0 0 1 3009.dat
 1 0 30 -192 -49 1 0 0 0 1 0 0 0 1 3005.dat
-1 0 -240 -8 221 0 0 -1 0 1 0 1 0 0 building_007_spiralst.dat
+1 0 -240 -8 221 0 0 -1 0 1 0 1 0 0 building_007_spiralst.ldr
 0 
 1 0 -200 -200 1 1 0 0 0 1 0 0 0 1 3029.dat
 1 0 -200 -200 101 1 0 0 0 1 0 0 0 1 3028.dat
@@ -426,9 +426,9 @@
 1 0 -60 -200 191 1 0 0 0 1 0 0 0 1 3023.dat
 1 0 -160 -200 221 1 0 0 0 1 0 0 0 1 4282.dat
 1 0 -160 -200 581 1 0 0 0 1 0 0 0 1 4282.dat
-1 0 -180 -200 741 1 0 0 0 1 0 0 0 1 building_007_roofback.dat
+1 0 -180 -200 741 1 0 0 0 1 0 0 0 1 building_007_roofback.ldr
 0 
-1 0 -20 -192 561 1 0 0 0 1 0 0 0 1 building_007_lightext.dat
+1 0 -20 -192 561 1 0 0 0 1 0 0 0 1 building_007_lightext.ldr
 0 
 1 7 -80 0 610 1 0 0 0 1 0 0 0 1 3460.dat
 1 7 -240 0 610 1 0 0 0 1 0 0 0 1 3460.dat
@@ -437,7 +437,7 @@
 1 7 -310 0 200 0 0 1 0 1 0 -1 0 0 3460.dat
 1 7 -310 0 40 0 0 1 0 1 0 -1 0 0 3460.dat
 0 
-1 0 -20 -192 921 1 0 0 0 1 0 0 0 1 building_007_lightext.dat
+1 0 -20 -192 921 1 0 0 0 1 0 0 0 1 building_007_lightext.ldr
 0 
 1 0 -220 -208 -29 1 0 0 0 1 0 0 0 1 4477.dat
 1 0 -90 -208 -29 1 0 0 0 1 0 0 0 1 3623.dat
@@ -460,9 +460,9 @@
 1 4 140 -216 -249 1 0 0 0 1 0 0 0 1 4217.dat
 1 4 140 -216 -429 -1 0 0 0 1 0 0 0 -1 4217.dat
 1 4 140 -216 -49 1 0 0 0 1 0 0 0 1 4217.dat
-1 4 242 -205 201 0 1 -0 -0 0 1 1 0 0 building_007_baydoorr.dat
+1 4 242 -205 201 0 1 -0 -0 0 1 1 0 0 building_007_baydoorr.ldr
 0 
-1 0 240 -204 0 0 1 -0 -0 0 1 1 0 0 building_007_baydoorr.dat
+1 0 240 -204 0 0 1 -0 -0 0 1 1 0 0 building_007_baydoorr.ldr
 0 
 1 0 -180 -216 -439 1 0 0 0 1 0 0 0 1 3001.dat
 1 0 -140 -216 -279 0 0 1 0 1 0 -1 0 0 3034.dat
@@ -490,7 +490,7 @@
 1 4 20 -224 -429 1 0 0 0 1 0 0 0 1 3023.dat
 1 4 140 -240 -449 1 0 0 0 1 0 0 0 1 4217.dat
 1 4 140 -240 -629 -1 0 0 0 1 0 0 0 -1 4217.dat
-1 4 240 -227 -199 0 1 -0 -0 0 1 1 0 0 building_007_baydoorl.dat
+1 4 240 -227 -199 0 1 -0 -0 0 1 1 0 0 building_007_baydoorl.ldr
 0 
 1 4 270 -248 -359 0 0 1 0 1 0 -1 0 0 3008.dat
 1 4 270 -248 -539 0 0 1 0 1 0 -1 0 0 4477.dat
@@ -547,15 +547,15 @@
 1 0 -20 -256 -439 0 0 1 0 1 0 -1 0 0 4282.dat
 1 0 -20 -256 -199 0 0 1 0 1 0 -1 0 0 3034.dat
 1 0 -20 -256 -79 0 0 1 0 1 0 -1 0 0 3020.dat
-1 0 -50 -272 281 -1 0 0 0 1 0 0 0 -1 building_007_coffee.dat
+1 0 -50 -272 281 -1 0 0 0 1 0 0 0 -1 building_007_coffee.ldr
 0 
 1 4 -100 -232 -79 1 0 0 0 1 0 0 0 1 4079.dat
 1 4 -80 -232 -169 -1 0 0 0 1 0 0 0 -1 4079.dat
-1 0 -250 -240 -219 1 0 0 0 1 0 0 0 1 building_007_bed1.dat
+1 0 -250 -240 -219 1 0 0 0 1 0 0 0 1 building_007_bed1.ldr
 0 
-1 0 -120 -240 -249 0 0 -1 0 1 0 1 0 0 building_007_bed2.dat
+1 0 -120 -240 -249 0 0 -1 0 1 0 1 0 0 building_007_bed2.ldr
 0 
-1 0 -170 -264 21 1 0 0 0 1 0 0 0 1 building_007_pooltabl.dat
+1 0 -170 -264 21 1 0 0 0 1 0 0 0 1 building_007_pooltabl.ldr
 0 
 1 7 40 -256 -99 0 0 1 0 1 0 -1 0 0 3032.dat
 1 7 180 -256 -99 1 0 0 0 1 0 0 0 1 3033.dat
@@ -690,7 +690,7 @@
 1 4 -30 -400 -169 0 0 1 0 1 0 -1 0 0 3622.dat
 1 14 10 -400 -279 0 0 -1 0 1 0 1 0 0 30185.dat
 1 33 10 -400 -279 0 0 -1 0 1 0 1 0 0 30186.dat
-1 33 -160 -408 21 1 0 0 0 1 0 0 0 1 building_007_rooflfc.dat
+1 33 -160 -408 21 1 0 0 0 1 0 0 0 1 building_007_rooflfc.ldr
 0 
 1 0 10 -408 -279 0 0 -1 0 1 0 1 0 0 2419.dat
 1 7 -240 -8 610 1 0 0 0 1 0 0 0 1 4162.dat
@@ -736,9 +736,9 @@
 1 7 -21 0 -240 -1 0 0 0 1 0 0 0 -1 3022.dat
 1 7 -291 0 -600 0 0 -1 0 1 0 1 0 0 3710.dat
 0
-0 FILE building_007_baydoorl.dat
+0 FILE building_007_baydoorl.ldr
 0 left bay door
-0 Name: building_007_baydoorl.dat
+0 Name: building_007_baydoorl.ldr
 0 Author: Ryan Dennett
 0 Unofficial Model
 0 
@@ -758,9 +758,9 @@
 1 15 -340 -209 0 1 0 0 0 1 0 0 0 1 4218a.dat
 0 
 0
-0 FILE building_007_baydoorr.dat
+0 FILE building_007_baydoorr.ldr
 0 right bay door
-0 Name: building_007_baydoorr.dat
+0 Name: building_007_baydoorr.ldr
 0 Author: Ryan Dennett
 0 Unofficial Model
 0 
@@ -779,9 +779,9 @@
 1 15 -340 -190 0 -1 0 0 0 1 0 0 0 -1 4218a.dat
 0 
 0
-0 FILE building_007_bed.dat
+0 FILE building_007_bed.ldr
 0 bed
-0 Name: building_007_bed.dat
+0 Name: building_007_bed.ldr
 0 Author: Ryan Dennett
 0 Unofficial Model
 0 
@@ -802,33 +802,33 @@
 1 15 -270 -256 -589 1 0 0 0 1 0 0 0 1 3070a.dat
 1 0 -240 -248 -509 1 0 0 0 1 0 0 0 1 3794a.dat
 0
-0 FILE building_007_bed1.dat
+0 FILE building_007_bed1.ldr
 0 bunk bed number one
-0 Name: building_007_bed1.dat
+0 Name: building_007_bed1.ldr
 0 Author: Ryan Dennett
 0 Unofficial Model
 0 
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG -3 0
-1 16 250 240 219 1 0 0 0 1 0 0 0 1 building_007_bed.dat
+1 16 250 240 219 1 0 0 0 1 0 0 0 1 building_007_bed.ldr
 1 7 20 -24 -390 1 0 0 0 1 0 0 0 1 3062b.dat
 1 7 -20 -24 -390 1 0 0 0 1 0 0 0 1 3062b.dat
 1 7 -20 -48 -390 1 0 0 0 1 0 0 0 1 3062b.dat
 1 7 20 -48 -390 1 0 0 0 1 0 0 0 1 3062b.dat
 1 7 20 -72 -390 1 0 0 0 1 0 0 0 1 3062b.dat
 1 7 -20 -72 -390 1 0 0 0 1 0 0 0 1 3062b.dat
-1 16 250 152 219 1 0 0 0 1 0 0 0 1 building_007_bed.dat
+1 16 250 152 219 1 0 0 0 1 0 0 0 1 building_007_bed.ldr
 0 
 0
-0 FILE building_007_bed2.dat
+0 FILE building_007_bed2.ldr
 0 bunk bed number two
-0 Name: building_007_bed2.dat
+0 Name: building_007_bed2.ldr
 0 Author: Ryan Dennett
 0 Unofficial Model
 0 
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG -3 0
-1 16 -90 240 560 1 0 0 0 1 0 0 0 1 building_007_bed.dat
+1 16 -90 240 560 1 0 0 0 1 0 0 0 1 building_007_bed.ldr
 0 
 1 7 -320 -40 -50 1 0 0 0 1 0 0 0 1 3062b.dat
 1 7 -360 -40 -50 1 0 0 0 1 0 0 0 1 3062b.dat
@@ -836,12 +836,12 @@
 1 7 -320 -64 -50 1 0 0 0 1 0 0 0 1 3062b.dat
 1 0 -340 -72 -50 1 0 0 0 1 0 0 0 1 3623.dat
 0 
-1 0 -90 152 560 1 0 0 0 1 0 0 0 1 building_007_bed.dat
+1 0 -90 152 560 1 0 0 0 1 0 0 0 1 building_007_bed.ldr
 0 
 0
-0 FILE building_007_coffee.dat
+0 FILE building_007_coffee.ldr
 0 coffee maker
-0 Name: building_007_coffee.dat
+0 Name: building_007_coffee.ldr
 0 Author: Ryan Dennett
 0 Unofficial Model
 0 
@@ -859,9 +859,9 @@
 1 4 0 -32 350 1 0 0 0 1 0 0 0 1 3899.dat
 0 
 0
-0 FILE building_007_desk.dat
+0 FILE building_007_desk.ldr
 0 Untitled
-0 Name: building_007_desk.dat
+0 Name: building_007_desk.ldr
 0 Author: Ryan Dennett
 0 Unofficial Model
 0 
@@ -880,9 +880,9 @@
 1 15 10 -29 336 1 0 0 0 0 -1 0 1 0 3069bp25.dat
 0 
 0
-0 FILE building_007_doorleft.dat
+0 FILE building_007_doorleft.ldr
 0 Untitled
-0 Name: building_007_doorleft.dat
+0 Name: building_007_doorleft.ldr
 0 Author: Ryan Dennett
 0 Unofficial Model
 0 
@@ -925,9 +925,9 @@
 1 0 -330 -152 60 0 0 1 0 1 0 -1 0 0 3666.dat
 0 
 0
-0 FILE building_007_doorrite.dat
+0 FILE building_007_doorrite.ldr
 0 Untitled
-0 Name: building_007_doorrite.dat
+0 Name: building_007_doorrite.ldr
 0 Author: Ryan Dennett
 0 Unofficial Model
 0 
@@ -970,9 +970,9 @@
 1 0 -330 -152 -60 0 0 1 0 1 0 -1 0 0 3666.dat
 0 
 0
-0 FILE building_007_lightext.dat
+0 FILE building_007_lightext.ldr
 0 Untitled
-0 Name: building_007_lightext.dat
+0 Name: building_007_lightext.ldr
 0 Author: Ryan Dennett
 0 Unofficial Model
 0 
@@ -984,9 +984,9 @@
 1 47 0 40 -340 1 0 0 0 1 0 0 0 1 4740.dat
 0 
 0
-0 FILE building_007_pooltabl.dat
+0 FILE building_007_pooltabl.ldr
 0 pool table
-0 Name: building_007_pooltabl.dat
+0 Name: building_007_pooltabl.ldr
 0 Author: Ryan Dennett
 0 Unofficial Model
 0 
@@ -1009,9 +1009,9 @@
 1 0 -40 16 -410 1 0 0 0 1 0 0 0 1 3062b.dat
 0 
 0
-0 FILE building_007_roofback.dat
+0 FILE building_007_roofback.ldr
 0 LFC fire station side roof
-0 Name: building_007_roofback.dat
+0 Name: building_007_roofback.ldr
 0 Author: Ryan Dennett
 0 Unofficial Model
 0 
@@ -1036,9 +1036,9 @@
 1 0 0 -8 -240 1 0 0 0 1 0 0 0 1 3958.dat
 0 
 0
-0 FILE building_007_spiralst.dat
+0 FILE building_007_spiralst.ldr
 0 Spiral Staircase
-0 Name: building_007_spiralst.dat
+0 Name: building_007_spiralst.ldr
 0 Author: Ryan Dennett
 0 Unofficial Model
 0 
@@ -1075,9 +1075,9 @@
 1 0 -290 -224 -20 0 0 1 0 1 0 -1 0 0 3023.dat
 0 
 0
-0 FILE building_007_rooflfc.dat
+0 FILE building_007_rooflfc.ldr
 0 LFC. roof
-0 Name: building_007_rooflfc.dat
+0 Name: building_007_rooflfc.ldr
 0 Author: Ryan Dennett
 0 Unofficial Model
 0 
@@ -1134,6 +1134,7 @@
 1 15 -10 -16 -350 1 0 0 0 1 0 0 0 1 3024.dat
 1 15 30 -16 -210 1 0 0 0 1 0 0 0 1 3024.dat
 1 15 -50 -16 -260 0 0 1 0 1 0 -1 0 0 3023.dat
+0 
 0 
 0 
 0 

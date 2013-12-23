@@ -52,3 +52,4 @@
   # <s>Maybe make two railroad tracks for the whole length through the city.</s>
   # The garden on the roof of the office building isn't very attractive. It needs to be redone.
   # The airport is too close to the city. Move it farther away and have a road lead up to it.
+  # Maybe create a new model category "furniture" to make the creation of building interiors easier.

@@ -110,20 +110,20 @@
 1 1 -160 -176 30 1 0 0 0 1 0 0 0 1 3008.dat
 1 1 -260 -176 30 1 0 0 0 1 0 0 0 1 3004.dat
 0 
-1 6 -200 -30 160 0 0 1 0 1 0 -1 0 0 building_012_2bed.dat
-1 6 200 -30 160 0 0 -1 0 1 0 1 0 0 building_012_2bed.dat
+1 6 -200 -30 160 0 0 1 0 1 0 -1 0 0 building_012_2bed.ldr
+1 6 200 -30 160 0 0 -1 0 1 0 1 0 0 building_012_2bed.ldr
 0 
 1 6 20 -54 160 0 0 1 0 1 0 -1 0 0 2456.dat
 1 6 20 -78 160 0 0 1 0 1 0 -1 0 0 2456.dat
 1 6 -40 -54 160 0 0 1 0 1 0 -1 0 0 2456.dat
 1 6 -40 -78 160 0 0 1 0 1 0 -1 0 0 2456.dat
 0 
-1 1 -40 -78 140 1 0 0 0 1 0 0 0 1 building_012_lamp.dat
-1 1 20 -80 160 1 0 0 0 1 0 0 0 1 building_012_lamp.dat
-1 14 20 -78 210 0 0 -1 0 1 0 1 0 0 building_012_bphone.dat
-1 4 -38 -78 208 1 0 0 0 1 0 0 0 1 building_012_wphone.dat
-1 4 -260 -32 -60 1 0 0 0 1 0 0 0 1 building_012_lvseat1.dat
-1 4 260 -32 -60 -1 0 0 0 1 0 0 0 -1 building_012_lvseat1.dat
+1 1 -40 -78 140 1 0 0 0 1 0 0 0 1 building_012_lamp.ldr
+1 1 20 -80 160 1 0 0 0 1 0 0 0 1 building_012_lamp.ldr
+1 14 20 -78 210 0 0 -1 0 1 0 1 0 0 building_012_bphone.ldr
+1 4 -38 -78 208 1 0 0 0 1 0 0 0 1 building_012_wphone.ldr
+1 4 -260 -32 -60 1 0 0 0 1 0 0 0 1 building_012_lvseat1.ldr
+1 4 260 -32 -60 -1 0 0 0 1 0 0 0 -1 building_012_lvseat1.ldr
 0 
 1 15 280 -56 -260 1 0 0 0 1 0 0 0 1 3003.dat
 1 15 160 -56 -260 1 0 0 0 1 0 0 0 1 3003.dat
@@ -172,8 +172,8 @@
 1 1 -140 -104 -150 1 0 0 0 1 0 0 0 1 3004.dat
 1 1 0 -128 -150 1 0 0 0 1 0 0 0 1 3004.dat
 0 
-1 0 -30 -104 -160 1 0 0 0 1 0 0 0 1 building_012_extlght1.dat
-1 0 30 -104 -160 1 0 0 0 1 0 0 0 1 building_012_extlght1.dat
+1 0 -30 -104 -160 1 0 0 0 1 0 0 0 1 building_012_extlght1.ldr
+1 0 30 -104 -160 1 0 0 0 1 0 0 0 1 building_012_extlght1.ldr
 0 
 1 1 140 -128 -150 1 0 0 0 1 0 0 0 1 3004.dat
 1 1 270 -128 -150 1 0 0 0 1 0 0 0 1 3622.dat
@@ -193,39 +193,39 @@
 1 1 0 -152 -150 1 0 0 0 1 0 0 0 1 3010.dat
 1 1 140 -152 -150 1 0 0 0 1 0 0 0 1 3004.dat
 0 
-1 15 200 -80 -150 1 0 0 0 1 0 0 0 1 building_012_winpane.dat
+1 15 200 -80 -150 1 0 0 0 1 0 0 0 1 building_012_winpane.ldr
 0 
 1 1 260 -152 -150 1 0 0 0 1 0 0 0 1 3004.dat
 1 1 290 -152 -120 0 0 1 0 1 0 -1 0 0 3010.dat
 0 
-1 15 290 -80 -40 0 0 -1 0 1 0 1 0 0 building_012_winpane.dat
-1 15 290 -80 120 0 0 -1 0 1 0 1 0 0 building_012_winpane.dat
+1 15 290 -80 -40 0 0 -1 0 1 0 1 0 0 building_012_winpane.ldr
+1 15 290 -80 120 0 0 -1 0 1 0 1 0 0 building_012_winpane.ldr
 0 
 1 1 290 -152 40 0 0 1 0 1 0 -1 0 0 3010.dat
 1 1 290 -152 220 0 0 1 0 1 0 -1 0 0 3009.dat
 1 1 250 -152 270 1 0 0 0 1 0 0 0 1 3622.dat
 0 
-1 15 180 -80 270 -1 0 0 0 1 0 0 0 -1 building_012_winpane.dat
-1 15 100 -80 270 -1 0 0 0 1 0 0 0 -1 building_012_winpane.dat
+1 15 180 -80 270 -1 0 0 0 1 0 0 0 -1 building_012_winpane.ldr
+1 15 100 -80 270 -1 0 0 0 1 0 0 0 -1 building_012_winpane.ldr
 0 
 1 1 0 -152 270 1 0 0 0 1 0 0 0 1 3009.dat
 0 
-1 15 -100 -80 270 -1 0 0 0 1 0 0 0 -1 building_012_winpane.dat
-1 15 -180 -80 270 -1 0 0 0 1 0 0 0 -1 building_012_winpane.dat
+1 15 -100 -80 270 -1 0 0 0 1 0 0 0 -1 building_012_winpane.ldr
+1 15 -180 -80 270 -1 0 0 0 1 0 0 0 -1 building_012_winpane.ldr
 0 
 1 1 -250 -152 270 1 0 0 0 1 0 0 0 1 3622.dat
 1 1 -290 -152 220 0 0 1 0 1 0 -1 0 0 3009.dat
 0 
-1 15 -290 -80 120 0 0 1 0 1 0 -1 0 0 building_012_winpane.dat
+1 15 -290 -80 120 0 0 1 0 1 0 -1 0 0 building_012_winpane.ldr
 0 
 1 1 -290 -152 40 0 0 1 0 1 0 -1 0 0 3010.dat
 0 
-1 15 -290 -80 -40 0 0 1 0 1 0 -1 0 0 building_012_winpane.dat
+1 15 -290 -80 -40 0 0 1 0 1 0 -1 0 0 building_012_winpane.ldr
 0 
 1 1 -290 -152 -120 0 0 1 0 1 0 -1 0 0 3010.dat
 1 1 -260 -152 -150 1 0 0 0 1 0 0 0 1 3004.dat
 0 
-1 15 -200 -80 -150 1 0 0 0 1 0 0 0 1 building_012_winpane.dat
+1 15 -200 -80 -150 1 0 0 0 1 0 0 0 1 building_012_winpane.ldr
 0 
 1 1 -140 -152 -150 1 0 0 0 1 0 0 0 1 3004.dat
 1 15 -50 -152 -150 0 0 -1 0 1 0 1 0 0 3861.dat
@@ -420,8 +420,8 @@
 1 1 -130 -216 150 1 0 0 0 1 0 0 0 1 3005.dat
 1 1 0 -216 50 1 0 0 0 1 0 0 0 1 3010.dat
 0 
-1 15 160 -192 140 1 0 0 0 1 0 0 0 1 building_012_stove1.dat
-1 15 -260 -192 110 1 0 0 0 1 0 0 0 1 building_012_toilet.dat
+1 15 160 -192 140 1 0 0 0 1 0 0 0 1 building_012_stove1.ldr
+1 15 -260 -192 110 1 0 0 0 1 0 0 0 1 building_012_toilet.ldr
 0 
 1 14 0 -240 120 1 0 0 0 1 0 0 0 1 3003.dat
 1 14 0 -248 120 1 0 0 0 1 0 0 0 1 3022.dat
@@ -430,7 +430,7 @@
 1 14 -60 -224 120 0 0 -1 0 1 0 1 0 0 4079.dat
 1 14 60 -224 120 0 0 1 0 1 0 -1 0 0 4079.dat
 0 
-1 14 260 -192 90 0 0 -1 0 1 0 1 0 0 building_012_fridge.dat
+1 14 260 -192 90 0 0 -1 0 1 0 1 0 0 building_012_fridge.ldr
 0 
 1 1 200 -240 50 1 0 0 0 1 0 0 0 1 3008.dat
 1 1 40 -240 50 1 0 0 0 1 0 0 0 1 3008.dat
@@ -458,7 +458,7 @@
 1 1 50 -312 -120 0 0 1 0 1 0 -1 0 0 3004.dat
 1 1 50 -336 -110 0 0 1 0 1 0 -1 0 0 3622.dat
 1 1 50 -336 -60 0 0 1 0 1 0 -1 0 0 3004.dat
-1 6 200 -192 -60 0 0 -1 0 1 0 1 0 0 building_012_2bed.dat
+1 6 200 -192 -60 0 0 -1 0 1 0 1 0 0 building_012_2bed.ldr
 0 
 1 1 -220 -240 -150 1 0 0 0 1 0 0 0 1 3008.dat
 1 1 -100 -240 -150 1 0 0 0 1 0 0 0 1 3010.dat
@@ -475,7 +475,7 @@
 1 1 290 -240 190 1 0 0 0 1 0 0 0 1 3005.dat
 1 0 300 -240 210 -1 0 0 0 1 0 0 0 -1 3298.dat
 0 
-1 0 -260 -192 -60 1 0 0 0 1 0 0 0 1 building_012_lvseat1.dat
+1 0 -260 -192 -60 1 0 0 0 1 0 0 0 1 building_012_lvseat1.ldr
 0 
 1 0 240 -240 210 -1 0 0 0 1 0 0 0 -1 3297.dat
 1 0 160 -240 210 -1 0 0 0 1 0 0 0 -1 3297.dat
@@ -543,17 +543,17 @@
 1 1 -200 -288 170 1 0 0 0 1 0 0 0 1 3008.dat
 1 1 -200 -312 170 1 0 0 0 1 0 0 0 1 3008.dat
 0 
-1 15 -290 -240 100 0 0 1 0 1 0 -1 0 0 building_012_winpane.dat
+1 15 -290 -240 100 0 0 1 0 1 0 -1 0 0 building_012_winpane.ldr
 0 
 1 15 -290 -312 -20 0 0 1 0 1 0 -1 0 0 27cc01.dat
 1 15 -290 -312 -60 0 0 1 0 1 0 -1 0 0 27cc01.dat
 0 
-1 15 -200 -240 -150 1 0 0 0 1 0 0 0 1 building_012_winpane.dat
-1 15 -120 -240 -150 1 0 0 0 1 0 0 0 1 building_012_winpane.dat
-1 15 120 -240 -150 1 0 0 0 1 0 0 0 1 building_012_winpane.dat
-1 15 200 -240 -150 1 0 0 0 1 0 0 0 1 building_012_winpane.dat
-1 15 290 -240 -40 0 0 -1 0 1 0 1 0 0 building_012_winpane.dat
-1 15 290 -240 100 0 0 -1 0 1 0 1 0 0 building_012_winpane.dat
+1 15 -200 -240 -150 1 0 0 0 1 0 0 0 1 building_012_winpane.ldr
+1 15 -120 -240 -150 1 0 0 0 1 0 0 0 1 building_012_winpane.ldr
+1 15 120 -240 -150 1 0 0 0 1 0 0 0 1 building_012_winpane.ldr
+1 15 200 -240 -150 1 0 0 0 1 0 0 0 1 building_012_winpane.ldr
+1 15 290 -240 -40 0 0 -1 0 1 0 1 0 0 building_012_winpane.ldr
+1 15 290 -240 100 0 0 -1 0 1 0 1 0 0 building_012_winpane.ldr
 0 
 1 15 30 -312 -150 0 0 -1 0 1 0 1 0 0 3861.dat
 1 1 0 -336 -150 1 0 0 0 1 0 0 0 1 3009.dat
@@ -691,19 +691,19 @@
 1 1 290 -424 -120 0 0 1 0 1 0 -1 0 0 3010.dat
 1 1 290 -424 0 0 0 1 0 1 0 -1 0 0 3008.dat
 0 
-1 1 0 -424 70 1 0 0 0 1 0 0 0 1 building_012_row2.dat
-1 1 0 -424 -150 -1 0 0 0 1 0 0 0 -1 building_012_row2.dat
+1 1 0 -424 70 1 0 0 0 1 0 0 0 1 building_012_row2.ldr
+1 1 0 -424 -150 -1 0 0 0 1 0 0 0 -1 building_012_row2.ldr
 0 
 1 1 -270 -448 -40 0 0 1 0 1 0 -1 0 0 3008.dat
 1 1 290 -448 -40 0 0 1 0 1 0 -1 0 0 3008.dat
 0 
-1 1 0 0 -80 -1 0 0 0 1 0 0 0 -1 building_012_row1.dat
-1 1 0 0 0 1 0 0 0 1 0 0 0 1 building_012_row1.dat
+1 1 0 0 -80 -1 0 0 0 1 0 0 0 -1 building_012_row1.ldr
+1 1 0 0 0 1 0 0 0 1 0 0 0 1 building_012_row1.ldr
 0 
 1 1 -270 -472 -40 0 0 1 0 1 0 -1 0 0 3010.dat
 1 1 290 -472 -40 0 0 1 0 1 0 -1 0 0 3010.dat
-1 1 0 -472 -70 -1 0 0 0 1 0 0 0 -1 building_012_row2.dat
-1 1 0 -472 -10 1 0 0 0 1 0 0 0 1 building_012_row2.dat
+1 1 0 -472 -70 -1 0 0 0 1 0 0 0 -1 building_012_row2.ldr
+1 1 0 -472 -10 1 0 0 0 1 0 0 0 1 building_012_row2.ldr
 0 
 1 0 280 -520 -40 1 0 0 0 1 0 0 0 1 3299.dat
 1 0 200 -520 -40 1 0 0 0 1 0 0 0 1 3299.dat
@@ -714,9 +714,9 @@
 1 0 -200 -520 -40 1 0 0 0 1 0 0 0 1 3299.dat
 1 0 -280 -520 -40 1 0 0 0 1 0 0 0 1 3299.dat
 0
-0 FILE building_012_2bed.dat
+0 FILE building_012_2bed.ldr
 0 Untitled
-0 Name: building_012_2bed.dat
+0 Name: building_012_2bed.ldr
 0 Author: Brian Sauls
 0 Unofficial Model
 0 
@@ -735,9 +735,9 @@
 1 15 -20 -40 -40 -1 0 0 0 1 0 0 0 -1 3068b.dat
 0 
 0
-0 FILE building_012_bphone.dat
+0 FILE building_012_bphone.ldr
 0 Untitled
-0 Name: building_012_bphone.dat
+0 Name: building_012_bphone.ldr
 0 Author: Brian Sauls
 0 Unofficial Model
 0 
@@ -749,9 +749,9 @@
 1 14 0 -24 10 1 0 0 0 1 0 0 0 1 3040p32.dat
 0 
 0
-0 FILE building_012_extlght1.dat
+0 FILE building_012_extlght1.ldr
 0 Untitled
-0 Name: building_012_extlght1.dat
+0 Name: building_012_extlght1.ldr
 0 Author: Brian Sauls
 0 Unofficial Model
 0 
@@ -762,9 +762,9 @@
 1 0 0 -56 -10 1 0 0 0 1 0 0 0 1 3024.dat
 0 
 0
-0 FILE building_012_fridge.dat
+0 FILE building_012_fridge.ldr
 0 Untitled
-0 Name: building_012_fridge.dat
+0 Name: building_012_fridge.ldr
 0 Author: Brian Sauls
 0 Unofficial Model
 0 
@@ -784,9 +784,9 @@
 1 15 0 -96 0 1 0 0 0 1 0 0 0 1 3021.dat
 0 
 0
-0 FILE building_012_lamp.dat
+0 FILE building_012_lamp.ldr
 0 lamp
-0 Name: building_012_lamp.dat
+0 Name: building_012_lamp.ldr
 0 Author: Brian Sauls
 0 Unofficial Model
 0 
@@ -797,9 +797,9 @@
 1 1 0 -56 0 1 0 0 0 1 0 0 0 1 4073.dat
 0 
 0
-0 FILE building_012_lvseat1.dat
+0 FILE building_012_lvseat1.ldr
 0 Untitled
-0 Name: building_012_lvseat1.dat
+0 Name: building_012_lvseat1.ldr
 0 Author: Brian Sauls
 0 Unofficial Model
 0 
@@ -813,9 +813,9 @@
 1 4 -10 -40 0 0 0 -1 0 1 0 1 0 0 3010.dat
 0 
 0
-0 FILE building_012_row1.dat
+0 FILE building_012_row1.ldr
 0 Untitled
-0 Name: building_012_row1.dat
+0 Name: building_012_row1.ldr
 0 Author: Brian Sauls
 0 Unofficial Model
 0 
@@ -830,9 +830,9 @@
 1 0 200 -472 10 -1 0 0 0 1 0 0 0 -1 3297.dat
 1 0 280 -472 10 -1 0 0 0 1 0 0 0 -1 3297.dat
 0
-0 FILE building_012_row2.dat
+0 FILE building_012_row2.ldr
 0 Untitled
-0 Name: building_012_row2.dat
+0 Name: building_012_row2.ldr
 0 Author: Brian Sauls
 0 Unofficial Model
 0 
@@ -849,9 +849,9 @@
 1 0 300 -24 -20 -1 0 0 0 1 0 0 0 -1 3298.dat
 0 
 0
-0 FILE building_012_stove1.dat
+0 FILE building_012_stove1.ldr
 0 Untitled
-0 Name: building_012_stove1.dat
+0 Name: building_012_stove1.ldr
 0 Author: Brian Sauls
 0 Unofficial Model
 0 
@@ -864,9 +864,9 @@
 1 15 30 -56 0 0 0 1 0 1 0 -1 0 0 3069b.dat
 0 
 0
-0 FILE building_012_toilet.dat
+0 FILE building_012_toilet.ldr
 0 Untitled
-0 Name: building_012_toilet.dat
+0 Name: building_012_toilet.ldr
 0 Author: Brian Sauls
 0 Unofficial Model
 0 
@@ -880,9 +880,9 @@
 1 15 -10 -48 0 0 0 1 0 1 0 -1 0 0 3622.dat
 0 
 0
-0 FILE building_012_winpane.dat
+0 FILE building_012_winpane.ldr
 0 Untitled
-0 Name: building_012_winpane.dat
+0 Name: building_012_winpane.ldr
 0 Author: Brian Sauls
 0 Unofficial Model
 0 
@@ -893,9 +893,9 @@
 1 15 34 -68 -8 0 0 1 0 1 0 -1 0 0 3854.dat
 0 
 0
-0 FILE building_012_wphone.dat
+0 FILE building_012_wphone.ldr
 0 Untitled
-0 Name: building_012_wphone.dat
+0 Name: building_012_wphone.ldr
 0 Author: Brian Sauls
 0 Unofficial Model
 0 
@@ -905,6 +905,7 @@
 0 ROTATION CONFIG 0 0
 1 4 10 -24 0 0 0 1 0 1 0 -1 0 0 3040p33.dat
 1 4 10 -32 0 0 0 1 0 1 0 -1 0 0 3069b.dat
+0 
 0 
 0 
 0

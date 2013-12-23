@@ -5,20 +5,20 @@
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
-1 0 0 -752 0 1 0 0 0 1 0 0 0 1 building_014_watert-4.dat
-1 0 0 -584 0 1 0 0 0 1 0 0 0 1 building_014_watert-1.dat
-1 0 0 -528 0 1 0 0 0 1 0 0 0 1 building_014_watert-5.dat
-1 0 9 0 0 1 0 0 0 1 0 0 0 1 building_014_watert-2.dat
-1 0 9 0 0 1 0 0 0 1 0 0 0 1 building_014_watert-3.dat
+1 0 0 -752 0 1 0 0 0 1 0 0 0 1 building_014_watert-4.ldr
+1 0 0 -584 0 1 0 0 0 1 0 0 0 1 building_014_watert-1.ldr
+1 0 0 -528 0 1 0 0 0 1 0 0 0 1 building_014_watert-5.ldr
+1 0 9 0 0 1 0 0 0 1 0 0 0 1 building_014_watert-2.ldr
+1 0 9 0 0 1 0 0 0 1 0 0 0 1 building_014_watert-3.ldr
 0
-0 FILE building_014_watert-1.dat
+0 FILE building_014_watert-1.ldr
 0 Water Tower body
-0 Name: building_014_watert-1.dat
+0 Name: building_014_watert-1.ldr
 0 Author: Ben Gatrelle
 0 Unofficial Model
+0 row neg. one
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
-0 row neg. one
 1 7 -7.51 -168 -189.74 1 0 0 0 1 0 0 0 1 3622.dat
 1 7 -47.51 -168 -185.74 1 0 0 0 1 0 0 0 1 3062b.dat
 1 7 -84.35 -168 -172.69 0.91 0 0.41 0 1 0 -0.41 0 0.91 3622.dat
@@ -245,9 +245,9 @@
 0 0 END of round tank
 0 
 0
-0 FILE building_014_watert-2.dat
+0 FILE building_014_watert-2.ldr
 0 Water Tower supports sub-file
-0 Name: building_014_watert-2.dat
+0 Name: building_014_watert-2.ldr
 0 Author: Ben Gatrelle
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -390,7 +390,7 @@
 1 4 -1 -272 30 1 0 0 0 1 0 0 0 1 3023.dat
 0 
 0
-0 FILE building_014_watert-3.dat
+0 FILE building_014_watert-3.ldr
 0 water pipe sub-file
 0 Author: Ben Gatrelle
 0 Unofficial Sub-Model
@@ -436,14 +436,14 @@
 0 end of water pipe
 0 
 0
-0 FILE building_014_watert-4.dat
+0 FILE building_014_watert-4.ldr
 0 top dome of tower
-0 Name: building_014_watert-4.dat
+0 Name: building_014_watert-4.ldr
 0 Author: Ben Gatrelle
 0 Unofficial Sub-Model
+0 REM rev020 - TE Replaced color 16 with 7
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
-0 REM rev020 - TE Replaced color 16 with 7
 1 7 0 -56 0 1 0 0 0 1 0 0 0 1 30117.dat
 1 7 0 -56 0 -1 0 0 0 1 0 0 0 1 30117.dat
 1 7 0 -56 0 1 0 0 0 1 0 0 0 -1 30117.dat
@@ -463,21 +463,22 @@
 0 end top dome
 0 
 0
-0 FILE building_014_watert-5.dat
+0 FILE building_014_watert-5.ldr
 0 0 bottom dome
 0 0 Name: watert-4.dat
 0 0 Author: Ben Gatrelle
 0 0 Unofficial Sub-Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CONFIG 0 0
 0 0 bottom dome of tower should really use #30201 Inverted quarter hull
 0 0 but I didn't have access to this piece so I just turned 30117 upside down.
 0 0 Inlined: 1 0 9 -184 -10 -1 0 0 0 -1 0 0 0 1 30117-sb.dat
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
 1 0 0 0 0 1 0 0 0 -1 0 0 0 1 30117.dat
 1 0 0 0 0 -1 0 0 0 -1 0 0 0 1 30117.dat
 1 0 0 0 0 1 0 0 0 -1 0 0 0 -1 30117.dat
 1 0 0 0 0 -1 0 0 0 -1 0 0 0 -1 30117.dat
 0 0 end bottom dome
+0 
 0 
 0 
 0
