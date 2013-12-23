@@ -8,13 +8,13 @@
 0 LICENSE The Beer-Ware License (Revision 42)
 0 WEB-PAGE     http://lego.sparre-andersen.dk/Transport/Fly/Hangar_med_Colibri/
 0 ILLUSTRATION http://lego.sparre-andersen.dk/Transport/Fly/Hangar_med_Colibri/illustration.jpeg
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
 0 
 0 venstre
 0 |     ned
 0 |     |     bagud
 0 |     |     |
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CONFIG 0 0
 0 STEP
 0 
 1 7 0 -8 10 -1 0 0 0 1 0 0 0 -1 building_088_lagerhal.ldr
@@ -24,6 +24,9 @@
 0
 0 FILE building_088_lagerhal.ldr
 0 Warehouse
+0 Name: building_088_lagerhal.ldr
+0 Author: Jacob Sparre Andersen <sparre@nbi.dk>, July 2005
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 0 0 0 1 0 0 0 1 0 0 0 1 building_088_baerende.ldr
@@ -40,6 +43,9 @@
 0
 0 FILE building_088_baerende.ldr
 0 Structure
+0 Name: building_088_baerende.ldr
+0 Author: Jacob Sparre Andersen <sparre@nbi.dk>, July 2005
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 -300 0 300 1 0 0 0 1 0 0 0 1 building_088_h-soejle.ldr
@@ -56,6 +62,9 @@
 0
 0 FILE building_088_vaegge.ldr
 0 Walls
+0 Name: building_088_vaegge.ldr
+0 Author: Jacob Sparre Andersen <sparre@nbi.dk>, July 2005
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 -318 -22 320 0 1 0 -1 0 0 0 0 1 3023.dat
@@ -138,6 +147,9 @@
 0
 0 FILE building_088_portopha.ldr
 0 Door beam
+0 Name: building_088_portopha.ldr
+0 Author: Jacob Sparre Andersen <sparre@nbi.dk>, July 2005
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 220 24 10 1 0 0 0 1 0 0 0 1 3022.dat
@@ -171,6 +183,9 @@
 0
 0 FILE building_088_h-doer.ldr
 0 Right door
+0 Name: building_088_h-doer.ldr
+0 Author: Jacob Sparre Andersen <sparre@nbi.dk>, July 2005
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 -60 -50 58 1 0 0 0 0 1 0 -1 0 3009.dat
@@ -199,6 +214,9 @@
 0
 0 FILE building_088_v-doer.ldr
 0 Left door
+0 Name: building_088_v-doer.ldr
+0 Author: Jacob Sparre Andersen <sparre@nbi.dk>, July 2005
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 60 -50 58 1 0 0 0 0 1 0 -1 0 3009.dat
@@ -228,6 +246,9 @@
 0
 0 FILE building_088_h-soejle.ldr
 0 Column (right)
+0 Name: building_088_h-soejle.ldr
+0 Author: Jacob Sparre Andersen <sparre@nbi.dk>, July 2005
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 3023.dat
@@ -244,6 +265,9 @@
 0
 0 FILE building_088_v-soejle.ldr
 0 Column (left)
+0 Name: building_088_v-soejle.ldr
+0 Author: Jacob Sparre Andersen <sparre@nbi.dk>, July 2005
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 0 0 20 1 0 0 0 1 0 0 0 1 3023.dat
@@ -260,6 +284,9 @@
 0
 0 FILE building_088_overligg.ldr
 0 roof beam
+0 Name: building_088_overligg.ldr
+0 Author: Jacob Sparre Andersen <sparre@nbi.dk>, July 2005
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 0 0 20 1 0 0 0 1 0 0 0 1 3702.dat
@@ -279,6 +306,9 @@
 0
 0 FILE building_088_l-bjaelk.ldr
 0 L-beam
+0 Name: building_088_l-bjaelk.ldr
+0 Author: Jacob Sparre Andersen <sparre@nbi.dk>, July 2005
+0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 3703.dat

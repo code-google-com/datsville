@@ -898,11 +898,11 @@
 0 Name: building_012_wphone.ldr
 0 Author: Brian Sauls
 0 Unofficial Model
-0 
-0 begin black phone
-0 white-buttoned phone--set your color
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
+0 begin black phone
+0 white-buttoned phone--set your color
+0 
 1 4 10 -24 0 0 0 1 0 1 0 -1 0 0 3040p33.dat
 1 4 10 -32 0 0 0 1 0 1 0 -1 0 0 3069b.dat
 0 
