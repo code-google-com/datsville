@@ -1,10 +1,7 @@
 0 Datsville Traffic and People Layer
 0 Name: layer_traffic.ldr
-0 Author: John VanZwieten, Michael Horvath
+0 Author: John VanZwieten, Michael Horvath, Tore Eriksson
 0 Unofficial Model
-0 !COLOUR red-brown CODE 70 VALUE #694027 EDGE 0 ALPHA 255
-0 !COLOUR medium-stone CODE 71 VALUE #A3A2A4 EDGE 0 ALPHA 255
-0 !COLOUR dark-stone CODE 72 VALUE #635F61 EDGE 15 ALPHA 255
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
@@ -28,11 +25,6 @@
 1 0 250 0 -3500 -1 0 0 0 1 0 0 0 -1 vehicle_007_whitepolicecar.ldr
 1 0 410 0 -3480 -1 0 0 0 1 0 0 0 -1 vehicle_036_whitepolicevan.ldr
 1 0 570 0 -3480 -1 0 0 0 1 0 0 0 -1 vehicle_037_whitepolicevan02.ldr
-0 /////////////////////////////////////////////////////////////////////////////
-0 !LDSWITCH DEFINE TOWNPEEP Inline
-0 !LDSWITCH TOWNPEEP
-0 !LDSWITCH CASE Inline
-0 Town01
 0 // police car behind t-hall
 0 // fire chief's car behind t-hall
 0 // DragonMotors A09SE behind t-hall
@@ -41,9 +33,6 @@
 0 // gray car heading towards triplex
 1 0 -2340 2 -1200 1 0 0 0 1 0 0 0 1 vehicle_010_graystationwagon.ldr
 1 0 -5850 -8 -570 0 0 -1 0 1 0 1 0 0 vehicle_047_pizzadelivery.ldr
-0 !LDSWITCH CASE Use
-0 0
-0 !LDSWITCH End
 0 // BMW car in front of t-hall
 1 7 -1050 2 220 1 0 0 0 1 0 0 0 1 vehicle_011_graybmwsedan.ldr
 0 // city bus passing central park
