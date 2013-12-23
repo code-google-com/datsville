@@ -1,5 +1,5 @@
-0 Town Scene Main.
-0 NAME layer_traffic.ldr
+0 Datsville Traffic and People Layer
+0 Name: layer_traffic.ldr
 0 Author: John VanZwieten, Michael Horvath
 0 Unofficial Model
 0 !COLOUR red-brown CODE 70 VALUE #694027 EDGE 0 ALPHA 255

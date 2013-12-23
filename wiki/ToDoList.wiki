@@ -46,9 +46,9 @@
   # I'm not real happy with block 8 where the university once stood. It needs to be made more parklike.
   # Maybe make areas between shops and sidewalks white instead of gray.
   # There may be too many streetlights in Datsville. I should at least try to use single-bulb lamps instead of double.
-  # <s>Train tracks could be bumped up a little more in height.</s>
+  # <s>Train tracks should be bumped up a little more in height.</s>
   # <s>I'm not real happy with how the city depot and airport turned out. The depot is maybe too large and the airport too small.</s>
-  # Streets could be broken down into smaller modules for crosswalks, road markers, other road paint. This will need to be done when implementing driveways as well.
+  # Streets should be broken down into smaller modules for crosswalks, road markers, other road paint. This will need to be done when implementing driveways anyway.
   # <s>Maybe make two railroad tracks for the whole length through the city.</s>
   # The garden on the roof of the office building isn't very attractive. It needs to be redone.
-  # The airport is maybe too close to the city. Move it farther away and have a road lead up to it.
+  # The airport is too close to the city. Move it farther away and have a road lead up to it.

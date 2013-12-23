@@ -2,9 +2,7 @@
 0 Name: building_017_nationalbank.ldr
 0 Author: James Jackson
 0 Unofficial Model
-
 0 REM (Work in progress. Second floor w/Bank President coming soon.)
-
 0 REM Minifigs
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
@@ -22,7 +20,6 @@
 0 1 14 -242.25 -49.5 262 0 0 -1 0 1 0 1 0 0 977.dat
 0 1 14 -197.75 -49.5 262 0 0 -1 0 1 0 1 0 0 977.dat
 0 1 14 -220 -84 288 1 0 0 0 1 0 0 0 1 3626bp04.dat
-
 0 Loan Customer
 0 1 7 -220 -17 152 -1 0 0 0 0 1 0 1 0 3816.dat
 0 1 7 -220 -17 152 -1 0 0 0 0 1 0 1 0 3817.dat
@@ -35,7 +32,6 @@
 0 1 6 -197.75 -49.5 178 0 0 1 0 1 0 -1 0 0 977.dat
 0 1 6 -220 -84 152 -1 0 0 0 1 0 0 0 -1 3626bp03.dat
 0 1 7 -220 -84 152 -1 0 0 0 1 0 0 0 -1 3624.dat
-
 0 Bank Teller
 0 1 2 90 -20 220 0 0 1 0 1 0 -1 0 0 3816.dat
 0 1 2 90 -20 220 0 0 1 0 1 0 -1 0 0 3817.dat
@@ -48,8 +44,6 @@
 0 1 14 74.5 -36 197.75 0.71 0.71 0 -0.71 0.71 0 0 0 1 977.dat
 0 1 14 89 -88 221 0 0 1 0 1 0 -1 0 0 3626bp03.dat
 0 REM /Minifigs
-
-
 0 1 8 0 8 -240 0 0 1 0 1 0 -1 0 0 80547.dat
 0 1 2 0 8 240 1 0 0 0 1 0 0 0 1 3857.dat
 0 NOSTEP
@@ -356,10 +350,6 @@
 0 1 15 -230 -264 -80 0 0 -1 0 1 0 1 0 0 3710.dat
 0 1 46 190 -256 -380 0 0 1 0 1 0 -1 0 0 3023.dat
 0 1 46 -230 -256 -100 0 0 -1 0 1 0 1 0 0 3023.dat
-
 0 1 15 -180 -8 -120 0 0 1 0 1 0 -1 0 0 cadillac.dat
 0 (The Bank President's Cadillac is optional at this point.)
-
 0 
-0 Boxed 85 parts.
-0
