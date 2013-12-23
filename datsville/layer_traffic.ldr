@@ -48,6 +48,7 @@
 1 0 2150 2 1450 1 0 0 0 1 0 0 0 1 vehicle_057_yellowroundmailvan_withdriver.ldr
 0 // 6-wide convertible car passing fire station
 1 0 2460 2 -240 0 0 -1 0 1 0 1 0 0 vehicle_015_whitesportscar.ldr
+1 0 3890 -8 -1140 1 0 0 0 1 0 0 0 1 vehicle_058_graybicyclewithrider.ldr
 0 // pickup truck parked beside Calvin's house
 1 2 720 -8 -800 1 0 0 0 1 0 0 0 1 vehicle_016_redpickuptruck.ldr
 1 1 4700 2 870 0 0 1 0 1 0 -1 0 0 vehicle_017_graysemitruck.mpd
