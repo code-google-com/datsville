@@ -7,8 +7,6 @@
   # Create a collection of helper scripts to make it easy to generate renderings, animations, panoramas and so forth using POV-Ray and/or other software packages.
   # Streamline the model submission process so that new content can be added quickly and easily.
   # Create one or more virtual Web tours, or an interactive isometric map like a cross between SimCity and Google Maps.
-  # Some email addresses appear within the models themselves. Try and see if the missing authors can be reached via them.
-  # Maybe remove email addresses from models entirely and rely on contact list alone.
 
 = Models =
 
@@ -55,3 +53,6 @@
   # The garden on the roof of the office building isn't very attractive. It needs to be redone.
   # The airport is too close to the city. Move it farther away and have a road lead up to it.
   # Maybe create a new model category "furniture" to make the creation of building interiors easier.
+  # <s>Some email addresses appear within the models themselves. Try and see if the missing authors can be reached via them.</s>
+  # Maybe remove email addresses from models entirely and rely on contact list alone.
+  # Make sure model filenames are lowcaps since the file system may be case-sensitive.

@@ -1,6 +1,6 @@
-0 FILE vehicle_063_CityCatOverall.ldr
+0 FILE vehicle_063_citycat.ldr
 0 Brisbane CityCat
-0 Name: vehicle_063_CityCatOverall.ldr
+0 Name: vehicle_063_citycat.ldr
 0 Author: Tim Gould
 0 Unofficial Model
 0 LPUB PAGE SIZE 1024 768
@@ -11,18 +11,18 @@
 0 LPUB PLI CONSTRAIN HEIGHT 256
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
-1 7 -130 -24 -90 1 0 0 0 1 0 0 0 1 vehicle_063_CitycatRightSide.ldr
-1 7 130 -24 -90 1 0 0 0 1 0 0 0 1 vehicle_063_CitycatLeftSide.ldr
+1 7 -130 -24 -90 1 0 0 0 1 0 0 0 1 vehicle_063_rightside.ldr
+1 7 130 -24 -90 1 0 0 0 1 0 0 0 1 vehicle_063_leftside.ldr
 1 7 0 -24 40 1 0 0 0 1 0 0 0 1 2445.dat
 0 STEP
-1 7 0 -8 -90 1 0 0 0 1 0 0 0 1 vehicle_063_CitycatDeck.ldr
+1 7 0 -8 -90 1 0 0 0 1 0 0 0 1 vehicle_063_deck.ldr
 0 STEP
-1 0 0 -64 -260 1 0 0 0 1 0 0 0 1 vehicle_063_CitycatFront.ldr
+1 0 0 -64 -260 1 0 0 0 1 0 0 0 1 vehicle_063_front.ldr
 0 STEP
 0 LPUB CALLOUT BEGIN
 0 LPUB CALLOUT PLACEMENT TOP_RIGHT PAGE
-1 7 128 -79 0 0 0.358368 -0.93358 0 0.93358 0.358368 1 0 0 vehicle_063_CityCatSideWindow.ldr
-1 7 -127 -79 0 0 -0.358368 0.93358 0 0.93358 0.358368 -1 0 0 vehicle_063_CityCatSideWindow.ldr
+1 7 128 -79 0 0 0.358368 -0.93358 0 0.93358 0.358368 1 0 0 vehicle_063_sidewindow.ldr
+1 7 -127 -79 0 0 -0.358368 0.93358 0 0.93358 0.358368 -1 0 0 vehicle_063_sidewindow.ldr
 0 LPUB CALLOUT END
 0 STEP
 0 LPUB PAGE PLI NO
@@ -36,9 +36,9 @@
 0 LPUB CALLOUT END
 0 LPUB PAGE PLI YES
 0
-0 FILE vehicle_063_CityCatDriver.ldr
+0 FILE vehicle_063_driver.ldr
 0 Drivers Mast
-0 Name: vehicle_063_CityCatDriver.ldr
+0 Name: vehicle_063_driver.ldr
 0 Author: Tim Gould
 0 Unofficial Model
 0 LPUB ASSEM PLACEMENT BOTTOM_RIGHT PAGE
@@ -125,9 +125,9 @@
 1 0 0 -152 110 0 0 -1 0 1 0 1 0 0 3957a.dat
 1 0 20 -216 110 0 0 1 0 1 0 -1 0 0 4085a.dat
 0
-0 FILE vehicle_063_CitycatDeck.ldr
+0 FILE vehicle_063_deck.ldr
 0 Deck and canopy
-0 Name: vehicle_063_CitycatDeck.ldr
+0 Name: vehicle_063_deck.ldr
 0 Author: Tim Gould
 0 Unofficial Model
 0 LPUB ASSEM PLACEMENT BOTTOM_RIGHT PAGE
@@ -224,19 +224,19 @@
 0 STEP
 0 LPUB CALLOUT BEGIN
 0 LPUB CALLOUT PLACEMENT TOP_RIGHT PAGE
-1 0 -100 -78 -14 1 0 0 0 0.766044 0.642788 0 -0.642788 0.766044 vehicle_063_CitycatWindow2.ldr
+1 0 -100 -78 -14 1 0 0 0 0.766044 0.642788 0 -0.642788 0.766044 vehicle_063_window2.ldr
 0 LPUB CALLOUT END
 0 STEP
 0 LPUB CALLOUT BEGIN
 0 LPUB CALLOUT PLACEMENT TOP_RIGHT PAGE
-1 0 80 -78 -14 1 0 0 0 0.766044 0.642788 0 -0.642788 0.766044 vehicle_063_CitycatWindow4.ldr
+1 0 80 -78 -14 1 0 0 0 0.766044 0.642788 0 -0.642788 0.766044 vehicle_063_window4.ldr
 0 LPUB CALLOUT END
 0 STEP
-1 7 0 -88 -30 1 0 0 0 1 0 0 0 1 vehicle_063_CityCatDriver.ldr
+1 7 0 -88 -30 1 0 0 0 1 0 0 0 1 vehicle_063_driver.ldr
 0
-0 FILE vehicle_063_CitycatLeftSide.ldr
+0 FILE vehicle_063_leftside.ldr
 0 Left Fin
-0 Name: vehicle_063_CitycatLeftSide.ldr
+0 Name: vehicle_063_leftside.ldr
 0 Author: Tim Gould
 0 Unofficial Model
 0 LPUB ASSEM PLACEMENT BOTTOM_RIGHT PAGE
@@ -291,9 +291,9 @@
 1 1 0 -56 230 0 0 -1 0 1 0 1 0 0 3460.dat
 1 0 0 -64 170 0 0 -1 0 1 0 1 0 0 2412b.dat
 0
-0 FILE vehicle_063_CitycatRightSide.ldr
+0 FILE vehicle_063_rightside.ldr
 0 Right Fin
-0 Name: vehicle_063_CitycatRightSide.ldr
+0 Name: vehicle_063_rightside.ldr
 0 Author: Tim Gould
 0 Unofficial Model
 0 LPUB ASSEM PLACEMENT BOTTOM_RIGHT PAGE
@@ -348,9 +348,9 @@
 1 1 0 -56 230 0 0 -1 0 1 0 1 0 0 3460.dat
 1 0 0 -64 170 0 0 1 0 1 0 -1 0 0 2412b.dat
 0
-0 FILE vehicle_063_CitycatFront.ldr
+0 FILE vehicle_063_front.ldr
 0 Front Spoiler
-0 Name: vehicle_063_CitycatFront.ldr
+0 Name: vehicle_063_front.ldr
 0 Author: Tim Gould
 0 Unofficial Model
 0 LPUB ASSEM PLACEMENT BOTTOM_RIGHT PAGE
@@ -378,8 +378,8 @@
 1 1 40 0 -10 1 0 0 0 1 0 0 0 1 3037.dat
 0 LPUB CALLOUT BEGIN
 0 LPUB CALLOUT PLACEMENT TOP_RIGHT PAGE
-1 1 -100 -8 30 1 0 0 0 1 0 0 0 1 vehicle_063_Headlight.ldr
-1 1 100 -8 30 1 0 0 0 1 0 0 0 1 vehicle_063_Headlight.ldr
+1 1 -100 -8 30 1 0 0 0 1 0 0 0 1 vehicle_063_headlight.ldr
+1 1 100 -8 30 1 0 0 0 1 0 0 0 1 vehicle_063_headlight.ldr
 0 LPUB CALLOUT END
 0 STEP
 0 LPUB MULTI_STEP DIVIDER
@@ -393,9 +393,9 @@
 1 1 60 -24 30 1 0 0 0 1 0 0 0 1 3298.dat
 0 LPUB MULTI_STEP END
 0
-0 FILE vehicle_063_Headlight.ldr
+0 FILE vehicle_063_headlight.ldr
 0 Headlight
-0 Name: vehicle_063_Headlight.ldr
+0 Name: vehicle_063_headlight.ldr
 0 Author: Tim Gould
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -409,9 +409,9 @@
 0 STEP
 1 1 0 10 -46 -1 0 0 0 0 1 0 1 0 2432.dat
 0
-0 FILE vehicle_063_CityCatSideWindow.ldr
+0 FILE vehicle_063_sidewindow.ldr
 0 Side Window
-0 Name: vehicle_063_CityCatSideWindow.ldr
+0 Name: vehicle_063_sidewindow.ldr
 0 Author: Tim Gould
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -424,9 +424,9 @@
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 3938.dat
 1 0 40 0 0 1 0 0 0 1 0 0 0 1 3938.dat
 0
-0 FILE vehicle_063_CitycatWindow4.ldr
+0 FILE vehicle_063_window4.ldr
 0 Front Window 4 wide
-0 Name: vehicle_063_CitycatWindow4.ldr
+0 Name: vehicle_063_window4.ldr
 0 Author: Tim Gould
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -437,9 +437,9 @@
 1 0 20 -48 0 1 0 0 0 1 0 0 0 1 2377.dat
 1 0 0 -56 0 1 0 0 0 1 0 0 0 1 2431.dat
 0
-0 FILE vehicle_063_CitycatWindow2.ldr
+0 FILE vehicle_063_window2.ldr
 0 Front Window 2 Wide
-0 Name: vehicle_063_CitycatWindow2.ldr
+0 Name: vehicle_063_window2.ldr
 0 Author: Tim Gould
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -447,5 +447,6 @@
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 3938.dat
 1 0 0 -48 0 1 0 0 0 1 0 0 0 1 2377.dat
 1 0 0 -56 0 1 0 0 0 1 0 0 0 1 3069a.dat
+0 
 0
 0
