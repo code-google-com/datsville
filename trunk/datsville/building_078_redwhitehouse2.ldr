@@ -1,10 +1,9 @@
 0 Tore Eriksson's New House
-0 Name: building_078_redwhitehouse2.LDR
+0 Name: building_078_redwhitehouse2.ldr
 0 Author: Tore Eriksson
 0 Unofficial Model
 
 0 // Converted from SimLego v 0.31
-0 !LDBOXER LEVEL A
 
 0 !LDSWITCH DEFINE GarageRoof Hide
 0 !LDSWITCH DEFINE Ceiling Hide

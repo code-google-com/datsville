@@ -4,6 +4,7 @@
 
   * Building, vehicle and minifigure models should be centered and sitting upon the origin. Use axis32x.dat too help orient models.
   * Inlined sub-models should be extracted and the parent model turned into an MPD file.
+  * Inlining of sub-models should be avoided in general.
   * Models should ideally not contain minifigures or vehicles. Instead, minifigures and vehicles should be extracted and copied into "layer_traffic.ldr" if possible.
   * Vehicles may contain minifigures, however.
   * Models should not contain part primitives. Part primitives should be replaced with official parts when they become available, or copied into a new file or sub-model of an MPD file if not available.
@@ -11,6 +12,7 @@
   * Buildings should have interiors including beds, appliances, stairs, etc..
   * Unparked vehicles should have drivers.
   * Minifigures should not be re-used. All minifigures should be unique, even if they are identical visually.
+  * There is a separate directory for "boxed" versions of models created using LDBoxer. Do not keep them in the main directory.
 
 = Making maps using POV-Ray =
 

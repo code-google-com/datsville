@@ -19,10 +19,9 @@
 0 !HISTORY 2001-09-19 Author posted at news:lugnet.cad.dat.models
 0 !HISTORY 2006-10-31 TE added to Pending folder
 0 !HISTORY 2010-05-22 TE moved to Town-2-1.ldr
-0 !LDBOXER LEVEL 0
-
 0 // Model url: http://news.lugnet.com/cad/dat/models/?n=1691
 0 // Approval url: http://news.lugnet.com/cad/dat/models/?n=1900
+
 1 19 0 0 120 -1 0 0 0 1 0 0 0 -1 3028.dat
 1 19 0 0 220 -1 0 0 0 1 0 0 0 -1 3029.dat
 1 19 -120 -24 60 0 0 1 0 1 0 -1 0 0 3831.dat
