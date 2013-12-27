@@ -13,6 +13,7 @@
   * Unparked vehicles should have drivers.
   * Minifigures should not be re-used. All minifigures should be unique, even if they are identical visually.
   * There is a separate directory for "boxed" versions of models created using LDBoxer. Do not keep them in the main directory.
+  * Unix operating systems as well as some Windows software are case-sensitive. So make sure that the capitalization is the same everywhere. I've been typing all names in lower-case.
 
 = Making maps using POV-Ray =
 
