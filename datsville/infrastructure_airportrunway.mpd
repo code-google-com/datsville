@@ -11,13 +11,12 @@
 0 LICENSE The Beer-Ware License (Revision 42)
 0 WEB-PAGE     http://lego.sparre-andersen.dk/Pier_17/Airport/
 0 ILLUSTRATION http://lego.sparre-andersen.dk/Pier_17/Airport/illustration
-0 
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0 
 0 venstre
 0 |     ned
 0 |     |     bagud
 0 |     |     |
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CONFIG 0 0
 1 0 0 0 -260 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
 1 15 0 0 -140 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
 1 0 0 0 -20 1 0 0 0 1 0 0 0 1 infrastructure_airportrunway_banesektion.ldr
@@ -112,13 +111,12 @@
 0 Unofficial Model
 0 TITLE Runway section
 0 Design: Jacob Sparre Andersen, August 2001.
-0 
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0 
 0 venstre
 0 |     ned
 0 |     |     bagud
 0 |     |     |
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CONFIG 0 0
 1 0 310 -8 0 0 0 1 0 1 0 -1 0 0 6636.dat
 1 0 270 -8 0 0 0 1 0 1 0 -1 0 0 6636.dat
 1 0 -310 -8 0 0 0 1 0 1 0 -1 0 0 6636.dat
@@ -143,14 +141,13 @@
 0 Unofficial Model
 0 TITLE Runway section - left taxiway
 0 Design: Jacob Sparre Andersen, August 2001.
-0 
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0 
 0 venstre
 0 |     ned
 0 |     |     bagud
 0 |     |     |
 0 0    280   -48     0  0 0 1   0 1 0   -1 0 0      6636.dat
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CONFIG 0 0
 1 0 -310 -8 0 0 0 1 0 1 0 -1 0 0 6636.dat
 1 0 -270 -8 0 0 0 1 0 1 0 -1 0 0 6636.dat
 0 15    260   -48     0  0 0 1   0 1 0   -1 0 0      6636.dat
@@ -177,13 +174,12 @@
 0 Unofficial Model
 0 TITLE Runway section (far end)
 0 Design: Jacob Sparre Andersen, August 2001.
-0 
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0 
 0 venstre
 0 |     ned
 0 |     |     bagud
 0 |     |     |
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CONFIG 0 0
 1 15 290 -8 0 0 0 1 0 1 0 -1 0 0 4162.dat
 1 0 310 -8 0 0 0 1 0 1 0 -1 0 0 4162.dat
 1 15 -290 -8 0 0 0 1 0 1 0 -1 0 0 4162.dat

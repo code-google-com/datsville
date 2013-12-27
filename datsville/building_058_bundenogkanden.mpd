@@ -246,6 +246,8 @@
 0 DESCRIPTION Town house with shop in the basement. The name and design is inspired by the toy shop Toppen og Bolden in Gentofte. Version with open back for playing.
 0 DESIGN  Jacob Sparre Andersen <sparre@nbi.dk>
 0 DRAWING Jacob Sparre Andersen <sparre@nbi.dk>
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
 0 
 0 
 0 
@@ -253,9 +255,6 @@
 0 |    ned
 0 |    |    bagud
 0 |    |    |
-
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CONFIG 0 0
 1 4 -180 64 80 0 0 -1 0 1 0 1 0 0 3033.dat
 1 4 -60 64 80 0 0 -1 0 1 0 1 0 0 3033.dat
 1 4 60 64 80 0 0 -1 0 1 0 1 0 0 3033.dat

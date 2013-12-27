@@ -2,9 +2,9 @@
 0 Name: pedestrian_025_womanblondehairredsleeves.ldr
 0 Author: Leonardo Zide
 0 Unofficial Model
-0 legs & hip
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
+0 legs & hip
 1 0 0 -28 1 1 0 0 0 1 0 0 0 1 3817.dat
 1 0 0 -28 1 1 0 0 0 1 0 0 0 1 3816.dat
 1 0 0 -40 1 1 0 0 0 1 0 0 0 1 3815.dat

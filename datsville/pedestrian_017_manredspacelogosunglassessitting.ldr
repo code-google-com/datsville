@@ -2,9 +2,9 @@
 0 Name: pedestrian_017_manredspacelogosunglassessitting.ldr
 0 Author: Tore Eriksson
 0 Unofficial Model
-0 legs & hip
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
+0 legs & hip
 1 4 0 -9 -2 1 0 0 0 0 1 0 -1 0 3817.dat
 1 4 0 -9 -2 1 0 0 0 0 1 0 -1 0 3816.dat
 1 4 0 -21 -2 1 0 0 0 1 0 0 0 1 3815.dat

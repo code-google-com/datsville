@@ -718,10 +718,10 @@
 0 Name: building_023_mrcoffee.ldr
 0 Author: Brian (bbq) Sauls
 0 Unofficial Model
-0 coffe maker begins here.
-0 color set to 16--set your own
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
+0 coffe maker begins here.
+0 color set to 16--set your own
 1 0 0 -8 0 0 0 -1 0 1 0 1 0 0 3023.dat
 1 0 0 -16 -10 0 0 -1 0 1 0 1 0 0 3024.dat
 1 0 0 -40 -10 0 0 -1 0 1 0 1 0 0 3005.dat

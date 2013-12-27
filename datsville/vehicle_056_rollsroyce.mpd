@@ -3,9 +3,9 @@
 0 Name: vehicle_056_rollsroyce.ldr
 0 Author: Tim Gould
 0 Unofficial Model
-0 WRITE Floor: 48
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
+0 WRITE Floor: 48
 1 0 0 -48 0 1 0 0 0 1 0 0 0 1 vehicle_056_Main.ldr
 0
 0 FILE vehicle_056_Wheel.ldr
