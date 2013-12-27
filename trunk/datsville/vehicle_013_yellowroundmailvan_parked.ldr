@@ -2,9 +2,9 @@
 0 Name: vehicle_013_yellowroundmailvan.ldr
 0 Author: Jacob Sparre Andersen
 0 Unofficial Model
-0 Postbil
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
+0 Postbil
 1 0 30 -23 -70 1 0 0 0 1 0 0 0 1 3024.dat
 1 0 -30 -23 -70 1 0 0 0 1 0 0 0 1 3024.dat
 1 0 0 -23 -70 1 0 0 0 1 0 0 0 1 3023.dat

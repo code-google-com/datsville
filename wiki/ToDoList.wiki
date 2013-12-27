@@ -56,3 +56,8 @@
   # <s>Some email addresses appear within the models themselves. Try and see if the missing authors can be reached via them.</s>
   # Maybe remove email addresses from models entirely and rely on contact list alone.
   # Make sure model filenames are lowcaps since the file system may be case-sensitive.
+  # Several models still have inlined sub-models that need to be turned back into proper LDR sub-models.
+  # Each model and sub-model needs to have the proper software license attached to it.
+  # The tag 'Unofficial Model' needs to be replaced with 'Unofficial Datsville Model' in each model and sub-model.
+  # Add missing titles to sub-models in MPD files.
+  # Some author tags in sub-models remain blank. This needs to be fixed.

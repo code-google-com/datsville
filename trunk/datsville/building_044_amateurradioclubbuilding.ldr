@@ -2,11 +2,11 @@
 0 Name: building_044_amateurradioclubbuilding.ldr
 0 Author: Jonathan Gevaryahu
 0 Unofficial Model
-0 NOSTEP
-0 NOSTEP
-0 NOSTEP
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
+0 NOSTEP
+0 NOSTEP
+0 NOSTEP
 1 7 -200 -24 220 1 0 0 0 1 0 0 0 1 3001.dat
 1 7 -40 -24 220 1 0 0 0 1 0 0 0 1 3001.dat
 1 7 -220 -24 80 0 0 -1 0 1 0 1 0 0 3001.dat

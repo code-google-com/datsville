@@ -18,12 +18,9 @@
 0 Name: building_035_1.LDR
 0 Author: Jonathan Wilson
 0 Unofficial Model
-0 Inlined:  1 0 0 0 0 1 0 0 0 1 0 0 0 1 station.dat
-0 Petrol Station
-0 Author: Jonathan Wilson
-
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
+0 Inlined:  1 0 0 0 0 1 0 0 0 1 0 0 0 1 station.dat
 1 15 40 -16 -80 -1 0 0 0 1 0 0 0 -1 building_035_5.LDR
 1 15 40 -16 80 1 0 0 0 1 0 0 0 1 building_035_5.LDR
 1 15 240 -16 80 1 0 0 0 1 0 0 0 1 building_035_5.LDR

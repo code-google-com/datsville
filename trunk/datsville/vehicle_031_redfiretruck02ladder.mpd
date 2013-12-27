@@ -3,7 +3,6 @@
 0 Name: vehicle_031_redfiretruck02ladder.ldr
 0 Author: Ryan Dennett
 0 Unofficial Model
-0 EXTRACT
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 0 -46 -160 1 0 0 0 1 0 0 0 1 pedestrian_023_manfiremanredcapdriving.ldr

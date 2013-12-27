@@ -1,8 +1,7 @@
-0 Datsville Streets Layer
+0 Datsville Streets Sectors Layer
 0 Name: layer_streets.ldr
 0 Author: John VanZwieten, Michael Horvath, Tore Eriksson
 0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 streets_-1_+2.ldr
