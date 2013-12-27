@@ -1,9 +1,8 @@
 #summary Screenshots of development in progress.
 
-<a href="http://www.flickr.com/photos/112638028@N06/11575741483/" title="ldview_screenshot_018 by Datsville, on Flickr"><img src="http://farm6.staticflickr.com/5544/11575741483_9fed67e240_b.jpg" width="1024" height="562" alt="ldview_screenshot_018"/></a>
-
 2013/12/19
-[http://datsville.googlecode.com/svn/wiki/Screenshots.attach/ldview_screenshot_018.png]
+<a href="http://www.flickr.com/photos/112638028@N06/11575741483/" title="ldview_screenshot_018 by Datsville, on Flickr"><img src="http://farm6.staticflickr.com/5544/11575741483_9fed67e240_z.jpg" width="640" height="351" alt="ldview_screenshot_018"/></a>
+
 2013/11/15
 [http://datsville.googlecode.com/svn/wiki/Screenshots.attach/ldview_screenshot_017.png]
 2013/11/08
