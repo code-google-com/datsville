@@ -1,5 +1,7 @@
 #summary Screenshots of development in progress.
 
+<img src="http://datsville.googlecode.com/svn/wiki/Screenshots.attach/ldview_screenshot_018.png" width="2048" height="1024"/>
+
 2013/12/19
 [http://datsville.googlecode.com/svn/wiki/Screenshots.attach/ldview_screenshot_018.png]
 2013/11/15
