@@ -2,7 +2,7 @@
 0 Small Office Building
 0 Name: building_063.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 16 0 -8 0 1 0 0 0 1 0 0 0 1 building_063_half.ldr
@@ -25,7 +25,7 @@
 0 New Model
 0 Name: building_063_windowtop.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 60594.dat
@@ -35,7 +35,7 @@
 0 New Model
 0 Name: building_063_windowbot.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 2493b.dat
@@ -45,7 +45,7 @@
 0 New Model
 0 Name: building_063_half.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 0 -290 -128 -520 0 0 1 0 1 0 -1 0 0 building_063_windowbot.ldr
@@ -912,7 +912,7 @@
 0 New Model
 0 Name: building_063_floor_3.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 0 -160 -528 520 -1 0 0 0 1 0 0 0 -1 3456.dat
@@ -937,7 +937,7 @@
 0 New Model
 0 Name: building_063_floor_2.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 0 -240 -400 -480 0 0 1 0 1 0 -1 0 0 3033.dat
@@ -965,7 +965,7 @@
 0 New Model
 0 Name: building_063_floor_1.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 0 -140 -200 420 -1 0 0 0 1 0 0 0 -1 91405.dat
@@ -1053,11 +1053,11 @@
 0 New Model
 0 Name: building_063_floor_0.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 New Model
 0 Name: floor_2.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 0 -240 0 -480 0 0 1 0 1 0 -1 0 0 3033.dat
@@ -1118,7 +1118,7 @@
 0 New Model
 0 Name: building_063_stair.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 0 70 -8 -40 0 0 -1 0 1 0 1 0 0 4784.dat
@@ -1136,7 +1136,7 @@
 0 New Model
 0 Name: building_063_desk.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 7 10 -48 10 1 0 0 0 1 0 0 0 1 30357.dat

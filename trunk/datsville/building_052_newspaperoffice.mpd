@@ -2,7 +2,7 @@
 0 Datsville Inquirer HQ
 0 Name: building_052.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 -160 -8 160 1 0 0 0 1 0 0 0 1 91405.dat
@@ -197,7 +197,7 @@
 0 New Model
 0 Name: building_052_clock.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 50 30 18 1 0 0 0 0 1 0 -1 0 4150p03.dat
@@ -213,7 +213,7 @@
 0 New Model
 0 Name: building_052_roof.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 140 -408 -170 1 0 0 0 1 0 0 0 1 30363.dat
@@ -325,7 +325,7 @@
 0 New Model
 0 Name: building_052_floor_b.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 60 -312 250 1 0 0 0 1 0 0 0 1 3455.dat
@@ -538,7 +538,7 @@
 0 New Model
 0 Name: building_052_desk.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 6 -50 -8 20 0 0 -1 0 1 0 1 0 0 3023.dat
@@ -560,7 +560,7 @@
 0 New Model
 0 Name: building_052_table_a.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 6 0 -32 0 1 0 0 0 1 0 0 0 1 3035.dat
@@ -577,7 +577,7 @@
 0 New Model
 0 Name: building_052_table_b.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 6 0 -32 0 1 0 0 0 1 0 0 0 1 3035.dat

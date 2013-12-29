@@ -2,7 +2,7 @@
 0 Apartment House Single
 0 Name: building_034_bbsapt1.ldr
 0 Author: Brian Sauls
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 -390 -64 60 1 0 0 0 1 0 0 0 1 building_034_bbsapt2.ldr
@@ -39,7 +39,7 @@
 0 Left
 0 Name: building_034_bbsapt2.ldr
 0 Author: Brian Sauls
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 -100 32 0 0 0 1 0 1 0 -1 0 0 3008.dat
@@ -296,7 +296,7 @@
 0 Right
 0 Name: building_034_bbsapt3.ldr
 0 Author: Brian Sauls
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 0 Inlined: 1 2 -290 -32 220 0 0 -1 0 1 0 1 0 0 bphone.dat
@@ -553,7 +553,7 @@
 0 FILE building_034_aptbrzbs.ldr
 0 Name: aptbrzbs.dat
 0 Author: Brian Sauls
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 0 -8 -210 1 0 0 0 1 0 0 0 1 3795.dat
@@ -581,7 +581,7 @@
 0 FILE building_034_aptstepr.ldr
 0 Name: aptstepr.dat
 0 Author: Brian Sauls
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 1 -90 -72 190 1 0 0 0 1 0 0 0 1 3005.dat
@@ -637,7 +637,7 @@
 0 FILE building_034_aptstepl.ldr
 0 Name: aptstepl.dat
 0 Author: Brian Sauls
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 1 -90 -72 190 1 0 0 0 1 0 0 0 1 3005.dat
@@ -693,7 +693,7 @@
 0 FILE building_021_aptroof.ldr
 0 Name: aptroof.dat
 0 Author: Brian Sauls
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 -170 -24 200 1 0 0 0 1 0 0 0 1 3002.dat

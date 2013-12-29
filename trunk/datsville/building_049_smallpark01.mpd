@@ -2,7 +2,7 @@
 0 Small Park #1
 0 Name: building_049.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 2 -425.962 0 -208.388 0.707107 0 -0.707107 0 1 0 0.707107 0 0.707107 building_049_seesaw_complete.ldr
@@ -45,7 +45,7 @@
 0 Untitled
 0 Name: building_049_merrygoround.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 8 0 -24 0 1 0 0 0 1 0 0 0 1 3403c01.dat
@@ -62,7 +62,7 @@
 0 Untitled
 0 Name: building_049_sandbox.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 6 -160 -24 -170 1 0 0 0 1 0 0 0 1 2465.dat
@@ -85,7 +85,7 @@
 0 Untitled
 0 Name: building_049_seesaw_complete.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 8 0 -16 0 1 0 0 0 1 0 0 0 1 32530.dat
@@ -97,7 +97,7 @@
 0 New Model
 0 Name: building_049_seesaw_top.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 8 0 -18 0 0 0 1 0 1 0 -1 0 0 6631.dat

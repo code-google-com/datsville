@@ -2,7 +2,7 @@
 0 Pizza Takeout
 0 Name: building_048.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 16 -40 0 160 0 0 -1 0 1 0 1 0 0 building_048_counter.ldr
@@ -165,7 +165,7 @@
 0 New Model
 0 Name: building_048_cabinet.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 16 0 -72 -10 1 0 0 0 1 0 0 0 1 3853.dat
@@ -180,7 +180,7 @@
 0 New Model
 0 Name: building_048_sign.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 4 0 -240 0 1 0 0 0 1 0 0 0 1 30517.dat
@@ -217,7 +217,7 @@
 0 New Model
 0 Name: building_048_counter.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 4 0 -24 -10 1 0 0 0 1 0 0 0 1 6111.dat
@@ -233,7 +233,7 @@
 0 New Model
 0 Name: building_048_stove.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 16 0 -24 10 1 0 0 0 1 0 0 0 1 3010p04.dat
@@ -248,7 +248,7 @@
 0 New Model
 0 Name: building_048_table.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 15 0 -32 0 1 0 0 0 1 0 0 0 1 3031.dat

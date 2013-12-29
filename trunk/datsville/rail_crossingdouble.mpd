@@ -2,7 +2,7 @@
 0 Rail crossing based on set 7835
 0 Name: rail_crossingdouble.ldr
 0 Author: Jonathan Wilson, Tore Eriksson, Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 80 -8 280 -1 0 0 0 1 0 0 0 -1 3028.dat
@@ -120,7 +120,7 @@
 0 Rail crossing sign
 0 Name: rail_crossingdouble_sign.ldr
 0 Author: Jonathan Wilson, Tore Eriksson, Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 -10 10 8 1 0 0 0 0 1 0 -1 0 3020.dat
@@ -139,7 +139,7 @@
 0 New Model
 0 Name: rail_crossingdouble_gate.ldr
 0 Author: Jonathan Wilson, Tore Eriksson, Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 10 -32 210 0 0 -1 0 1 0 1 0 0 3040b.dat

@@ -2,7 +2,7 @@
 0 Water Tower
 0 Name: building_014_watertower.ldr
 0 Author: Ben Gatrelle
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 -752 0 1 0 0 0 1 0 0 0 1 building_014_watert-4.ldr
@@ -15,7 +15,7 @@
 0 Water Tower body
 0 Name: building_014_watert-1.ldr
 0 Author: Ben Gatrelle
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 0 row neg. one
@@ -249,7 +249,7 @@
 0 Water Tower supports sub-file
 0 Name: building_014_watert-2.ldr
 0 Author: Ben Gatrelle
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 -1 -528 0 1 0 0 0 1 0 0 0 1 3031.dat

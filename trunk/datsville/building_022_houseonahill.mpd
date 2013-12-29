@@ -2,7 +2,7 @@
 0 House on a hill
 0 Name: building_022_houseonahill.ldr
 0 Author: Joachim Probst (jprobst@shadow-corner.ows.es)
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 2 270 0 0 1 0 0 0 1 0 0 0 1 building_022_hillrear.ldr
@@ -55,7 +55,7 @@
 0 Mannheim
 0 Name: building_022_bjphou1.ldr
 0 Author: Joachim Probst (jprobst@shadow-corner.ows.es)
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 14 -120 -32 70 1 0 0 0 1 0 0 0 1 infrastructure_flowers_01.ldr
@@ -460,7 +460,7 @@
 0 Hill Template: Rear Side
 0 Name: building_022_hillrear.ldr
 0 Author: Joachim Probst (jprobst@shaodw-corner.ows.es)
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 2 10 -24 220 0 0 1 0 1 0 -1 0 0 3006.dat
@@ -501,7 +501,7 @@
 0 Hill Template: Slope Side
 0 Name: building_022_hillside.ldr
 0 Author: Joachim Probst (jprobst@shadow-corner.ows.es)
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 2 -250 -24 0 1 0 0 0 1 0 0 0 1 3001.dat
@@ -536,7 +536,7 @@
 0 FILE building_022_window4.ldr
 0 Name: window4.dat
 0 Author: Joachim Probst (jprobst@shadow-corner.ows.es)
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 6 0 -72 0 1 0 0 0 1 0 0 0 1 3853.dat
@@ -548,7 +548,7 @@
 0 FILE building_022_window3.ldr
 0 Name: window3.dat
 0 Author: Joachim Probst (jprobst@shadow-corner.ows.es)
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 6 0 -72 0 -1 0 0 0 1 0 0 0 -1 3853.dat

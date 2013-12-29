@@ -2,7 +2,7 @@
 0 Cell Tower
 0 Name: infrastructure_celltower.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 16 0 -144 0 1 0 0 0 1 0 0 0 1 48310.dat
@@ -18,7 +18,7 @@
 0 New Model
 0 Name: celltower_dish.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 16 0 12 0 1 0 0 0 1 0 0 0 1 44809.dat
@@ -33,7 +33,7 @@
 0 New Model
 0 Name: celltower_top.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 16 0 -56 0 1 0 0 0 1 0 0 0 1 44374.dat

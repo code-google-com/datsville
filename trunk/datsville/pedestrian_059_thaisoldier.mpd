@@ -2,7 +2,7 @@
 0 Thai Temple Guard
 0 Name: pedestrian_059_thaisoldier.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 14 0 -103 1 1 0 0 0 1 0 0 0 1 3626bp3n.dat
@@ -25,7 +25,7 @@
 0 New Model
 0 Name: pedestrian_059_polearm.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 -4 0 1 0 0 0 1 0 0 0 1 4497.dat

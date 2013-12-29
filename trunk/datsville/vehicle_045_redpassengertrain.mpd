@@ -2,7 +2,7 @@
 0 Datsville Train DB425
 0 Name: vehicle_045_redpassengertrain.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 0 MLCAD HIDE 1 0 0 -79 0 1 0 0 0 1 0 0 0 1 vehicle_045_DB425SharedWheelset.ldr
@@ -29,7 +29,7 @@
 0 New Model
 0 Name: vehicle_045_DB425Cab.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 4 0 8 -260 0 0 -1 0 1 0 1 0 0 3020.dat
@@ -222,7 +222,7 @@
 0 New Model
 0 Name: vehicle_045_DB425FrontPanelR.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 4 -30 0 0 0 0 1 0 1 0 -1 0 0 41748.dat
@@ -238,7 +238,7 @@
 0 New Model
 0 Name: vehicle_045_DB425FrontPanelL.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 4 0 0 0 1 0 0 0 1 0 0 0 1 4070.dat
@@ -254,7 +254,7 @@
 0 New Model
 0 Name: vehicle_045_DB425FWSCladL.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 8 0 0 0 1 0 0 0 1 0 0 0 1 3023.dat
@@ -273,7 +273,7 @@
 0 New Model
 0 Name: vehicle_045_DB425Door.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 0 0 -50 1 0 0 0 1 0 0 0 1 3666.dat
@@ -316,7 +316,7 @@
 0 New Model
 0 Name: vehicle_045_DB425FWSCladR.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 8 0 0 0 1 0 0 0 1 0 0 0 1 3023.dat
@@ -335,7 +335,7 @@
 0 New Model
 0 Name: vehicle_045_DB425FrontWheelset.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 0 30 1 0 0 0 1 0 0 0 1 2878c01.dat
@@ -368,7 +368,7 @@
 0 Shared Wheelset - Powered
 0 Name: vehicle_045_DB425SharedWheelset.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 8 0 1 0 0 0 1 0 0 0 1 2894c01.dat
@@ -384,7 +384,7 @@
 0 Shared wheelset - unpowered
 0 Name: vehicle_045_DB425SharedWheelsetUnP.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 16 -50 1 0 0 0 1 0 0 0 1 2878c01.dat
@@ -424,7 +424,7 @@
 0 New Model
 0 Name: vehicle_045_DB425Car.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 4 30 -120 120 0 0 -1 0 1 0 1 0 0 3037.dat
@@ -497,7 +497,7 @@
 0 New Model
 0 Name: DB425Car.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 1 4 -30 -120 -120 0 0 1 0 1 0 -1 0 0 3037.dat
 1 4 -30 -120 -200 0 0 1 0 1 0 -1 0 0 3037.dat
 1 4 -30 -120 -40 0 0 1 0 1 0 -1 0 0 3037.dat

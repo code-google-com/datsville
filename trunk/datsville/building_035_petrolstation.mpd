@@ -2,7 +2,7 @@
 0 Petrol Station Scene
 0 Name: building_035.ldr
 0 Author: Jonathan Wilson, Tore Eriksson
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 0 0 0 1 0 0 0 1 0 0 0 1 building_035_1.ldr
@@ -15,7 +15,7 @@
 0 Petrol Station with Baseplates
 0 Name: building_035_1.ldr
 0 Author: Jonathan Wilson
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 40 -16 -80 -1 0 0 0 1 0 0 0 -1 building_035_5.ldr
@@ -239,7 +239,7 @@
 0 Petrol Station Pump
 0 Name: building_035_5.ldr
 0 Author: Jonathan Wilson
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 2 0 0 0 0 0 1 0 1 0 -1 0 0 3020.dat
@@ -273,7 +273,7 @@
 0 Shell Sign  1 x 24
 0 Name: building_035_2.ldr
 0 Author: Jonathan Wilson
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 220 -208 -210 1 0 0 0 1 0 0 0 1 3666.dat
@@ -294,7 +294,7 @@
 0 Main Sign
 0 Name: building_035_4.ldr
 0 Author: Jonathan Wilson
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 271 -128 -250 1 0 0 0 1 0 0 0 1 3755.dat
@@ -326,7 +326,7 @@
 0 Select Shop Sign
 0 Name: building_035_3.ldr
 0 Author: Jonathan Wilson
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 2 -240 -128 -140 0 0 1 0 1 0 -1 0 0 3958.dat
@@ -343,7 +343,7 @@
 0 Petrol Station Pump Hose Pair
 0 Name: building_035_BJWGS51.ldr
 0 Author: Tore Eriksson
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 5 24 14 -100 -20 14 -96 -20 13.8478 -100 -20.7654 13.8478 -100 -19.2346
@@ -820,7 +820,7 @@
 0 FILE building_035_oven.ldr
 0 Name: oven.dat
 0 Author: Jonathan Wilson
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 0 -72 0 0 0 -1 0 1 0 1 0 0 841.dat
@@ -840,7 +840,7 @@
 0 FILE building_035_fridge.ldr
 0 Name: fridge.dat
 0 Author: Jonathan Wilson
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 0 MLCAD HIDE 1 15 0 0 0 0 0 -1 0 1 0 1 0 0 3032.dat
@@ -893,7 +893,7 @@
 0 FILE building_035_shelf.ldr
 0 Name: shelf.dat
 0 Author: Jonathan Wilson
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 0 MLCAD HIDE 1 15 0 0 0 1 0 0 0 1 0 0 0 1 3032.dat
@@ -940,7 +940,7 @@
 0 FILE building_035_counter.ldr
 0 Name: counter.dat
 0 Author: Jonathan Wilson
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 -50 -24 0 0 0 -1 0 1 0 1 0 0 3010.dat
@@ -958,7 +958,7 @@
 0 FILE building_035_tools.ldr
 0 Name: tools.dat
 0 Author: Jonathan Wilson
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 0 -24 0 0 0 1 0 1 0 -1 0 0 3010.dat

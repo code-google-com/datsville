@@ -2,7 +2,7 @@
 0 Datsville Town Hall
 0 Name: building_002_townhall.ldr
 0 Author: John VanZwieten
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 0 -64 -550 1 0 0 0 1 0 0 0 1 pedestrian_011_manmayortophat.ldr
@@ -26,7 +26,7 @@
 0 Untitled
 0 Name: thall6.dat
 0 Author: John VanZwieten
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 building_002_thdoor.ldr
@@ -42,7 +42,7 @@
 0 Untitled
 0 Name: thall1.dat
 0 Author: John VanZwieten
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 -330 96 90 0 0 1 0 1 0 -1 0 0 building_002_thwind1.ldr
@@ -125,7 +125,7 @@
 0 Untitled
 0 Name: thall7.dat
 0 Author: John VanZwieten
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 0 -432 -40 1 0 0 0 1 0 0 0 1 building_002_thall3.ldr
@@ -142,7 +142,7 @@
 0 Untitled
 0 Name: thdoor.dat
 0 Author: John VanZwieten
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 -30 0 -20 1 0 0 0 1 0 0 0 1 3579.dat
@@ -272,7 +272,7 @@
 0 Untitled
 0 Name: thwind1.dat
 0 Author: John VanZwieten
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 -30.5 -143 5 0 0 -1 0 1 0 1 0 0 4133.dat
@@ -341,7 +341,7 @@
 0 Untitled
 0 Name: thwind1.dat
 0 Author: John VanZwieten
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 -30.5 -149 5 0 0 -1 0 1 0 1 0 0 4133.dat
@@ -408,7 +408,7 @@
 0 Untitled
 0 Name: thall2.dat
 0 Author: John VanZwieten
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 -330 96 -40 1 0 0 0 1 0 0 0 1 building_002_thcorn.ldr
@@ -438,7 +438,7 @@
 0 Untitled
 0 Name: thall3.dat
 0 Author: John VanZwieten
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 4 60 0 0 1 0 0 0 1 0 0 0 1 3004.dat
@@ -498,7 +498,7 @@
 0 Untitled
 0 Name: throof2.dat
 0 Author: John VanZwieten
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 -20 0 -20 1 0 0 0 1 0 0 0 1 3005ptd.dat
@@ -561,7 +561,7 @@
 0 Untitled
 0 Name: thcorn.dat
 0 Author: John VanZwieten
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 2357.dat
@@ -573,7 +573,7 @@
 0 Untitled
 0 Name: throof1.dat
 0 Author: John VanZwieten
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 0 -10 0 0 0 1 0 1 0 -1 0 0 3938.dat
@@ -598,7 +598,7 @@
 0 Untitled
 0 Name: building_002_thwind3.ldr
 0 Author: John VanZwieten
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 -30.5 -221 -5 0 0 -1 0 1 0 1 0 0 4133.dat

@@ -2,7 +2,7 @@
 0 The Big House
 0 Name: building_089_controltower2.ldr
 0 Author: D M Garcia (boneboney@aol.com)
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 0 -296 0 1 0 0 0 1 0 0 0 1 6063.dat
@@ -124,7 +124,7 @@
 0 The Big House
 0 Name: building_089_lite.ldr
 0 Author: D M Garcia (boneboney@aol.com)
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 0 -16 -10 1 0 0 0 1 0 0 0 1 2555.dat
@@ -134,7 +134,7 @@
 0 The Big House
 0 Name: building_089_base.ldr
 0 Author: D M Garcia (boneboney@aol.com)
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 382 40 0 0 1 0 0 0 1 0 0 0 1 2345.dat
@@ -146,7 +146,7 @@
 0 The Big House
 0 Name: building_089_roof.ldr
 0 Author: D M Garcia (boneboney@aol.com)
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 382 -10 0 0 1 0 0 0 1 0 0 0 1 4741.dat

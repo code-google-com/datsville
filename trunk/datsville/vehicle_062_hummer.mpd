@@ -2,7 +2,7 @@
 0 Hummer
 0 Name: vehicle_062_hummer.ldr
 0 Author: Ryan Dennett
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 0 -38 0 1 0 0 0 1 0 0 0 1 3958.dat
@@ -127,7 +127,7 @@
 0 FILE vehicle_062_frntlite.ldr
 0 Name: frntlite.dat
 0 Author: Ryan Dennett
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 0 0 0 1 0 0 0 0 -1 0 1 0 3666.dat

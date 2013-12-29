@@ -2,7 +2,7 @@
 0 Datsville HS
 0 Name: building_051.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 building_051_floor_2.ldr
@@ -198,7 +198,7 @@
 0 New Model
 0 Name: building_051_interior_2.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 15 270 -224 220 0 0 -1 0 1 0 1 0 0 2486.dat
@@ -209,7 +209,7 @@
 0 New Model
 0 Name: building_051_floor_2.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 28 -400 -344 470 1 0 0 0 1 0 0 0 1 3008.dat
@@ -325,7 +325,7 @@
 0 New Model
 0 Name: building_051_roof.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 28 -440 -424 410 -1 0 0 0 1 0 0 0 -1 6159.dat

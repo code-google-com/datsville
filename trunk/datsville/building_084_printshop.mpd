@@ -2,7 +2,7 @@
 0 Datsville newspaper shop
 0 Name: building_084_printshop.ldr
 0 Author: Thomas Burger
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 -20 -48 20 1 0 0 0 1 0 0 0 1 3940.dat
@@ -129,7 +129,7 @@
 0 Untitled
 0 Name: building_084_copier.ldr
 0 Author: Thomas Burger
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 0 0 0 0 1 0 1 0 -1 0 0 3021.dat

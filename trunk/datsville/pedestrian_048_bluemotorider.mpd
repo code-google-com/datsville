@@ -2,7 +2,7 @@
 0 Blue Motorcycle Rider
 0 Name: pedestrian_048_bluemotorider.ldr
 0 Author: Tore Eriksson
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 0 // Legs
@@ -30,7 +30,7 @@
 0 Motorcycle Driver head
 0 Name: pedestrian_048_vtemc1.ldr
 0 Author: Tore Eriksson
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 14 0 0 0 -0.5 0 -0.866 0 1 0 -0.866 0 0.5 3626bp39.dat

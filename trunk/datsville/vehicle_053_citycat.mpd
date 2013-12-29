@@ -2,7 +2,7 @@
 0 Brisbane CityCat
 0 Name: vehicle_053_citycat.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 LPUB PAGE SIZE 1024 768
 0 LPUB PAGE BORDER MARGINS 32 32
 0 LPUB PAGE NUMBER MARGINS 16 16
@@ -40,7 +40,7 @@
 0 Drivers Mast
 0 Name: vehicle_053_driver.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 LPUB ASSEM PLACEMENT BOTTOM_RIGHT PAGE
 0 LPUB PLI CONSTRAIN HEIGHT 512
 0 LPUB MULTI_STEP BEGIN
@@ -129,7 +129,7 @@
 0 Deck and canopy
 0 Name: vehicle_053_deck.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 LPUB ASSEM PLACEMENT BOTTOM_RIGHT PAGE
 0 LPUB PLI CONSTRAIN HEIGHT 256
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -238,7 +238,7 @@
 0 Left Fin
 0 Name: vehicle_053_leftside.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 LPUB ASSEM PLACEMENT BOTTOM_RIGHT PAGE
 0 LPUB PLI CONSTRAIN HEIGHT 256
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -295,7 +295,7 @@
 0 Right Fin
 0 Name: vehicle_053_rightside.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 LPUB ASSEM PLACEMENT BOTTOM_RIGHT PAGE
 0 LPUB PLI CONSTRAIN HEIGHT 256
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -352,7 +352,7 @@
 0 Front Spoiler
 0 Name: vehicle_053_front.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 LPUB ASSEM PLACEMENT BOTTOM_RIGHT PAGE
 0 LPUB PLI CONSTRAIN HEIGHT 256
 0 LPUB MULTI_STEP BEGIN
@@ -397,7 +397,7 @@
 0 Headlight
 0 Name: vehicle_053_headlight.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 1 -10 0 0 1 0 0 0 1 0 0 0 1 4070.dat
@@ -413,7 +413,7 @@
 0 Side Window
 0 Name: vehicle_053_sidewindow.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 -48 0 1 0 0 0 1 0 0 0 1 2377.dat
@@ -428,7 +428,7 @@
 0 Front Window 4 wide
 0 Name: vehicle_053_window4.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 -20 0 0 1 0 0 0 1 0 0 0 1 3938.dat
@@ -441,7 +441,7 @@
 0 Front Window 2 Wide
 0 Name: vehicle_053_window2.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 3938.dat
