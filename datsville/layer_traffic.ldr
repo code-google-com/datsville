@@ -36,7 +36,7 @@
 1 7 -1050 2 220 1 0 0 0 1 0 0 0 1 vehicle_011_graybmwsedan.ldr
 0 // city bus passing central park
 1 2 210 2 420 -1 0 0 0 1 0 0 0 -1 vehicle_012_blueandwhitebus.ldr
-1 15 -1040 -8 1660 0 0 -1 0 1 0 1 0 0 vehicle_013_yellowroundmailvan_parked.ldr
+1 15 -1040 -8 1660 0 0 -1 0 1 0 1 0 0 vehicle_013_yellowroundmailvan_parked.mpd
 1 15 1630 0 7460 0 0 -1 0 1 0 1 0 0 pedestrian_026_castleguard.ldr
 1 15 1450 0 7900 0 0 -1 0 1 0 1 0 0 pedestrian_026_castleguard.ldr
 1 15 2020 0 8250 1 0 0 0 1 0 0 0 1 pedestrian_026_castleguard.ldr
@@ -97,7 +97,7 @@
 1 0 -3620 0 -3975 -1 0 0 0 1 0 0 0 -1 vehicle_061_garbagetruck.ldr
 1 7 980 0 -420 0 0 -1 0 1 0 1 0 0 vehicle_060_ferraripolice.ldr
 1 7 1730 0 -2970 0 0 -1 0 1 0 1 0 0 vehicle_059_graymotorcyclewithbluerider.ldr
-1 16 -5570 -8 -570 0 0 -1 0 1 0 1 0 0 vehicle_062_hummer.ldr
+1 16 -5570 -8 -570 0 0 -1 0 1 0 1 0 0 vehicle_062_hummer.mpd
 1 7 4270 2 2880 -1 0 0 0 1 0 0 0 -1 vehicle_063_redbubbletruck.ldr
 1 7 -6070 0 2770 0 0 -1 0 1 0 1 0 0 vehicle_064_blacklimousine_2.ldr
 1 7 -1760 0 1070 0 0 1 0 1 0 -1 0 0 vehicle_065_orangewhitevan.ldr
