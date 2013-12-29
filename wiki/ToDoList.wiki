@@ -61,3 +61,4 @@
   # The tag 'Unofficial Model' needs to be replaced with 'Unofficial Datsville Model' in each model and sub-model.
   # Add missing titles to sub-models in MPD files.
   # Some author tags in sub-models remain blank. This needs to be fixed.
+  # Buildings with open backs should really be closed.

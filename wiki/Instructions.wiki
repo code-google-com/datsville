@@ -2,6 +2,7 @@
 
 = General guidelines =
 
+  * The spreadsheet "DatsvilleChecklist.xls" in the "svn\wiki" directory contains my list of tasks and notes that need to be done. Check it to see my progress.
   * Building, vehicle and minifigure models should be centered and sitting upon the origin. Use axis32x.dat too help orient models.
   * Inlined sub-models should be extracted and the parent model turned into an MPD file.
   * Inlining of sub-models should be avoided in general.

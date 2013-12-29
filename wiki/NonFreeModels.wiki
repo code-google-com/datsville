@@ -2,14 +2,16 @@
 
 If you notice anything else, please let us know.
 
-|| *Model* || *Copyright* ||
-|| vehicle_004_yellowtractorshovel.ldr || TLG ||
-|| building_003_eastwickechapel.ldr || TLG ||
-|| building_018_datsvillecollege.ldr || TLG ||
-|| building_041_collegelawn.ldr || maybe TLG ||
-|| building_035_petrolstation.mpd || shell logo, other? ||
-|| vehicle_039_yellowshelltankertruck.ldr || shell logo, other? ||
-|| pedestrian_022_manshelllogoredcap.ldr || shell logo, other? ||
-|| pedestrian_024_manshelllogoredcapsitting.ldr || shell logo, other? ||
-|| infrastructure_streetlamp || TLG ||
-|| infrastructure_streetlamp_4 || TLG ||
+|| *Model* || *Copyright* || Fixed ||
+|| vehicle_004_yellowtractorshovel || TLG || deleted ||
+|| building_003_eastwickechapel || TLG || deleted ||
+|| building_018_datsvillecollege || TLG || deleted ||
+|| building_041_collegelawn || maybe TLG || deleted ||
+|| building_035_petrolstation || shell logo, other? || x ||
+|| vehicle_039_yellowshelltankertruck || shell logo, other? || x ||
+|| pedestrian_022_manshelllogoredcap || shell logo, other? || x ||
+|| pedestrian_024_manshelllogoredcapsitting || shell logo, other? || x ||
+|| infrastructure_streetlamp || TLG ||  ||
+|| infrastructure_streetlamp_4 || TLG ||  ||
+|| infrastructure_railcrossing || TLG, adapted ||  ||
+|| building_070_bikerack || TLG (tree only?) ||  ||
