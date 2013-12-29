@@ -6,11 +6,11 @@
   * [http://www.mediafire.com/download/a53peudywzc1aki/datsville_rev337.zip Revision 337] 2013-12-21
   * [http://www.mediafire.com/download/i940zaxwk4obwhe/datsville_rev328.zip Revision 328] 2013-12-17
   * [http://www.mediafire.com/download/c3x7vhl98ok614a/datsville_rev308.zip Revision 308] 2013-12-09
-  * [http://www.mediafire.com/download/y82gnmad455mmnh/datsville_rev307.zip Revision 307]
+  * [http://www.mediafire.com/download/y82gnmad455mmnh/datsville_rev307.zip Revision 307] 2013-12-08
   * [http://www.mediafire.com/download/8qtfz162it58cpn/datsville_rev298.zip Revision 298] 2013-12-06
   * [http://www.mediafire.com/download/y09no6qzqvd428n/datsville_rev256.zip Revision 256] 2013-11-10
   * [http://www.mediafire.com/download/bkjfz40zbgwr9zt/datsville_rev224.zip Revision 224] 2013-10-25
-  * [http://www.mediafire.com/download/ifntfufa2r84u83/datsville_rev148.zip Revision 148]
+  * [http://www.mediafire.com/download/ifntfufa2r84u83/datsville_rev148.zip Revision 148] 2013-10-16
 
 == Pre-SVN Releases ==
 
