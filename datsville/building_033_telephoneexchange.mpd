@@ -2,7 +2,7 @@
 0 Datsville Phone Company Exchange
 0 Name: building_033_telephoneexchange.ldr
 0 Author: Jonathan Wilson
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 10 -120 -90 0 0 1 0 1 0 -1 0 0 73436.dat
@@ -51,7 +51,7 @@
 0 Minifig Desk
 0 Name: building_033_desk.ldr
 0 Author: Jonathan Wilson
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 50 -24 0 0 0 1 0 1 0 -1 0 0 3622.dat
@@ -67,7 +67,7 @@
 0 Sattelite Dish
 0 Name: building_033_dish.ldr
 0 Author: Jonathan Wilson
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 -10 0 1 0 0 0 1 0 0 0 1 6134.dat
@@ -81,7 +81,7 @@
 0 Sattelite Dish Base
 0 Name: building_033_dishb.ldr
 0 Author: Jonathan Wilson
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 -8 0 0 0 -1 0 1 0 1 0 0 3680.dat

@@ -2,7 +2,7 @@
 0 Solitary tiled panel wall
 0 Name: infrastructure_heavywall_solitary_wall-tiled.ldr
 0 Author: Jacob Sparre Andersen <sparre@nbi.dk>, July 2005
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 0 
@@ -25,7 +25,7 @@
 0 Column for carrying panel structures.
 0 Name: infrastructure_heavywall_column.ldr
 0 Author: Jacob Sparre Andersen <sparre@nbi.dk>, July 2005
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 TITLE Column for carrying panel structures.
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
@@ -60,7 +60,7 @@
 0 Tiled panel structure for plating on a house.
 0 Name: infrastructure_heavywall_tiled.ldr
 0 Author: Jacob Sparre Andersen <sparre@nbi.dk>, July 2005
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 TITLE Tiled panel structure for plating on a house.
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0

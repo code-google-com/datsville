@@ -2,7 +2,7 @@
 0 Digger Buggy
 0 Name: vehicle_048_bluedigger.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 -32 0 1 0 0 0 1 0 0 0 1 30062.dat
@@ -48,7 +48,7 @@
 0 Untitled
 0 Name: vehicle_048_claw.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 4275b.dat
@@ -62,7 +62,7 @@
 0 Untitled
 0 Name: vehicle_048_arm.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 4504.dat
@@ -73,7 +73,7 @@
 0 Untitled
 0 Name: vehicle_048_nail.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 14 0 0 0 1 0 0 0 1 0 0 0 1 4626.dat

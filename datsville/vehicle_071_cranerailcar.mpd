@@ -2,7 +2,7 @@
 0 Rail car with crane
 0 Name: vehicle_071_cranerailcar.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 -79 0 0 0 -1 0 1 0 1 0 0 6584.dat
@@ -64,7 +64,7 @@
 0 New Model
 0 Name: vehicle_071_Crane.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 14 30 0 0 0 0 1 0 1 0 -1 0 0 3023.dat
@@ -112,7 +112,7 @@
 0 New Model
 0 Name: vehicle_071_Boom.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 14 0 -50 0 1 0 0 0 1 0 0 0 1 3894.dat
@@ -144,7 +144,7 @@
 0 New Model
 0 Name: vehicle_071_Holder.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 3705.dat
@@ -159,7 +159,7 @@
 0 New Model
 0 Name: vehicle_071_Threader.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 -8 0 1 0 0 0 1 0 0 0 1 2584.dat
@@ -173,7 +173,7 @@
 0 New Model
 0 Name: vehicle_071_Wheelset.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 0 0 0 0 1 0 1 0 -1 0 0 4092a.dat
@@ -189,7 +189,7 @@
 0 New Model
 0 Name: vehicle_071_Legs.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 14 0 0 0 1 0 0 0 1 0 0 0 1 3666.dat
@@ -208,7 +208,7 @@
 0 New Model
 0 Name: vehicle_071_Foot.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 0 10 0 -1 0 1 0 0 0 0 1 481.dat

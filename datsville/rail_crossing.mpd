@@ -2,7 +2,7 @@
 0 Rail crossing based on set 7835
 0 Name: infrastructure_railcrossing.ldr
 0 Author: Jonathan Wilson, Tore Eriksson, Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 0 -16 240 0 0 -1 0 1 0 1 0 0 3032.dat
@@ -125,7 +125,7 @@
 0 Rail crossing sign
 0 Name: infrastructure_railcrossing_sign.ldr
 0 Author: Jonathan Wilson, Tore Eriksson, Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 -10 10 8 1 0 0 0 0 1 0 -1 0 3020.dat

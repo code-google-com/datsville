@@ -2,7 +2,7 @@
 0 MGB
 0 Name: vehicle_055_mgb.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 WRITE Floor 70
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
@@ -12,7 +12,7 @@
 0 New Model
 0 Name: vehicle_055_Car.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 4 20 -8 -80 1 0 0 0 1 0 0 0 1 50950.dat
@@ -102,7 +102,7 @@
 0 New Model
 0 Name: vehicle_055_SideA.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 4 0 -40 -10 0 0 1 0 1 0 -1 0 0 2362b.dat
@@ -131,7 +131,7 @@
 0 New Model
 0 Name: vehicle_055_SideB.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 4 0 -40 -10 0 0 -1 0 1 0 1 0 0 2362b.dat
@@ -160,7 +160,7 @@
 0 New Model
 0 Name: vehicle_055_BufferFront.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 -8 0 1 0 0 0 1 0 0 0 1 3623.dat
@@ -179,7 +179,7 @@
 0 New Model
 0 Name: vehicle_055_RearBumper.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 4 0 0 10 1 0 0 0 1 0 0 0 1 3021.dat
@@ -208,7 +208,7 @@
 0 New Model
 0 Name: vehicle_055_Wheel.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 256 0 0 0 1 0 0 0 1 0 0 0 1 51011.dat

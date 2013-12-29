@@ -1,7 +1,7 @@
 0 FILE building_083_airportlounge.ldr
 0 Police Airwing
 0 Author: Jonathan Wilson
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 -70 -120 -90 0 0 1 0 1 0 -1 0 0 73436.dat
@@ -50,7 +50,7 @@
 0 FILE building_083_desk.ldr
 0 Minifig Desk
 0 Author: Jonathan Wilson
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 50 0 -10 0 0 1 0 1 0 -1 0 0 3622.dat

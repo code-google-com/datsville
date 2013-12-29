@@ -2,7 +2,7 @@
 0 Triplex
 0 Name: building_012_triplex.ldr
 0 Author: Brian Sauls
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 building_012_triplexa.ldr
@@ -13,7 +13,7 @@
 0 Untitled
 0 Name: building_012_2bed.ldr
 0 Author: Brian Sauls
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG -3 0
 1 6 0 -24 -70 -1 0 0 0 1 0 0 0 -1 3009.dat
@@ -33,7 +33,7 @@
 0 Untitled
 0 Name: building_012_bphone.ldr
 0 Author: Brian Sauls
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 white phone
 0 black-buttone phone--set your own color
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -46,7 +46,7 @@
 0 Untitled
 0 Name: building_012_extlght1.ldr
 0 Author: Brian Sauls
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 -24 10 1 0 0 0 1 0 0 0 1 3665.dat
@@ -58,7 +58,7 @@
 0 Untitled
 0 Name: building_012_fridge.ldr
 0 Author: Brian Sauls
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 20 -8 0 0 0 -1 0 1 0 1 0 0 3023.dat
@@ -79,7 +79,7 @@
 0 lamp
 0 Name: building_012_lamp.ldr
 0 Author: Brian Sauls
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 1 0 -24 0 1 0 0 0 1 0 0 0 1 3062b.dat
@@ -91,7 +91,7 @@
 0 Untitled
 0 Name: building_012_lvseat1.ldr
 0 Author: Brian Sauls
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 4 0 -16 0 0 0 -1 0 1 0 1 0 0 3795.dat
@@ -106,7 +106,7 @@
 0 Untitled
 0 Name: building_012_row1.ldr
 0 Author: Brian Sauls
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 -280 -472 10 -1 0 0 0 1 0 0 0 -1 3297.dat
@@ -122,7 +122,7 @@
 0 Untitled
 0 Name: building_012_row2.ldr
 0 Author: Brian Sauls
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 -300 -24 -20 -1 0 0 0 1 0 0 0 -1 3298.dat
@@ -140,7 +140,7 @@
 0 Untitled
 0 Name: building_012_stove1.ldr
 0 Author: Brian Sauls
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 0 -24 0 1 0 0 0 1 0 0 0 1 3001.dat
@@ -154,7 +154,7 @@
 0 Untitled
 0 Name: building_012_toilet.ldr
 0 Author: Brian Sauls
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 20 -8 0 1 0 0 0 1 0 0 0 1 3794a.dat
@@ -169,7 +169,7 @@
 0 Untitled
 0 Name: building_012_winpane.ldr
 0 Author: Brian Sauls
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 0 -72 0 1 0 0 0 1 0 0 0 1 3853.dat
@@ -181,7 +181,7 @@
 0 Untitled
 0 Name: building_012_wphone.ldr
 0 Author: Brian Sauls
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 begin black phone
 0 white-buttoned phone--set your color
 0 
@@ -198,7 +198,7 @@
 0 Triplex B
 0 Name: building_012_triplexb.ldr
 0 Author: Brian Sauls
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 160 -192 -220 1 0 0 0 1 0 0 0 1 3456.dat
@@ -500,7 +500,7 @@
 0 Triplex C
 0 Name: building_012_triplexc.ldr
 0 Author: Brian Sauls
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 240 -8 -60 0 0 1 0 1 0 -1 0 0 3027.dat
@@ -611,7 +611,7 @@
 0 Triplex A
 0 Name: building_012_triplexa.ldr
 0 Author: Brian Sauls
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 80 -24 -150 1 0 0 0 1 0 0 0 1 3008.dat
