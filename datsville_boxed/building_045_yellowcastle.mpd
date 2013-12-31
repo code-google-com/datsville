@@ -2,7 +2,7 @@
 0 Yellow Castle
 0 Name: building_045_yellowcastle.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 15 0 0 160 1 0 0 0 1 0 0 0 1 building_045_1.ldr
@@ -12,7 +12,7 @@
 0 Untitled
 0 Name: building_045_1.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 14 -150 -24 -60 0 0 1 0 1 0 -1 0 0 3004.dat
@@ -181,7 +181,7 @@
 0 Untitled
 0 Name: building_045_2.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 14 10 0 0 1 0 0 0 1 0 0 0 1 3009.dat
@@ -279,7 +279,7 @@
 0 Untitled
 0 Name: building_045_3.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 14 -140 -24 70 1 0 0 0 1 0 0 0 1 3005.dat

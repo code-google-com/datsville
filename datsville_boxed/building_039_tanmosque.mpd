@@ -1,8 +1,8 @@
 0 FILE building_039.ldr
-0 New Model
+0 Tan Mosque
 0 Name: building_039.ldr
 0 Author: Fredrik Gl�ckner
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 0 -40 0 1 0 0 0 1 0 0 0 1 building_039_building.ldr
@@ -13,16 +13,15 @@
 0 Mosque, minifig scale
 0 Name: building_039_building.ldr
 0 Author: Fredrik Gl�ckner
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 0 !HISTORY 2001-09-19 Author posted at news:lugnet.cad.dat.models
 0 !HISTORY 2006-10-31 TE added to Pending folder
 0 !HISTORY 2010-05-22 TE moved to Town-2-1.ldr
-0 !LDBOXER LEVEL 0
-
 0 // Model url: http://news.lugnet.com/cad/dat/models/?n=1691
 0 // Approval url: http://news.lugnet.com/cad/dat/models/?n=1900
+
 1 19 0 0 120 -1 0 0 0 1 0 0 0 -1 3028.dat
 1 19 0 0 220 -1 0 0 0 1 0 0 0 -1 3029.dat
 1 19 -120 -24 60 0 0 1 0 1 0 -1 0 0 3831.dat
@@ -544,7 +543,7 @@
 0 Datsville Mosque Site
 0 Name: building_039_lawn.ldr
 0 Author: Tore Eriksson
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 0 !HISTORY 2010-05-22 TE created and added to Town-2-1.ldr

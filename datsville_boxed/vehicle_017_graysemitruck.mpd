@@ -2,7 +2,7 @@
 0 Truck Big
 0 Name: vehicle_017_graysemitruck.ldr
 0 Author:
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 0 Truck Base
@@ -55,7 +55,7 @@
 0 Truck spoiler
 0 Name: vehicle_017_4.ldr
 0 Author:
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 60 -8 10 1 0 0 0 1 0 0 0 1 3938.dat
@@ -66,7 +66,7 @@
 0 Truck Wheels
 0 Name: vehicle_017_3.ldr
 0 Author:
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 3706.dat
@@ -80,7 +80,7 @@
 0 Truck Trailer
 0 Name: vehicle_017_2.ldr
 0 Author:
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 0 10 200 1 0 0 0 1 0 0 0 1 vehicle_017_3.ldr
@@ -161,7 +161,7 @@
 0 Truck Cabin
 0 Name: vehicle_017_1.ldr
 0 Author:
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 -60 -88 131 1 0 0 0 0.707107 -0.707107 0 0.707107 0.707107 vehicle_017_4.ldr

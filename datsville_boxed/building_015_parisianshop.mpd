@@ -2,17 +2,14 @@
 0 Parisian Shop
 0 Name: building_015_parisianshop.ldr
 0 Author: Jacob Sparre Andersen
-0 Unofficial Model
-
+0 Unofficial Datsville Model
 0 REM Butik fra Paris - naer Centre Pompidou
-
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
 0 venstre
 0 | ned
 0 | | bagud
 0 | | |
-
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CONFIG 0 0
 1 0 60 -8 0 0 0 -1 0 1 0 1 0 0 3036.dat
 1 0 -60 -8 0 0 0 -1 0 1 0 1 0 0 3036.dat
 0 NOSTEP
@@ -79,21 +76,19 @@
 
 0 
 0 NOSTEP
-0 Boxed 12 parts.
-0
 0 FILE building_015_clothes.dat
 0 Clothes exhibitet in a Parisian shop.
 0 Name: building_015_clothes.dat
 0 Author: Jacob Sparre Andersen
-0 Unofficial Model
+0 Unofficial Datsville Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
 0 
 0 venstre
 0 | ned
 0 | | bagud
 0 | | |
 0 legs & hip
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CONFIG 0 0
 1 4 0 -28 0 1 0 0 0 1 0 0 0 1 3817.dat
 1 4 0 -28 0 1 0 0 0 1 0 0 0 1 3816.dat
 1 4 0 -40 0 1 0 0 0 1 0 0 0 1 3815.dat
@@ -118,7 +113,7 @@
 0 Untitled
 0 Name: building_015_tallwind.dat
 0 Author: Jacob Sparre Andersen
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0

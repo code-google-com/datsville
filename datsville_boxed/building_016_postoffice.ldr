@@ -1,7 +1,7 @@
 0 Datsville Post Office
 0 Name: building_016.ldr
 0 Author: Martin Palmberg
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 0 280 -24 140 -1 0 0 0 1 0 0 0 -1 3001.dat
@@ -408,10 +408,3 @@
 1 4 -210 -312 -50 0 0 1 0 1 0 -1 0 0 3045.dat
 1 4 -200 -336 -50 1 0 0 0 1 0 0 0 1 3048.dat
 0
-0 Boxed 178 parts.
-0
-0 // Boxed 1 parts ().
-0 // Boxed 22 parts (T).
-0 // Boxed 16 parts (B).
-0 // Boxed Total 39 parts by LDBoxer v2010a.
-

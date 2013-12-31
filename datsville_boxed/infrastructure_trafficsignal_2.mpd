@@ -1,8 +1,8 @@
 0 FILE infrastructure_trafficsignal_2.ldr
-0 Untitled
+0 Traffic Signal Mk2
 0 Name: infrastructure_trafficsignal_2.ldr
 0 Author: Michael Heidemann
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 288 0 -60 0 -1 0 0 0 0 -1 0 -1 0 59443.dat
@@ -26,7 +26,7 @@
 0 pedestrian-sign
 0 Name: infrastructure_trafficsignal_pedestriansign.ldr
 0 Author: Michael Heidemann
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG -3 1
 1 14 -10 -16 0 1 0 0 0 1 0 0 0 1 3023.dat
@@ -38,7 +38,7 @@
 0 traffic-sign
 0 Name: infrastructure_trafficsignal_trafficsign.ldr
 0 Author: Michael Heidemann
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG -3 1
 1 14 20 14 0 1 0 0 0 1 0 0 0 1 3623.dat
@@ -52,7 +52,7 @@
 0 roadname
 0 Name: infrastructure_trafficsignal_roadname.ldr
 0 Author: Michael Heidemann
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG -3 1
 1 10 0 -10 -20 1 0 0 0 1 0 0 0 1 2431.dat

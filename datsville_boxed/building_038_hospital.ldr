@@ -1,8 +1,7 @@
 0 Datsville Hospital
 0 Name: building_038_hospital.ldr
 0 Author: Robert Virsik
-0 Unofficial Model
-0 EXTRACT
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 240 0 20 1 0 0 0 1 0 0 0 1 vehicle_040_whiteambulance.ldr

@@ -1,7 +1,7 @@
 0 Bram's Home
 0 Name: building_011.ldr
 0 Author: Bram Lambrecht <blambrec@student.chuh.org>
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 1 14 140 -8 300 1 0 0 0 1 0 0 0 1 3832.dat
@@ -1192,5 +1192,3 @@
 1 0 230 -624 -170 0 0 1 0 1 0 -1 0 0 3062b.dat
 1 0 250 -624 -170 0 0 1 0 1 0 -1 0 0 3062b.dat
 0
-0 Boxed 640 parts.
-

@@ -1,8 +1,8 @@
 0 FILE building_085_Sculpture.ldr
-0 Untitled
+0 Rocket Sculpture
 0 Name: building_085_Sculpture.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 20 -16 -50 1 0 0 0 1 0 0 0 1 3070b.dat
@@ -20,7 +20,7 @@
 0 New Model
 0 Name: building_085_Strut.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 0 -80 0 -1 0 0 0 1 0 0 0 -1 3676.dat
@@ -53,7 +53,7 @@
 0 New Model
 0 Name: building_085_Round.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 0 0 60 1 0 0 0 1 0 0 0 1 4070.dat

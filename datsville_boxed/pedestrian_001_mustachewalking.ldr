@@ -1,10 +1,10 @@
 0 Minifig Walking Man Generic
 0 Name: pedestrian_001_mustachewalking.ldr
 0 Author: John VanZwieten
-0 Unofficial Model
-0 legs & hip
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
+0 legs & hip
 1 16 0 -28 1 1 0 0 0 0.966 0.259 0 -0.259 0.966 3817.dat
 1 16 0 -28 1 1 0 0 0 0.966 -0.259 0 0.259 0.966 3816.dat
 1 0 0 -40 1 1 0 0 0 1 0 0 0 1 3815.dat

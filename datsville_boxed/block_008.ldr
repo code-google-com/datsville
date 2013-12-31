@@ -1,7 +1,7 @@
-0 Town Scene Main.
+0 Datsville City Block #8
 0 Name: block_008.ldr
-0 Author: John VanZwieten, Michael Horvath
-0 Unofficial Model
+0 Author: John VanZwieten, Michael Horvath, Tore Eriksson
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 -5680 -16 1600 0 0 1 0 1 0 -1 0 0 building_019_cricketground.mpd
