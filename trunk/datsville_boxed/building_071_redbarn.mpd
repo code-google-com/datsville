@@ -1,6 +1,9 @@
 0 FILE building_071_neyst.ldr
-0 TITLE        Boat house
+0 Boathouse
 0 Name: building_071_neyst.ldr
+0 Author: Jacob Sparre Andersen <sparre@nbi.dk>
+0 Unofficial Datsville Model
+0 TITLE        Boat house
 0 DESCRIPTION  A traditional Faroese boat house.
 0 DESIGN       Jacob Sparre Andersen <sparre@nbi.dk>
 0 DRAWING      Jacob Sparre Andersen <sparre@nbi.dk>
@@ -8,19 +11,12 @@
 0 LICENSE      The Beer-Ware License (Revision 42)
 0 WEB-PAGE     http://lego.sparre-andersen.dk/Transport/Skibe/Neyst/
 0 ILLUSTRATION http://lego.sparre-andersen.dk/Transport/Skibe/Neyst/illustration
-0 Unofficial Model
-
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
 0 venstre
 0 |    ned
 0 |    |    bagud
 0 |    |    |
-
-0 !COLOUR dark-red CODE 64 VALUE #78001C EDGE 15 ALPHA 255
-0 !COLOUR red-brown CODE 70 VALUE #694027 EDGE 0 ALPHA 255
-0 !COLOUR medium-stone CODE 71 VALUE #A3A2A4 EDGE 0 ALPHA 255
-0 !COLOUR dark-stone CODE 72 VALUE #635F61 EDGE 15 ALPHA 255
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CONFIG 0 0
 1 4 90 0 0 1 0 0 0 1 0 0 0 1 building_071_samlet-v.ldr
 1 4 -90 0 0 -1 0 0 0 1 0 0 0 -1 building_071_samlet-v.ldr
 0 STEP
@@ -40,37 +36,32 @@
 
 0
 0 FILE building_071_samlet-v.ldr
-0 Was: 0 FILE samlet-v.ldr
+0 Samlet vaeg til baadeskuret
 0 Name: building_071_samlet-v.ldr
+0 Author: Jacob Sparre Andersen <sparre@nbi.dk>
+0 Unofficial Datsville Model
 0 TITLE Samlet vaeg til baadeskuret
-
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
 0 venstre
 0 |    ned
 0 |    |    bagud
 0 |    |    |
-
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CONFIG 0 0
 1 15 0 0 0 1 0 0 0 1 0 0 0 1 building_071_skelet.ldr
 1 4 6 -88 0 0 -1 0 0 0 1 -1 0 0 building_071_vaeg.ldr
-
 0
 0 FILE building_071_loft.ldr
-0 TITLE Loft i baadeskur
+0 Loft i baadeskur
 0 Name: building_071_loft.ldr
-
-
+0 Author: Jacob Sparre Andersen <sparre@nbi.dk>
+0 Unofficial Datsville Model
+0 TITLE Loft i baadeskur
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
 0 venstre
 0 |    ned
 0 |    |    bagud
 0 |    |    |
-
-0 !COLOUR dark-red CODE 64 VALUE #78001C EDGE 15 ALPHA 255
-0 !COLOUR red-brown CODE 70 VALUE #694027 EDGE 0 ALPHA 255
-0 !COLOUR medium-stone CODE 71 VALUE #A3A2A4 EDGE 0 ALPHA 255
-0 !COLOUR dark-stone CODE 72 VALUE #635F61 EDGE 15 ALPHA 255
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CONFIG 0 0
 1 15 0 0 90 1 0 0 0 1 0 0 0 1 4477.dat
 1 15 0 0 0 0 0 1 0 1 0 -1 0 0 3034.dat
 1 15 0 0 -90 1 0 0 0 1 0 0 0 1 4477.dat
@@ -91,21 +82,17 @@
 
 0
 0 FILE building_071_facade.ldr
-0 TITLE Baadeskurets gavl (overetagen)
+0 Baadeskurets gavl (overetagen)
 0 Name: building_071_facade.ldr
-
-
+0 Author: Jacob Sparre Andersen <sparre@nbi.dk>
+0 Unofficial Datsville Model
+0 TITLE Baadeskurets gavl (overetagen)
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
 0 venstre
 0 |    ned
 0 |    |    bagud
 0 |    |    |
-
-0 !COLOUR dark-red CODE 64 VALUE #78001C EDGE 15 ALPHA 255
-0 !COLOUR red-brown CODE 70 VALUE #694027 EDGE 0 ALPHA 255
-0 !COLOUR medium-stone CODE 71 VALUE #A3A2A4 EDGE 0 ALPHA 255
-0 !COLOUR dark-stone CODE 72 VALUE #635F61 EDGE 15 ALPHA 255
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CONFIG 0 0
 1 14 0 0 0 1 0 0 0 1 0 0 0 1 3666.dat
 0 STEP
 
@@ -125,21 +112,17 @@
 
 0
 0 FILE building_071_doer.ldr
-0 TITLE Door for the boat nest
+0 Door for the boat nest
 0 Name: building_071_doer.ldr
-
-
+0 Author: Jacob Sparre Andersen <sparre@nbi.dk>
+0 Unofficial Datsville Model
+0 TITLE Door for the boat nest
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
 0 venstre
 0 |    ned
 0 |    |    bagud
 0 |    |    |
-
-0 !COLOUR dark-red CODE 64 VALUE #78001C EDGE 15 ALPHA 255
-0 !COLOUR red-brown CODE 70 VALUE #694027 EDGE 0 ALPHA 255
-0 !COLOUR medium-stone CODE 71 VALUE #A3A2A4 EDGE 0 ALPHA 255
-0 !COLOUR dark-stone CODE 72 VALUE #635F61 EDGE 15 ALPHA 255
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CONFIG 0 0
 1 4 0 0 0 0 0 1 0 1 0 -1 0 0 3032.dat
 1 0 -30 -32 0 0 0 1 0 1 0 -1 0 0 2432.dat
 1 0 20 -8 30 1 0 0 0 1 0 0 0 1 4276b.dat
@@ -147,21 +130,17 @@
 
 0
 0 FILE building_071_tag.ldr
-0 TITLE B�deskurets tag
+0 B�deskurets tag
 0 Name: building_071_tag.ldr
-
-
+0 Author: Jacob Sparre Andersen <sparre@nbi.dk>
+0 Unofficial Datsville Model
+0 TITLE B�deskurets tag
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
 0 venstre
 0 |    ned
 0 |    |    bagud
 0 |    |    |
-
-0 !COLOUR dark-red CODE 64 VALUE #78001C EDGE 15 ALPHA 255
-0 !COLOUR red-brown CODE 70 VALUE #694027 EDGE 0 ALPHA 255
-0 !COLOUR medium-stone CODE 71 VALUE #A3A2A4 EDGE 0 ALPHA 255
-0 !COLOUR dark-stone CODE 72 VALUE #635F61 EDGE 15 ALPHA 255
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CONFIG 0 0
 1 4 80 -8 40 1 0 0 0 1 0 0 0 1 3035.dat
 1 4 80 -8 -40 1 0 0 0 1 0 0 0 1 3035.dat
 1 4 -80 -8 40 1 0 0 0 1 0 0 0 1 3035.dat
@@ -197,21 +176,17 @@
 
 0
 0 FILE building_071_skelet.ldr
-0 TITLE Skelet til baadeskurets vaegge
+0 Skelet til baadeskurets vaegge
 0 Name: building_071_skelet.ldr
-
-
+0 Author: Jacob Sparre Andersen <sparre@nbi.dk>
+0 Unofficial Datsville Model
+0 TITLE Skelet til baadeskurets vaegge
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
 0 venstre
 0 |    ned
 0 |    |    bagud
 0 |    |    |
-
-0 !COLOUR dark-red CODE 64 VALUE #78001C EDGE 15 ALPHA 255
-0 !COLOUR red-brown CODE 70 VALUE #694027 EDGE 0 ALPHA 255
-0 !COLOUR medium-stone CODE 71 VALUE #A3A2A4 EDGE 0 ALPHA 255
-0 !COLOUR dark-stone CODE 72 VALUE #635F61 EDGE 15 ALPHA 255
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CONFIG 0 0
 1 15 0 -24 90 0 0 -1 0 1 0 1 0 0 3005.dat
 1 15 0 -24 -90 0 0 -1 0 1 0 1 0 0 3005.dat
 1 15 0 -48 90 0 0 -1 0 1 0 1 0 0 4070.dat
@@ -229,21 +204,17 @@
 
 0
 0 FILE building_071_vaeg.ldr
-0 TITLE B�deskurets v�g
+0 B�deskurets v�g
 0 Name: building_071_vaeg.ldr
-
-
+0 Author: Jacob Sparre Andersen <sparre@nbi.dk>
+0 Unofficial Datsville Model
+0 TITLE B�deskurets v�g
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
 0 venstre
 0 |    ned
 0 |    |    bagud
 0 |    |    |
-
-0 !COLOUR dark-red CODE 64 VALUE #78001C EDGE 15 ALPHA 255
-0 !COLOUR red-brown CODE 70 VALUE #694027 EDGE 0 ALPHA 255
-0 !COLOUR medium-stone CODE 71 VALUE #A3A2A4 EDGE 0 ALPHA 255
-0 !COLOUR dark-stone CODE 72 VALUE #635F61 EDGE 15 ALPHA 255
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CONFIG 0 0
 1 4 120 -16 0 0 0 1 0 1 0 -1 0 0 3035.dat
 1 4 40 -16 0 0 0 1 0 1 0 -1 0 0 3035.dat
 1 4 -40 -16 0 0 0 1 0 1 0 -1 0 0 3035.dat

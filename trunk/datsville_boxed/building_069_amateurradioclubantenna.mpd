@@ -2,7 +2,7 @@
 0 L3GO Amateur Radio Club (and MoonBounce Antenna)
 0 Name: building_069_amateurradioclubantenna.ldr
 0 Author: Jonathan Gevaryahu
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 8 0 -24 0 1 0 0 0 1 0 0 0 1 3403.dat
@@ -55,7 +55,7 @@
 0 EME Antenna Mount
 0 Name: building_069_emebase.ldr
 0 Author: Jonathan Gevaryahu
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 0 -8 0 1 0 0 0 1 0 0 0 1 2580.dat
@@ -71,7 +71,7 @@
 0 Earth-Moon-Earth Antenna Array
 0 Name: building_069_eme01.ldr
 0 Author: Jonathan Gevaryahu
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 0 -8 -10 1 0 0 0 1 0 0 0 1 6134.dat

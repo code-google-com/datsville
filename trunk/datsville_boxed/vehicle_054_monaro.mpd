@@ -1,8 +1,8 @@
 0 FILE vehicle_064_monaro3.ldr
-0 Untitled
+0 Monaro
 0 Name: vehicle_064_monaro3.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 LPUB PAGE SIZE 1485 1050
 0 LPUB PAGE BORDER MARGINS 100 70
 0 LPUB PAGE NUMBER MARGINS 50 30
@@ -117,7 +117,7 @@
 0 New Model
 0 Name: vehicle_064_backlights.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 30414.dat
@@ -130,7 +130,7 @@
 0 New Model
 0 Name: vehicle_064_frontlights.ldr
 0 Author: Tim Gould
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 30 -8 30 1 0 0 0 1 0 0 0 1 4070.dat

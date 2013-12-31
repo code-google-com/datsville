@@ -1,7 +1,8 @@
 0 FILE building_009_complete.ldr
+0 Heavy Element Refinery
 0 Name: building_009_complete.dat
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 1 300 -24 140 0 0 1 0 1 0 -1 0 0 3001.dat
@@ -434,7 +435,7 @@
 0 FILE building_009_fan1.ldr
 0 Name: building_009_fan1.dat
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 1 0 10 -17 1 0 0 0 1 0 0 0 1 3895.dat
@@ -447,7 +448,7 @@
 0 FILE building_009_gate.ldr
 0 Name: building_009_gate.dat
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 building_009_beam.ldr
@@ -469,7 +470,7 @@
 0 FILE building_009_beam.ldr
 0 Name: building_009_beam.dat
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 1 0 0 0 1 0 0 0 1 0 0 0 1 3622.dat
@@ -506,7 +507,7 @@
 0 New Model
 0 Name: building_009_terminal.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 0 0 0 1 0 0 0 1 0 0 0 1 3679.dat
@@ -516,7 +517,7 @@
 0 FILE building_009_orecart.ldr
 0 Name: building_009_orecart.dat
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 0 0 0 1 0 0 0 1 0 0 0 1 3832.dat
@@ -549,7 +550,7 @@
 0 New Model
 0 Name: building_009_figure_sit2.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 0 0 0 1 0 0 0 1 0 0 0 1 3679.dat
@@ -560,32 +561,25 @@
 0 New Model
 0 Name: building_009_figure_sit1.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 0 0 0 1 0 0 0 1 0 0 0 1 3679.dat
 1 14 0 -8 0 0 0 1 0 1 0 -1 0 0 4079.dat
-1 0 8 -17 0 0 -1 0 0 0 1 -1 0 0 3816.dat
-1 0 8 -17 0 0 -1 0 0 0 1 -1 0 0 3817.dat
-1 0 8 -29 0 0 0 1 0 1 0 -1 0 0 3815.dat
-1 1 8 -61 0 0 0 1 0 1 0 -1 0 0 973.dat
-1 14 8 -85 0 0 0 1 0 1 0 -1 0 0 3626bp01.dat
-1 0 8 -85 0 0 0 1 0 1 0 -1 0 0 3624.dat
-1 1 8 -52 0 0 -0.71 0.71 0 0.71 0.71 -1 0 0 975.dat
-1 1 8 -52 0 0 -0.71 0.71 0 0.71 0.71 -1 0 0 976.dat
-1 14 -20 -48 22 1 0 0 0 1 0 0 0 1 977.dat
-1 14 -20 -48 -22 1 0 0 0 1 0 0 0 1 977.dat
+1 14 10 -8 0 1 0 0 0 1 0 0 0 1 pedestrian_037_bluefiguresit1.ldr
 0 
 0
 0 FILE building_009_figure_sit3.ldr
 0 New Model
 0 Name: building_009_figure_sit3.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 0 -1 0 1 0 0 0 1 0 0 0 1 3679.dat
-1 14 0 -10 0 -1 0 0 0 1 0 0 0 -1 4079.dat
+1 14 0 -9 0 -1 0 0 0 1 0 0 0 -1 4079.dat
+0 
+0 
 0 
 0 
 0 

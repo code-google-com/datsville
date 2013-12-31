@@ -1,7 +1,7 @@
-0 My House
+0 John VanZwieten's House
 0 Name: building_010_johnshouse.ldr
 0 Author: John VanZwieten
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 382 0 -8 20 1 0 0 0 1 0 0 0 1 3022.dat
@@ -832,6 +832,4 @@
 1 2 0 -408 -220 0 0 -1 0 1 0 1 0 0 3043.dat
 1 382 -20 -416 -80 1 0 0 0 1 0 0 0 1 4073.dat
 1 0 -20 -440 -80 0 0 -1 0 1 0 1 0 0 3043.dat
-
-0 Boxed 387 parts.
 0

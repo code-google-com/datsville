@@ -1,8 +1,8 @@
 0 FILE vehicle_034_redfiretruck05.ldr
 0 Datsville FC Brush Truck
 0 Name: vehicle_034_redfiretruck05.ldr
-0 Author: Ryan Dennett
-0 Unofficial Model
+0 Author: Ryan Dennett, Bram Lambrecht
+0 Unofficial Datsville Model
 0 modeled after Bram Lambrecht's Hummer model
 0 converted it into this pickup style Hummer
 0 a Brush/Forest Fire Truck
@@ -94,44 +94,44 @@
 1 4 -20 -118 60 1 0 0 0 1 0 0 0 1 2584.dat
 1 0 -20 -124 60 1 0 0 0 1 0 0 0 1 2585.dat
 0 
-1 4 20 -94 60 1 0 0 0 1 0 0 0 1 vehicle_034_pump.dat
+1 4 20 -94 60 1 0 0 0 1 0 0 0 1 vehicle_034_pump.ldr
 0 
 1 7 50 -84 30 1 0 0 0 1 0 0 0 1 3841.dat
 0 
-1 0 50 -31 3 1 0 0 0 1 0 0 0 1 vehicle_034_hoses.dat
-1 0 -48 -31 3 1 0 0 0 1 0 0 0 1 vehicle_034_hoses.dat
-1 0 16 -55 130 1 0 0 0 1 0 0 0 1 vehicle_034_hose.dat
+1 0 50 -31 3 1 0 0 0 1 0 0 0 1 vehicle_034_hoses.ldr
+1 0 -48 -31 3 1 0 0 0 1 0 0 0 1 vehicle_034_hoses.ldr
+1 0 16 -55 130 1 0 0 0 1 0 0 0 1 vehicle_034_hose.ldr
 0
-0 FILE vehicle_034_dhstrain.dat
+0 FILE vehicle_034_dhstrain.ldr
 0 Untitled
-0 Name: vehicle_034_dhstrain.dat
+0 Name: vehicle_034_dhstrain.ldr
 0 Author: Ryan Dennett
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 0 0 48 1 0 0 0 0 1 0 -1 0 3062b.dat
 1 7 0 0 24 1 0 0 0 0 1 0 -1 0 4733.dat
 0 
 0
-0 FILE vehicle_034_hose.dat
+0 FILE vehicle_034_hose.ldr
 0 Untitled
-0 Name: vehicle_034_hose.dat
+0 Name: vehicle_034_hose.ldr
 0 Author: Ryan Dennett
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 -26 -20 0 1 0 0 0 1 0 0 0 1 755.dat
 1 0 5 -13 0 0 1 0 -1 0 0 0 0 1 755.dat
 1 0 -26 -20 0 1 0 0 0 -1 0 0 0 -1 752.dat
 1 0 5 -13 0 0 -1 0 1 0 0 0 0 1 752.dat
-1 16 0 3 0 1 0 0 0 1 0 0 0 1 vehicle_034_hoser2.dat
+1 16 0 3 0 1 0 0 0 1 0 0 0 1 vehicle_034_hoser2.ldr
 0 
 0
-0 FILE vehicle_034_hose2.dat
+0 FILE vehicle_034_hose2.ldr
 0 Untitled
-0 Name: vehicle_034_hose2.dat
+0 Name: vehicle_034_hose2.ldr
 0 Author: Ryan Dennett
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 Created by John Van Zwitzen's Hoser
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
@@ -187,11 +187,11 @@
 1 0 -1 -87.21 5.37 1 0 0 0 -0.09 -1 0 1 -0.09 756.dat
 0 
 0
-0 FILE vehicle_034_hoser2.dat
+0 FILE vehicle_034_hoser2.ldr
 0 Untitled
-0 Name: vehicle_034_hoser2.dat
+0 Name: vehicle_034_hoser2.ldr
 0 Author: Ryan Dennett
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 Created by John Van Zwitzen's Hoser
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
@@ -247,28 +247,28 @@
 1 0 -25.36 -14.84 0 0 0.45 0.89 0 0.89 -0.45 -1 0 0 756.dat
 0 
 0
-0 FILE vehicle_034_hoses.dat
+0 FILE vehicle_034_hoses.ldr
 0 Untitled
-0 Name: vehicle_034_hoses.dat
+0 Name: vehicle_034_hoses.ldr
 0 Author: Ryan Dennett
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 -18 87 1 0 0 0 1 0 0 0 1 752.dat
 1 0 0 -18 87 1 0 0 0 -1 0 0 0 -1 755.dat
 1 0 -1 -109 18 1 0 0 0 0 1 0 -1 0 752.dat
 1 0 -1 -109 18 1 0 0 0 0 -1 0 1 0 755.dat
-1 7 0 -22 21 1 0 0 0 1 0 0 0 1 vehicle_034_hose2.dat
+1 7 0 -22 21 1 0 0 0 1 0 0 0 1 vehicle_034_hose2.ldr
 0 
 0
-0 FILE vehicle_034_pump.dat
+0 FILE vehicle_034_pump.ldr
 0 Untitled
-0 Name: vehicle_034_pump.dat
+0 Name: vehicle_034_pump.ldr
 0 Author: Ryan Dennett
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
-1 16 -10 -22 16 1 0 0 0 1 0 0 0 1 vehicle_034_dhstrain.dat
+1 16 -10 -22 16 1 0 0 0 1 0 0 0 1 vehicle_034_dhstrain.ldr
 1 4 0 -8 0 1 0 0 0 1 0 0 0 1 3022.dat
 1 4 10 -32 -10 0 0 -1 0 1 0 1 0 0 4070.dat
 1 4 10 -32 10 0 0 -1 0 1 0 1 0 0 4070.dat
@@ -276,6 +276,7 @@
 1 4 -10 -32 10 -1 0 0 0 1 0 0 0 -1 4070.dat
 1 4 0 -40 0 1 0 0 0 1 0 0 0 1 3022.dat
 1 15 24 -22 0 0 -1 0 0 0 -1 1 0 0 3069bp68.dat
+0 
 0 
 0 
 0 

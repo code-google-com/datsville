@@ -1,8 +1,8 @@
 0 FILE building_068.ldr
-0 Untitled
+0 Small Warehouse
 0 Name: building_068.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 0 240 0 1 0 0 0 1 0 0 0 1 building_068_roof.ldr
@@ -293,7 +293,7 @@
 0 New Model
 0 Name: building_068_roof.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 -580 -488 240 0 0 1 0 1 0 -1 0 0 building_068_rooftile_a.ldr
@@ -456,7 +456,7 @@
 0 New Model
 0 Name: building_068_fence.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 580 -72 930 -1 0 0 0 1 0 0 0 -1 3684.dat
@@ -575,7 +575,7 @@
 0 New Model
 0 Name: building_068_booth.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 47 0 -168 -30 1 0 0 0 1 0 0 0 1 4872.dat
@@ -598,7 +598,7 @@
 0 New Model
 0 Name: building_068_shack.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 0 -24 -50 1 0 0 0 1 0 0 0 1 3009.dat
@@ -627,7 +627,7 @@
 0 New Model
 0 Name: building_068_tank.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 2 0 -96 0 1 0 0 0 1 0 0 0 1 6259.dat
@@ -639,7 +639,7 @@
 0 New Model
 0 Name: building_068_rooftile_a.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 0 -24 0 1 0 0 0 1 0 0 0 1 4515.dat
@@ -650,7 +650,7 @@
 0 New Model
 0 Name: building_068_crate.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 19 0 -8 0 1 0 0 0 1 0 0 0 1 61780.dat

@@ -1,11 +1,7 @@
-0 Town Scene Main.
-0 NAME layer_traffic.ldr
-0 Author: John VanZwieten, Michael Horvath
-0 Unofficial Model
-0 !COLOUR red-brown CODE 70 VALUE #694027 EDGE 0 ALPHA 255
-0 !COLOUR medium-stone CODE 71 VALUE #A3A2A4 EDGE 0 ALPHA 255
-0 !COLOUR dark-stone CODE 72 VALUE #635F61 EDGE 15 ALPHA 255
-0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 Datsville Traffic and People Layer
+0 Name: layer_traffic.ldr
+0 Author: John VanZwieten, Michael Horvath, Tore Eriksson
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 5920 0 -4880 0 0 -1 0 1 0 1 0 0 vehicle_028_yellowtraincarwithblacktrailer.mpd
@@ -17,7 +13,6 @@
 1 16 5420 -8 1640 1 0 0 0 1 0 0 0 1 vehicle_049_blueloader.mpd
 1 16 4980 -8 1440 0 0 1 0 1 0 -1 0 0 vehicle_050_bluecargo.ldr
 1 16 6060 -8 1840 0 0 -1 0 1 0 1 0 0 vehicle_052_bluedozer.ldr
-0 EXTRACT
 1 2 -360 -92 5475 -0.71 0 0.71 0 1 0 -0.71 0 -0.71 vehicle_001_yellowbulldozer.mpd
 1 2 -440 2 4380 -1 0 0 0 1 0 0 0 -1 vehicle_002_yellowheavyequipmentcarrier.ldr
 1 2 -1360 24 5480 0 0 1 0 1 0 -1 0 0 vehicle_003_redfireboat.ldr
@@ -28,11 +23,6 @@
 1 0 250 0 -3500 -1 0 0 0 1 0 0 0 -1 vehicle_007_whitepolicecar.ldr
 1 0 410 0 -3480 -1 0 0 0 1 0 0 0 -1 vehicle_036_whitepolicevan.ldr
 1 0 570 0 -3480 -1 0 0 0 1 0 0 0 -1 vehicle_037_whitepolicevan02.ldr
-0 /////////////////////////////////////////////////////////////////////////////
-0 !LDSWITCH DEFINE TOWNPEEP Inline
-0 !LDSWITCH TOWNPEEP
-0 !LDSWITCH CASE Inline
-0 Town01
 0 // police car behind t-hall
 0 // fire chief's car behind t-hall
 0 // DragonMotors A09SE behind t-hall
@@ -41,14 +31,11 @@
 0 // gray car heading towards triplex
 1 0 -2340 2 -1200 1 0 0 0 1 0 0 0 1 vehicle_010_graystationwagon.ldr
 1 0 -5850 -8 -570 0 0 -1 0 1 0 1 0 0 vehicle_047_pizzadelivery.ldr
-0 !LDSWITCH CASE Use
-0 0
-0 !LDSWITCH End
 0 // BMW car in front of t-hall
 1 7 -1050 2 220 1 0 0 0 1 0 0 0 1 vehicle_011_graybmwsedan.ldr
 0 // city bus passing central park
 1 2 210 2 420 -1 0 0 0 1 0 0 0 -1 vehicle_012_blueandwhitebus.ldr
-1 15 -1040 -8 1660 0 0 -1 0 1 0 1 0 0 vehicle_013_yellowroundmailvan_parked.ldr
+1 15 -1040 -8 1660 0 0 -1 0 1 0 1 0 0 vehicle_013_yellowroundmailvan_parked.mpd
 1 15 1630 0 7460 0 0 -1 0 1 0 1 0 0 pedestrian_026_castleguard.ldr
 1 15 1450 0 7900 0 0 -1 0 1 0 1 0 0 pedestrian_026_castleguard.ldr
 1 15 2020 0 8250 1 0 0 0 1 0 0 0 1 pedestrian_026_castleguard.ldr
@@ -59,6 +46,7 @@
 1 0 2150 2 1450 1 0 0 0 1 0 0 0 1 vehicle_057_yellowroundmailvan_withdriver.ldr
 0 // 6-wide convertible car passing fire station
 1 0 2460 2 -240 0 0 -1 0 1 0 1 0 0 vehicle_015_whitesportscar.ldr
+1 0 3890 -8 -1140 1 0 0 0 1 0 0 0 1 vehicle_058_graybicyclewithrider.ldr
 0 // pickup truck parked beside Calvin's house
 1 2 720 -8 -800 1 0 0 0 1 0 0 0 1 vehicle_016_redpickuptruck.ldr
 1 1 4700 2 870 0 0 1 0 1 0 -1 0 0 vehicle_017_graysemitruck.mpd
@@ -67,7 +55,7 @@
 1 14 5140 -8 260 0 0 -1 0 1 0 1 0 0 vehicle_041_weirdportalwithoutwheels.ldr
 1 14 5180 -8 280 0 0 -1 0 1 0 1 0 0 vehicle_041_weirdportalwithoutwheels.ldr
 1 14 5280 -8 620 -0.5 0 0.886 0 1 0 -0.886 0 -0.5 vehicle_019_weirdportalonwheels.mpd
-1 0 -1280 -8 -3370 0 0 -1 0 1 0 1 0 0 vehicle_020_redconvertiblecar.ldr
+1 0 -1280 -8 -3370 0 0 -1 0 1 0 1 0 0 vehicle_020_redferrari.ldr
 0 // woman entering Brickman's (Up to Rev034: -2740 -16 -2360)
 1 2 -660 -8 -2610 -0.5 0 0.87 0 1 0 -0.87 0 -0.5 pedestrian_005_womanredhairwalking.ldr
 0 // Cargo Delivery Truck parked at Brickman's
@@ -79,7 +67,6 @@
 1 7 -2260 -17 -2180 -1 0 0 0 0.886 0.5 0 0.5 -0.886 vehicle_025_redmotorcycleandwhiterider.ldr
 1 2 1670 -24 -1280 0 0 -1 0 1 0 1 0 0 vehicle_026_bluecoupe.ldr
 1 0 3770 0 -3560 1 0 0 0 1 0 0 0 1 vehicle_027_grayconvertible.ldr
-1 12 3610 0 -3570 1 0 0 0 1 0 0 0 1 vehicle_009_graycoupe.ldr
 1 0 -220 2 -4260 -1 0 0 0 1 0 0 0 -1 vehicle_029_blacklimousine.ldr
 1 7 -440 2 3790 -1 0 0 0 1 0 0 0 -1 pedestrian_001_mustachewalking.ldr
 1 0 -480 2 3850 0.94 0 -0.34 0 1 0 0.34 0 0.94 pedestrian_001_mustachewalking.ldr
@@ -108,7 +95,7 @@
 1 0 -3620 0 -3975 -1 0 0 0 1 0 0 0 -1 vehicle_061_garbagetruck.ldr
 1 7 980 0 -420 0 0 -1 0 1 0 1 0 0 vehicle_060_ferraripolice.ldr
 1 7 1730 0 -2970 0 0 -1 0 1 0 1 0 0 vehicle_059_graymotorcyclewithbluerider.ldr
-1 16 -5570 -8 -570 0 0 -1 0 1 0 1 0 0 vehicle_062_hummer.ldr
+1 16 -5570 -8 -570 0 0 -1 0 1 0 1 0 0 vehicle_062_hummer.mpd
 1 7 4270 2 2880 -1 0 0 0 1 0 0 0 -1 vehicle_063_redbubbletruck.ldr
 1 7 -6070 0 2770 0 0 -1 0 1 0 1 0 0 vehicle_064_blacklimousine_2.ldr
 1 7 -1760 0 1070 0 0 1 0 1 0 -1 0 0 vehicle_065_orangewhitevan.ldr
@@ -125,15 +112,11 @@
 1 16 1630 0 -6230 -1 0 0 0 1 0 0 0 -1 vehicle_081_asphalttruck.ldr
 1 16 1150 0 -6240 -1 0 0 0 1 0 0 0 -1 vehicle_082_wideloadwarningcar.ldr
 1 16 540 0 -5310 1 0 0 0 1 0 0 0 1 vehicle_083_traytruck.ldr
-1 16 840 0 -6260 1 0 0 0 1 0 0 0 1 vehicle_007_whitepolicecar.ldr
-1 16 990 0 -6230 -1 0 0 0 1 0 0 0 -1 vehicle_065_orangewhitevan.ldr
-1 16 730 0 -5370 1 0 0 0 1 0 0 0 1 vehicle_061_garbagetruck.ldr
-1 16 1320 0 -5410 1 0 0 0 1 0 0 0 1 vehicle_012_blueandwhitebus.ldr
 1 0 -3420 0 -3430 0 0 -1 0 1 0 1 0 0 vehicle_067_policeunmarkedcar_2.ldr
 1 0 -5130 0 -7510 1 0 0 0 1 0 0 0 1 vehicle_067_policeunmarkedcar_1.ldr
-1 13 -2720 -8 -7620 1 0 0 0 1 0 0 0 1 vehicle_084_yellowfighterjet.mpd
-1 13 160 -8 -7800 1 0 0 0 1 0 0 0 1 vehicle_070_traffichelicopter.ldr
-1 13 960 -8 -7760 1 0 0 0 1 0 0 0 1 vehicle_066_policewhitehelicopter.ldr
+1 13 -2400 -8 -7620 1 0 0 0 1 0 0 0 1 vehicle_084_yellowfighterjet.mpd
+1 13 480 -8 -7750 1 0 0 0 1 0 0 0 1 vehicle_070_traffichelicopter.ldr
+1 13 1280 -8 -7770 1 0 0 0 1 0 0 0 1 vehicle_066_policewhitehelicopter.ldr
 1 0 -5650 -16 1770 -1 0 0 0 1 0 0 0 -1 pedestrian_070_policewhiteshirtandtiestanding.ldr
 1 0 -5650 -16 1730 -1 0 0 0 1 0 0 0 -1 pedestrian_070_policewhiteshirtandtiestanding.ldr
 1 0 -5650 -16 1690 -1 0 0 0 1 0 0 0 -1 pedestrian_074_policewhiteshirtandtiestandingradio.ldr

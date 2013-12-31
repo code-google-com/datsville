@@ -1,12 +1,12 @@
 0 Earth Scraper
 0 Name: vehicle_005_yellowasphaltspreader.ldr
 0 Author: Duane Hess
-0 Unofficial Datsville Vehicle Model
+0 Unofficial Datsville Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
 0 // WRITE Earth Scraper
 0 // WRITE Author: Duane Hess
 0 // SCRAPER FRONT
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CONFIG 0 0
 1 0 -30 -64 -140 0 0 1 0 1 0 -1 0 0 3700.dat
 1 0 30 -64 -140 0 0 1 0 1 0 -1 0 0 3700.dat
 1 0 0 -64 -170 1 0 0 0 1 0 0 0 1 3010.dat

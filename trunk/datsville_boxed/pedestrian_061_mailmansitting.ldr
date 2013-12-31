@@ -1,10 +1,10 @@
 0 Minifig Mail Man
 0 Name: pedestrian_061_mailmansitting.ldr
 0 Author: John Van Zwieten
-0 Unofficial Model
-0 legs & hip
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
+0 legs & hip
 1 1 0 -9 -2 1 0 0 0 0 1 0 -1 0 3817.dat
 1 1 0 -9 -2 1 0 0 0 0 1 0 -1 0 3816.dat
 1 1 0 -21 -2 1 0 0 0 1 0 0 0 1 3815.dat

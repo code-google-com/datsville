@@ -2,113 +2,12 @@
 0 House on a hill
 0 Name: building_022_houseonahill.ldr
 0 Author: Joachim Probst (jprobst@shadow-corner.ows.es)
-0 Unofficial Model
-
-0 Untitled
-0 Inlined: 1 2 -200 -8 50 0 0 1 0 1 0 -1 0 0 hillrear.dat
-0 Hill Template: Rear Side
-0 Author: Joachim Probst (jprobst@shaodw-corner.ows.es)
-0 Unofficial Model
-0
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 Unofficial Datsville Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
-1 2 280 -24 220 0 0 1 0 1 0 -1 0 0 3006.dat
-1 2 280 -24 20 0 0 1 0 1 0 -1 0 0 3006.dat
-1 2 280 -24 -180 0 0 1 0 1 0 -1 0 0 3006.dat
-1 2 280 -48 -220 0 0 1 0 1 0 -1 0 0 3006.dat
-1 2 280 -48 -20 0 0 1 0 1 0 -1 0 0 3006.dat
-1 2 280 -48 180 0 0 1 0 1 0 -1 0 0 3006.dat
-1 2 280 -72 220 0 0 1 0 1 0 -1 0 0 3006.dat
-1 2 280 -72 20 0 0 1 0 1 0 -1 0 0 3006.dat
-1 2 280 -72 -180 0 0 1 0 1 0 -1 0 0 3006.dat
-1 2 280 -96 -220 0 0 1 0 1 0 -1 0 0 3006.dat
-1 2 280 -96 -20 0 0 1 0 1 0 -1 0 0 3006.dat
-1 2 280 -96 180 0 0 1 0 1 0 -1 0 0 3006.dat
-1 2 280 -120 220 0 0 1 0 1 0 -1 0 0 3006.dat
-1 2 280 -120 20 0 0 1 0 1 0 -1 0 0 3006.dat
-1 2 280 -120 -180 0 0 1 0 1 0 -1 0 0 3006.dat
-1 2 280 -144 -220 0 0 1 0 1 0 -1 0 0 3006.dat
-1 2 280 -144 -20 0 0 1 0 1 0 -1 0 0 3006.dat
-1 2 280 -144 180 0 0 1 0 1 0 -1 0 0 3006.dat
-1 2 280 -168 220 0 0 1 0 1 0 -1 0 0 3006.dat
-1 2 280 -168 20 0 0 1 0 1 0 -1 0 0 3006.dat
-1 2 280 -168 -180 0 0 1 0 1 0 -1 0 0 3006.dat
-1 2 280 -192 -220 0 0 1 0 1 0 -1 0 0 3006.dat
-1 2 280 -192 -20 0 0 1 0 1 0 -1 0 0 3006.dat
-1 2 280 -192 180 0 0 1 0 1 0 -1 0 0 3006.dat
-1 2 280 -192 300 0 0 1 0 1 0 -1 0 0 3003.dat
-1 2 280 -144 300 0 0 1 0 1 0 -1 0 0 3003.dat
-1 2 280 -96 300 0 0 1 0 1 0 -1 0 0 3003.dat
-1 2 280 -48 300 0 0 1 0 1 0 -1 0 0 3003.dat
-1 2 280 -24 -300 0 0 1 0 1 0 -1 0 0 3003.dat
-1 2 280 -72 -300 0 0 1 0 1 0 -1 0 0 3003.dat
-1 2 280 -120 -300 0 0 1 0 1 0 -1 0 0 3003.dat
-1 2 280 -168 -300 0 0 1 0 1 0 -1 0 0 3003.dat
-0
-0 Inlined: 1 2 0 0 -200 1 0 0 0 1 0 0 0 1 hillside.dat
-0 Hill Template: Slope Side
-0 Author: Joachim Probst (jprobst@shadow-corner.ows.es)
-0 Un-Official Part
-0
-1 2 -280 -24 300 1 0 0 0 1 0 0 0 1 3001.dat
-1 2 -220 -48 300 1 0 0 0 1 0 0 0 1 3001.dat
-1 2 -170 -72 300 1 0 0 0 1 0 0 0 1 3002.dat
-1 2 -130 -96 300 1 0 0 0 1 0 0 0 1 3002.dat
-1 2 -80 -120 300 1 0 0 0 1 0 0 0 1 3001.dat
-1 2 -20 -144 300 1 0 0 0 1 0 0 0 1 3001.dat
-1 2 60 -168 300 1 0 0 0 1 0 0 0 1 2456.dat
-1 2 180 -192 300 1 0 0 0 1 0 0 0 1 3007.dat
-1 2 -140 -24 300 1 0 0 0 1 0 0 0 1 3006.dat
-1 2 -80 -48 300 1 0 0 0 1 0 0 0 1 3006.dat
-1 2 -40 -72 300 1 0 0 0 1 0 0 0 1 3006.dat
-1 2 0 -96 300 1 0 0 0 1 0 0 0 1 3006.dat
-1 2 60 -120 300 1 0 0 0 1 0 0 0 1 3006.dat
-1 2 120 -144 300 1 0 0 0 1 0 0 0 1 3006.dat
-1 2 60 -24 300 1 0 0 0 1 0 0 0 1 3006.dat
-1 2 120 -48 300 1 0 0 0 1 0 0 0 1 3006.dat
-1 2 160 -72 300 1 0 0 0 1 0 0 0 1 3006.dat
-1 2 180 -96 300 1 0 0 0 1 0 0 0 1 3007.dat
-1 2 200 -168 300 1 0 0 0 1 0 0 0 1 2456.dat
-1 2 220 -120 300 1 0 0 0 1 0 0 0 1 3001.dat
-1 2 220 -24 300 1 0 0 0 1 0 0 0 1 3001.dat
-1 2 240 -144 300 1 0 0 0 1 0 0 0 1 3003.dat
-1 2 240 -48 300 1 0 0 0 1 0 0 0 1 3003.dat
-1 2 130 -168 300 0 0 1 0 1 0 -1 0 0 3004.dat
-1 2 170 -120 300 0 0 1 0 1 0 -1 0 0 3004.dat
-1 2 170 -24 300 0 0 1 0 1 0 -1 0 0 3004.dat
-0
-0 Inlined: 1 2 0 0 -800 1 0 0 0 1 0 0 0 1 hillside.dat
-0 Hill Template: Slope Side
-0 Author: Joachim Probst (jprobst@shadow-corner.ows.es)
-0 Un-Official Part
-0
-1 2 -280 -24 -300 1 0 0 0 1 0 0 0 1 3001.dat
-1 2 -220 -48 -300 1 0 0 0 1 0 0 0 1 3001.dat
-1 2 -170 -72 -300 1 0 0 0 1 0 0 0 1 3002.dat
-1 2 -130 -96 -300 1 0 0 0 1 0 0 0 1 3002.dat
-1 2 -80 -120 -300 1 0 0 0 1 0 0 0 1 3001.dat
-1 2 -20 -144 -300 1 0 0 0 1 0 0 0 1 3001.dat
-1 2 60 -168 -300 1 0 0 0 1 0 0 0 1 2456.dat
-1 2 180 -192 -300 1 0 0 0 1 0 0 0 1 3007.dat
-1 2 -140 -24 -300 1 0 0 0 1 0 0 0 1 3006.dat
-1 2 -80 -48 -300 1 0 0 0 1 0 0 0 1 3006.dat
-1 2 -40 -72 -300 1 0 0 0 1 0 0 0 1 3006.dat
-1 2 0 -96 -300 1 0 0 0 1 0 0 0 1 3006.dat
-1 2 60 -120 -300 1 0 0 0 1 0 0 0 1 3006.dat
-1 2 120 -144 -300 1 0 0 0 1 0 0 0 1 3006.dat
-1 2 60 -24 -300 1 0 0 0 1 0 0 0 1 3006.dat
-1 2 120 -48 -300 1 0 0 0 1 0 0 0 1 3006.dat
-1 2 160 -72 -300 1 0 0 0 1 0 0 0 1 3006.dat
-1 2 180 -96 -300 1 0 0 0 1 0 0 0 1 3007.dat
-1 2 200 -168 -300 1 0 0 0 1 0 0 0 1 2456.dat
-1 2 220 -120 -300 1 0 0 0 1 0 0 0 1 3001.dat
-1 2 220 -24 -300 1 0 0 0 1 0 0 0 1 3001.dat
-1 2 240 -144 -300 1 0 0 0 1 0 0 0 1 3003.dat
-1 2 240 -48 -300 1 0 0 0 1 0 0 0 1 3003.dat
-1 2 130 -168 -300 0 0 1 0 1 0 -1 0 0 3004.dat
-1 2 170 -120 -300 0 0 1 0 1 0 -1 0 0 3004.dat
-1 2 170 -24 -300 0 0 1 0 1 0 -1 0 0 3004.dat
-0
+1 2 270 0 0 1 0 0 0 1 0 0 0 1 building_022_hillrear.ldr
+1 2 -30 0 300 1 0 0 0 1 0 0 0 1 building_022_hillside.ldr
+1 2 -30 0 -300 1 0 0 0 1 0 0 0 1 building_022_hillside.ldr
 1 2 -99 -184 -30 0 0 1 0 1 0 -1 0 0 building_022_bjphou1.ldr
 1 4 130 -192 300 1 0 0 0 1 0 0 0 1 infrastructure_bigtree02.ldr
 1 4 280 -192 210 1 0 0 0 1 0 0 0 1 infrastructure_bigtree02.ldr
@@ -151,47 +50,20 @@
 1 2 -80 -120 270 1 0 0 0 1 0 0 0 1 3009.dat
 1 2 -80 -144 270 1 0 0 0 1 0 0 0 1 3004.dat
 
+0
 0 FILE building_022_bjphou1.ldr
 0 Mannheim
 0 Name: building_022_bjphou1.ldr
-0 Author: Joachim Probst(?)
-0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 Author: Joachim Probst (jprobst@shadow-corner.ows.es)
+0 Unofficial Datsville Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 14 -120 -32 70 1 0 0 0 1 0 0 0 1 infrastructure_flowers_01.ldr
-0 Inlined: 1 6 -10 -112 -110 1 0 0 0 1 0 0 0 1 window4.dat
-0 Komplettes Fenster 4x3 mit Fensterkreuz
-0 Author: Joachim Probst (jprobst@shadow-corner.ows.es)
-0 Status: Un-Official Element
-1 6 -10 -112 -110 1 0 0 0 1 0 0 0 1 3853.dat
-1 6 24 -108 -116 0 0 1 0 1 0 -1 0 0 3854.dat
-1 6 -44 -108 -116 0 0 -1 0 1 0 1 0 0 3854.dat
-0
-0 Inlined: 1 6 90 -112 -110 1 0 0 0 1 0 0 0 1 window4.dat
-0 Komplettes Fenster 4x3 mit Fensterkreuz
-0 Author: Joachim Probst (jprobst@shadow-corner.ows.es)
-0 Status: Un-Official Element
-1 6 90 -112 -110 1 0 0 0 1 0 0 0 1 3853.dat
-1 6 124 -108 -116 0 0 1 0 1 0 -1 0 0 3854.dat
-1 6 56 -108 -116 0 0 -1 0 1 0 1 0 0 3854.dat
-0
-0 Inlined: 1 6 130 -112 350 -1 0 0 0 1 0 0 0 -1 window3.dat
-0 Komplettes Fenster 4x3 mit Glasscheibe
-0 Author: Joachim Probst (jprobst@shadow-corner.ows.es)
-0 Status: Un-Official Element
-1 6 130 -112 350 -1 0 0 0 1 0 0 0 -1 3853.dat
-1 39 130 -112 350 -1 0 0 0 1 0 0 0 -1 3855.dat
-0
-0 Inlined: 1 6 -50 -112 350 -1 0 0 0 1 0 0 0 -1 window3.dat
-0 Komplettes Fenster 4x3 mit Glasscheibe
-0 Author: Joachim Probst (jprobst@shadow-corner.ows.es)
-0 Status: Un-Official Element
-1 6 -50 -112 350 -1 0 0 0 1 0 0 0 -1 3853.dat
-1 39 -50 -112 350 -1 0 0 0 1 0 0 0 -1 3855.dat
-0
-0 Inlined: 1 15 -80 -112 230 1 0 0 0 1 0 0 0 1 door1.dat
-0 Door 1 x 4 x 5 Left with Solid Pattern
-0
+1 6 -10 -40 -110 1 0 0 0 1 0 0 0 1 building_022_window4.ldr
+1 6 90 -40 -110 1 0 0 0 1 0 0 0 1 building_022_window4.ldr
+1 6 130 -40 350 1 0 0 0 1 0 0 0 1 building_022_window3.ldr
+1 6 -50 -40 350 1 0 0 0 1 0 0 0 1 building_022_window3.ldr
+1 15 -160 -112 210 -0.71 0 0.71 0 1 0 -0.71 0 -0.71 73436.dat
 1 15 150 -16 -110 1 0 0 0 1 0 0 0 1 3008.dat
 1 15 -70 -16 -110 1 0 0 0 1 0 0 0 1 3008.dat
 1 15 40 -16 -110 1 0 0 0 1 0 0 0 1 3622.dat
@@ -213,7 +85,6 @@
 1 15 -130 -16 230 1 0 0 0 1 0 0 0 1 3010.dat
 1 15 10 -16 230 1 0 0 0 1 0 0 0 1 3004.dat
 1 15 40 -16 280 0 0 1 0 1 0 -1 0 0 3009.dat
-1 15 -160 -112 210 -0.71 0 0.71 0 1 0 -0.71 0 -0.71 73436.dat
 1 15 -160 -16 130 1 0 0 0 1 0 0 0 1 3005.dat
 1 15 210 -40 -110 1 0 0 0 1 0 0 0 1 3010.dat
 1 15 -130 -40 -110 1 0 0 0 1 0 0 0 1 3010.dat
@@ -584,4 +455,104 @@
 1 4 80 -216 80 0 0 1 0 1 0 -1 0 0 4477.dat
 1 4 80 -216 -120 0 0 1 0 1 0 -1 0 0 3710.dat
 1 4 80 -216 -50 0 0 1 0 1 0 -1 0 0 3623.dat
+0
+0 FILE building_022_hillrear.ldr
+0 Hill Template: Rear Side
+0 Name: building_022_hillrear.ldr
+0 Author: Joachim Probst (jprobst@shaodw-corner.ows.es)
+0 Unofficial Datsville Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 2 10 -24 220 0 0 1 0 1 0 -1 0 0 3006.dat
+1 2 10 -24 20 0 0 1 0 1 0 -1 0 0 3006.dat
+1 2 10 -24 -180 0 0 1 0 1 0 -1 0 0 3006.dat
+1 2 10 -48 -220 0 0 1 0 1 0 -1 0 0 3006.dat
+1 2 10 -48 -20 0 0 1 0 1 0 -1 0 0 3006.dat
+1 2 10 -48 180 0 0 1 0 1 0 -1 0 0 3006.dat
+1 2 10 -72 220 0 0 1 0 1 0 -1 0 0 3006.dat
+1 2 10 -72 20 0 0 1 0 1 0 -1 0 0 3006.dat
+1 2 10 -72 -180 0 0 1 0 1 0 -1 0 0 3006.dat
+1 2 10 -96 -220 0 0 1 0 1 0 -1 0 0 3006.dat
+1 2 10 -96 -20 0 0 1 0 1 0 -1 0 0 3006.dat
+1 2 10 -96 180 0 0 1 0 1 0 -1 0 0 3006.dat
+1 2 10 -120 220 0 0 1 0 1 0 -1 0 0 3006.dat
+1 2 10 -120 20 0 0 1 0 1 0 -1 0 0 3006.dat
+1 2 10 -120 -180 0 0 1 0 1 0 -1 0 0 3006.dat
+1 2 10 -144 -220 0 0 1 0 1 0 -1 0 0 3006.dat
+1 2 10 -144 -20 0 0 1 0 1 0 -1 0 0 3006.dat
+1 2 10 -144 180 0 0 1 0 1 0 -1 0 0 3006.dat
+1 2 10 -168 220 0 0 1 0 1 0 -1 0 0 3006.dat
+1 2 10 -168 20 0 0 1 0 1 0 -1 0 0 3006.dat
+1 2 10 -168 -180 0 0 1 0 1 0 -1 0 0 3006.dat
+1 2 10 -192 -220 0 0 1 0 1 0 -1 0 0 3006.dat
+1 2 10 -192 -20 0 0 1 0 1 0 -1 0 0 3006.dat
+1 2 10 -192 180 0 0 1 0 1 0 -1 0 0 3006.dat
+1 2 10 -192 300 0 0 1 0 1 0 -1 0 0 3003.dat
+1 2 10 -144 300 0 0 1 0 1 0 -1 0 0 3003.dat
+1 2 10 -96 300 0 0 1 0 1 0 -1 0 0 3003.dat
+1 2 10 -48 300 0 0 1 0 1 0 -1 0 0 3003.dat
+1 2 10 -24 -300 0 0 1 0 1 0 -1 0 0 3003.dat
+1 2 10 -72 -300 0 0 1 0 1 0 -1 0 0 3003.dat
+1 2 10 -120 -300 0 0 1 0 1 0 -1 0 0 3003.dat
+1 2 10 -168 -300 0 0 1 0 1 0 -1 0 0 3003.dat
+0 
+0
+0 FILE building_022_hillside.ldr
+0 Hill Template: Slope Side
+0 Name: building_022_hillside.ldr
+0 Author: Joachim Probst (jprobst@shadow-corner.ows.es)
+0 Unofficial Datsville Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 2 -250 -24 0 1 0 0 0 1 0 0 0 1 3001.dat
+1 2 -190 -48 0 1 0 0 0 1 0 0 0 1 3001.dat
+1 2 -140 -72 0 1 0 0 0 1 0 0 0 1 3002.dat
+1 2 -100 -96 0 1 0 0 0 1 0 0 0 1 3002.dat
+1 2 -50 -120 0 1 0 0 0 1 0 0 0 1 3001.dat
+1 2 10 -144 0 1 0 0 0 1 0 0 0 1 3001.dat
+1 2 90 -168 0 1 0 0 0 1 0 0 0 1 2456.dat
+1 2 210 -192 0 1 0 0 0 1 0 0 0 1 3007.dat
+1 2 -110 -24 0 1 0 0 0 1 0 0 0 1 3006.dat
+1 2 -50 -48 0 1 0 0 0 1 0 0 0 1 3006.dat
+1 2 -10 -72 0 1 0 0 0 1 0 0 0 1 3006.dat
+1 2 30 -96 0 1 0 0 0 1 0 0 0 1 3006.dat
+1 2 90 -120 0 1 0 0 0 1 0 0 0 1 3006.dat
+1 2 150 -144 0 1 0 0 0 1 0 0 0 1 3006.dat
+1 2 90 -24 0 1 0 0 0 1 0 0 0 1 3006.dat
+1 2 150 -48 0 1 0 0 0 1 0 0 0 1 3006.dat
+1 2 190 -72 0 1 0 0 0 1 0 0 0 1 3006.dat
+1 2 210 -96 0 1 0 0 0 1 0 0 0 1 3007.dat
+1 2 230 -168 0 1 0 0 0 1 0 0 0 1 2456.dat
+1 2 250 -120 0 1 0 0 0 1 0 0 0 1 3001.dat
+1 2 250 -24 0 1 0 0 0 1 0 0 0 1 3001.dat
+1 2 270 -144 0 1 0 0 0 1 0 0 0 1 3003.dat
+1 2 270 -48 0 1 0 0 0 1 0 0 0 1 3003.dat
+1 2 160 -168 0 0 0 1 0 1 0 -1 0 0 3004.dat
+1 2 200 -120 0 0 0 1 0 1 0 -1 0 0 3004.dat
+1 2 200 -24 0 0 0 1 0 1 0 -1 0 0 3004.dat
+0 
+0 
+0
+0 FILE building_022_window4.ldr
+0 Name: window4.dat
+0 Author: Joachim Probst (jprobst@shadow-corner.ows.es)
+0 Unofficial Datsville Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 6 0 -72 0 1 0 0 0 1 0 0 0 1 3853.dat
+1 6 34 -68 -6 0 0 1 0 1 0 -1 0 0 3854.dat
+1 6 -34 -68 -6 0 0 -1 0 1 0 1 0 0 3854.dat
+0 
+0 
+0
+0 FILE building_022_window3.ldr
+0 Name: window3.dat
+0 Author: Joachim Probst (jprobst@shadow-corner.ows.es)
+0 Unofficial Datsville Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 6 0 -72 0 -1 0 0 0 1 0 0 0 -1 3853.dat
+1 39 0 -72 0 -1 0 0 0 1 0 0 0 -1 3855.dat
+0 
+0
 0

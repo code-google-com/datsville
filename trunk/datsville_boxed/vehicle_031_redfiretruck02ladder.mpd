@@ -2,8 +2,7 @@
 0 Datsville FC Engine
 0 Name: vehicle_031_redfiretruck02ladder.ldr
 0 Author: Ryan Dennett
-0 Unofficial Model
-0 EXTRACT
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 0 -46 -160 1 0 0 0 1 0 0 0 1 pedestrian_023_manfiremanredcapdriving.ldr
@@ -188,8 +187,8 @@
 1 0 70 -76 -140 0 0 1 0 1 0 -1 0 0 3962b.dat
 1 7 10 -84 200 0 0 1 0 1 0 -1 0 0 3841.dat
 0 
-1 7 -70 -90 110 1 0 0 0 1 0 0 0 1 vehicle_031_ladrrack.dat
-1 7 40 -142 40 1 0 0 0 1 0 0 0 1 vehicle_031_lighttwr.dat
+1 7 -70 -90 110 1 0 0 0 1 0 0 0 1 vehicle_031_ladrrack.ldr
+1 7 40 -142 40 1 0 0 0 1 0 0 0 1 vehicle_031_lighttwr.ldr
 0 
 1 4 -20 -86 -30 0 0 1 0 1 0 -1 0 0 2584.dat
 1 4 20 -86 -30 0 0 1 0 1 0 -1 0 0 2584.dat
@@ -203,11 +202,11 @@
 1 36 -40 -76 194 1 0 0 0 0 1 0 -1 0 2412a.dat
 1 36 40 -76 194 1 0 0 0 0 1 0 -1 0 2412a.dat
 0
-0 FILE vehicle_031_ladrrack.dat
+0 FILE vehicle_031_ladrrack.ldr
 0 Untitled
-0 Name: vehicle_031_ladrrack.dat
+0 Name: vehicle_031_ladrrack.ldr
 0 Author: Ryan Dennett
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 38 -72 -20 0 0 -1 0 1 0 1 0 0 4207.dat
@@ -218,11 +217,11 @@
 1 4 0 -30 -70 0 -1 0 0 0 -1 1 0 0 2923.dat
 0 
 0
-0 FILE vehicle_031_lighttwr.dat
+0 FILE vehicle_031_lighttwr.ldr
 0 Untitled
-0 Name: vehicle_031_lighttwr.dat
+0 Name: vehicle_031_lighttwr.ldr
 0 Author: Ryan Dennett
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 4 0 -14 10 1 0 0 0 0 1 0 -1 0 3938.dat
@@ -234,6 +233,7 @@
 1 42 16 -34 50 1 0 0 0 0 1 0 -1 0 4589.dat
 1 42 -16 -34 50 1 0 0 0 0 1 0 -1 0 4589.dat
 1 4 0 -24 0 -1 0 0 0 1 0 0 0 -1 3937.dat
+0 
 0 
 0 
 0 

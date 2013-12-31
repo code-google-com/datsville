@@ -1,8 +1,8 @@
 0 FILE building_047.ldr
-0 Untitled
+0 Large Parking Garage
 0 Name: building_047.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 -780 -248 0 1 0 0 0 1 0 0 0 1 30517.dat
@@ -1503,7 +1503,7 @@
 0 New Model
 0 Name: building_047_ramppart.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 0 -32 0 1 0 0 0 1 0 0 0 1 4515.dat
@@ -1518,7 +1518,7 @@
 0 New Model
 0 Name: building_047_cornerpillar.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 -10 -24 0 1 0 0 0 1 0 0 0 1 3002.dat
@@ -1546,7 +1546,7 @@
 0 New Model
 0 Name: building_047_rooftile.ldr
 0 Author: Michael Horvath
-0 Unofficial Model
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 0 -24 0 1 0 0 0 1 0 0 0 1 4515.dat

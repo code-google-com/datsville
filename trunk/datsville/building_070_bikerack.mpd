@@ -1,6 +1,6 @@
-0 FILE building_070_vej_med_tr�.ldr
+0 FILE building_070_vej_med_tri.ldr
 0 Bicycle Rack
-0 Name: building_070_vej_med_tr�.ldr
+0 Name: building_070_vej_med_tri.ldr
 0 Author: Jacob Sparre Andersen <sparre@nbi.dk>, december 2008
 0 Unofficial Datsville Model
 0 TITLE        Cykelsti
@@ -15,14 +15,14 @@
 0 DESCRIPTION Micro-scale tree from page 15 in the instructions for set 4886.  This model was a part of my advent calendar for Jasmin in 2005.
 0 DESIGN      The LEGO Group
 0 DRAWING     Jacob Sparre Andersen <sparre@nbi.dk>, December 2005
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CONFIG 0 0
-0
+0 
 0 venstre
 0 |     ned
 0 |     |     bagud
 0 |     |     |
 
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
 0 STEP
 
 0 STEP
@@ -40,7 +40,7 @@
 1 70 -130 -120 220 1 0 0 0 1 0 0 0 1 2453.dat
 0 STEP
 
-1 2 -130 -128 220 1 0 0 0 1 0 0 0 1 building_070_tr�.ldr
+1 2 -130 -128 220 1 0 0 0 1 0 0 0 1 building_070_tri.ldr
 0 STEP
 
 1 2 320 0 70 0 0 1 0 1 0 -1 0 0 building_070_busk.ldr
@@ -62,16 +62,14 @@
 0 STEP
 
 0
-0 FILE building_070_tr�.ldr
+0 FILE building_070_tri.ldr
 0 Tree from page 15 in the instructions for set 4886.
-0 Name: building_070_tr�.ldr
+0 Name: building_070_tri.ldr
 0 Author: Jacob Sparre Andersen <sparre@nbi.dk>, December 2005
 0 Unofficial Datsville Model
 0 TITLE       Tree from page 15 in the instructions for set 4886.
 0 DESIGN      The LEGO Group
 0 DRAWING     Jacob Sparre Andersen <sparre@nbi.dk>, December 2005
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CONFIG 0 0
 0 
 0 venstre
 0 |     ned
@@ -79,6 +77,8 @@
 0 |     |     |
 
 
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
 1 2 0 0 0 1 0 0 0 1 0 0 0 1 3022.dat
 0 STEP
 
@@ -130,14 +130,14 @@
 0 DESCRIPTION Minifig scale bush from set 4886.  This model was a part of my advent calendar for Jasmin in 2005.
 0 DESIGN      The LEGO Group
 0 DRAWING     Jacob Sparre Andersen <sparre@nbi.dk>, December 2005
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CONFIG 0 0
 0 
 0 venstre
 0 |     ned
 0 |     |     bagud
 0 |     |     |
 
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
 1 6 -120 -8 -250 0 0 1 0 1 0 -1 0 0 3021.dat
 1 6 -80 -8 -240 0 0 1 0 1 0 -1 0 0 3020.dat
 0 STEP
@@ -168,5 +168,6 @@
 1 2 -70 -88 -230 0 0 1 0 1 0 -1 0 0 3040b.dat
 0 STEP
 
+0 
 0
 0

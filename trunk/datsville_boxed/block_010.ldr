@@ -1,7 +1,7 @@
-0 Town Scene Main.
+0 Datsville City Block #10
 0 Name: block_010.ldr
-0 Author: John VanZwieten, Michael Horvath
-0 Unofficial Model
+0 Author: John VanZwieten, Michael Horvath, Tore Eriksson
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 2 160 -8 4000 -1 0 0 0 1 0 0 0 -1 91405.dat

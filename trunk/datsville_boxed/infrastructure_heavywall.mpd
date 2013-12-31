@@ -1,39 +1,39 @@
 0 FILE infrastructure_heavywall_solitary_wall-tiled.ldr
-0 Solitary tiled panel wall.
+0 Solitary tiled panel wall
 0 Name: infrastructure_heavywall_solitary_wall-tiled.ldr
 0 Author: Jacob Sparre Andersen <sparre@nbi.dk>, July 2005
-0 Unofficial Model
+0 Unofficial Datsville Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
 0 
 0 venstre
 0 |    ned
 0 |    |    bagud
 0 |    |    |
-
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CONFIG 0 0
 1 7 -110 -8 0 1 0 0 0 1 0 0 0 1 infrastructure_heavywall_column.ldr
 1 7 -50 -8 0 1 0 0 0 1 0 0 0 1 infrastructure_heavywall_column.ldr
 1 7 50 -8 0 1 0 0 0 1 0 0 0 1 infrastructure_heavywall_column.ldr
 1 7 110 -8 0 1 0 0 0 1 0 0 0 1 infrastructure_heavywall_column.ldr
 0 STEP
-
 0 0  -14   -4  1 0 0   0 0 -1  0 1 0       3024.dat
 0 0 -134   -4  1 0 0   0 0 -1  0 1 0       3024.dat
-
 1 4 80 -112 -20 -1 0 0 0 0 1 0 1 0 infrastructure_heavywall_tiled.ldr
 1 4 -80 -112 -20 1 0 0 0 0 -1 0 1 0 infrastructure_heavywall_tiled.ldr
 0 STEP
 0
 0 FILE infrastructure_heavywall_column.ldr
+0 Column for carrying panel structures.
+0 Name: infrastructure_heavywall_column.ldr
+0 Author: Jacob Sparre Andersen <sparre@nbi.dk>, July 2005
+0 Unofficial Datsville Model
 0 TITLE Column for carrying panel structures.
-0 
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
 0 
 0 venstre
 0 |    ned
 0 |    |    bagud
 0 |    |    |
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CONFIG 0 0
 1 16 0 0 -20 0 0 1 0 1 0 -1 0 0 3069b.dat
 1 16 0 0 40 0 0 1 0 1 0 -1 0 0 3710.dat
 0 STEP
@@ -57,15 +57,18 @@
 0 
 0
 0 FILE infrastructure_heavywall_tiled.ldr
+0 Tiled panel structure for plating on a house.
+0 Name: infrastructure_heavywall_tiled.ldr
+0 Author: Jacob Sparre Andersen <sparre@nbi.dk>, July 2005
+0 Unofficial Datsville Model
 0 TITLE Tiled panel structure for plating on a house.
-0 
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
 0 
 0 venstre
 0 |    ned
 0 |    |    bagud
 0 |    |    |
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CONFIG 0 0
 1 0 30 8 0 0 0 1 0 1 0 -1 0 0 4477.dat
 1 0 -30 8 0 0 0 1 0 1 0 -1 0 0 4477.dat
 0 STEP

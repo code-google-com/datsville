@@ -1,6 +1,8 @@
 0 FILE building_030_policehq.ldr
 0 Datsville Police HQ
+0 Name: FILE building_030_policehq.ldr
 0 Author: Jonathan Wilson
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 20 -24 -270 1 0 0 0 1 0 0 0 1 3010.dat
@@ -67,8 +69,8 @@
 1 15 -30 -40 -90 1 0 0 0 1 0 0 0 1 3005.dat
 1 15 -30 -120 -90 1 0 0 0 1 0 0 0 1 4085c.dat
 1 15 -130 -120 -90 1 0 0 0 1 0 0 0 1 4085c.dat
-1 15 -130 -88 -110 0 -1 0 1 0 0 0 0 1 building_030_celldoor.dat
-1 15 -30 -40 -110 0 1 0 -1 0 0 0 0 1 building_030_celldoor.dat
+1 15 -130 -88 -110 0 -1 0 1 0 0 0 0 1 building_030_celldoor.ldr
+1 15 -30 -40 -110 0 1 0 -1 0 0 0 0 1 building_030_celldoor.ldr
 1 15 40 -128 -180 0 0 1 0 1 0 -1 0 0 3030.dat
 1 15 -200 -128 -180 0 0 1 0 1 0 -1 0 0 3030.dat
 1 15 -140 -128 -90 1 0 0 0 1 0 0 0 1 3023.dat
@@ -120,7 +122,7 @@
 1 47 -110 -72 230 0 0 1 0 1 0 -1 0 0 3899.dat
 1 47 -110 -80 230 1 0 0 0 1 0 0 0 1 4073.dat
 1 15 -110 -88 220 0 0 1 0 1 0 -1 0 0 3023.dat
-1 15 -20 -24 140 0 0 -1 0 1 0 1 0 0 building_030_desk.dat
+1 15 -20 -24 140 0 0 -1 0 1 0 1 0 0 building_030_desk.ldr
 1 15 90 -120 190 1 0 0 0 1 0 0 0 1 73436.dat
 1 15 -130 -120 50 1 0 0 0 1 0 0 0 1 73436.dat
 1 15 -130 -120 130 1 0 0 0 1 0 0 0 1 2453.dat
@@ -168,15 +170,15 @@
 1 15 90 -256 -240 0 0 1 0 1 0 -1 0 0 2454.dat
 1 15 -90 -256 -90 0 0 1 0 1 0 -1 0 0 73436.dat
 1 15 -130 -248 30 0 0 1 0 1 0 -1 0 0 73435.dat
-1 15 -80 -160 -180 1 0 0 0 1 0 0 0 1 building_030_desk.dat
+1 15 -80 -160 -180 1 0 0 0 1 0 0 0 1 building_030_desk.ldr
 1 15 -80 -136 -220 -1 0 0 0 1 0 0 0 -1 pedestrian_065_policewhiteshirtandtiesitting.ldr
-1 15 -160 -152 160 0 0 1 0 1 0 -1 0 0 building_030_desk.dat
+1 15 -160 -152 160 0 0 1 0 1 0 -1 0 0 building_030_desk.ldr
 1 15 -130 -128 160 0 0 1 0 1 0 -1 0 0 pedestrian_070_policewhiteshirtandtiestanding.ldr
 1 15 10 -128 160 0 0 1 0 1 0 -1 0 0 pedestrian_070_policewhiteshirtandtiestanding.ldr
 1 15 130 -128 160 0 0 1 0 1 0 -1 0 0 pedestrian_070_policewhiteshirtandtiestanding.ldr
-1 15 -40 -152 160 0 0 1 0 1 0 -1 0 0 building_030_desk.dat
-1 15 80 -152 160 0 0 1 0 1 0 -1 0 0 building_030_desk.dat
-1 15 180 -152 160 0 0 1 0 1 0 -1 0 0 building_030_desk.dat
+1 15 -40 -152 160 0 0 1 0 1 0 -1 0 0 building_030_desk.ldr
+1 15 80 -152 160 0 0 1 0 1 0 -1 0 0 building_030_desk.ldr
+1 15 180 -152 160 0 0 1 0 1 0 -1 0 0 building_030_desk.ldr
 1 15 20 -256 80 1 0 0 0 1 0 0 0 1 3026.dat
 1 15 20 -256 220 1 0 0 0 1 0 0 0 1 3026.dat
 1 15 160 -256 150 1 0 0 0 1 0 0 0 1 4477.dat
@@ -198,15 +200,17 @@
 1 0 80 -264 -140 0 0 1 0 1 0 -1 0 0 3795.dat
 1 15 -80 -256 -70 1 0 0 0 1 0 0 0 1 3666.dat
 1 0 -80 -264 10 1 0 0 0 1 0 0 0 1 3666.dat
-1 0 -20 -192 140 1 0 0 0 1 0 0 0 1 building_030_dishb.dat
+1 0 -20 -192 140 1 0 0 0 1 0 0 0 1 building_030_dishb.ldr
 1 15 -10 -288 -110 1 0 0 0 1 0 0 0 1 3144.dat
 1 15 170 -288 150 1 0 0 0 1 0 0 0 1 3144.dat
-1 15 110 -272 70 1 0 0 0 1 0 0 0 1 building_030_antenna.dat
-1 15 -70 -272 70 1 0 0 0 1 0 0 0 1 building_030_antenna.dat
+1 15 110 -272 70 1 0 0 0 1 0 0 0 1 building_030_antenna.ldr
+1 15 -70 -272 70 1 0 0 0 1 0 0 0 1 building_030_antenna.ldr
 0
-0 FILE building_030_celldoor.dat
+0 FILE building_030_celldoor.ldr
 0 Custody Cell Door
+0 Name: building_030_celldoor.ldr
 0 Author: Jonathan Wilson
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 0 0 -1 0 0 0 1 0 0 0 -1 6020.dat
@@ -216,9 +220,11 @@
 1 15 50 -8 -140 0 0 1 0 -1 0 1 0 0 2555.dat
 1 15 30 -16 -140 1 0 0 0 -1 0 0 0 -1 3623.dat
 0
-0 FILE building_030_desk.dat
+0 FILE building_030_desk.ldr
 0 Minifig Desk
+0 Name: building_030_desk.ldr
 0 Author: Jonathan Wilson
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 50 0 -10 0 0 1 0 1 0 -1 0 0 3622.dat
@@ -229,20 +235,24 @@
 1 15 0 -32 -20 1 0 0 0 1 0 0 0 1 3795.dat
 1 15 0 -32 10 1 0 0 0 1 0 0 0 1 3666.dat
 0
-0 FILE building_030_dishb.dat
+0 FILE building_030_dishb.ldr
 0 Sattelite Dish Base
+0 Name: building_030_dishb.ldr
 0 Author: Jonathan Wilson
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 -80 0 1 0 0 0 1 0 0 0 1 3680.dat
 1 7 0 -80 0 1 0 0 0 1 0 0 0 1 3679.dat
 1 0 0 -88 0 1 0 0 0 1 0 0 0 1 3022.dat
 1 15 -10 -112 0 0 0 1 0 1 0 -1 0 0 3937.dat
-1 15 69 -38 0 0.71 0.71 0 -0.71 0.71 0 0 0 1 building_030_dish.dat
+1 15 69 -38 0 0.71 0.71 0 -0.71 0.71 0 0 0 1 building_030_dish.ldr
 0
-0 FILE building_030_antenna.dat
+0 FILE building_030_antenna.ldr
 0 Radio Antenna
+0 Name: building_030_antenna.ldr
 0 Author: Jonathan Wilson
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 0 0 0 1 0 0 0 1 0 0 0 1 2569.dat
@@ -266,9 +276,11 @@
 1 15 0 -48 0 1 0 0 0 1 0 0 0 1 4740.dat
 1 15 0 -40 0 1 0 0 0 1 0 0 0 1 4740.dat
 0
-0 FILE building_030_dish.dat
+0 FILE building_030_dish.ldr
 0 Sattelite Dish
+0 Name: building_030_dish.ldr
 0 Author: Jonathan Wilson
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 -10 -112 0 0 0 1 0 1 0 -1 0 0 6134.dat
@@ -276,6 +288,7 @@
 1 15 29 -91 0 0 1 0 -1 0 0 0 0 1 4285b.dat
 1 15 39 -91 0 0 1 0 -1 0 0 0 0 1 4740.dat
 1 15 45 -91 0 0 -1 0 1 0 0 0 0 1 4095.dat
+0 
 0 
 0 
 0 
