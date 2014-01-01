@@ -24,7 +24,7 @@
 1 7 -320 0 -4160 -1 0 0 0 1 0 0 0 -1 infrastructure_firehydrant.ldr
 1 7 -320 0 -4800 -1 0 0 0 1 0 0 0 -1 snotroad_doublestripenocross.ldr
 1 7 -320 0 -3520 1 0 0 0 1 0 0 0 1 snotroad_doublestripecross.ldr
-1 7 -320 -8 -4800 0 0 -1 0 1 0 1 0 0 rail_crossingdouble.mpd
+1 7 -320 -8 -4800 0 0 -1 0 1 0 1 0 0 rail_crossingdouble_mm.mpd
 1 7 -4160 0 -2880 1 0 0 0 1 0 0 0 1 snotroad_quaddotsnocross.ldr
 1 7 -1600 0 -2880 0 0 -1 0 1 0 1 0 0 snotroad_doublestripecross.ldr
 1 7 -2880 0 -2880 0 0 1 0 1 0 -1 0 0 snotroad_doublestripecross.ldr
@@ -38,13 +38,13 @@
 1 7 -4160 0 -3520 1 0 0 0 1 0 0 0 1 infrastructure_streetlamppair.ldr
 1 7 -4160 0 -4160 1 0 0 0 1 0 0 0 1 snotroad_triplestripenocross.ldr
 1 7 -4160 0 -4800 1 0 0 0 1 0 0 0 1 snotroad_doublestripenocross.ldr
+1 7 -4160 -8 -4800 0 0 -1 0 1 0 1 0 0 rail_crossingdouble_mm.mpd
 1 7 -320 0 -3520 1 0 0 0 1 0 0 0 1 infrastructure_streetlamppair.ldr
-1 7 -2260 -8 -4800 0 0 1 0 1 0 -1 0 0 rail_double.ldr
-1 7 -1620 -8 -4800 0 0 1 0 1 0 -1 0 0 rail_double.ldr
-1 7 -2900 -8 -4800 0 0 1 0 1 0 -1 0 0 rail_double.ldr
-1 7 -3540 -8 -4800 0 0 1 0 1 0 -1 0 0 rail_double.ldr
-1 7 -4160 -8 -4800 0 0 -1 0 1 0 1 0 0 rail_crossingdouble.mpd
-1 7 -980 -8 -4800 0 0 1 0 1 0 -1 0 0 rail_double.ldr
+1 7 -2240 -8 -4800 0 0 1 0 1 0 -1 0 0 rail_double_mf.ldr
+1 7 -1600 -8 -4800 0 0 1 0 1 0 -1 0 0 rail_double_mf.ldr
+1 7 -2880 -8 -4800 0 0 1 0 1 0 -1 0 0 rail_double_mf.ldr
+1 7 -3520 -8 -4800 0 0 1 0 1 0 -1 0 0 rail_double_ff.ldr
+1 7 -960 -8 -4800 0 0 1 0 1 0 -1 0 0 rail_double_mf.ldr
 1 7 -320 0 -320 1 0 0 0 1 0 0 0 1 infrastructure_signnoleftturn.ldr
 1 7 -320 0 -320 0 0 -1 0 1 0 1 0 0 infrastructure_lightdouble.ldr
 1 7 -320 0 -960 1 0 0 0 1 0 0 0 1 infrastructure_streetlamppair.ldr
@@ -88,5 +88,5 @@
 1 7 -1600 0 -320 0 0 1 0 1 0 -1 0 0 infrastructure_trashcan.ldr
 1 7 -2240 0 -320 0 0 1 0 1 0 -1 0 0 infrastructure_streetlampsingle.ldr
 1 7 -2880 0 -320 1 0 0 0 1 0 0 0 1 infrastructure_streetlampsingle.ldr
-1 7 -4820 -8 -4800 0 0 1 0 1 0 -1 0 0 rail_double.ldr
+1 7 -4800 -8 -4800 0 0 1 0 1 0 -1 0 0 rail_double_mf.ldr
 0
