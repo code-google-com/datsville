@@ -1,6 +1,6 @@
-0 FILE rail_crossingdouble.ldr
+0 FILE rail_crossing_double.ldr
 0 Rail crossing based on set 7835
-0 Name: rail_crossingdouble.ldr
+0 Name: rail_crossing_double.ldr
 0 Author: Jonathan Wilson, Tore Eriksson, Michael Horvath
 0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -152,12 +152,12 @@
 1 7 420 2 80 0 0 1 0 1 0 -1 0 0 3460.dat
 1 7 -330 -14 -80 0 0 1 0 1 0 -1 0 0 4515.dat
 1 7 -210 -32 -80 0 0 1 0 1 0 -1 0 0 4515.dat
-1 15 430 8 0 1 0 0 0 1 0 0 0 1 rail_crossingdouble_gate.ldr
-1 15 -290 8 0 -1 0 0 0 1 0 0 0 -1 rail_crossingdouble_gate.ldr
+1 15 430 8 0 1 0 0 0 1 0 0 0 1 rail_crossing_double_gate.ldr
+1 15 -290 8 0 -1 0 0 0 1 0 0 0 -1 rail_crossing_double_gate.ldr
 0
-0 FILE rail_crossingdouble_sign.ldr
+0 FILE rail_crossing_double_sign.ldr
 0 Rail crossing sign
-0 Name: rail_crossingdouble_sign.ldr
+0 Name: rail_crossing_double_sign.ldr
 0 Author: Jonathan Wilson, Tore Eriksson, Michael Horvath
 0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -174,9 +174,9 @@
 0 
 0 
 0
-0 FILE rail_crossingdouble_gate.ldr
+0 FILE rail_crossing_double_gate.ldr
 0 New Model
-0 Name: rail_crossingdouble_gate.ldr
+0 Name: rail_crossing_double_gate.ldr
 0 Author: Jonathan Wilson, Tore Eriksson, Michael Horvath
 0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -188,9 +188,9 @@
 1 0 10 -32 240 0 0 1 0 1 0 -1 0 0 3023.dat
 1 0 10 -144 220 0 0 -1 0 1 0 1 0 0 3794b.dat
 1 0 10 -168 220 0 0 -1 0 1 0 1 0 0 4070.dat
-1 0 24 -178 220 0 0 1 0 1 0 -1 0 0 rail_crossingdouble_sign.ldr
+1 0 24 -178 220 0 0 1 0 1 0 -1 0 0 rail_crossing_double_sign.ldr
 1 0 10 -78 220 1 0 0 0 1 0 0 0 1 4519.dat
-1 0 -10 -78 220 1 0 0 0 1 0 0 0 1 rail_crossingdouble_gatearm.ldr
+1 0 -10 -78 220 1 0 0 0 1 0 0 0 1 rail_crossing_double_gatearm.ldr
 1 7 30 -78 220 0 0 -1 0 1 0 1 0 0 4185.dat
 1 7 36 -98 220 -1 0 0 0 1 0 0 0 -1 32002.dat
 1 0 10 -136 220 0 0 -1 0 1 0 1 0 0 3004.dat
@@ -206,9 +206,9 @@
 0 
 1 0 10 -32 290 -1 0 0 0 1 0 0 0 -1 50950.dat
 0
-0 FILE rail_crossingdouble_gatearm.ldr
+0 FILE rail_crossing_double_gatearm.ldr
 0 New Model
-0 Name: rail_crossingdouble_gatearm.ldr
+0 Name: rail_crossing_double_gatearm.ldr
 0 Author: LDraw
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -232,6 +232,7 @@
 1 15 0 0 -442 0 0 1 1 0 0 0 1 0 u9026.dat
 1 4 0 0 -370 0 0 1 1 0 0 0 1 0 u9026.dat
 1 4 0 0 -394 0 0 1 1 0 0 0 1 0 u9026.dat
+0 
 0 
 0 
 0 
