@@ -1,9 +1,7 @@
-0 Unofficial Model
-0 Author Unknown Author
-0 LUG/LTC: Unknown LUG
-0 Show: Unknown Event
-0 Date: Thursday, January 02, 2014
-0 
+0 Rail Switch Right
+0 Name: rail_switch_right.ldr
+0 Author: Michael Horvath
+0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 8 -160 -16 0 1 0 0 0 1 0 0 0 1 2859c03.dat
