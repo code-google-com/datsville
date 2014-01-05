@@ -1,8 +1,10 @@
 ﻿#summary Table of models.
 
-This table is current as of revision 357.
+This table is current as of revision 369.
 
 || *Thumbnail* || *Filename (New)* || *Filename (Old)* || *Link* || *Title* || *Author* ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/2859c03.png] || 2859c03.dat ||  ||  ||  ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/2861c03.png] || 2861c03.dat ||  ||  ||  ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/axis32x.png] || axis32x.dat ||  ||  || Axes 32x bricks || Michael Horvath ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/block_001.png] || block_001.ldr ||  ||  || City block #1 || John VanZwieten, Michael Horvath, Tore Eriksson ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/block_002.png] || block_002.ldr ||  ||  || City block #2 || John VanZwieten, Michael Horvath, Tore Eriksson ||
@@ -178,6 +180,7 @@ This table is current as of revision 357.
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/infrastructure_treegum.png] || infrastructure_treegum.ldr ||  ||  ||  || Tim Gould ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/infrastructure_warningsign.png] || infrastructure_warningsign.ldr ||  ||  ||  || Jonathan Wilson ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/infrastructure_witcheshat.png] || infrastructure_witcheshat.ldr ||  ||  ||  || Jonathan Wilson ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/ldview_povray_mini_test.png] || ldview_povray_mini_test.ldr ||  ||  || POV-Ray Test Scene || Michael Horvath ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/layer_blocks.png] || layer_blocks.ldr ||  ||  ||  || Michael Horvath ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/layer_river.png] || layer_river.ldr ||  ||  ||  || Michael Horvath ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/layer_streets.png] || layer_streets.ldr ||  ||  ||  || Michael Horvath ||
@@ -257,11 +260,11 @@ This table is current as of revision 357.
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/pedestrian_074_policewhiteshirtandtiestandingradio.png] || pedestrian_074_policewhiteshirtandtiestandingradio.ldr ||  ||  || Cop On The Beat || Jonathan Wilson ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/pedestrian_075_policeblackjacketwhitehelmetstanding.png] || pedestrian_075_policeblackjacketwhitehelmetstanding.ldr ||  ||  || Motorcycle Cop || Jonathan Wilson ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/rail_crossing.png] || rail_crossing.mpd || ttrcross.dat ||  ||  || Jonathan Wilson, Michael Horvath ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/rail_crossingdouble.png] || rail_crossingdouble.mpd ||  ||  ||  || Michael Horvath ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/rail_crossingnogate.png] || rail_crossingnogate.ldr ||  ||  ||  || Michael Horvath ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/rail_double.png] || rail_double.ldr ||  ||  ||  || Michael Horvath ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/rail_splitright.png] || rail_splitright.ldr ||  ||  ||  || Michael Horvath ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/rail_straight.png] || rail_straight.ldr || Ttrtrack.dat ||  ||  || John VanZwieten, Michael Horvath ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/rail_crossing_double.png] || rail_crossing_double.mpd ||  ||  ||  || Michael Horvath ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/rail_crossing_nogate.png] || rail_crossing_nogate.mpd ||  ||  ||  || Michael Horvath ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/rail_straight.png] || rail_straight.ldr || Ttrtrack.dat ||  ||  || Michael Horvath ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/rail_straight_double.png] || rail_straight_double.ldr ||  ||  ||  || Michael Horvath ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/rail_switch_right.png] || rail_switch_right.ldr ||  ||  ||  || Michael Horvath ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/snotroad_curveblanknocross.png] || snotroad_curveblanknocross.ldr ||  ||  ||  || Mike Gallagher, Michael Horvath ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/snotroad_curveonewaynocross.png] || snotroad_curveonewaynocross.ldr ||  ||  ||  || Mike Gallagher, Michael Horvath ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/snotroad_curvestripenocross.png] || snotroad_curvestripenocross.ldr ||  ||  ||  || Mike Gallagher, Michael Horvath ||

@@ -2,6 +2,7 @@
 
 == SVN Releases ==
 
+  * [http://www.mediafire.com/download/cayjx61dao78vo1/datsville_rev369.zip Revision 369] 2013-01-05
   * [http://www.mediafire.com/download/99fsf52l4npgerh/datsville_rev357.zip Revision 357] 2013-12-28
   * [http://www.mediafire.com/download/a53peudywzc1aki/datsville_rev337.zip Revision 337] 2013-12-21
   * [http://www.mediafire.com/download/i940zaxwk4obwhe/datsville_rev328.zip Revision 328] 2013-12-17

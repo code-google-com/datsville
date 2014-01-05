@@ -1,3 +1,5 @@
+2859c03.dat
+2861c03.dat
 axis32x.dat
 block_001.ldr
 block_002.ldr
@@ -255,11 +257,10 @@ pedestrian_073_policewhiteshirtandtiestandingnohat.ldr
 pedestrian_074_policewhiteshirtandtiestandingradio.ldr
 pedestrian_075_policeblackjacketwhitehelmetstanding.ldr
 rail_crossing.mpd
-rail_crossingdouble.mpd
-rail_crossingnogate.ldr
-rail_double.ldr
-rail_splitright.ldr
+rail_crossing_double.mpd
 rail_straight.ldr
+rail_straight_double.ldr
+rail_switch_right.ldr
 snotroad_curveblanknocross.ldr
 snotroad_curveonewaynocross.ldr
 snotroad_curvestripenocross.ldr
@@ -275,6 +276,7 @@ snotroad_doublestripeleftonly.ldr
 snotroad_doublestripeleftonlydouble.ldr
 snotroad_doublestripenocross.ldr
 snotroad_doublestriperailxing.ldr
+snotroad_doublestriperailxing_offset.ldr
 snotroad_doublestriperightaheadonly.ldr
 snotroad_doublestriperightonly.ldr
 snotroad_halfstripecross.ldr
