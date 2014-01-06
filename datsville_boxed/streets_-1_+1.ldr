@@ -60,7 +60,7 @@
 1 7 -2880 0 320 -1 0 0 0 1 0 0 0 -1 infrastructure_trashcan.ldr
 1 7 -2880 0 320 1 0 0 0 1 0 0 0 1 infrastructure_lightdouble.ldr
 1 7 -4160 0 320 0 0 1 0 1 0 -1 0 0 infrastructure_streetlampsingle.ldr
-1 7 -4160 0 320 0 0 1 0 1 0 -1 0 0 infrastructure_streetlamppair.ldr
+1 7 -4160 0 320 0 0 1 0 1 0 -1 0 0 infrastructure_streetlampsingle.ldr
 1 7 -4160 0 320 1 0 0 0 1 0 0 0 1 infrastructure_signstopsingle.ldr
 1 7 -960 0 3520 0 0 -1 0 1 0 1 0 0 infrastructure_streetlamppair.ldr
 1 7 -1600 0 3520 0 0 -1 0 1 0 1 0 0 infrastructure_streetlamppair.ldr
