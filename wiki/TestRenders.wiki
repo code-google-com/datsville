@@ -11,3 +11,10 @@
 || <img src="http://datsville.googlecode.com/svn/wiki/TestRenders.attach/povray_minitest_ldv_POV3.62_AG2.2.png" width="512" height="288"/>	||	|| x	|| x	||	||	|| x	||
 
 "AG" stands for "assumed_gamma", a POV-Ray scene setting.
+
+
+|| *Image* || *Gamma* || *Radiosity* || *Focal Blur* ||
+|| <img src="povray_minitest_01_ldv_POV3.7" width="512" height="288"/>	|| 1.0	||	||	||
+|| <img src="povray_minitest_02_ldv_POV3.7" width="512" height="288"/>	|| 2.2	||	||	||
+|| <img src="povray_minitest_03_ldv_POV3.7" width="512" height="288"/>	|| 2.2	|| x	||	||
+|| <img src="povray_minitest_04_ldv_POV3.7" width="512" height="288"/>	|| 2.2	|| x	|| x	||
