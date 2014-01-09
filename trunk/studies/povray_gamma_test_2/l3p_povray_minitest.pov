@@ -16,7 +16,7 @@
 // ldconfig.ldr: D:\LDraw\ldconfig.ldr
 // Commandline:  "C:\Programs Windows\l3p14beta\l3p.exe" W:\LDraw\datsville\svn\trunk\datsville\povray_mini_test.ldr -o -il -ic
 
-#version 3.7;
+#version 3.7;			// delete this line if rendering in POV-Ray 3.62
 
 #include "ldv_wrapper_minitest.inc"
 
