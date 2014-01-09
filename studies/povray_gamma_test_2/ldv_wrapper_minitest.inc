@@ -85,7 +85,7 @@ sky_sphere
 
 global_settings
 {
-	assumed_gamma	1
+	assumed_gamma	2.2
 	adc_bailout	0.005
 	max_trace_level	8	//50
 	ambient_light	1
