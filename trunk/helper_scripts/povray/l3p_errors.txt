@@ -24,12 +24,55 @@ SKIPPING "b\6108.dat" Line 7: BFC CERTIFY must appear before the first operation
 SKIPPING "b\6108.dat" Line 9: BFC CERTIFY must appear before the first operational command-line: 0 BFC CERTIFY INVERTNEXT
 SKIPPING "b\6108.dat" Line 14: BFC CERTIFY must appear before the first operational command-line: 0 BFC CERTIFY INVERTNEXT
 SKIPPING "b\6108.dat" Line 16: BFC CERTIFY must appear before the first operational command-line: 0 BFC CERTIFY INVERTNEXT
-WARNING "pedestrian_025_womanblondehairredsleeves.mpd" Line 1349: BFC CERTIFY already met: 0 BFC CERTIFY INVERTNEXT
-WARNING "pedestrian_025_womanblondehairredsleeves.mpd" Line 1351: BFC CERTIFY already met: 0 BFC CERTIFY INVERTNEXT
-WARNING "pedestrian_025_womanblondehairredsleeves.mpd" Line 1353: BFC CERTIFY already met: 0 BFC CERTIFY INVERTNEXT
-WARNING "pedestrian_025_womanblondehairredsleeves.mpd" Line 1361: BFC CERTIFY already met: 0 BFC CERTIFY INVERTNEXT
 NOTABENE "s\3044s01.dat" referenced by "3044p37.dat": Moved to s\3044bs01
 NOTABENE "3069.dat" referenced by "45.dat": Moved to 3069b
 NOTABENE "3068.dat" referenced by "6253.dat": Moved to 3068b
+WARNING "2859c03.dat" Line 18: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 34: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 330: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 346: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 381: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 433: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 494: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 537: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 2162: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 2654: BFC CERTIFY already met: 0 BFC CERTIFY CW
+WARNING "2859c03.dat" Line 3715: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 3731: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 3766: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 3818: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 3879: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 3922: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 4253: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 4269: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 4304: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 4356: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 4417: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 4460: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 4958: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 4984: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 5217: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 5368: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 5601: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 5742: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 5764: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 5997: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 6137: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 6370: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+SKIPPING "2859c03.dat" Line 7167: BFC CERTIFY already met: 0 BFC NOCERTIFY
+SKIPPING "2859c03.dat" Line 7189: BFC CERTIFY already met: 0 BFC NOCERTIFY
+SKIPPING "2859c03.dat" Line 7982: BFC CERTIFY already met: 0 BFC NOCERTIFY
+SKIPPING "2859c03.dat" Line 8135: BFC CERTIFY already met: 0 BFC NOCERTIFY
+SKIPPING "2859c03.dat" Line 10576: BFC CERTIFY already met: 0 BFC NOCERTIFY
+SKIPPING "2859c03.dat" Line 10663: BFC CERTIFY already met: 0 BFC NOCERTIFY
+WARNING "2859c03.dat" Line 10843: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 10854: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 11082: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 11108: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 11363: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 11408: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 11424: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 11666: BFC CERTIFY already met: 0 BFC CERTIFY CCW
+WARNING "2859c03.dat" Line 11888: BFC CERTIFY already met: 0 BFC CERTIFY CW
 NOTABENE "stug6.dat" referenced by "4093a.dat": Moved to stug-6x6
 SKIPPING "b\4854.dat" Line 4: Singular matrix: 1 16 0 16 0 40 0 0 0 0 0 0 0 20 rect.box
