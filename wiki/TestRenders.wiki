@@ -1,0 +1,13 @@
+#summary Testing different software and scene settings.
+
+|| *Image* || *L3P* || *LDView* || *POV-Ray 3.62* || *POV-Ray 3.7* || *AG 1.0* || *AG 2.2* ||
+|| <img src="http://datsville.googlecode.com/svn/wiki/TestRenders.attach/povray_minitest_l3p_POV3.7_AG1.0.png" width="512" height="288"/>	|| x	||	||	|| x	|| x	||	||
+|| <img src="http://datsville.googlecode.com/svn/wiki/TestRenders.attach/povray_minitest_l3p_POV3.7_AG2.2.png" width="512" height="288"/>	|| x	||	||	|| x	||	|| x	||
+|| <img src="http://datsville.googlecode.com/svn/wiki/TestRenders.attach/povray_minitest_l3p_POV3.62_AG1.0.png" width="512" height="288"/>	|| x	||	|| x	||	|| x	||	||
+|| <img src="http://datsville.googlecode.com/svn/wiki/TestRenders.attach/povray_minitest_l3p_POV3.62_AG2.2.png" width="512" height="288"/>	|| x	||	|| x	||	||	|| x	||
+|| <img src="http://datsville.googlecode.com/svn/wiki/TestRenders.attach/povray_minitest_ldv_POV3.7_AG1.0.png" width="512" height="288"/>	||	|| x	||	|| x	|| x	||	||
+|| <img src="http://datsville.googlecode.com/svn/wiki/TestRenders.attach/povray_minitest_ldv_POV3.7_AG2.2.png" width="512" height="288"/>	||	|| x	||	|| x	||	|| x	||
+|| <img src="http://datsville.googlecode.com/svn/wiki/TestRenders.attach/povray_minitest_ldv_POV3.62_AG1.0.png" width="512" height="288"/>	||	|| x	|| x	||	|| x	||	||
+|| <img src="http://datsville.googlecode.com/svn/wiki/TestRenders.attach/povray_minitest_ldv_POV3.62_AG2.2.png" width="512" height="288"/>	||	|| x	|| x	||	||	|| x	||
+
+"AG" stands for "assumed_gamma", a POV-Ray scene setting.
