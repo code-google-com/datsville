@@ -2,13 +2,13 @@
 
 || *Image* || *L3P* || *LDView* || *POV 3.62* || *POV 3.7* || *AG 1.0* || *AG 2.2* ||
 || <img width="512" height="288" src="http://datsville.googlecode.com/svn/wiki/TestRenders.attach/povray_minitest_l3p_POV3.7_AG1.0_lum3.png"/>	|| x	||	||	|| x	|| x	||	||
-|| <img width="512" height="288" src="http://datsville.googlecode.com/svn/wiki/TestRenders.attach/povray_minitest_l3p_POV3.7_AG2.2.png_lum3"/>	|| x	||	||	|| x	||	|| x	||
-|| <img width="512" height="288" src="http://datsville.googlecode.com/svn/wiki/TestRenders.attach/povray_minitest_l3p_POV3.62_AG1.0.png_lum3"/>	|| x	||	|| x	||	|| x	||	||
-|| <img width="512" height="288" src="http://datsville.googlecode.com/svn/wiki/TestRenders.attach/povray_minitest_l3p_POV3.62_AG2.2.png_lum3"/>	|| x	||	|| x	||	||	|| x	||
-|| <img width="512" height="288" src="http://datsville.googlecode.com/svn/wiki/TestRenders.attach/povray_minitest_ldv_POV3.7_AG1.0.png_lum3"/>	||	|| x	||	|| x	|| x	||	||
-|| <img width="512" height="288" src="http://datsville.googlecode.com/svn/wiki/TestRenders.attach/povray_minitest_ldv_POV3.7_AG2.2.png_lum3"/>	||	|| x	||	|| x	||	|| x	||
-|| <img width="512" height="288" src="http://datsville.googlecode.com/svn/wiki/TestRenders.attach/povray_minitest_ldv_POV3.62_AG1.0.png_lum3"/>	||	|| x	|| x	||	|| x	||	||
-|| <img width="512" height="288" src="http://datsville.googlecode.com/svn/wiki/TestRenders.attach/povray_minitest_ldv_POV3.62_AG2.2.png_lum3"/>	||	|| x	|| x	||	||	|| x	||
+|| <img width="512" height="288" src="http://datsville.googlecode.com/svn/wiki/TestRenders.attach/povray_minitest_l3p_POV3.7_AG2.2_lum3.png"/>	|| x	||	||	|| x	||	|| x	||
+|| <img width="512" height="288" src="http://datsville.googlecode.com/svn/wiki/TestRenders.attach/povray_minitest_l3p_POV3.62_AG1.0_lum3.png"/>	|| x	||	|| x	||	|| x	||	||
+|| <img width="512" height="288" src="http://datsville.googlecode.com/svn/wiki/TestRenders.attach/povray_minitest_l3p_POV3.62_AG2.2_lum3.png"/>	|| x	||	|| x	||	||	|| x	||
+|| <img width="512" height="288" src="http://datsville.googlecode.com/svn/wiki/TestRenders.attach/povray_minitest_ldv_POV3.7_AG1.0_lum3.png"/>	||	|| x	||	|| x	|| x	||	||
+|| <img width="512" height="288" src="http://datsville.googlecode.com/svn/wiki/TestRenders.attach/povray_minitest_ldv_POV3.7_AG2.2_lum3.png"/>	||	|| x	||	|| x	||	|| x	||
+|| <img width="512" height="288" src="http://datsville.googlecode.com/svn/wiki/TestRenders.attach/povray_minitest_ldv_POV3.62_AG1.0_lum3.png"/>	||	|| x	|| x	||	|| x	||	||
+|| <img width="512" height="288" src="http://datsville.googlecode.com/svn/wiki/TestRenders.attach/povray_minitest_ldv_POV3.62_AG2.2_lum3.png"/>	||	|| x	|| x	||	||	|| x	||
 
 "AG" stands for "assumed_gamma", a POV-Ray scene setting.
 
