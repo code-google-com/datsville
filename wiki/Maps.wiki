@@ -4,8 +4,7 @@ See ModelsTable for a list of models and their index numbers (the blue and yello
 
 These map images are really 8192x4096 pixels in size. Right-click to save them to your harddrive and view them in high definition.
 
-<script src="//www.gmodules.com/ig/ifr?url=http://www.google.com/ig/modules/image_slideshow/image_slideshow.xml&amp;up_type=5&amp;up_user=mikh2161&amp;up_feed=http%3A%2F%2Fapi.flickr.com%2Fservices%2Ffeeds%2Fdatsville_pool.gne&amp;up_color=white&amp;up_displaytime=8&amp;up_crop=enable&amp;up_query=sunset&amp;up_feed_url=http%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fsearch%3Fkind%3Dphoto%26q%3Dsunset%26alt%3Drss%26max-results%3D20&amp;up_album_url=&amp;synd=open&amp;w=320&amp;h=200&amp;title=__MSG_title__&amp;lang=en&amp;country=ALL&amp;border=%23ffffff%7C3px%2C1px+solid+%23999999&amp;output=js"></script>
-
+<wiki:gadget url="http://www.google.com/ig/modules/image_slideshow/image_slideshow.xml" up_projectName="support" />
 Rev 337
 [http://datsville.googlecode.com/svn/wiki/Maps.attach/datsville_rev337_map.png]
 
