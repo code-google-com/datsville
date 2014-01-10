@@ -9,14 +9,14 @@
 
 #version 3.7;
 
-#include "ldv_wrapper_minitest.inc"
+#include "ldv_wrapper_townview.inc"
 
 #declare LDXQual = 2;	// Quality (0 = Bounding Box; 1 = No Refraction; 2 = Normal; 3 = Stud Logos)
 #declare LDXSW = 0.5;	// Seam Width (0 for no seams)
 #declare LDXStuds = 1;	// Show studs? (1 = YES; 0 = NO)
 #declare LDXRefls = 1;	// Reflections? (1 = YES; 0 = NO)
 #declare LDXShads = 1;	// Shadows? (1 = YES; 0 = NO)
-#declare LDXFloor = 1;	// Include Floor? (1 = YES; 0 = NO)
+#declare LDXFloor = 0;	// Include Floor? (1 = YES; 0 = NO)
 
 // Model bounds information
 #declare LDXMinX = -10;

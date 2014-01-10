@@ -62,3 +62,4 @@
   # Add missing titles to sub-models in MPD files.
   # Some author tags in sub-models remain blank. This needs to be fixed.
   # Buildings with open backs should really be closed.
+  # Add light sources to all models for night-time renders.
