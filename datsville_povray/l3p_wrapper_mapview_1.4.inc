@@ -50,7 +50,7 @@ global_settings
 }
 
 
-#include "ldr_oldmaterials_1.4.inc"
+#include "l3p_oldmaterials_1.4.inc"
 #include "stdinc.inc"
 #include "CIE.inc"			// http://www.ignorancia.org/en/index.php?page=Lightsys
 #include "lightsys.inc"			// http://www.ignorancia.org/en/index.php?page=Lightsys
@@ -62,12 +62,12 @@ global_settings
 #declare light_color		= Light_Color(light_temp,light_lumens);
 #declare Camera_Diagonal	= cosd(45);
 #declare Camera_Aspect		= image_height / image_width;
-#declare Camera_Width		= 7680 * 4/3;
-#declare Camera_Vertical	= 225;
+#declare Camera_Width		= 10240;	// was 7680 * 4/3
+#declare Camera_Vertical	= 315;		// was 225
 #declare Camera_Horizontal	= 30;
 #declare Camera_Distance	= Camera_Width;
 #declare Camera_Scale		= 4;
-#declare Camera_Translate	= <-1280,0,0> + trans_amount;
+#declare Camera_Translate	= 0;		//was <-1280,0,0> + trans_amount;
 #declare Camera_Up		= -y * Camera_Diagonal * Camera_Width * Camera_Aspect;
 #declare Camera_Right		= +x * Camera_Diagonal * Camera_Width;
 #declare Camera_Location	= -z * Camera_Distance;
@@ -102,7 +102,8 @@ light_source
 //// Floor
 object
 {
-	plane { y, 4 hollow }
+	//plane { y, 4 hollow }
+	plane { y, 80 hollow }
 	texture
 	{
 		pigment

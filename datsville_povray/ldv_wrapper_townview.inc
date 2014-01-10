@@ -9,16 +9,20 @@
 #declare light_temp		= Daylight(6100);			// float
 #declare light_color		= Light_Color(light_temp,light_lumens);
 #declare trans_amount		= <2240,0,-320>;
+#declare LDXSkipLight1		= true;
+#declare LDXSkipLight2		= true;
+#declare LDXSkipLight3		= true;
+#declare LDXSkipCamera		= true;
 
 // Camera:
 #declare Camera_Diagonal	= cosd(45);
 #declare Camera_Aspect		= image_height / image_width;
 #declare Camera_Width		= 2048;
 #declare Camera_Vertical	= 315;
-#declare Camera_Horizontal	= 15;
+#declare Camera_Horizontal	= 20;
 #declare Camera_Distance	= Camera_Width;
 #declare Camera_Scale		= 4;
-#declare Camera_Translate	= <-1280,0,0> + trans_amount;
+#declare Camera_Translate	= 0;	// was <-1280,0,0> + trans_amount;
 #declare Camera_Up		= -y * Camera_Diagonal * Camera_Width * Camera_Aspect;
 #declare Camera_Right		= +x * Camera_Diagonal * Camera_Width;
 #declare Camera_Location	= -z * Camera_Distance;
@@ -52,7 +56,8 @@ light_source
 // Floor
 object
 {
-	plane { y, 4 hollow }
+//	plane { y, 4 hollow }
+	plane { y, 80 hollow }
 	texture
 	{
 		pigment
