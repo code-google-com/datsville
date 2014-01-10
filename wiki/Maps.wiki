@@ -4,7 +4,6 @@ See ModelsTable for a list of models and their index numbers (the blue and yello
 
 These map images are really 8192x4096 pixels in size. Right-click to save them to your harddrive and view them in high definition.
 
-<wiki:gadget url="http://www.google.com/ig/modules/image_slideshow/image_slideshow.xml" up_projectName="support" />
 Rev 337
 [http://datsville.googlecode.com/svn/wiki/Maps.attach/datsville_rev337_map.png]
 
