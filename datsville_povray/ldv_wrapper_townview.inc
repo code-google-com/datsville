@@ -22,7 +22,7 @@
 #declare Camera_Horizontal	= 20;
 #declare Camera_Distance	= Camera_Width;
 #declare Camera_Scale		= 4;
-#declare Camera_Translate	= 0;	// was <-1280,0,0> + trans_amount;
+#declare Camera_Translate	= <+1280,0,-1280>;	// was <-1280,0,0> + trans_amount;
 #declare Camera_Up		= -y * Camera_Diagonal * Camera_Width * Camera_Aspect;
 #declare Camera_Right		= +x * Camera_Diagonal * Camera_Width;
 #declare Camera_Location	= -z * Camera_Distance;
@@ -96,7 +96,7 @@ global_settings
 		pretrace_end	0.02 // Try 0.01 if you see random black spots.
 		count		20
 		error_bound	1
-		recursion_limit	1
+		recursion_limit	2
 		normal		on
 		brightness	1.4
 		always_sample	no
