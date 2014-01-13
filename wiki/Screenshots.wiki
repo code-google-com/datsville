@@ -1,7 +1,7 @@
 #summary Screenshots of development in progress.
 
 2013/12/19
-[http://datsville.googlecode.com/svn/wiki/Screenshots.attach/ldview_screenshot_018.png]
+<a href="http://www.flickr.com/photos/108839565@N04/11578799406/" title="ldview_screenshot_018 by mikh2161, on Flickr"><img src="http://farm6.staticflickr.com/5536/11578799406_a3bfd8aa1d.jpg" width="500" height="274" alt="ldview_screenshot_018"></a>
 2013/11/15
 [http://datsville.googlecode.com/svn/wiki/Screenshots.attach/ldview_screenshot_017.png]
 2013/11/08
