@@ -16,30 +16,30 @@
 
 == Pre-SVN Releases ==
 
-  * [http://www.mediafire.com/download/q9cv4df49ghq4tf/datsville_googlecode_rev009.zip Revision PS009]
-  * [http://www.mediafire.com/download/pmelxmnix0m2mcq/datsville_googlecode_rev008.zip Revision PS008]
-  * [http://www.mediafire.com/download/uy2q5yi2q3gjw1l/datsville_googlecode_rev007.zip Revision PS007]
-  * [http://www.mediafire.com/download/3fbgedabjdfoyys/datsville_googlecode_rev006.zip Revision PS006]
-  * [http://www.mediafire.com/download/lv631xpjciqbd6i/datsville_googlecode_rev005.zip Revision PS005]
-  * [http://www.mediafire.com/download/22v0znrb1cos63n/datsville_googlecode_rev004.zip Revision PS004]
-  * [http://www.mediafire.com/download/tgxg8aib6n1ip9o/datsville_googlecode_rev003.zip Revision PS003]
-  * [http://www.mediafire.com/download/528ek365fr0e0r1/datsville_googlecode_rev002.zip Revision PS002]
-  * [http://www.mediafire.com/download/d1wuvcx43pin5da/datsville_googlecode_rev001.zip Revision PS001]
+  * [http://www.mediafire.com/download/q9cv4df49ghq4tf/datsville_googlecode_rev009.zip Revision PS009] 2013-10-16
+  * [http://www.mediafire.com/download/pmelxmnix0m2mcq/datsville_googlecode_rev008.zip Revision PS008] 2012-01-19
+  * [http://www.mediafire.com/download/uy2q5yi2q3gjw1l/datsville_googlecode_rev007.zip Revision PS007] 2012-01-07
+  * [http://www.mediafire.com/download/3fbgedabjdfoyys/datsville_googlecode_rev006.zip Revision PS006] 2011-12-08
+  * [http://www.mediafire.com/download/lv631xpjciqbd6i/datsville_googlecode_rev005.zip Revision PS005] 2011-11-30
+  * [http://www.mediafire.com/download/22v0znrb1cos63n/datsville_googlecode_rev004.zip Revision PS004] 2011-09-29
+  * [http://www.mediafire.com/download/tgxg8aib6n1ip9o/datsville_googlecode_rev003.zip Revision PS003] 2011-09-25
+  * [http://www.mediafire.com/download/528ek365fr0e0r1/datsville_googlecode_rev002.zip Revision PS002] 2011-09-21
+  * [http://www.mediafire.com/download/d1wuvcx43pin5da/datsville_googlecode_rev001.zip Revision PS001] 2011-09-21
   * [http://www.mediafire.com/view/tc2xc641shuktqz/old_change_log.txt old_change_log.txt]
 
 == Tore Eriksson's Early Releases ==
 
-  * [http://www.mediafire.com/download/v79l7dks5ccvd5c/Rev039.zip Revision TE039]
-  * [http://www.mediafire.com/download/io862cl0nk7u3yc/Rev037.zip Revision TE037]
-  * [http://www.mediafire.com/download/d55dxaaia3rny6g/Rev035.zip Revision TE035]
-  * [http://www.mediafire.com/download/3623ud27gsegwo8/Rev034.zip Revision TE034]
-  * [http://www.mediafire.com/download/7q0tyn0861ts3n6/Rev032.zip Revision TE032]
-  * [http://www.mediafire.com/download/8ibdz3gzpdf79qc/Rev029.zip Revision TE029]
-  * [http://www.mediafire.com/download/812h1glcky9ube4/Rev028.zip Revision TE028]
-  * [http://www.mediafire.com/download/yi8nb8hltckjt6m/Rev026.zip Revision TE026]
-  * [http://www.mediafire.com/download/o2yx6gkp70zch4d/Rev024.zip Revision TE024]
-  * [http://www.mediafire.com/download/244eqwrpqe4q2rn/Rev022%20-%20Last%20Unboxed%20Version.zip Revision TE022]
-  * [http://www.mediafire.com/download/1c68ugj5nci6sl6/Rev017.zip Revision TE017]
+  * [http://www.mediafire.com/download/v79l7dks5ccvd5c/Rev039.zip Revision TE039] 2011-08-16
+  * [http://www.mediafire.com/download/io862cl0nk7u3yc/Rev037.zip Revision TE037] 2010-12-25
+  * [http://www.mediafire.com/download/d55dxaaia3rny6g/Rev035.zip Revision TE035] 2010-07-01
+  * [http://www.mediafire.com/download/3623ud27gsegwo8/Rev034.zip Revision TE034] 2010-06-21
+  * [http://www.mediafire.com/download/7q0tyn0861ts3n6/Rev032.zip Revision TE032] 2010-05-22
+  * [http://www.mediafire.com/download/8ibdz3gzpdf79qc/Rev029.zip Revision TE029] 2010-02-27
+  * [http://www.mediafire.com/download/812h1glcky9ube4/Rev028.zip Revision TE028] 2010-02-24
+  * [http://www.mediafire.com/download/yi8nb8hltckjt6m/Rev026.zip Revision TE026] 2010-02-20
+  * [http://www.mediafire.com/download/o2yx6gkp70zch4d/Rev024.zip Revision TE024] 2009-12-22
+  * [http://www.mediafire.com/download/244eqwrpqe4q2rn/Rev022%20-%20Last%20Unboxed%20Version.zip Revision TE022] 2009-11-25
+  * [http://www.mediafire.com/download/1c68ugj5nci6sl6/Rev017.zip Revision TE017] 2003-02-02
   * [http://www.mediafire.com/download/jrdgwxvlldlm6fh/Rev014.zip Revision TE014]
   * [http://www.mediafire.com/download/wj7l5gxgttlg35v/Rev013.zip Revision TE013]
   * [http://www.mediafire.com/download/db9t3mbr3ux3weo/Datsville_Environment_POVray.zip POVray hills and river]
