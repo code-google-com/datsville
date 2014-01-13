@@ -199,7 +199,7 @@ This table is current as of revision 369.
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/pedestrian_012_manexplorerbinoculars.png] || pedestrian_012_manexplorerbinoculars.ldr ||  ||  || Minifig Belvedere || Tore Eriksson ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/pedestrian_013_manblacksuitdriving.png] || pedestrian_013_manblacksuitdriving.ldr ||  ||  || Loan Officer || James Jackson ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/pedestrian_014_mandarkskingraysuitdriving.png] || pedestrian_014_mandarkskingraysuitdriving.ldr ||  ||  || Loan Customer || James Jackson ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/pedestrian_015_mangreengraysuitmustache.png] || pedestrian_015_mangreengraysuitmustache.ldr ||  ||  || Bank Teller || James Jackson ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/pedestrian_015_mangreengraysuitmustache.png] || pedestrian_015_mangreengraysuitmustache.mpd ||  ||  || Bank Teller || James Jackson ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/pedestrian_016_manblueoverallsblackhatsitting.png] || pedestrian_016_manblueoverallsblackhatsitting.ldr || Trdriver.dat ||  || Truck Driver ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/pedestrian_017_manredspacelogosunglassessitting.png] || pedestrian_017_manredspacelogosunglassessitting.ldr || Trdriver.dat ||  || Truck Driver || Tore Eriksson ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/pedestrian_019_manblondehairwhiteshirt.png] || pedestrian_019_manblondehairwhiteshirt.ldr ||  ||  || Minifig Mclerk ||  ||
@@ -247,7 +247,7 @@ This table is current as of revision 369.
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/pedestrian_061_mailmansitting.png] || pedestrian_061_mailmansitting.ldr ||  ||  || Minifig Mail Man || John VanZwieten ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/pedestrian_062_bicyclistredshirt.png] || pedestrian_062_bicyclistredshirt.ldr ||  ||  ||  || Tore Eriksson ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/pedestrian_063_bluemotorcyclerider.png] || pedestrian_063_bluemotorcyclerider.ldr ||  ||  ||  || Tore Eriksson ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/pedestrian_064_graychauffeur.png] || pedestrian_064_graychauffeur.ldr ||  ||  || Chauffeur || Jacob Sparre Andersen ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/pedestrian_064_neutralchauffeur.png] || pedestrian_064_neutralchauffeur.ldr ||  ||  || Chauffeur || Jacob Sparre Andersen ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/pedestrian_065_policewhiteshirtandtiesitting.png] || pedestrian_065_policewhiteshirtandtiesitting.ldr ||  ||  || Patrol Car Driver sitting || Jonathan Wilson ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/pedestrian_066_policemotorcyclesuitreclining.png] || pedestrian_066_policemotorcyclesuitreclining.ldr ||  ||  ||  || Jonathan Wilson ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/pedestrian_067_policedetectiveblacksuitredshirt.png] || pedestrian_067_policedetectiveblacksuitredshirt.ldr ||  ||  ||  || Jonathan Wilson ||
@@ -319,16 +319,16 @@ This table is current as of revision 369.
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_006_yellowrockbreaker.png] || vehicle_006_yellowrockbreaker.ldr ||  ||  || Datsville Constructions Rock Breaker || Jonathan Wilson ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_007_whitepolicecar.png] || vehicle_007_whitepolicecar.ldr || policec.dat ||  || Police Patrol Car || Jonathan Wilson ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_008_redfirecar.png] || vehicle_008_redfirecar.ldr || dfcchief.dat ||  ||  || Ryan Dennett ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_009_graycoupe.png] || vehicle_009_graycoupe.ldr || tcstembl.dat ||  || DragonMotors Auld-Class 09 Special Edition (A09se) Green & White || Jeff Stembel ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_010_graystationwagon.png] || vehicle_010_graystationwagon.ldr || tcwilsn1.dat ||  || Suzuki Swift Hatchback || Jonathan Wilson ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_011_graybmwsedan.png] || vehicle_011_graybmwsedan.ldr || tcbmw.dat ||  || Car BMW ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_009_neutralcoupe.png] || vehicle_009_neutralcoupe.ldr || tcstembl.dat ||  || DragonMotors Auld-Class 09 Special Edition (A09se) Green & White || Jeff Stembel ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_010_neutralstationwagon.png] || vehicle_010_neutralstationwagon.ldr || tcwilsn1.dat ||  || Suzuki Swift Hatchback || Jonathan Wilson ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_011_neutralbmwsedan.png] || vehicle_011_neutralbmwsedan.ldr || tcbmw.dat ||  || Car BMW ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_012_blueandwhitebus.png] || vehicle_012_blueandwhitebus.ldr || tbus.dat ||  || City Single Decker Bus || Nicholas Allan ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_013_yellowroundmailvan.png] || vehicle_013_yellowroundmailvan.ldr || tcmail.dat ||  || City Xers Mail Van || Jacob Sparre Andersen ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_014_blacksemitruck.png] || vehicle_014_blacksemitruck.mpd || tcbigtr.dat ||  || Truck Big ||  ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_015_whitesportscar.png] || vehicle_015_whitesportscar.ldr || tcsproat.dat ||  ||  || Jeremy Sproat(?) ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_016_redpickuptruck.png] || vehicle_016_redpickuptruck.ldr || tcwalton.dat ||  || Pickup Truck || Calvin Walton ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_017_graysemitruck.png] || vehicle_017_graysemitruck.mpd || Tcbigtr.dat ||  || Truck Big ||  ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_018_graypolicemotorcycle.png] || vehicle_018_graypolicemotorcycle.mpd ||  ||  || Police Motorcycle 2 Wheel || Tore Eriksson ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_017_neutralsemitruck.png] || vehicle_017_neutralsemitruck.mpd || Tcbigtr.dat ||  || Truck Big ||  ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_018_neutralpolicemotorcycle.png] || vehicle_018_neutralpolicemotorcycle.mpd ||  ||  || Police Motorcycle 2 Wheel || Tore Eriksson ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_019_weirdportalonwheels.png] || vehicle_019_weirdportalonwheels.mpd || Mtepushr.ldr ||  || Mystery Model || Tore Eriksson ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_020_redconvertiblecar.png] || vehicle_020_redconvertiblecar.ldr || tcburge2.dat ||  || ferrari 355 || Thomas Burger ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_021_blueandwhitedeliverytruck.png] || vehicle_021_blueandwhitedeliverytruck.ldr || tcsmtr.dat ||  || Cargo Delivery Truck || Nicholas Allan ||
@@ -337,7 +337,7 @@ This table is current as of revision 369.
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_024_blackmotorcycleandredrider.png] || vehicle_024_blackmotorcycleandredrider.ldr ||  ||  || Motorcycle 2 Wheel || Tore Eriksson ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_025_redmotorcycleandwhiterider.png] || vehicle_025_redmotorcycleandwhiterider.ldr ||  ||  || Motorcycle 2 Wheel || Tore Eriksson ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_026_bluecoupe.png] || vehicle_026_bluecoupe.ldr || tcburger.dat ||  || 2000 Beetle || Bram Lambrecht, Thomas Burger ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_027_grayconvertible.png] || vehicle_027_grayconvertible.ldr || tcconv1.dat ||  || Car Convertible 1 || Brian Sauls ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_027_neutralconvertible.png] || vehicle_027_neutralconvertible.ldr || tcconv1.dat ||  || Car Convertible 1 || Brian Sauls ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_028_yellowtraincarwithblacktrailer.png] || vehicle_028_yellowtraincarwithblacktrailer.mpd || Tofc.dat ||  || Trailer on Flatcar || James Jackson ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_029_blacklimousine.png] || vehicle_029_blacklimousine.ldr || tcvirsic.dat ||  || Limousine || Rene Virsik ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_030_redfiretruck01.png] || vehicle_030_redfiretruck01.mpd || dfchresq.dat ||  || Datsville FC Heavy Rescue || Ryan Dennett ||
@@ -364,8 +364,8 @@ This table is current as of revision 369.
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_055_mgb.png] || vehicle_055_mgb.mpd ||  ||  ||  || Tim Gould ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_056_rollsroyce.png] || vehicle_056_rollsroyce.mpd ||  ||  ||  || Tim Gould ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_057_yellowroundmailvan_withdriver.png] || vehicle_057_yellowroundmailvan_withdriver.ldr ||  ||  || City Xers Mail Van || Jacob Sparre Andersen ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_058_graybicyclewithrider.png] || vehicle_058_graybicyclewithrider.ldr ||  ||  ||  || Tore Eriksson ||
-|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_059_graymotorcyclewithbluerider.png] || vehicle_059_graymotorcyclewithbluerider.ldr ||  ||  ||  || Tore Eriksson ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_058_neutralbicyclewithrider.png] || vehicle_058_neutralbicyclewithrider.ldr ||  ||  ||  || Tore Eriksson ||
+|| [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_059_neutralmotorcyclewithbluerider.png] || vehicle_059_neutralmotorcyclewithbluerider.ldr ||  ||  ||  || Tore Eriksson ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_060_ferraripolice.png] || vehicle_060_ferraripolice.ldr ||  ||  || ferrari cop || Thomas Burger ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_061_garbagetruck.png] || vehicle_061_garbagetruck.ldr ||  ||  || Datsville Garbage Truck || Jeff Stembel ||
 || [http://datsville.googlecode.com/svn/wiki/ModelsTable.attach/vehicle_062_hummer.png] || vehicle_062_hummer.ldr ||  ||  || Hummer || Ryan Dennett ||
