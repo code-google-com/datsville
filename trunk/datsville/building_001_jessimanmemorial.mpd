@@ -126,10 +126,10 @@
 1 2 150 -8 0 0 0 1 0 1 0 -1 0 0 3023.dat
 1 2 0 -8 -150 1 0 0 0 1 0 0 0 1 3023.dat
 1 2 0 -8 150 1 0 0 0 1 0 0 0 1 3023.dat
-1 8 -180 -8 240 1 0 0 0 1 0 0 0 1 infrastructure_streetlamp_2.ldr
-1 8 -240 -8 180 1 0 0 0 1 0 0 0 1 infrastructure_streetlamp_2.ldr
-1 8 -240 -8 -180 1 0 0 0 1 0 0 0 1 infrastructure_streetlamp_2.ldr
-1 8 -180 -8 -240 1 0 0 0 1 0 0 0 1 infrastructure_streetlamp_2.ldr
+1 8 -180 -8 240 1 0 0 0 1 0 0 0 1 infrastructure_streetlamp_6.ldr
+1 8 -240 -8 180 1 0 0 0 1 0 0 0 1 infrastructure_streetlamp_6.ldr
+1 8 -240 -8 -180 1 0 0 0 1 0 0 0 1 infrastructure_streetlamp_6.ldr
+1 8 -180 -8 -240 1 0 0 0 1 0 0 0 1 infrastructure_streetlamp_6.ldr
 0 REM Trees
 1 2 -240 -16 80 1 0 0 0 1 0 0 0 1 3470.dat
 1 2 -280 -16 -140 1 0 0 0 1 0 0 0 1 3470.dat
@@ -213,10 +213,10 @@
 1 2 190 -8 -40 0 0 -1 0 1 0 1 0 0 3023.dat
 1 2 300 -8 240 0 0 -1 0 1 0 1 0 0 3022.dat
 1 2 240 -8 300 0 0 -1 0 1 0 1 0 0 3022.dat
-1 8 180 -8 -240 -1 0 0 0 1 0 0 0 -1 infrastructure_streetlamp_2.ldr
-1 8 240 -8 -180 -1 0 0 0 1 0 0 0 -1 infrastructure_streetlamp_2.ldr
-1 8 240 -8 180 -1 0 0 0 1 0 0 0 -1 infrastructure_streetlamp_2.ldr
-1 8 180 -8 240 -1 0 0 0 1 0 0 0 -1 infrastructure_streetlamp_2.ldr
+1 8 180 -8 -240 -1 0 0 0 1 0 0 0 -1 infrastructure_streetlamp_6.ldr
+1 8 240 -8 -180 -1 0 0 0 1 0 0 0 -1 infrastructure_streetlamp_6.ldr
+1 8 240 -8 180 -1 0 0 0 1 0 0 0 -1 infrastructure_streetlamp_6.ldr
+1 8 180 -8 240 -1 0 0 0 1 0 0 0 -1 infrastructure_streetlamp_6.ldr
 0 REM Trees
 1 2 240 -16 -80 -1 0 0 0 1 0 0 0 -1 3470.dat
 1 2 280 -16 140 -1 0 0 0 1 0 0 0 -1 3470.dat
@@ -453,6 +453,8 @@
 0 ROTATION CONFIG 0 0
 1 0 0 6 0 1 0 0 0 1 0 0 0 1 2555.dat
 1 46 0 14 0 1 0 0 0 1 0 0 0 1 building_001_3024.dat
+0 
+0 
 0 
 0
 0
