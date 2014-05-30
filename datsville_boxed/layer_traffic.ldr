@@ -95,7 +95,7 @@
 1 0 -3620 0 -3975 -1 0 0 0 1 0 0 0 -1 vehicle_061_garbagetruck.ldr
 1 7 980 0 -420 0 0 -1 0 1 0 1 0 0 vehicle_060_ferraripolice.ldr
 1 7 1730 0 -2970 0 0 -1 0 1 0 1 0 0 vehicle_059_neutralmotorcyclewithbluerider.ldr
-1 16 -5570 -8 -570 0 0 -1 0 1 0 1 0 0 vehicle_062_hummer.mpd
+1 16 -5570 -8 -570 0 0 -1 0 1 0 1 0 0 vehicle_062_neutralhummer.mpd
 1 7 4270 2 2880 -1 0 0 0 1 0 0 0 -1 vehicle_063_redbubbletruck.ldr
 1 7 -6070 0 2770 0 0 -1 0 1 0 1 0 0 vehicle_064_blacklimousine_2.ldr
 1 7 -1760 0 1070 0 0 1 0 1 0 -1 0 0 vehicle_065_orangewhitevan.ldr
