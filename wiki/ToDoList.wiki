@@ -11,16 +11,15 @@
 = Models =
 
   # Strip all vehicles and pedestrians from building models and add them to the traffic layer.
-  # Add driveways that slope smoothly into the roads. See Mike Gallagher's examples. (But how do I build driveways if the road section lies at an incline?)
+  # Create driveways that slope smoothly into the roads. See Mike Gallagher's examples. (But how do I build driveways if the road section lies at an incline?)
   # <s>Traffic layer needs to be gone over again to make sure cars and pedestrians are standing correctly on the ground, sitting in the grass, etc.</s>
   # Figure out the best way to implement sloped roads and heightfield terrain.
   # Building 58 has a lower storey that is being clipped by the ground.
-  # The white camper in Tore's "pending" folder is a very nice model. It would be great if we could use it.
   # <s>Replace petrol station's baseplates with SNOT roads?</s>
   # <s>The parking lots near the university and apartment complex are ugly and need to be redesigned.</s>
   # The cell tower looks more like a tornado siren. Repurpose and rename?
   # Make sure all "boxed" parts have edge lines. It's possible Tore's parts all had edge lines, but I overrode them with my own edgeline-less parts mistakenly.
-  # Need to consider again which versions of Mike Gallagher's SNOT roads to use because he has created several. The latest versions have blue wheelchair accessible ramps for instance.
+  # Need to consider again which versions of Mike Gallagher's SNOT roads to use. He has created several. The latest versions have blue wheelchair accessible ramps for instance.
   # <s>Baseball players are missing from the baseball field.</s>
   # <s>The grocery store needs some parking spaces.</s>
   # <s>Not sure what "t04i1304.dat" and "t04o1304.dat" are for. Can they be safely deleted?</s>
@@ -42,7 +41,7 @@
   # All minifigures and vehicles should use unique models. Even players on the baseball teams.
   # Lower shopping center parking lot by 8 LDU. Also, pizza place.
   # <s>A lot of sub-models are "inlined", which is a bad thing as they are better left as MPDs. Need to obtain the original models or reverse this inlining if possible. (Caveat - MLCAD doesn't like nested MPDs however.)</s>
-  # <s>Streets are a major PITA to edit. Need to split them into rectangular "cells".</s>
+  # <s>The streets layer is a major PITA to edit. Need to split it into square "cells".</s>
   # I'm not real happy with block 8 where the university once stood. It needs to be made more parklike.
   # Maybe make areas between shops and sidewalks white instead of gray.
   # There may be too many streetlights in Datsville. I should at least try to use single-bulb lamps instead of double.
@@ -56,9 +55,9 @@
   # <s>Some email addresses appear within the models themselves. Try and see if the missing authors can be reached via them.</s>
   # Maybe remove email addresses from models entirely and rely on contact list alone.
   # Make sure model filenames are lowcaps since the file system may be case-sensitive.
-  # Several models still have inlined sub-models that need to be turned back into proper LDR sub-models.
+  # <s>Several models still have inlined sub-models that need to be turned back into proper LDR sub-models.</s>
   # Each model and sub-model needs to have the proper software license attached to it.
-  # The tag 'Unofficial Model' needs to be replaced with 'Unofficial Datsville Model' in each model and sub-model.
+  # <s>The tag 'Unofficial Model' needs to be replaced with 'Unofficial Datsville Model' in each model and sub-model.</s>
   # Add missing titles to sub-models in MPD files.
   # Some author tags in sub-models remain blank. This needs to be fixed.
   # Buildings with open backs should really be closed.
