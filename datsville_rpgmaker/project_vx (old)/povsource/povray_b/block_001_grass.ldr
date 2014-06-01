@@ -1,0 +1,89 @@
+0 Town Scene Main.
+0 Name: block_001_grass.ldr
+0 Was: town_full.dat
+0 Author: John VanZwieten
+0 Unofficial Datsville Town Model
+0 NoParent
+
+0 /////////////////////////////////////////////////////////////////////////////
+0 !LDSWITCH DEFINE TOWNPEEP Inline
+
+0 !LDSWITCH TOWNPEEP
+0 !LDSWITCH CASE Inline
+0 Town00
+0 // woman in central park
+0 // mailman in central park
+0 // mailman beside mailvan
+0 // waving man outside t-hall
+0 // woman leaving central park
+0 // two men walking towards Calvin's house
+0 // BMW car in front of t-hall
+0 // city bus passing central park
+0 !LDSWITCH CASE Use
+0 0
+0 !LDSWITCH End
+
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 16 -2560 -32 640 1 0 0 0 1 0 0 0 1 building_001_jessimanmemorial.ldr
+
+
+0 Inlined: 1 2 -3320 -8 1440 0 0 1 0 1 0 -1 0 0 _tsw02.ldr
+0 Inlined: 1 2 -4240 -8 1440 0 0 1 0 1 0 -1 0 0 _tsw02.ldr
+0 Inlined: 1 2 -1800 -8 -160 0 0 -1 0 1 0 1 0 0 _tsw02.ldr
+0 Inlined: 1 2 -4480 0 -1520 0 0 1 0 1 0 -1 0 0 _tsw03.ldr
+0 Inlined: 1 2 -3200 0 2800 0 0 -1 0 1 0 1 0 0 _tsw03.ldr
+0 Inlined: 1 2 -2720 -8 1840 1 0 0 0 1 0 0 0 1 _tsw04.ldr
+0 Inlined: 1 2 -3240 -8 1440 0 0 1 0 1 0 -1 0 0 _tsw04.ldr
+0 Inlined: 1 2 -4200 -8 1440 0 0 1 0 1 0 -1 0 0 _tsw04.ldr
+0 Inlined: 1 2 -3560 -8 1440 0 0 1 0 1 0 -1 0 0 _tsw04.ldr
+0 Inlined: 1 2 -1880 -8 -160 0 0 -1 0 1 0 1 0 0 _tsw04.ldr
+0 Inlined: 1 2 -2800 -8 -160 0 0 -1 0 1 0 1 0 0 _tsw04.ldr
+0 Inlined: 1 2 -1560 -8 -160 0 0 -1 0 1 0 1 0 0 _tsw04.ldr
+0 Inlined: 1 2 -2320 -8 1440 0 0 1 0 1 0 -1 0 0 _tsw04.ldr
+0 Inlined: 1 2 -1680 0 0 1 0 0 0 1 0 0 0 1 _tsw05.ldr
+0 Inlined: 1 2 -2720 -8 1440 1 0 0 0 1 0 0 0 1 _tsw06.ldr
+0 Inlined: 1 2 -2400 -8 -160 -1 0 0 0 1 0 0 0 -1 _tsw06.ldr
+0 Inlined: 1 2 -2720 -8 -160 0 0 -1 0 1 0 1 0 0 _tsw06.ldr
+0 Inlined: 1 2 -3360 -8 1440 1 0 0 0 1 0 0 0 1 _tsw06.ldr
+0 Inlined: 1 2 -4320 -8 1440 0 0 1 0 1 0 -1 0 0 _tsw06.ldr
+0 Inlined: 1 2 -2400 -8 1440 0 0 1 0 1 0 -1 0 0 _tsw06.ldr
+0 Inlined: 1 2 -2160 -8 1440 0 0 1 0 1 0 -1 0 0 _tsw06.ldr
+0 Inlined: 1 2 -2720 -8 1520 1 0 0 0 1 0 0 0 1 _tsw08.ldr
+0 Inlined: 1 2 -3080 -8 1440 0 0 1 0 1 0 -1 0 0 _tsw08.ldr
+0 Inlined: 1 2 -4040 -8 1440 0 0 1 0 1 0 -1 0 0 _tsw08.ldr
+0 Inlined: 1 2 -2720 -8 -1160 1 0 0 0 1 0 0 0 1 _tsw08.ldr
+0 Inlined: 1 2 -2040 -8 -160 0 0 -1 0 1 0 1 0 0 _tsw08.ldr
+0 Inlined: 1 2 -2720 -8 -840 1 0 0 0 1 0 0 0 1 _tsw16.ldr
+0 Inlined: 1 2 -2400 -8 -880 -1 0 0 0 1 0 0 0 -1 _tsw16.ldr
+0 Inlined: 1 2 -2400 -8 -240 -1 0 0 0 1 0 0 0 -1 _tsw16.ldr
+0 Inlined: 1 2 -3040 -8 -160 0 0 -1 0 1 0 1 0 0 _tsw16.ldr
+0 Inlined: 1 2 -3680 -8 -160 0 0 -1 0 1 0 1 0 0 _tsw16.ldr
+0 Inlined: 1 2 -2400 -8 2120 -1 0 0 0 1 0 0 0 -1 _tsw16.ldr
+0 Inlined: 1 2 -2080 -8 1440 0 0 1 0 1 0 -1 0 0 _tsw16.ldr
+0 Inlining done.
+
+1 7 0 0 0 1 0 0 0 1 0 0 0 1 building_001_memorialparksection.ldr
+
+
+
+0 REM 4 x 5 Baseplates
+0 // -3840 0 -640 (Bmhcarri.ldr)
+
+0 // -3200 0 -640 (Bmhcarri.ldr)
+
+1 13 -2560 0 640 1 0 0 0 1 0 0 0 1 b\3811.dat
+
+0 REM end of 4 x 5 Baseplates
+
+
+0 1 12 -2840 -8 2240 0 0 1 0 1 0 -1 0 0 b\3033.dat
+0 
+
+0 From Town10...
+0 1 2 -2380 0 2540 -1 0 0  0 1 0  0 0 1 Ltesw16h.ldr
+0 1 2 -2740 0 2540 1 0 0  0 1 0  0 0 -1  Ltesw16h.ldr
+
+0 // Added sidewalks (TE, Rev034)
+
+0

@@ -1,0 +1,13 @@
+0 Datsville street sector
+0 Name: streets_+2_-2.ldr
+0 Author: Michael Horvath
+0 Unofficial Datsville Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 7 6720 0 -6080 -1 0 0 0 1 0 0 0 -1 snotroad_doublestripecross.ldr
+1 7 6080 0 -6720 0 0 1 0 1 0 -1 0 0 snotroad_doublestripecross.ldr
+1 7 5440 0 -6720 0 0 -1 0 1 0 1 0 0 snotroad_doublestripenocross.ldr
+1 7 6720 0 -5440 1 0 0 0 1 0 0 0 1 snotroad_doublestriperailxing_offset.ldr
+1 7 6720 0 -6720 0 0 1 0 1 0 -1 0 0 snotroad_quaddotsnocross.ldr
+1 7 6720 -16 -6720 0 0 1 0 1 0 -1 0 0 infrastructure_signstopquad.ldr
+0

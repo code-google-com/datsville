@@ -1,0 +1,8 @@
+0 Town Scene Main.
+0 Name: block_002.ldr
+0 Was: town_full.dat
+0 Author: John VanZwieten
+0 Unofficial Datsville Town Model
+0 NoParent
+
+1 7 -3570 -200 640 0 0 -1 0 1 0 1 0 0 building_002_townhall.ldr
