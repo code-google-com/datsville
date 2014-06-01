@@ -1,0 +1,38 @@
+0 Datsville City Blocks Layer
+0 Name: layer_blocks.ldr
+0 Author: John VanZwieten, Michael Horvath, Tore Eriksson
+0 Unofficial Datsville Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_001.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_002.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_003.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_004.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_005.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_006.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_007.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_008.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_009.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_010.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_011.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_012.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_013.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_014.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_015.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_016.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_017.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_018.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_019.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_020.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_021.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_022.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_023.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_024.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_025.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_026.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_027.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_028.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_029.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_030.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_031.ldr
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_032.ldr
