@@ -1,0 +1,18 @@
+0 Datsville City Block #12
+0 Name: block_012.ldr
+0 Author: John VanZwieten, Michael Horvath, Tore Eriksson
+0 Unofficial Datsville Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 7 5080 -8 1900 0 0 1 0 1 0 -1 0 0 building_009_miningfacility.mpd
+1 7 7360 -8 2240 0 0 -1 0 1 0 1 0 0 infrastructure_ljphill2.ldr
+1 7 6720 -8 2240 1 0 0 0 1 0 0 0 1 infrastructure_ljphill2.ldr
+1 7 6720 -8 2880 0 0 1 0 1 0 -1 0 0 infrastructure_ljphill1.ldr
+1 7 6720 -8 3520 1 0 0 0 1 0 0 0 1 infrastructure_ltehill3.ldr
+1 7 6080 -8 3520 1 0 0 0 1 0 0 0 1 infrastructure_ljphill2.ldr
+1 7 6080 -8 4160 0 0 1 0 1 0 -1 0 0 infrastructure_ljphill2.ldr
+1 7 6720 -8 4160 -1 0 0 0 1 0 0 0 -1 infrastructure_ljphill1.ldr
+1 7 7360 -8 4160 -1 0 0 0 1 0 0 0 -1 infrastructure_ljphill2.ldr
+1 7 7360 0 3520 0 0 -1 0 1 0 1 0 0 infrastructure_ljphill1.ldr
+1 7 7360 0 2880 0 0 -1 0 1 0 1 0 0 infrastructure_ljphill1.ldr
+0

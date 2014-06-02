@@ -1,0 +1,18 @@
+0 Datsville City Block #22
+0 Name: block_022.ldr
+0 Author: John VanZwieten, Michael Horvath, Tore Eriksson
+0 Unofficial Datsville Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 16 5120 0 -1920 0 0 1 0 1 0 -1 0 0 building_064_baseballpark.mpd
+1 15 6480 -8 -2680 1 0 0 0 1 0 0 0 1 b\3068b.dat
+1 13 4800 0 -960 1 0 0 0 1 0 0 0 1 b\3811.dat
+1 13 5440 0 -960 1 0 0 0 1 0 0 0 1 b\3811.dat
+1 13 6080 0 -960 1 0 0 0 1 0 0 0 1 b\3811.dat
+1 13 6080 0 -1600 1 0 0 0 1 0 0 0 1 b\3811.dat
+1 13 5440 0 -1600 1 0 0 0 1 0 0 0 1 b\3811.dat
+1 13 4800 0 -1600 1 0 0 0 1 0 0 0 1 b\3811.dat
+1 13 4800 0 -2240 1 0 0 0 1 0 0 0 1 b\3811.dat
+1 13 5440 0 -2240 1 0 0 0 1 0 0 0 1 b\3811.dat
+1 13 6080 0 -2240 1 0 0 0 1 0 0 0 1 b\3811.dat
+0

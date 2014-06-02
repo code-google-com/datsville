@@ -1,0 +1,10 @@
+0 Datsville City Block #13
+0 Name: block_013.ldr
+0 Author: John VanZwieten, Michael Horvath, Tore Eriksson
+0 Unofficial Datsville Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 7 4800 -8 320 0 0 1 0 1 0 -1 0 0 building_008_roundpolicebuilding.ldr
+1 7 6100 -8 300 0 0 -1 0 1 0 1 0 0 building_044_amateurradioclubbuilding.ldr
+1 7 5560 -8 320 0 0 -1 0 1 0 1 0 0 building_069_amateurradioclubantenna.mpd
+0
