@@ -1,3 +1,5 @@
+#summary Datsville town map and legend.
+
 datsville_rev337_map
 [https://farm8.staticflickr.com/7339/11578089544_8db7ae12e4_b.jpg]
 datsville_rev328_map

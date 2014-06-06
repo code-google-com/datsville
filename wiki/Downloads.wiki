@@ -44,3 +44,8 @@
   * [http://www.mediafire.com/download/wj7l5gxgttlg35v/Rev013.zip Revision TE013] 2002-08-23?
   * [http://www.mediafire.com/download/db9t3mbr3ux3weo/Datsville_Environment_POVray.zip POVray hills and river]
   * [http://www.mediafire.com/view/buy8cyre2laxxu9/notes.txt notes.txt]
+
+== Datsville RPG ==
+
+  * [http://www.mediafire.com/download/ogmuvm2fm4j2j4v/Datsville_RPG_v0.1.0.exe Version 0.1.0]
+  * [http://www.mediafire.com/download/8bm4ss339jy92pp/datsville_rpgmaker_project_v0.0.2.zip Version 0.0.2]
