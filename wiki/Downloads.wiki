@@ -47,5 +47,5 @@
 
 == Datsville RPG ==
 
-  * [http://www.mediafire.com/download/ogmuvm2fm4j2j4v/Datsville_RPG_v0.1.0.exe Version 0.1.0]
-  * [http://www.mediafire.com/download/8bm4ss339jy92pp/datsville_rpgmaker_project_v0.0.2.zip Version 0.0.2]
+  * [http://www.mediafire.com/download/ogmuvm2fm4j2j4v/Datsville_RPG_v0.1.0.exe Version 0.1.0] (RPG Maker VX Ace)
+  * [http://www.mediafire.com/download/8bm4ss339jy92pp/datsville_rpgmaker_project_v0.0.2.zip Version 0.0.2] (RPG Maker VX)
