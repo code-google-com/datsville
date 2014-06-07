@@ -63,3 +63,4 @@
   # Buildings with open backs should really be closed.
   # Add light sources to all models for night-time renders.
   # Adjust the scene so that y = 0 is at the grass/sidewalk surface instead of the road surface.
+  # The town hall uses unsupported baseplates for floors.

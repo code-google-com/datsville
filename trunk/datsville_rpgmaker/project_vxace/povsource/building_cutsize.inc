@@ -1,6 +1,4 @@
-// +KFI0 +KFF3 +KI0.0 +KF1.0 +KC
-// +KFI0 +KFF7 +KI0.0 +KF1.0 +KC
-
+// Render at 4 studs = 32 pixels?
 
 
 // -------------------------------------------------------------
@@ -18,14 +16,14 @@
 
 #ifndef (Use_Radiosity)		#declare Use_Radiosity		= 1;			#end	// turns radiosity on/off. (Recommend leaving this off. have to decrease diffuse if it is on.)
 #ifndef (Use_Shadows)		#declare Use_Shadows		= 0;			#end	// turns shadows on/off. (Recommend turning this off for walls that are always covered by rooves.) Not used often.
-#ifndef (Show_GridMarker)	#declare Show_GridMarker	= 1;			#end	// use this to orient the sprite within a template
-#ifndef (Show_BasicFloor)	#declare Show_BasicFloor	= 1;			#end	// renders a plain, 1-tile floor beneath the scene.
-#ifndef (Show_AxisMarker)	#declare Show_AxisMarker	= 1;			#end	// renders crosshairs in the center of the scene
+#ifndef (Show_GridMarker)	#declare Show_GridMarker	= 0;			#end	// use this to orient the sprite within a template
+#ifndef (Show_BasicFloor)	#declare Show_BasicFloor	= 0;			#end	// renders a plain, 1-tile floor beneath the scene.
+#ifndef (Show_AxisMarker)	#declare Show_AxisMarker	= 0;			#end	// renders crosshairs in the center of the scene
 #ifndef (Seed)			#declare Seed			= seed(8829464);	#end	// the default seed value for random functions.
 #ifndef (Rand_Colors)		#declare Rand_Colors		= true;		#end	//
 
-#declare TileWidth		= 128;
-#declare TilesNum		= 1;
+#declare TileWidth		= 640;
+#declare TilesNum		= 2;
 #declare L3Version		= 1.4;
 #declare L3Quality		= 3;		// Quality level, 0=BBox, 1=no refr, 2=normal, 3=studlogo, 4=stud2logo
 #declare L3SW			= 0.5;		// Width of seam between two bricks
@@ -166,9 +164,8 @@ fog
 		#local cam_tran = transform
 		{
 			rotate		-x * 045
-			scale		1.5
-			translate	+z * 64
-//			translate	+x * 40
+//			translate	-z * 160
+//			translate	+x * 160
 		}
 		camera
 		{
@@ -202,29 +199,29 @@ light_source
 {
 	sphere
 	{
-		0,1
+		0,10
 		pigment{color rgb <0,0,0,>}
 	}
 	cylinder
 	{
-		0,x*1024,1
+		0,x*1024,10
 		pigment{color rgb <1,0,0,>}
 	}
 	cylinder
 	{
-		0,-y*1024,1
+		0,-y*1024,10
 		pigment{color rgb <0,1,0,>}
 	}
 	cylinder
 	{
-		0,z*1024,1
+		0,z*1024,10
 		pigment{color rgb <0,0,1,>}
 	}
 }
 
 #declare Grid_Marker = polygon
 {
-	#local Wid = TileWidth/4;
+	#local Wid = TileWidth/2;
 	#local NW = <0000,+000,-Wid,>;
 	#local NE = <-Wid,+000,-Wid,>;
 	#local SE = <-Wid,+000,0000,>;
@@ -236,7 +233,7 @@ light_source
 
 #declare Basic_Floor = polygon
 {
-	#local Wid = TileWidth/4;
+	#local Wid = TileWidth/2;
 	#local NW = <+Wid,+000,-Wid,>;
 	#local NE = <-Wid,+000,-Wid,>;
 	#local SE = <-Wid,+000,+Wid,>;

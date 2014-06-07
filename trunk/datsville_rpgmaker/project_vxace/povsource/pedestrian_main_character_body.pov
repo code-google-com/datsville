@@ -76,10 +76,21 @@
 
 
 //// IncludeFile AtBeginning
-#include "body.inc"
+//#include "body.inc"
 //#include "face.inc"
+#include "character_body.inc"
 
+// -------------------------------------------------------------
+// LMM_A02i_datsville.inc colors
 
+#declare M_Flesh_Color=L3Color14;
+#declare M_R_Leg_Color=L3Color8; // Default left leg color: gray
+#declare M_L_Leg_Color=L3Color8; // Default right leg color: gray
+#declare M_R_Arm_Color=L3Color2; // Default right arm color: gray
+#declare M_L_Arm_Color=L3Color2; // Default left armcolor: gray
+#declare M_Torso_Color=L3Color2; // Default torso color: gray
+#declare M_Hips_Color=L3Color8; // Default hips color: black 
+#declare M_Hat_Color=L3Color11; // Default hat color: gray
 
 //// Finishes
 #ifndef (L3FinishOpaque)
@@ -2707,7 +2718,7 @@ union {
 
 //// ModelObject _main_character.ldr
 //object { __main__character_dot_ldr }
-#include "LMM_A02i.inc"
+#include "LMM_A02i_datsville.inc"
 
 
 //// Statistics
