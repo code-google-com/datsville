@@ -27,10 +27,10 @@
 #declare TileWidth		= 640;
 #declare TilesNum		= 32;
 #declare L3Version		= 1.4;
-#declare L3Quality		= 3;		// Quality level, 0=BBox, 1=no refr, 2=normal, 3=studlogo, 4=stud2logo
-#declare L3SW			= 0.5;		// Width of seam between two bricks
+#declare L3Quality		= 1;		// Quality level, 0=BBox, 1=no refr, 2=normal, 3=studlogo, 4=stud2logo
+#declare L3SW			= 0;		// Width of seam between two bricks
 #declare L3Studs		= 0;		// 1=on 0=off
-#declare L3Bumps		= 1;		// 1=on 0=off
+#declare L3Bumps		= 0;		// 1=on 0=off
 #declare L3Ambient		= 0.1;
 #declare L3Diffuse		= 0.9;
 #declare L3Ior			= 1.25;
