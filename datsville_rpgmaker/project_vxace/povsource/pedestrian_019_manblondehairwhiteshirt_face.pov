@@ -77,7 +77,7 @@
 
 
 //// IncludeFile AtBeginning
-#include "face.inc"
+#include "character_face.inc"
 
 
 

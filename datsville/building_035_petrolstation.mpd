@@ -6,10 +6,6 @@
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 0 0 0 1 0 0 0 1 0 0 0 1 building_035_1.ldr
-1 0 -70 -24 -50 1 0 0 0 1 0 0 0 1 vehicle_038_redpickuptruck02.ldr
-1 0 -15 0 -20 0 0 -1 0 1 0 1 0 0 pedestrian_020_manbluestripeswhitecapsunglasses.ldr
-1 15 140 -40 -70 1 0 0 0 1 0 0 0 1 vehicle_039_octantankertruck.mpd
-1 0 -300 -8 180 1 0 0 0 1 0 0 0 1 pedestrian_021_manblueoverallscap.ldr
 0
 0 FILE building_035_1.ldr
 0 Petrol Station with Baseplates

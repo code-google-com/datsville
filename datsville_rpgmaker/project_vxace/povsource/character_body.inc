@@ -2,6 +2,11 @@
 // +KFI0 +KFF7 +KI0.0 +KF1.0 +KC
 
 
+// -------------------------------------------------------------
+// POV-Ray version
+
+#version 3.7
+
 
 // -------------------------------------------------------------
 // Standard includes
@@ -12,6 +17,7 @@
 #include "stones.inc"
 #include "glass.inc"
 #include "metals.inc"
+
 
 // -------------------------------------------------------------
 // Default values. These can be pre-declared in your scene.
@@ -27,10 +33,10 @@
 #declare TileWidth		= 160;
 #declare TilesNum		= 1;
 #declare L3Version		= 1.4;
-#declare L3Quality		= 3;		// Quality level, 0=BBox, 1=no refr, 2=normal, 3=studlogo, 4=stud2logo
-#declare L3SW			= 0.5;		// Width of seam between two bricks
+#declare L3Quality		= 1;		// Quality level, 0=BBox, 1=no refr, 2=normal, 3=studlogo, 4=stud2logo
+#declare L3SW			= 0;		// Width of seam between two bricks
 #declare L3Studs		= 0;		// 1=on 0=off
-#declare L3Bumps		= 1;		// 1=on 0=off
+#declare L3Bumps		= 0;		// 1=on 0=off
 #declare L3Ambient		= 0.1;
 #declare L3Diffuse		= 0.9;
 #declare L3Ior			= 1.25;
@@ -49,7 +55,6 @@
 
 //#include "fastrad.inc"		// slooowwwwwww!!!
 #include "ldr_materials_1.4.inc"
-#include "stdinc.inc"
 #include "CIE.inc"			// http://www.ignorancia.org/en/index.php?page=Lightsys
 #include "lightsys.inc"			// http://www.ignorancia.org/en/index.php?page=Lightsys
 #include "lightsys_constants.inc"	// http://www.ignorancia.org/en/index.php?page=Lightsys
@@ -57,27 +62,6 @@
 #declare light_lumens		= 2;					// float
 #declare light_temp		= Daylight(6100);			// float
 #declare light_color		= gamma_color_adjust(Light_Color(light_temp,light_lumens));
-
-// -------------------------------------------------------------
-// LMM_A02i_datsville.inc colors
-
-//#declare M_Flesh_Color=MYellow;
-//#declare M_R_Leg_Color=Mgray; // Default left leg color: gray
-//#declare M_L_Leg_Color=Mgray; // Default right leg color: gray
-//#declare M_R_Arm_Color=Mgray; // Default right arm color: gray
-//#declare M_L_Arm_Color=Mgray; // Default left armcolor: gray
-//#declare M_Torso_Color=Mgray; // Default torso color: gray
-//#declare M_Hips_Color=Mblack; // Default hips color: black 
-//#declare M_Hat_Color=Mgray; // Default hat color: gray
-
-#declare M_Flesh_Color=L3Color14;
-//#declare M_R_Leg_Color=Mgray; // Default left leg color: gray
-//#declare M_L_Leg_Color=Mgray; // Default right leg color: gray
-//#declare M_R_Arm_Color=Mgray; // Default right arm color: gray
-//#declare M_L_Arm_Color=Mgray; // Default left armcolor: gray
-//#declare M_Torso_Color=Mgray; // Default torso color: gray
-//#declare M_Hips_Color=Mblack; // Default hips color: black 
-//#declare M_Hat_Color=Mgray; // Default hat color: gray
 
 
 // -------------------------------------------------------------

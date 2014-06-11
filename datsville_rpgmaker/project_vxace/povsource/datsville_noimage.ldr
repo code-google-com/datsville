@@ -1,11 +1,12 @@
-http://i421.photobucket.com/albums/pp292/SharkD2161/LDraw/datsville_rpgmaker_screen_01_zps6f0d6c65.png0 Datsville
-0 Name: datsville.ldr
+0 Name: datsville_noimage.ldr
 0 Author: Various
 0 Unofficial Datsville Model
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 WRITE layers should remain y+8 for RPG game
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 layer_blocks_grass.ldr
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 layer_blocks_buildings.ldr
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 layer_streets_nolights.ldr
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 layer_river.ldr
+1 16 0 8 0 1 0 0 0 1 0 0 0 1 layer_blocks_grass.ldr
+1 16 0 8 0 1 0 0 0 1 0 0 0 1 layer_blocks_buildings.ldr
+1 16 0 8 0 1 0 0 0 1 0 0 0 1 layer_streets_nolights.ldr
+1 16 0 8 0 1 0 0 0 1 0 0 0 1 layer_river.ldr
 0 1 16 0 0 0 1 0 0 0 1 0 0 0 1 layer_traffic.ldr
+0

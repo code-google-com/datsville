@@ -141,9 +141,12 @@
 #ifndef(M_L_Leg_Color) #declare M_L_Leg_Color=Mgray #end // Default right leg color: gray
 #ifndef(M_R_Arm_Color) #declare M_R_Arm_Color=Mgray #end // Default right arm color: gray
 #ifndef(M_L_Arm_Color) #declare M_L_Arm_Color=Mgray #end // Default left armcolor: gray
+#ifndef(M_R_Hand_Color) #declare M_R_Hand_Color=Mgray #end // Default right arm color: gray
+#ifndef(M_L_Hand_Color) #declare M_L_Hand_Color=Mgray #end // Default left armcolor: gray
 #ifndef(M_Torso_Color) #declare M_Torso_Color=Mgray #end // Default torso color: gray
 #ifndef(M_Hips_Color) #declare M_Hips_Color=Mblack #end // Default hips color: black 
 #ifndef(M_Hat_Color) #declare M_Hat_Color=Mgray #end // Default hat color: gray
+#ifndef(M_Head_Color) #declare M_Head_Color=Mgray #end // Default hat color: gray
   
 
 //******************************************************************************************************
@@ -268,49 +271,25 @@
 
       
                  
-#ifdef (_6260_dot_dat) //Detects Skeletons by looking for skeleton torso part
-        #ifndef(M_Flesh_Color) #declare M_Flesh_Color=MWHite #end//Anything that does not use a skeleton torso part is assumed tobe a minifig
-         //Skeletons are put together in the lines below, with only the accesories (hats only for now) come further down
-//left leg
-          object {_6266_dot_dat matrix <1,0,0,0,1,0,0,0,1,0,0,0> #if (-L_Amplitude*sin((clock)*2*pi)<-1) rotate<-L_Amplitude*sin( clock*2*pi),0, 0,> #else rotate<(-L_Amplitude*sin( clock*2*pi))/4,0, 0,> #end translate<10,44,0>material{ M_Flesh_Color }}
-//right leg
-          object {_6266_dot_dat matrix <1,0,0,0,1,0,0,0,1,0,0,0>#if (L_Amplitude*sin((clock)*2*pi)<-1) rotate<L_Amplitude*sin( clock*2*pi),0, 0,>#else rotate<(L_Amplitude*sin( clock*2*pi))/4,0, 0,> #end  translate<-10,44,0>material{ M_Flesh_Color }}
-
-//Torso
-        object {_6260_dot_dat matrix <1,0,0,0,1,0,0,0,1,0,0,0> material{ M_Flesh_Color }}
-//right arm
-	object {_6265_dot_dat matrix <1,0,0,0,1,0,0,0,1,0,0,0>
-	rotate<(-A_Amplitude*sin( clock*2*pi))+80,0,9.792>translate<-21,8,0>
-	material{ M_Flesh_Color  }}                                                                  
-//left arm
-	object {_6265_dot_dat matrix <1,0,0,0,1,0,0,0,1,0,0,0>
-	rotate<(A_Amplitude*sin( clock*2*pi))+80,0,-9.792>translate<21,8,0>
-	material{ M_Flesh_Color  }}
-
-
- #else //Non-Skeletons //Anything that does not use a skeleton torso part is assumed to be a minifig
-       //Hips, arms and hands are set here - heads, torsos, legs & accesories (hats only for now) further down
-        #ifndef(M_Flesh_Color) #declare M_Flesh_Color=MYellow #end
 //hips
-	object {_970_dot_dat matrix <1-SW/36,0,0,0,1-SW/32,0,0,0,1-SW/20,0,SW/6.4,0>
+	object {_3815_dot_dat matrix <1-SW/36,0,0,0,1-SW/32,0,0,0,1-SW/20,0,SW/6.4,0>
 	matrix <1,0,0,0,1,0,0,0,1,0,32,0> material{ M_Hips_Color }}
 //right arm
-	object {_982_dot_dat matrix <1,0,0,0,1,0,0,0,1,0,0,0>
+	object {_3818_dot_dat matrix <1,0,0,0,1,0,0,0,1,0,0,0>
 	rotate<-A_Amplitude*sin( clock*2*pi)+30,0, 9.792>translate<-15.552,9,0>
 	material{ M_R_Arm_Color }}                                                                  
 //left arm
-	object {_981_dot_dat matrix <1,0,0,0,1,0,0,0,1,0,0,0>
+	object {_3819_dot_dat matrix <1,0,0,0,1,0,0,0,1,0,0,0>
 	rotate<A_Amplitude*sin( clock*2*pi)+30,0,-9.792>translate<15.552,9,0>
 	material{ M_L_Arm_Color }}
 //right hand
-	object {_983_dot_dat matrix <1,0,0,0,.707,.707,0,-.707,.707,-5.198,18.753,-10.321>
+	object {_3820_dot_dat matrix <1,0,0,0,.707,.707,0,-.707,.707,-5.198,18.753,-10.321>
 	rotate<-A_Amplitude*sin( clock*2*pi)+30,0, 9.792>translate<-15.552,9,0>
-	material{ M_Flesh_Color } }
+	material{ M_R_Hand_Color } }
 //left hand
-	object {_983_dot_dat matrix <1,0,0,0,.707,.707,0,-.707,.707,5.198,18.753,-10.321>
+	object {_3820_dot_dat matrix <1,0,0,0,.707,.707,0,-.707,.707,5.198,18.753,-10.321>
 	rotate<A_Amplitude*sin( clock*2*pi)+30,0, -9.792>translate<15.552,9,0>
-	material{ M_Flesh_Color }  }
-#end
+	material{ M_L_Hand_Color }  }
 
 //HEADS
 //The code below identifies the head part used by the minifig and alters it according to the animation parameters
@@ -366,7 +345,7 @@
 #ifdef (_3626b_dot_dat) #declare LMM_head = _3626b_dot_dat;  #end  
 
 #ifdef (LMM_head)
-        object {LMM_head matrix <1,0,0,0,1,0,0,0,1,0,0,0> rotate<0,H_Amplitude,0> translate<0,-24,0> material{ M_Flesh_Color }}
+        object {LMM_head matrix <1,0,0,0,1,0,0,0,1,0,0,0> rotate<0,H_Amplitude,0> translate<0,-24,0> material{ M_Head_Color }}
 #end
 
 
@@ -536,6 +515,7 @@
 //LEFT LEG 
 //The code below identifies the left leg part used by the minifig and alters it according to the animation parameters
 
+#ifdef (_3817_dot_dat) #declare LMM_l_leg = _3817_dot_dat;  #end
 #ifdef (_971_dot_dat) #declare LMM_l_leg = _971_dot_dat;  #end
 #ifdef (_971p3j_dot_dat) #declare LMM_l_leg = _971p3j_dot_dat;  #end
 #ifdef (_971pa2_dot_dat) #declare LMM_l_leg = _971pa2_dot_dat;  #end
@@ -545,12 +525,13 @@
 #ifdef (_773_dot_dat) #declare LMM_l_leg = _773_dot_dat;  #end 
 
 #ifdef (LMM_l_leg)
-object {LMM_l_leg matrix <1,0,0,0,1,0,0,0,1,0,0,0> #if (L_Amplitude*sin((clock)*2*pi)<-1) rotate<L_Amplitude*sin( clock*2*pi),0, 0,> #else rotate<(L_Amplitude*sin( clock*2*pi))/4,0, 0,> #end translate<0,44,0>material{ M_L_Leg_Color }}
+object {LMM_l_leg matrix <1,0,0,0,1,0,0,0,1,0,0,0> #if (-L_Amplitude*sin((clock)*2*pi)<-1) rotate<-L_Amplitude*sin( clock*2*pi),0, 0,> #else rotate<(L_Amplitude*sin( clock*2*pi))/4,0, 0,> #end translate<0,44,0>material{ M_L_Leg_Color }}
 #end
 
 //RIGHT LEG
 //The code below identifies the right leg part used by the minifig and alters it according to the animation parameters
 
+#ifdef (_3816_dot_dat) #declare LMM_r_leg = _3816_dot_dat;  #end
 #ifdef (_972_dot_dat) #declare LMM_r_leg = _972_dot_dat;  #end
 #ifdef (_972p3j_dot_dat) #declare LMM_r_leg = _972p3j_dot_dat;  #end
 #ifdef (_972pa2_dot_dat) #declare LMM_r_leg = _972pa2_dot_dat;  #end
@@ -559,7 +540,7 @@ object {LMM_l_leg matrix <1,0,0,0,1,0,0,0,1,0,0,0> #if (L_Amplitude*sin((clock)*
 #ifdef (_773_dot_dat) #declare LMM_r_leg = _773_dot_dat;  #end 
 
 #ifdef (LMM_r_leg)
-        object {LMM_r_leg matrix <1,0,0,0,1,0,0,0,1,0,0,0>#if (-L_Amplitude*sin((clock)*2*pi)<-1) rotate<-L_Amplitude*sin( clock*2*pi),0, 0,>#else rotate<(-L_Amplitude*sin( clock*2*pi))/4,0, 0,> #end  translate<0,44,0>material{ M_R_Leg_Color }}
+        object {LMM_r_leg matrix <1,0,0,0,1,0,0,0,1,0,0,0>#if (L_Amplitude*sin((clock)*2*pi)<-1) rotate<L_Amplitude*sin( clock*2*pi),0, 0,>#else rotate<(-L_Amplitude*sin( clock*2*pi))/4,0, 0,> #end  translate<0,44,0>material{ M_R_Leg_Color }}
 #end
 
 }
