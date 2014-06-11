@@ -4,6 +4,7 @@
 0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_002.ldr
 1 16 6020 0 -5120 0 0 -1 0 1 0 1 0 0 vehicle_028_yellowtraincarwithblacktrailer.mpd
 1 16 710 -56 2850 1 0 0 0 1 0 0 0 1 vehicle_055_mgb.mpd
 1 16 -2960 72 5180 0 0 -1 0 1 0 1 0 0 vehicle_053_citycat.mpd
@@ -142,4 +143,32 @@
 1 0 -5710 -16 1830 1 0 0 0 1 0 0 0 1 pedestrian_073_policewhiteshirtandtiestandingnohat.ldr
 1 0 -5770 -16 1830 1 0 0 0 1 0 0 0 1 pedestrian_073_policewhiteshirtandtiestandingnohat.ldr
 1 0 -5680 -48 1950 1 0 0 0 1 0 0 0 1 pedestrian_073_policewhiteshirtandtiestandingnohat.ldr
+1 2 4448 -88 -1598 0 0 -1 0 1 0 1 0 0 pedestrian_035_blackpreppiesitting.ldr
+1 2 4488 -64 -1538 0 0 -1 0 1 0 1 0 0 pedestrian_034_blondefemalesitting.ldr
+1 2 5438 -88 -2588 -1 0 0 0 1 0 0 0 -1 pedestrian_033_pinkfemalesitting.ldr
+1 2 5518 -64 -2548 -1 0 0 0 1 0 0 0 -1 pedestrian_032_pinkpunksitting.ldr
+1 2 4608 -16 -2378 0 0 -1 0 1 0 1 0 0 pedestrian_031_blueteambatter.ldr
+1 2 4528 -8 -2378 0 0 -1 0 1 0 1 0 0 pedestrian_027_baseballumpire.ldr
+1 2 4510 -32 -2178 0 0 -1 0 1 0 1 0 0 pedestrian_030_blueteamsitting.ldr
+1 2 4510 -32 -2118 0 0 -1 0 1 0 1 0 0 pedestrian_030_blueteamsitting.ldr
+1 2 4510 -32 -2038 0 0 -1 0 1 0 1 0 0 pedestrian_030_blueteamsitting.ldr
+1 2 4507 -16 -2259 0 0 -1 0 1 0 1 0 0 pedestrian_029_blueteamstanding.ldr
+1 2 4507 -8 -1919 0 0 -1 0 1 0 1 0 0 pedestrian_029_blueteamstanding.ldr
+1 2 4507 -8 -1839 0 0 -1 0 1 0 1 0 0 pedestrian_029_blueteamstanding.ldr
+1 2 5258 -8 -1727 1 0 0 0 1 0 0 0 1 pedestrian_029_blueteamstanding.ldr
+1 2 4942 -32 -2098 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 pedestrian_028_redteamstanding.ldr
+1 2 4578 -8 -2469 -1 0 0 0 1 0 0 0 -1 pedestrian_028_redteamstanding.ldr
+1 2 5198 -8 -1668 1 0 0 0 1 0 0 0 1 pedestrian_028_redteamstanding.ldr
+1 2 4678 -16 -1728 1 0 0 0 1 0 0 0 1 pedestrian_028_redteamstanding.ldr
+1 2 5328 -8 -2357 0 0 1 0 1 0 -1 0 0 pedestrian_028_redteamstanding.ldr
+1 2 5328 -16 -1838 0 0 1 0 1 0 -1 0 0 pedestrian_028_redteamstanding.ldr
+1 2 5909 -16 -2198 0 0 1 0 1 0 -1 0 0 pedestrian_028_redteamstanding.ldr
+1 2 5909 -8 -1098 0 0 1 0 1 0 -1 0 0 pedestrian_028_redteamstanding.ldr
+1 2 4718 -8 -1107 1 0 0 0 1 0 0 0 1 pedestrian_028_redteamstanding.ldr
+1 2 4510 -32 -1978 0 0 -1 0 1 0 1 0 0 pedestrian_030_blueteamsitting.ldr
+1 0 -1030 -24 -3610 1 0 0 0 1 0 0 0 1 vehicle_038_redpickuptruck02.ldr
+1 0 -975 0 -3580 0 0 -1 0 1 0 1 0 0 pedestrian_020_manbluestripeswhitecapsunglasses.ldr
+1 15 -820 -40 -3630 1 0 0 0 1 0 0 0 1 vehicle_039_octantankertruck.mpd
+1 0 -1260 -8 -3380 1 0 0 0 1 0 0 0 1 pedestrian_021_manblueoverallscap.ldr
+1 16 -1230 -72 320 0 0 -1 0 1 0 1 0 0 pedestrian_011_manmayortophat.ldr
 0

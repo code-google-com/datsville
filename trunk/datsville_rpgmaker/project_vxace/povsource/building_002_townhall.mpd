@@ -5,7 +5,6 @@
 0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
-1 16 0 -64 -550 1 0 0 0 1 0 0 0 1 pedestrian_011_manmayortophat.ldr
 1 16 0 -192 -470 1 0 0 0 1 0 0 0 1 building_002_thall6.ldr
 1 16 -20 -192 -450 1 0 0 0 1 0 0 0 1 building_002_thall1.ldr
 1 16 20 -192 -450 -1 0 0 0 1 0 0 0 1 building_002_thall1.ldr
