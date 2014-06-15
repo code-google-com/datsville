@@ -133,7 +133,7 @@ fog
 // -------------------------------------------------------------
 // Camera
 
-#declare cam_mode = 0;
+#declare cam_mode = 1;
 #switch (cam_mode)
 	// orthographic
 	#case (0)

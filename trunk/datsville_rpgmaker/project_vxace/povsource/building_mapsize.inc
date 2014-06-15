@@ -185,7 +185,7 @@ fog
 
 light_source
 {
-	-z * 4096
+	-z * 40960
 	light_color
 	rotate		-x * 60
 	rotate		+y * 45

@@ -1,3 +1,2 @@
-* Main character sprite has reflections on it. Get rid of it.
-* Bike paths should be a part of the base layer.
-* Bike paths need to be moved a little to align with movement grid.
+* Bike paths need to be moved a little to align with movement grid. [sure?]
+* Fire hydrants, trash cans and bus stops need to be aligned with the movement grid.

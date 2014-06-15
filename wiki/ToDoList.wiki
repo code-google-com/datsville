@@ -64,3 +64,4 @@
   # Add light sources to all models for night-time renders.
   # Adjust the scene so that y = 0 is at the grass/sidewalk surface instead of the road surface.
   # The town hall uses unsupported baseplates for floors.
+  # Make the bridges 8 bricks wider.
