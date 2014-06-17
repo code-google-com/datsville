@@ -1,0 +1,17 @@
+0 Datsville City Block #4
+0 Name: block_004_grass.ldr
+0 Author: John VanZwieten, Michael Horvath, Tore Eriksson
+0 Unofficial Datsville Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 13 2880 0 320 1 0 0 0 1 0 0 0 1 3811.dat
+1 2 2720 -8 480 1 0 0 0 1 0 0 0 1 91405.dat
+1 2 2720 -8 160 1 0 0 0 1 0 0 0 1 91405.dat
+1 2 3040 -8 480 1 0 0 0 1 0 0 0 1 91405.dat
+1 2 3040 -8 160 1 0 0 0 1 0 0 0 1 91405.dat
+1 2 3360 -8 480 1 0 0 0 1 0 0 0 1 91405.dat
+1 2 3360 -8 160 1 0 0 0 1 0 0 0 1 91405.dat
+1 2 3680 -8 480 1 0 0 0 1 0 0 0 1 91405.dat
+1 2 3680 -8 160 1 0 0 0 1 0 0 0 1 91405.dat
+1 13 3520 0 320 1 0 0 0 1 0 0 0 1 3811.dat
+0
