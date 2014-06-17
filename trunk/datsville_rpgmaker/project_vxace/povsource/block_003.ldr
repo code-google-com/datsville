@@ -5,9 +5,9 @@
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 16 1660 -8 320 0 0 -1 0 1 0 1 0 0 building_043_datsvillememorial.ldr
-1 16 1400 -8 90 1 0 0 0 1 0 0 0 1 infrastructure_bigtree01.ldr
-1 16 1370 -8 550 1 0 0 0 1 0 0 0 1 infrastructure_bigtree01.ldr
-1 16 1050 -8 550 1 0 0 0 1 0 0 0 1 infrastructure_bigtree01.ldr
+1 16 1400 -8 90 1 0 0 0 1 0 0 0 1 infrastructure_bigtree_01.ldr
+1 16 1370 -8 550 1 0 0 0 1 0 0 0 1 infrastructure_bigtree_01.ldr
+1 16 1050 -8 550 1 0 0 0 1 0 0 0 1 infrastructure_bigtree_01.ldr
 1 13 960 0 320 1 0 0 0 1 0 0 0 1 b\3811.dat
 1 2 800 -8 480 1 0 0 0 1 0 0 0 1 b\91405.dat
 1 2 800 -8 160 1 0 0 0 1 0 0 0 1 b\91405.dat

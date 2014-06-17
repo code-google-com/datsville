@@ -1,2 +1,5 @@
 * Bike paths need to be moved a little to align with movement grid. [sure?]
 * Fire hydrants, trash cans and bus stops need to be aligned with the movement grid.
+* Fire company needs to have its vehicles moved to the traffic layer.
+* Move fire hydrants etc. to overlayer?
+* Remove streetsigns from streets layer.

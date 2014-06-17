@@ -53,9 +53,9 @@
 1 13 3520 0 2880 1 0 0 0 1 0 0 0 1 b\3811.dat
 1 16 2800 -8 1620 1 0 0 0 1 0 0 0 1 building_011_bramshome.ldr
 1 16 3620 -8 1560 1 0 0 0 1 0 0 0 1 building_010_johnshouse.ldr
-1 16 3110 -8 2150 1 0 0 0 1 0 0 0 1 infrastructure_bigtree01.ldr
-1 16 3290 -8 2470 1 0 0 0 1 0 0 0 1 infrastructure_bigtree01.ldr
-1 16 2790 -8 2470 1 0 0 0 1 0 0 0 1 infrastructure_bigtree01.ldr
+1 16 3110 -8 2150 1 0 0 0 1 0 0 0 1 infrastructure_bigtree_01.ldr
+1 16 3290 -8 2470 1 0 0 0 1 0 0 0 1 infrastructure_bigtree_01.ldr
+1 16 2790 -8 2470 1 0 0 0 1 0 0 0 1 infrastructure_bigtree_01.ldr
 1 13 2880 0 1600 1 0 0 0 1 0 0 0 1 b\3811.dat
 1 13 3520 0 1600 1 0 0 0 1 0 0 0 1 b\3811.dat
 1 7 3140 -16 1440 0 0 -1 0 1 0 1 0 0 b\48288.dat

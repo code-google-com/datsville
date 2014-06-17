@@ -4,7 +4,6 @@
 0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_002.ldr
 1 16 6020 0 -5120 0 0 -1 0 1 0 1 0 0 vehicle_028_yellowtraincarwithblacktrailer.mpd
 1 16 710 -56 2850 1 0 0 0 1 0 0 0 1 vehicle_055_mgb.mpd
 1 16 -2960 72 5180 0 0 -1 0 1 0 1 0 0 vehicle_053_citycat.mpd
@@ -171,4 +170,6 @@
 1 15 -820 -40 -3630 1 0 0 0 1 0 0 0 1 vehicle_039_octantankertruck.mpd
 1 0 -1260 -8 -3380 1 0 0 0 1 0 0 0 1 pedestrian_021_manblueoverallscap.ldr
 1 16 -1230 -72 320 0 0 -1 0 1 0 1 0 0 pedestrian_011_manmayortophat.ldr
+1 4 -2180 -8 -8040 -1 0 0 0 1 0 0 0 -1 pedestrian_072_manwithwhitehat.ldr
+1 4 -2620 20 -8040 -1 0 0 0 1 0 0 0 -1 pedestrian_071_manwithblackhat.ldr
 0
