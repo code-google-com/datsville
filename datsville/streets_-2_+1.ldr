@@ -14,7 +14,7 @@
 1 7 -6080 0 320 0 0 1 0 1 0 -1 0 0 snotroad_triplestripecross_2.ldr
 1 7 -6080 0 320 0 0 1 0 1 0 -1 0 0 infrastructure_streetlampsingle.ldr
 1 7 -6720 0 1600 1 0 0 0 1 0 0 0 1 snotroad_doublestripenocross.ldr
-1 7 -6700 0 1640 -1 0 0 0 1 0 0 0 -1 infrastructure_firehydrant.ldr
+1 7 -6720 0 1640 -1 0 0 0 1 0 0 0 -1 infrastructure_firehydrant.ldr
 1 7 -6720 0 2240 1 0 0 0 1 0 0 0 1 snotroad_doublestripenocross.ldr
 1 7 -6720 0 960 -1 0 0 0 1 0 0 0 -1 snotroad_doublestripecross.ldr
 1 7 -5440 0 3520 0 0 1 0 1 0 -1 0 0 snotroad_triplestripenocross.ldr

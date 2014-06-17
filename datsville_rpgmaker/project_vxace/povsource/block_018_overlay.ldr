@@ -1,0 +1,19 @@
+0 Datsville City Block #18
+0 Name: block_018.ldr
+0 Author: John VanZwieten, Michael Horvath, Tore Eriksson
+0 Unofficial Datsville Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 16 -960 0 -3520 1 0 0 0 1 0 0 0 1 building_035_petrolstation.mpd
+1 0 -1250 -32 -3880 1 0 0 0 1 0 0 0 1 infrastructure_phonebooth.ldr
+1 16 -2900 0 -3780 0 0 1 0 1 0 -1 0 0 building_034_blueapartments.mpd
+1 16 -2260 0 -3780 0 0 1 0 1 0 -1 0 0 building_034_blueapartments.mpd
+1 16 -1780 0 -3780 0 0 -1 0 1 0 1 0 0 building_034_blueapartments.mpd
+1 0 -1370 -8 -3930 1 0 0 0 1 0 0 0 1 infrastructure_bigtree_01.ldr
+1 0 -1370 -8 -4480 1 0 0 0 1 0 0 0 1 infrastructure_bigtree_01.ldr
+1 0 -1840 -8 -4500 1 0 0 0 1 0 0 0 1 infrastructure_bigtree_01.ldr
+1 0 -2220 -8 -4490 1 0 0 0 1 0 0 0 1 infrastructure_bigtree_01.ldr
+1 0 -2650 -8 -4460 1 0 0 0 1 0 0 0 1 infrastructure_bigtree_01.ldr
+1 0 -3060 -8 -4490 1 0 0 0 1 0 0 0 1 infrastructure_bigtree_01.ldr
+1 0 -3440 -8 -4260 0 0 1 0 1 0 -1 0 0 infrastructure_dumpstersmall.ldr
+0

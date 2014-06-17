@@ -4,8 +4,8 @@
 0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
-1 16 2900 0 -4310 1 0 0 0 1 0 0 0 1 infrastructure_bigtree04.ldr
-1 16 2850 0 -3990 1 0 0 0 1 0 0 0 1 infrastructure_bigtree01.ldr
+1 16 2900 0 -4310 1 0 0 0 1 0 0 0 1 infrastructure_bigtree_04.ldr
+1 16 2850 0 -3990 1 0 0 0 1 0 0 0 1 infrastructure_bigtree_01.ldr
 1 16 2720 -8 -3520 0 0 1 0 1 0 -1 0 0 building_038_hospital.ldr
 1 11 3520 8 -3520 1 0 0 0 1 0 0 0 1 b\3811.dat
 1 15 3690 0 -3640 0 0 -1 0 1 0 1 0 0 b\2431.dat

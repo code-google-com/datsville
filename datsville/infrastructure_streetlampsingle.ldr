@@ -4,5 +4,6 @@
 0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
-1 16 -236 -8 160 -1 0 0 0 1 0 0 0 -1 infrastructure_streetlamp_2.ldr
+0 MLCAD HIDE 1 16 -320 0 -320 1 0 0 0 1 0 0 0 1 grids32x.dat
+1 288 -276 -8 120 -1 0 0 0 1 0 0 0 -1 infrastructure_streetlamp_02.ldr
 0

@@ -15,7 +15,7 @@
 1 7 320 0 -6720 0 0 -1 0 1 0 1 0 0 snotroad_triplestripecross_1.ldr
 1 7 4160 0 -5440 1 0 0 0 1 0 0 0 1 snotroad_doublestriperailxing.ldr
 1 7 2240 0 -6080 -1 0 0 0 1 0 0 0 -1 snotroad_doublestripecross.ldr
-1 7 2240 0 -6080 -1 0 0 0 1 0 0 0 -1 infrastructure_firehydrant.ldr
+1 7 2240 0 -6120 -1 0 0 0 1 0 0 0 -1 infrastructure_firehydrant.ldr
 1 7 2240 0 -5440 1 0 0 0 1 0 0 0 1 snotroad_doublestriperailxing.ldr
 1 7 4160 0 -6720 0 0 1 0 1 0 -1 0 0 snotroad_quaddotsnocross.ldr
 1 7 4160 -16 -6720 0 0 1 0 1 0 -1 0 0 infrastructure_signstopquad.ldr

@@ -18,8 +18,6 @@
 0 STEP
 0 
 1 7 0 -8 10 -1 0 0 0 1 0 0 0 -1 building_088_lagerhal.ldr
-1 4 220 0 -470 -1 0 0 0 1 0 0 0 -1 pedestrian_072_manwithwhitehat.ldr
-1 4 -220 28 -470 -1 0 0 0 1 0 0 0 -1 pedestrian_071_manwithblackhat.ldr
 0 STEP
 0
 0 FILE building_088_lagerhal.ldr

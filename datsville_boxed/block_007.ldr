@@ -4,11 +4,11 @@
 0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
-1 16 -1440 -8 2400 1 0 0 0 1 0 0 0 1 infrastructure_bigtree03.ldr
+1 16 -1440 -8 2400 1 0 0 0 1 0 0 0 1 infrastructure_bigtree_03.ldr
 1 16 -1600 -8 2100 0 0 1 0 1 0 -1 0 0 building_078_redwhitehouse2.ldr
-1 16 -1730 -8 2400 1 0 0 0 1 0 0 0 1 infrastructure_bigtree01.ldr
-1 16 -1690 -8 1810 1 0 0 0 1 0 0 0 1 infrastructure_bigtree01.ldr
-1 16 -1350 -8 1780 1 0 0 0 1 0 0 0 1 infrastructure_bigtree04.ldr
+1 16 -1730 -8 2400 1 0 0 0 1 0 0 0 1 infrastructure_bigtree_01.ldr
+1 16 -1690 -8 1810 1 0 0 0 1 0 0 0 1 infrastructure_bigtree_01.ldr
+1 16 -1350 -8 1780 1 0 0 0 1 0 0 0 1 infrastructure_bigtree_04.ldr
 1 13 -960 0 2240 1 0 0 0 1 0 0 0 1 b\3811.dat
 1 13 -1600 0 2240 1 0 0 0 1 0 0 0 1 b\3811.dat
 1 13 -960 0 2880 1 0 0 0 1 0 0 0 1 b\3811.dat
