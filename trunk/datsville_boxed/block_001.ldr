@@ -6,10 +6,6 @@
 0 ROTATION CONFIG 0 0
 1 13 -320 0 320 1 0 0 0 1 0 0 0 1 b\3811.dat
 1 13 -320 0 320 1 0 0 0 1 0 0 0 1 building_001_jessimanmemorial.mpd
-0 Sidewalk Town Square
-0 Author: John VanZwieten
-0 Name: building_001_park.ldr
-0 Unofficial Datsville Model
 1 15 -600 -8 600 1 0 0 0 1 0 0 0 1 b\3068b.dat
 1 15 -560 -8 560 1 0 0 0 1 0 0 0 1 b\3068b.dat
 1 15 -520 -8 520 1 0 0 0 1 0 0 0 1 b\3068b.dat
@@ -120,10 +116,10 @@
 1 2 -170 -8 320 0 0 1 0 1 0 -1 0 0 b\3023.dat
 1 2 -320 -8 170 1 0 0 0 1 0 0 0 1 b\3023.dat
 1 2 -320 -8 470 1 0 0 0 1 0 0 0 1 b\3023.dat
-1 8 -500 -8 560 1 0 0 0 1 0 0 0 1 infrastructure_streetlamp_6.ldr
-1 8 -560 -8 500 1 0 0 0 1 0 0 0 1 infrastructure_streetlamp_6.ldr
-1 8 -560 -8 140 1 0 0 0 1 0 0 0 1 infrastructure_streetlamp_6.ldr
-1 8 -500 -8 80 1 0 0 0 1 0 0 0 1 infrastructure_streetlamp_6.ldr
+1 8 -500 -8 560 1 0 0 0 1 0 0 0 1 infrastructure_streetlamp_06.ldr
+1 8 -560 -8 500 1 0 0 0 1 0 0 0 1 infrastructure_streetlamp_06.ldr
+1 8 -560 -8 140 1 0 0 0 1 0 0 0 1 infrastructure_streetlamp_06.ldr
+1 8 -500 -8 80 1 0 0 0 1 0 0 0 1 infrastructure_streetlamp_06.ldr
 0 REM Trees
 1 2 -560 -16 400 1 0 0 0 1 0 0 0 1 3470.dat
 1 2 -600 -16 180 1 0 0 0 1 0 0 0 1 3470.dat
@@ -207,10 +203,10 @@
 1 2 -130 -8 280 0 0 -1 0 1 0 1 0 0 b\3023.dat
 1 2 -20 -8 560 0 0 -1 0 1 0 1 0 0 b\3022.dat
 1 2 -80 -8 620 0 0 -1 0 1 0 1 0 0 b\3022.dat
-1 8 -140 -8 80 -1 0 0 0 1 0 0 0 -1 infrastructure_streetlamp_6.ldr
-1 8 -80 -8 140 -1 0 0 0 1 0 0 0 -1 infrastructure_streetlamp_6.ldr
-1 8 -80 -8 500 -1 0 0 0 1 0 0 0 -1 infrastructure_streetlamp_6.ldr
-1 8 -140 -8 560 -1 0 0 0 1 0 0 0 -1 infrastructure_streetlamp_6.ldr
+1 8 -140 -8 80 -1 0 0 0 1 0 0 0 -1 infrastructure_streetlamp_06.ldr
+1 8 -80 -8 140 -1 0 0 0 1 0 0 0 -1 infrastructure_streetlamp_06.ldr
+1 8 -80 -8 500 -1 0 0 0 1 0 0 0 -1 infrastructure_streetlamp_06.ldr
+1 8 -140 -8 560 -1 0 0 0 1 0 0 0 -1 infrastructure_streetlamp_06.ldr
 0 REM Trees
 1 2 -80 -16 240 -1 0 0 0 1 0 0 0 -1 3470.dat
 1 2 -40 -16 460 -1 0 0 0 1 0 0 0 -1 3470.dat
