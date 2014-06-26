@@ -3,3 +3,9 @@
 * Fire company needs to have its vehicles moved to the traffic layer.
 * Move fire hydrants etc. to overlayer?
 * Remove streetsigns from streets layer.
+* Copy temple trees to a new type of tree.
+* A person in front of one of the warehouses needs to be moved to the traffic layer.
+* Extra small garage has a person and a car in it.
+* Buddhist temple has people on it that need to be moved to the traffic layer.
+* Airport runway is too narrow.
+* Railroad crossing hardware needs to be moved to the top layer.

@@ -9764,13 +9764,13 @@ union {
 	// 1 1  -390 -24 60  1 0 0  0 1 0  0 0 1 building_034_foreground2.ldr
 	object { building__034__foreground2_dot_ldr matrix <1,0,0,0,1,0,0,0,1,-390,-24,60> material { L3Color1 } no_image }
 	// 1 1  -390 -24 60  1 0 0  0 1 0  0 0 1 building_034_walltile2.ldr
-	object { building__034__walltile2_dot_ldr matrix <1,0,0,0,1,0,0,0,1,-390,-24,60> material { L3Color1 } no_image }
+	object { building__034__walltile2_dot_ldr matrix <1,0,0,0,1,0,0,0,1,-390,-24,60> material { L3Color1 } }
 	// 1 1  200 -24 270  -1 0 0  0 1 0  0 0 -1 building_034_bbsapt3.ldr
 	object { building__034__bbsapt3_dot_ldr matrix <-1,0,0,0,1,0,0,0,-1,200,-24,270> material { L3Color1 } }
 	// 1 1  200 -24 270  -1 0 0  0 1 0  0 0 -1 building_034_foreground3.ldr
 	object { building__034__foreground3_dot_ldr matrix <-1,0,0,0,1,0,0,0,-1,200,-24,270> material { L3Color1 } no_image }
 	// 1 1  200 -24 270  -1 0 0  0 1 0  0 0 -1 building_034_walltile3.ldr
-	object { building__034__walltile3_dot_ldr matrix <-1,0,0,0,1,0,0,0,-1,200,-24,270> material { L3Color1 } no_image }
+	object { building__034__walltile3_dot_ldr matrix <-1,0,0,0,1,0,0,0,-1,200,-24,270> material { L3Color1 } }
 	// 1 1  0 160 40  1 0 0  0 1 0  0 0 1 building_034_steps.ldr
 	object { building__034__steps_dot_ldr matrix <1,0,0,0,1,0,0,0,1,0,160,40> material { L3Color1 } }
 	// 1 1  0 160 40  1 0 0  0 1 0  0 0 1 building_034_steps_foreground.ldr

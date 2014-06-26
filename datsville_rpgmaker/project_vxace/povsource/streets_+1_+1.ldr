@@ -1,0 +1,80 @@
+0 Datsville street sector
+0 Name: streets_+1_+1.ldr
+0 Author: Michael Horvath
+0 Unofficial Datsville Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 7 320 0 960 0 0 1 0 1 0 -1 0 0 snotroad_tripleonewaycross_2.ldr
+1 7 960 0 960 0 0 -1 0 1 0 1 0 0 snotroad_doubleonewaynocross.ldr
+1 7 910 0 960 0 0 1 0 1 0 -1 0 0 infrastructure_firehydrant.ldr
+1 7 1600 0 960 0 0 1 0 1 0 -1 0 0 snotroad_doubleonewaycross.ldr
+1 7 4160 0 960 -1 0 0 0 1 0 0 0 -1 snotroad_quaddotsnocross.ldr
+1 7 2240 0 960 -1 0 0 0 1 0 0 0 -1 snotroad_quaddotsnocross.ldr
+1 7 4800 0 960 0 0 -1 0 1 0 1 0 0 snotroad_doubleonewaycross.ldr
+1 7 3520 0 960 0 0 1 0 1 0 -1 0 0 snotroad_doubleonewaycross.ldr
+1 7 3480 0 960 0 0 1 0 1 0 -1 0 0 infrastructure_firehydrant.ldr
+1 7 2920 -8 680 -1 0 0 0 1 0 0 0 -1 infrastructure_mailbox.ldr
+1 7 2880 0 960 0 0 -1 0 1 0 1 0 0 snotroad_doubleonewaycross.ldr
+1 7 320 0 320 1 0 0 0 1 0 0 0 1 snotroad_doubleonewaydoublecross.ldr
+1 7 4160 0 320 1 0 0 0 1 0 0 0 1 snotroad_doublestripeleftaheadonlydouble.ldr
+1 7 2240 0 320 1 0 0 0 1 0 0 0 1 snotroad_doublestripeleftaheadonlydouble.ldr
+1 7 2240 0 4160 -1 0 0 0 1 0 0 0 -1 snotroad_doublestripecross.ldr
+1 7 2240 0 4800 1 0 0 0 1 0 0 0 1 snotroad_doublestripenocross.ldr
+1 7 2240 0 1600 -1 0 0 0 1 0 0 0 -1 snotroad_doublestriperightaheadonly.ldr
+1 7 2240 0 2240 -1 0 0 0 1 0 0 0 -1 snotroad_doublestripenocross.ldr
+1 7 2240 0 2240 -1 0 0 0 1 0 0 0 -1 infrastructure_firehydrant.ldr
+1 7 2240 0 2880 1 0 0 0 1 0 0 0 1 snotroad_doublestripecross.ldr
+1 7 2240 0 3520 0 0 1 0 1 0 -1 0 0 snotroad_quaddotsnocross.ldr
+1 7 4160 0 1600 -1 0 0 0 1 0 0 0 -1 snotroad_doublestriperightaheadonly.ldr
+1 7 4160 0 4160 -1 0 0 0 1 0 0 0 -1 snotroad_doublestripecross.ldr
+1 7 3880 -8 4200 0 0 -1 0 1 0 1 0 0 infrastructure_mailbox.ldr
+1 7 4160 0 4800 1 0 0 0 1 0 0 0 1 snotroad_doublestripenocross.ldr
+1 7 4160 0 2240 -1 0 0 0 1 0 0 0 -1 snotroad_doublestripenocross.ldr
+1 7 4160 0 2200 1 0 0 0 1 0 0 0 1 infrastructure_firehydrant.ldr
+1 7 4160 0 2880 1 0 0 0 1 0 0 0 1 snotroad_doublestripecross.ldr
+1 7 4160 0 3520 0 0 1 0 1 0 -1 0 0 snotroad_quaddotsnocross.ldr
+1 7 1600 0 3520 0 0 1 0 1 0 -1 0 0 snotroad_doublestripecross.ldr
+1 7 1860 -22 3520 0 0 -1 0 1 0 1 0 0 infrastructure_signdetourleft.mpd
+1 7 960 0 3520 0 0 -1 0 1 0 1 0 0 snotroad_doublestripenocross.ldr
+1 7 1000 0 3520 0 0 -1 0 1 0 1 0 0 infrastructure_firehydrant.ldr
+1 7 840 -8 3800 1 0 0 0 1 0 0 0 1 infrastructure_busstop.ldr
+1 7 320 0 3520 0 0 -1 0 1 0 1 0 0 snotroad_doublestripecross.ldr
+1 7 2880 0 3520 0 0 -1 0 1 0 1 0 0 snotroad_doublestripecross.ldr
+1 7 2920 0 3520 0 0 -1 0 1 0 1 0 0 infrastructure_firehydrant.ldr
+1 7 3520 0 3520 0 0 1 0 1 0 -1 0 0 snotroad_doublestripecross.ldr
+1 7 320 0 360 -1 0 0 0 1 0 0 0 -1 infrastructure_trashcan.ldr
+1 7 320 0 280 1 0 0 0 1 0 0 0 1 infrastructure_trashcan.ldr
+1 7 320 0 320 1 0 0 0 1 0 0 0 1 infrastructure_streetlamppair.ldr
+1 7 320 0 960 1 0 0 0 1 0 0 0 1 infrastructure_signnoentryboth.ldr
+1 7 320 0 960 1 0 0 0 1 0 0 0 1 infrastructure_signnorightturn.ldr
+1 7 320 0 960 1 0 0 0 1 0 0 0 1 infrastructure_signstopsingleboth.ldr
+1 7 1000 0 960 0 0 -1 0 1 0 1 0 0 infrastructure_trashcan.ldr
+1 7 960 0 960 0 0 1 0 1 0 -1 0 0 infrastructure_streetlamppair.ldr
+1 7 1600 0 960 0 0 1 0 1 0 -1 0 0 infrastructure_streetlamppair.ldr
+1 7 2240 0 960 1 0 0 0 1 0 0 0 1 infrastructure_signnorightturn.ldr
+1 7 2240 0 960 0 0 1 0 1 0 -1 0 0 infrastructure_lighttriple.ldr
+1 7 2240 0 280 1 0 0 0 1 0 0 0 1 infrastructure_trashcan.ldr
+1 7 2240 0 320 -1 0 0 0 1 0 0 0 -1 infrastructure_streetlamppair.ldr
+1 7 4160 0 960 1 0 0 0 1 0 0 0 1 infrastructure_signnorightturn.ldr
+1 7 4160 0 960 -1 0 0 0 1 0 0 0 -1 infrastructure_signnoleftturn.ldr
+1 7 4160 0 960 0 0 1 0 1 0 -1 0 0 infrastructure_lighttriple.ldr
+1 7 2240 0 960 -1 0 0 0 1 0 0 0 -1 infrastructure_signnoleftturn.ldr
+1 7 4160 0 320 1 0 0 0 1 0 0 0 1 infrastructure_streetlamppair.ldr
+1 7 4800 0 960 0 0 1 0 1 0 -1 0 0 infrastructure_streetlamppair.ldr
+1 7 3520 0 960 0 0 1 0 1 0 -1 0 0 infrastructure_streetlamppair.ldr
+1 7 2880 0 960 0 0 1 0 1 0 -1 0 0 infrastructure_streetlamppair.ldr
+1 7 4160 0 1600 -1 0 0 0 1 0 0 0 -1 infrastructure_streetlamppair.ldr
+1 7 1600 0 3520 0 0 -1 0 1 0 1 0 0 infrastructure_streetlamppair.ldr
+1 7 960 0 3520 0 0 -1 0 1 0 1 0 0 infrastructure_streetlamppair.ldr
+1 7 320 0 3520 0 0 -1 0 1 0 1 0 0 infrastructure_streetlamppair.ldr
+1 7 4160 0 2240 -1 0 0 0 1 0 0 0 -1 infrastructure_streetlamppair.ldr
+1 7 4160 0 2880 -1 0 0 0 1 0 0 0 -1 infrastructure_streetlamppair.ldr
+1 7 2240 0 1600 -1 0 0 0 1 0 0 0 -1 infrastructure_streetlamppair.ldr
+1 7 2240 0 2240 -1 0 0 0 1 0 0 0 -1 infrastructure_streetlamppair.ldr
+1 7 2240 0 2880 -1 0 0 0 1 0 0 0 -1 infrastructure_streetlamppair.ldr
+1 7 2240 0 3520 0 0 1 0 1 0 -1 0 0 infrastructure_signstopquad.ldr
+1 7 4160 0 3520 0 0 1 0 1 0 -1 0 0 infrastructure_signstopquad.ldr
+1 7 2880 0 3520 0 0 1 0 1 0 -1 0 0 infrastructure_streetlamppair.ldr
+1 7 3400 -8 3800 1 0 0 0 1 0 0 0 1 infrastructure_busstop.ldr
+1 7 3520 0 3520 0 0 1 0 1 0 -1 0 0 infrastructure_streetlamppair.ldr
+0

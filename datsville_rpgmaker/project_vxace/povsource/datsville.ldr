@@ -1,0 +1,13 @@
+0 Name: Datsville
+0 Author: Various
+0 Unofficial Datsville Model
+0 WRITE layers should remain y+8 for RPG game
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 16 0 8 0 1 0 0 0 1 0 0 0 1 layer_blocks_base.ldr
+1 16 0 8 0 1 0 0 0 1 0 0 0 1 layer_blocks_overlay.ldr
+1 16 0 8 0 1 0 0 0 1 0 0 0 1 layer_streets_base.ldr
+1 16 0 8 0 1 0 0 0 1 0 0 0 1 layer_streets_overlay.ldr
+1 16 0 8 0 1 0 0 0 1 0 0 0 1 layer_river.ldr
+1 16 0 8 0 1 0 0 0 1 0 0 0 1 layer_traffic.ldr
+0

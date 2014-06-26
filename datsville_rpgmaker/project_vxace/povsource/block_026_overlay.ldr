@@ -1,0 +1,9 @@
+0 Datsville City Block #26
+0 Name: block_026.ldr
+0 Author: John VanZwieten, Michael Horvath, Tore Eriksson
+0 Unofficial Datsville Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 13 5360 24 -6110 1 0 0 0 1 0 0 0 1 building_074_mediumfactory.mpd
+1 13 4780 -8 -6060 1 0 0 0 1 0 0 0 1 building_086_redwarehouse.mpd
+0

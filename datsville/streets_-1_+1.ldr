@@ -8,7 +8,7 @@
 1 7 -320 0 960 0 0 -1 0 1 0 1 0 0 snotroad_tripleonewaynocross.ldr
 1 7 -320 0 2240 1 0 0 0 1 0 0 0 1 snotroad_doublestripenocross.ldr
 1 7 -600 0 2200 0 0 -1 0 1 0 1 0 0 infrastructure_mailbox.ldr
-1 7 260 0 2280 1 0 0 0 1 0 0 0 1 infrastructure_firehydrant.ldr
+1 7 240 0 2280 1 0 0 0 1 0 0 0 1 infrastructure_firehydrant.ldr
 1 7 -320 0 3520 1 0 0 0 1 0 0 0 1 snotroad_quaddotsnocross.ldr
 1 7 -320 0 2880 1 0 0 0 1 0 0 0 1 snotroad_doublestripecross.ldr
 1 7 -320 0 4160 -1 0 0 0 1 0 0 0 -1 snotroad_doublestripecross.ldr
