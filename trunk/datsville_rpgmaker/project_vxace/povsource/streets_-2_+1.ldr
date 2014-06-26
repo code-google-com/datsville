@@ -1,0 +1,24 @@
+0 Datsville street sector
+0 Name: streets_-2_+1.ldr
+0 Author: Michael Horvath
+0 Unofficial Datsville Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 7 -6720 0 3520 1 0 0 0 1 0 0 0 1 snotroad_quaddotsnocross.ldr
+1 7 -6720 0 3520 1 0 0 0 1 0 0 0 1 infrastructure_signstopquad.ldr
+1 7 -6720 0 320 1 0 0 0 1 0 0 0 1 snotroad_quaddotsnocross.ldr
+1 7 -6720 0 320 1 0 0 0 1 0 0 0 1 infrastructure_signstopquad.ldr
+1 7 -6080 0 3520 0 0 -1 0 1 0 1 0 0 snotroad_doublestripecross.ldr
+1 7 -5440 0 320 0 0 1 0 1 0 -1 0 0 snotroad_triplestripenocross.ldr
+1 7 -5440 0 320 0 0 1 0 1 0 -1 0 0 infrastructure_streetlampsingle.ldr
+1 7 -6080 0 320 0 0 1 0 1 0 -1 0 0 snotroad_triplestripecross_2.ldr
+1 7 -6080 0 320 0 0 1 0 1 0 -1 0 0 infrastructure_streetlampsingle.ldr
+1 7 -6720 0 1600 1 0 0 0 1 0 0 0 1 snotroad_doublestripenocross.ldr
+1 7 -6720 0 1640 -1 0 0 0 1 0 0 0 -1 infrastructure_firehydrant.ldr
+1 7 -6720 0 2240 1 0 0 0 1 0 0 0 1 snotroad_doublestripenocross.ldr
+1 7 -6720 0 960 -1 0 0 0 1 0 0 0 -1 snotroad_doublestripecross.ldr
+1 7 -5440 0 3520 0 0 1 0 1 0 -1 0 0 snotroad_triplestripenocross.ldr
+1 7 -6720 0 2880 1 0 0 0 1 0 0 0 1 snotroad_triplestripecross_1.ldr
+1 7 -6080 0 2880 0 0 -1 0 1 0 1 0 0 snotroad_doubleblankcross.ldr
+1 7 -5440 0 2880 0 0 1 0 1 0 -1 0 0 snotroad_curveblanknocross.ldr
+0

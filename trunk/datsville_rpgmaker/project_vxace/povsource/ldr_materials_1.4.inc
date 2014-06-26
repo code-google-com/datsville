@@ -958,3 +958,129 @@ material {
 #ifndef (L3Color21_slope)
 #declare L3Color21_slope = L3MaterialT(L3Texture21_slope)
 #end
+
+//// Color 18 Light_Yellow (from ldconfig.ldr)
+#ifndef (L3Texture18)
+#declare L3Texture18 = L3TextureOpaqueRGB(251,230,150)
+#end
+#ifndef (L3Texture18_slope)
+#declare L3Texture18_slope = L3TextureSlope(L3Texture18)
+#end
+#ifndef (L3Color18)
+#declare L3Color18 = L3Material(L3Texture18)
+#end
+#ifndef (L3Color18_slope)
+#declare L3Color18_slope = L3Material(L3Texture18_slope)
+#end
+
+//// Color 379 Sand_Blue (from ldconfig.ldr)
+#ifndef (L3Texture379)
+#declare L3Texture379 = L3TextureOpaqueRGB(89,113,132)
+#end
+#ifndef (L3Texture379_slope)
+#declare L3Texture379_slope = L3TextureSlope(L3Texture379)
+#end
+#ifndef (L3Color379)
+#declare L3Color379 = L3Material(L3Texture379)
+#end
+#ifndef (L3Color379_slope)
+#declare L3Color379_slope = L3Material(L3Texture379_slope)
+#end
+
+//// Color 320 Dark_Red (from ldconfig.ldr)
+#ifndef (L3Texture320)
+#declare L3Texture320 = L3TextureOpaqueRGB(114,14,15)
+#end
+#ifndef (L3Texture320_slope)
+#declare L3Texture320_slope = L3TextureSlope(L3Texture320)
+#end
+#ifndef (L3Color320)
+#declare L3Color320 = L3Material(L3Texture320)
+#end
+#ifndef (L3Color320_slope)
+#declare L3Color320_slope = L3Material(L3Texture320_slope)
+#end
+
+//// Color 27 Lime (from ldconfig.ldr)
+#ifndef (L3Texture27)
+#declare L3Texture27 = L3TextureOpaqueRGB(187,233,11)
+#end
+#ifndef (L3Texture27_slope)
+#declare L3Texture27_slope = L3TextureSlope(L3Texture27)
+#end
+#ifndef (L3Color27)
+#declare L3Color27 = L3Material(L3Texture27)
+#end
+#ifndef (L3Color27_slope)
+#declare L3Color27_slope = L3Material(L3Texture27_slope)
+#end
+
+//// Color 70 Reddish_Brown (from ldconfig.ldr)
+#ifndef (L3Texture70)
+#declare L3Texture70 = L3TextureOpaqueRGB(88,42,18)
+#end
+#ifndef (L3Texture70_slope)
+#declare L3Texture70_slope = L3TextureSlope(L3Texture70)
+#end
+#ifndef (L3Color70)
+#declare L3Color70 = L3Material(L3Texture70)
+#end
+#ifndef (L3Color70_slope)
+#declare L3Color70_slope = L3Material(L3Texture70_slope)
+#end
+
+//// Color 60 Chrome_Antique_Brass (from ldconfig.ldr)
+#ifndef (L3Texture60)
+#declare L3Texture60 = L3TextureChromeRGB(100,90,76)
+#end
+#ifndef (L3Texture60_slope)
+#declare L3Texture60_slope = L3TextureSlope(L3Texture60)
+#end
+#ifndef (L3Color60)
+#declare L3Color60 = L3Material(L3Texture60)
+#end
+#ifndef (L3Color60_slope)
+#declare L3Color60_slope = L3Material(L3Texture60_slope)
+#end
+
+//// Color 87 Metallic_Dark_Gray (from ldconfig.ldr)
+#ifndef (L3Texture87)
+#declare L3Texture87 = L3TextureMetalRGB(109,110,92)
+#end
+#ifndef (L3Texture87_slope)
+#declare L3Texture87_slope = L3TextureSlope(L3Texture87)
+#end
+#ifndef (L3Color87)
+#declare L3Color87 = L3Material(L3Texture87)
+#end
+#ifndef (L3Color87_slope)
+#declare L3Color87_slope = L3Material(L3Texture87_slope)
+#end
+
+//// Color 484 Dark_Orange (from ldconfig.ldr)
+#ifndef (L3Texture484)
+#declare L3Texture484 = L3TextureOpaqueRGB(169,85,0)
+#end
+#ifndef (L3Texture484_slope)
+#declare L3Texture484_slope = L3TextureSlope(L3Texture484)
+#end
+#ifndef (L3Color484)
+#declare L3Color484 = L3Material(L3Texture484)
+#end
+#ifndef (L3Color484_slope)
+#declare L3Color484_slope = L3Material(L3Texture484_slope)
+#end
+
+//// Color 334 Chrome_Gold (from ldconfig.ldr)
+#ifndef (L3Texture334)
+#declare L3Texture334 = L3TextureChromeRGB(187,165,61)
+#end
+#ifndef (L3Texture334_slope)
+#declare L3Texture334_slope = L3TextureSlope(L3Texture334)
+#end
+#ifndef (L3Color334)
+#declare L3Color334 = L3Material(L3Texture334)
+#end
+#ifndef (L3Color334_slope)
+#declare L3Color334_slope = L3Material(L3Texture334_slope)
+#end
