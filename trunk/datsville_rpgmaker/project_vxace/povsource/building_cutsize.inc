@@ -14,7 +14,7 @@
 // -------------------------------------------------------------
 // Default values. These can be pre-declared in your scene.
 
-#ifndef (Use_Radiosity)		#declare Use_Radiosity		= 1;			#end	// turns radiosity on/off. (Recommend leaving this off. have to decrease diffuse if it is on.)
+#ifndef (Use_Radiosity)		#declare Use_Radiosity		= 0;			#end	// turns radiosity on/off. (Recommend leaving this off. have to decrease diffuse if it is on.)
 #ifndef (Use_Shadows)		#declare Use_Shadows		= 0;			#end	// turns shadows on/off. (Recommend turning this off for walls that are always covered by rooves.) Not used often.
 #ifndef (Show_GridMarker)	#declare Show_GridMarker	= 0;			#end	// use this to orient the sprite within a template
 #ifndef (Show_BasicFloor)	#declare Show_BasicFloor	= 0;			#end	// renders a plain, 1-tile floor beneath the scene.
@@ -116,7 +116,7 @@
 	}
 #end
 
-
+//background {color rgb 1}	// doesn't work with Alpha
 
 /*
 // heavy fog
