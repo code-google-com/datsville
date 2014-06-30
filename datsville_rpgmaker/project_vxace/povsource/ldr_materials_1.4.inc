@@ -205,7 +205,8 @@ texture {
 // Alpha -> Filter: 255 -> 1.00, 128 -> 0.85, 0 -> 0
 #local f = (a >= 128 ? 0.85 + (a-128) * 0.15 / (255-128) : a * 0.85 / 255);
 texture {
-	pigment { gamma_color_adjust(<r/255,g/255,b/255>) #if (L3Quality > 1) filter f #end }
+//	pigment { gamma_color_adjust(<r/255,g/255,b/255>) #if (L3Quality > 1) filter f #end }
+	pigment { gamma_color_adjust(<r/255,g/255,b/255>) filter f }
 	finish { L3FinishTransparent }
 	#if (L3Bumps & (L3Quality > 1)) normal { L3NormalBumps } #end
 }

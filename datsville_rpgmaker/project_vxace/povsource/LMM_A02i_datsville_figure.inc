@@ -376,11 +376,10 @@
         object {LMM_hat matrix <1,0,0,0,1,0,0,0,1,0,0,0> rotate<0,H_Amplitude,0> translate<0,-24,0> material{ M_Hat_Color }}
 #end
 
-
-
 //TORSOS
 //The code below identifies the torso part used by the minifig and alters it according to the animation parameters
 #ifdef (_973_dot_dat) #declare LMM_torso = _973_dot_dat;  #end
+#ifdef (_973p11_dot_dat) #declare LMM_torso = _973p11_dot_dat;  #end
 #ifdef (_973p23_dot_dat) #declare LMM_torso = _973p23_dot_dat;  #end
 #ifdef (_973p14_dot_dat) #declare LMM_torso = _973p14_dot_dat;  #end
 #ifdef (_973p29_dot_dat) #declare LMM_torso = _973p29_dot_dat;  #end
