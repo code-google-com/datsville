@@ -9,3 +9,7 @@
 * Buddhist temple has people on it that need to be moved to the traffic layer.
 * Airport runway is too narrow.
 * Railroad crossing hardware needs to be moved to the top layer.
+* building_040_lookouttower has a person in it that needs to be moved to the traffic layer.
+* Two men in building_020_baitshop.mpd that need to be moved to the traffic layer.
+* Several people inside building_030_policehq.mpd.
+* People inside building_075_buddhisttemple.mpd.
