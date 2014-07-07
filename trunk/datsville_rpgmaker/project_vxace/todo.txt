@@ -1,15 +1,19 @@
-* Bike paths need to be moved a little to align with movement grid. [sure?]
-* Fire hydrants, trash cans and bus stops need to be aligned with the movement grid.
-* Fire company needs to have its vehicles moved to the traffic layer.
-* Move fire hydrants etc. to overlayer?
-* Remove streetsigns from streets layer.
-* Copy temple trees to a new type of tree.
-* A person in front of one of the warehouses needs to be moved to the traffic layer.
-* Extra small garage has a person and a car in it.
-* Buddhist temple has people on it that need to be moved to the traffic layer.
-* Airport runway is too narrow.
-* Railroad crossing hardware needs to be moved to the top layer.
-* building_040_lookouttower has a person in it that needs to be moved to the traffic layer.
-* Two men in building_020_baitshop.mpd that need to be moved to the traffic layer.
-* Several people inside building_030_policehq.mpd.
-* People inside building_075_buddhisttemple.mpd.
+- Bike paths need to be moved a little to align with movement grid.
+- Fire hydrants, trash cans and bus stops need to be aligned with the movement grid.
+- Move fire hydrants etc. to overlayer?
+- Remove streetsigns from streets layer.
+- Copy temple trees to a new type of tree.
+- building_007_firecompany has people in it.
+- building_086_redwarehouse has people in it.
+- building_080_garagexsmall has people in it.
+- building_020_baitshop.mpd has people in it.
+- Airport runway is too narrow.
+- Railroad crossing hardware needs to be moved to the top layer.
+* building_075_buddhisttemple has people in it.
+- building_040_lookouttower has people in it.
+* building_030_policehq.mpd has people in it.
+* building_017_nationalbank has people in it.
+* building_031_carriagehouse has people in it.
+* vehicle_054_monaro has a person standing outside the car instead of sitting in it.
+* Blue apartments need showers/tubs.
+- Runway needs blinky lights.
