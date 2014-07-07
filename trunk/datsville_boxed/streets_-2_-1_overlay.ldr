@@ -10,4 +10,5 @@
 1 7 -6080 0 -2880 0 0 -1 0 1 0 1 0 0 infrastructure_streetlamppair.ldr
 1 7 -6720 0 -1560 -1 0 0 0 1 0 0 0 -1 infrastructure_firehydrant.ldr
 1 7 -6720 0 -3480 -1 0 0 0 1 0 0 0 -1 infrastructure_firehydrant.ldr
+1 7 -6720 -8 -4800 0 0 -1 0 1 0 1 0 0 rail_crossing_single_overlay.mpd
 0

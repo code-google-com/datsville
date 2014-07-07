@@ -20,7 +20,7 @@
 1 7 -320 0 -4160 -1 0 0 0 1 0 0 0 -1 snotroad_triplestripenocross.ldr
 1 7 -320 0 -4800 -1 0 0 0 1 0 0 0 -1 snotroad_doublestripenocross.ldr
 1 7 -320 0 -3520 1 0 0 0 1 0 0 0 1 snotroad_doublestripecross.ldr
-1 7 -320 -8 -4800 0 0 -1 0 1 0 1 0 0 rail_crossing.mpd
+1 7 -320 -8 -4800 0 0 -1 0 1 0 1 0 0 rail_crossing_single_base.ldr
 1 7 -4160 0 -2880 1 0 0 0 1 0 0 0 1 snotroad_quaddotsnocross.ldr
 1 7 -1600 0 -2880 0 0 -1 0 1 0 1 0 0 snotroad_doublestripecross.ldr
 1 7 -2880 0 -2880 0 0 1 0 1 0 -1 0 0 snotroad_doublestripecross.ldr
@@ -31,7 +31,7 @@
 1 7 -4160 0 -3520 1 0 0 0 1 0 0 0 1 snotroad_doublestripecross.ldr
 1 7 -4160 0 -4160 1 0 0 0 1 0 0 0 1 snotroad_triplestripenocross.ldr
 1 7 -4160 0 -4800 1 0 0 0 1 0 0 0 1 snotroad_doublestripenocross.ldr
-1 7 -4160 -8 -4800 0 0 -1 0 1 0 1 0 0 rail_crossing.mpd
+1 7 -4160 -8 -4800 0 0 -1 0 1 0 1 0 0 rail_crossing_single_base.ldr
 1 7 -2240 -8 -4800 0 0 1 0 1 0 -1 0 0 rail_straight.ldr
 1 7 -1600 -8 -4800 0 0 1 0 1 0 -1 0 0 rail_straight.ldr
 1 7 -2880 -8 -4800 0 0 1 0 1 0 -1 0 0 rail_straight.ldr

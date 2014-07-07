@@ -1,0 +1,13 @@
+0 Untitled
+0 Name: furniture_001_watercooler.ldr
+0 Author: Michael Horvath
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 15 0 -24 0 1 0 0 0 1 0 0 0 1 b\3003.dat
+1 15 0 -72 -10 1 0 0 0 1 0 0 0 1 60592.dat
+1 15 0 -72 10 1 0 0 0 1 0 0 0 1 b\3245a.dat
+1 11 0 -96 0 1 0 0 0 1 0 0 0 1 b\3941.dat
+1 15 0 -104 0 1 0 0 0 1 0 0 0 1 b\4150.dat
+1 4 0 -56 -10 -1 0 0 0 1 0 0 0 -1 6264.dat
+0

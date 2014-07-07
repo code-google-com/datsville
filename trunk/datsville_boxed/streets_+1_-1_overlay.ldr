@@ -45,4 +45,6 @@
 1 7 920 0 -320 0 0 1 0 1 0 -1 0 0 infrastructure_trashcan.ldr
 1 7 2240 0 -320 -1 0 0 0 1 0 0 0 -1 infrastructure_signnorightturn.ldr
 1 7 4160 0 -320 -1 0 0 0 1 0 0 0 -1 infrastructure_signnorightturn.ldr
+1 7 2240 -8 -4800 0 0 -1 0 1 0 1 0 0 rail_crossing_single_overlay.mpd
+1 7 4160 -8 -4800 0 0 -1 0 1 0 1 0 0 rail_crossing_single_overlay.mpd
 0

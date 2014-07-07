@@ -117,6 +117,7 @@
 1 13 -2400 -8 -7620 1 0 0 0 1 0 0 0 1 vehicle_084_yellowfighterjet.mpd
 1 13 480 -8 -7750 1 0 0 0 1 0 0 0 1 vehicle_070_traffichelicopter.ldr
 1 13 1280 -8 -7770 1 0 0 0 1 0 0 0 1 vehicle_066_policewhitehelicopter.ldr
+0 Police cadet graduation
 1 0 -5650 -16 1770 -1 0 0 0 1 0 0 0 -1 pedestrian_070_policewhiteshirtandtiestanding.ldr
 1 0 -5650 -16 1730 -1 0 0 0 1 0 0 0 -1 pedestrian_070_policewhiteshirtandtiestanding.ldr
 1 0 -5650 -16 1690 -1 0 0 0 1 0 0 0 -1 pedestrian_074_policewhiteshirtandtiestandingradio.ldr
@@ -142,6 +143,7 @@
 1 0 -5710 -16 1830 1 0 0 0 1 0 0 0 1 pedestrian_073_policewhiteshirtandtiestandingnohat.ldr
 1 0 -5770 -16 1830 1 0 0 0 1 0 0 0 1 pedestrian_073_policewhiteshirtandtiestandingnohat.ldr
 1 0 -5680 -48 1950 1 0 0 0 1 0 0 0 1 pedestrian_073_policewhiteshirtandtiestandingnohat.ldr
+0 Baseball Field
 1 2 4448 -88 -1598 0 0 -1 0 1 0 1 0 0 pedestrian_035_blackpreppiesitting.ldr
 1 2 4488 -64 -1538 0 0 -1 0 1 0 1 0 0 pedestrian_034_blondefemalesitting.ldr
 1 2 5438 -88 -2588 -1 0 0 0 1 0 0 0 -1 pedestrian_033_pinkfemalesitting.ldr
@@ -172,4 +174,22 @@
 1 16 -1230 -72 320 0 0 -1 0 1 0 1 0 0 pedestrian_011_manmayortophat.ldr
 1 4 -2180 -8 -8040 -1 0 0 0 1 0 0 0 -1 pedestrian_072_manwithwhitehat.ldr
 1 4 -2620 20 -8040 -1 0 0 0 1 0 0 0 -1 pedestrian_071_manwithblackhat.ldr
+0 Bait Shop
+1 1 -850 -40 5240 0 0 -1 0 1 0 1 0 0 pedestrian_010_manblueoverallssunglasses.ldr
+1 1 -1030 -40 4920 0 0 -1 0 1 0 1 0 0 pedestrian_009_manblueoverallsmustache.ldr
+0 Fire Company
+1 2 3620 -16 100 1 0 0 0 1 0 0 0 1 vehicle_033_redfiretruck04suv.ldr
+1 2 3480 -16 110 1 0 0 0 1 0 0 0 1 vehicle_008_redfirecar.ldr
+1 2 3090 -16 200 1 0 0 0 1 0 0 0 1 vehicle_035_redfiretruck06.ldr
+1 2 2880 -14 280 1 0 0 0 1 0 0 0 1 vehicle_031_redfiretruck02ladder.mpd
+1 2 2680 -16 250 1 0 0 0 1 0 0 0 1 vehicle_030_redfiretruck01.mpd
+1 2 3600 -16 513 0 0 -1 0 1 0 1 0 0 vehicle_032_redfiretruck03.ldr
+1 2 3680 -16 394 0 0 -1 0 1 0 1 0 0 vehicle_034_redfiretruck05.mpd
+0 Red Warehouse
+1 0 4730 -8 -6370 -0.866 0 0.5 0 1 0 -0.5 0 -0.866 pedestrian_069_darkjacketbluepants.ldr
+0 Extra Small Garage
+1 0 3180 -16 -6100 1 0 0 0 1 0 0 0 1 vehicle_026_bluecoupe.ldr
+1 0 3300 -16 -6080 1 0 0 0 1 0 0 0 1 pedestrian_001_mustachewalking.ldr
+0 Belvedere
+1 2 1440 -660 4560 0.707 0 0.707 0 1 0 -0.707 0 0.707 pedestrian_012_manexplorerbinoculars.ldr
 0
