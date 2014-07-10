@@ -193,35 +193,35 @@
         #case (0) 
                 #ifndef(L_Amplitude) #declare L_Amplitude = 25; #end
                 #ifndef(A_Amplitude) #declare A_Amplitude = 10; #end
-                #ifndef(H_Amplitude) #declare H_Amplitude = 5; #end
+                #ifndef(H_Amplitude) #declare H_Amplitude = 0; #end
                 #ifndef (step_height) #declare step_height = 5; #end
                 #ifndef (step_length) #declare step_length = 40; #end 
         #break
         #case (1) 
                 #ifndef(L_Amplitude) #declare L_Amplitude = 50; #end
                 #ifndef(A_Amplitude) #declare A_Amplitude = 30; #end
-                #ifndef(H_Amplitude) #declare H_Amplitude = 5; #end
+                #ifndef(H_Amplitude) #declare H_Amplitude = 0; #end
                 #ifndef (step_height) #declare step_height = 2; #end
                 #ifndef (step_length) #declare step_length = 80; #end         
         #break
         #case (2) 
                 #ifndef(L_Amplitude) #declare L_Amplitude = 70; #end
                 #ifndef(A_Amplitude) #declare A_Amplitude = 65; #end
-                #ifndef(H_Amplitude) #declare H_Amplitude = 10; #end
+                #ifndef(H_Amplitude) #declare H_Amplitude = 0; #end
                 #ifndef (step_height) #declare step_height = 7.5; #end
                 #ifndef (step_length) #declare step_length = 120; #end         
         #break
         #case (3) 
                 #ifndef(L_Amplitude) #declare L_Amplitude = 100; #end
                 #ifndef(A_Amplitude) #declare A_Amplitude = 90; #end
-                #ifndef(H_Amplitude) #declare H_Amplitude = 10; #end
+                #ifndef(H_Amplitude) #declare H_Amplitude = 0; #end
                 #ifndef (step_height) #declare step_height = 10; #end
                 #ifndef (step_length) #declare step_length = 160; #end         
         #break 
         #case (4) //This is the most realistic walking mode
                 #ifndef(L_Amplitude) #declare L_Amplitude = 30; #end
                 #ifndef(A_Amplitude) #declare A_Amplitude = 20; #end
-                #ifndef(H_Amplitude) #declare H_Amplitude = 2; #end
+                #ifndef(H_Amplitude) #declare H_Amplitude = 0; #end
                 #ifndef (step_height) #declare step_height = 0; #end //Admits tiny (<4) alterations that give a "jumpy character" to a minfig
                 #ifndef (step_length) #declare step_length = 40; #end         
         #break
@@ -525,7 +525,7 @@
 #ifdef (_773_dot_dat) #declare LMM_l_leg = _773_dot_dat;  #end 
 
 #ifdef (LMM_l_leg)
-object {LMM_l_leg matrix <1,0,0,0,1,0,0,0,1,0,0,0> #if (-L_Amplitude*sin((clock)*2*pi)<-1) rotate<-L_Amplitude*sin( clock*2*pi),0, 0,> #else rotate<(L_Amplitude*sin( clock*2*pi))/4,0, 0,> #end translate<0,44,0>material{ M_L_Leg_Color }}
+	object {LMM_l_leg matrix <1,0,0,0,1,0,0,0,1,0,0,0> #if (-L_Amplitude*sin((clock)*2*pi) < -1) rotate<-L_Amplitude*sin( clock*2*pi),0, 0,> #else rotate<(-L_Amplitude*sin( clock*2*pi))/4,0, 0,> #end translate<0,44,0> material{ M_L_Leg_Color }}
 #end
 
 //RIGHT LEG
@@ -540,7 +540,7 @@ object {LMM_l_leg matrix <1,0,0,0,1,0,0,0,1,0,0,0> #if (-L_Amplitude*sin((clock)
 #ifdef (_773_dot_dat) #declare LMM_r_leg = _773_dot_dat;  #end 
 
 #ifdef (LMM_r_leg)
-        object {LMM_r_leg matrix <1,0,0,0,1,0,0,0,1,0,0,0>#if (L_Amplitude*sin((clock)*2*pi)<-1) rotate<L_Amplitude*sin( clock*2*pi),0, 0,>#else rotate<(-L_Amplitude*sin( clock*2*pi))/4,0, 0,> #end  translate<0,44,0>material{ M_R_Leg_Color }}
+        object {LMM_r_leg matrix <1,0,0,0,1,0,0,0,1,0,0,0> #if (+L_Amplitude*sin((clock)*2*pi) < -1) rotate<+L_Amplitude*sin( clock*2*pi),0, 0,> #else rotate<(+L_Amplitude*sin( clock*2*pi))/4,0, 0,> #end  translate<0,44,0> material{ M_R_Leg_Color }}
 #end
 
 }

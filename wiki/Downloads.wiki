@@ -47,6 +47,7 @@
 
 == Datsville RPG ==
 
+  * [http://www.mediafire.com/download/g2z39ozj263gu7p/Datsville_RPG_v0.5.0.zip Version 0.5.0 - project & povsource] 2014-07-10 (VX Ace)
   * [http://www.mediafire.com/download/907c1w9zt804420/Datsville_RPG_v0.4.0.zip Version 0.4.0 - project & povsource] 2014-07-01 (VX Ace)
   * [http://www.mediafire.com/download/fw8gs2c52xmf608/Datsville_RPG_v0.3.0.zip Version 0.3.0 - project & povsource] 2014-06-17 (VX Ace)
   * [http://www.mediafire.com/download/35a7qj53m8wapqi/Datsville_RPG_v0.2.0.zip Version 0.2.0 - project & povsource] 2014-06-11 (VX Ace)

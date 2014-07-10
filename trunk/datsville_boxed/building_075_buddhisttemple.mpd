@@ -6,9 +6,6 @@
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 0 -176 0 1 0 0 0 1 0 0 0 1 building_075_Temple.ldr
-1 0 -16 -72 -290 1 0 0 0 1 0 0 0 1 pedestrian_060_thaimonk.ldr
-1 0 100 0 -350 1 0 0 0 1 0 0 0 1 pedestrian_059_thaisoldier.mpd
-1 0 -100 0 -350 1 0 0 0 1 0 0 0 1 pedestrian_059_thaisoldier.mpd
 1 0 160 -104 -520 1 0 0 0 1 0 0 0 1 building_075_Statue.ldr
 1 7 580 0 -360 1 0 0 0 1 0 0 0 1 b\91405.dat
 1 7 260 0 -360 1 0 0 0 1 0 0 0 1 b\91405.dat

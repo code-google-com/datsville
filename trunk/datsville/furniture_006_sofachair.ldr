@@ -1,0 +1,13 @@
+0 New Model
+0 Name: building_065_sofachair.ldr
+0 Author: Michael Horvath
+0 Unofficial Datsville Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 16 0 -48 10 1 0 0 0 1 0 0 0 1 30165.dat
+1 16 -20 -24 0 0 0 -1 0 1 0 1 0 0 3002.dat
+1 16 20 -24 0 0 0 -1 0 1 0 1 0 0 3002.dat
+1 16 -30 -32 0 0 0 -1 0 1 0 1 0 0 63864.dat
+1 16 30 -32 0 0 0 -1 0 1 0 1 0 0 63864.dat
+
+0
