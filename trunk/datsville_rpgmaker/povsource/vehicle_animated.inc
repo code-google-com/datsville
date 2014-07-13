@@ -258,7 +258,7 @@ light_source
 	{
 		Grid_Marker
 		uv_mapping
-		pigment {color rgb <1,0,1>}
+		pigment {color rgbt <1,0,1,1/2>}
 	}
 #end
 
@@ -267,7 +267,7 @@ light_source
 	{
 		Basic_Floor
 		uv_mapping
-		pigment {color rgb <1,0,1>}
+		pigment {color rgbt <1,0,1,1/2>}
 	}
 #end
 
@@ -287,29 +287,3 @@ light_source
 		}
 	}
 #end
-/*
-difference
-{
-	plane
-	{
-		y,0
-	}
-	box
-	{
-		-320,+320
-	}
-}
-
-plane
-{
-	y,0
-	clipped_by
-	{
-		box
-		{
-			-640,+640
-			inverse
-		}
-	}
-}
-*/

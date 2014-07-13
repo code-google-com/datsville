@@ -1,3 +1,5 @@
+#version 3.7
+
 // Ldraw Minifig "Machinima" Alpha 0.102i
 // POVray include by Miguel Agullo
 // Based on code
@@ -569,7 +571,7 @@ plane
 	pigment {color rgb 1}
 	finish
 	{
-		ambient L3Ambient
-		diffuse L3Diffuse
+		ambient 0
+		diffuse 1
 	}
 }

@@ -1,3 +1,5 @@
+#version 3.7
+
 // Ldraw Minifig "Machinima" Alpha 0.102i
 // POVray include by Miguel Agullo
 // Based on code

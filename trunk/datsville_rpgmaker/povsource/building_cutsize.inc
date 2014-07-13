@@ -1,5 +1,6 @@
-// Render at 4 studs = 32 pixels?
+// Render at 4 studs = 32 pixels =  1 tile
 
+#version 3.7
 
 // -------------------------------------------------------------
 // Standard includes
@@ -197,29 +198,29 @@ light_source
 {
 	sphere
 	{
-		0,10
+		0,2
 		pigment{color rgb <0,0,0,>}
 	}
 	cylinder
 	{
-		0,x*1024,10
+		0,+x*1024,2
 		pigment{color rgb <1,0,0,>}
 	}
 	cylinder
 	{
-		0,-y*1024,10
+		0,-y*1024,2
 		pigment{color rgb <0,1,0,>}
 	}
 	cylinder
 	{
-		0,z*1024,10
+		0,+z*1024,2
 		pigment{color rgb <0,0,1,>}
 	}
 }
 
 #declare Grid_Marker = polygon
 {
-	#local Wid = TileWidth/2;
+	#local Wid = TileWidth/4;
 	#local NW = <0000,+000,-Wid,>;
 	#local NE = <-Wid,+000,-Wid,>;
 	#local SE = <-Wid,+000,0000,>;
@@ -231,7 +232,7 @@ light_source
 
 #declare Basic_Floor = polygon
 {
-	#local Wid = TileWidth/2;
+	#local Wid = TileWidth/4;
 	#local NW = <+Wid,+000,-Wid,>;
 	#local NE = <-Wid,+000,-Wid,>;
 	#local SE = <-Wid,+000,+Wid,>;
@@ -259,7 +260,7 @@ light_source
 	{
 		Grid_Marker
 		uv_mapping
-		pigment {color rgb <1,0,1>}
+		pigment {color rgbt <1,0,1,1/2>}
 	}
 #end
 
@@ -268,7 +269,7 @@ light_source
 	{
 		Basic_Floor
 		uv_mapping
-		pigment {color rgb <1,0,1>}
+		pigment {color rgbt <1,0,1,1/2>}
 	}
 #end
 
@@ -288,29 +289,3 @@ light_source
 		}
 	}
 #end
-/*
-difference
-{
-	plane
-	{
-		y,0
-	}
-	box
-	{
-		-320,+320
-	}
-}
-
-plane
-{
-	y,0
-	clipped_by
-	{
-		box
-		{
-			-640,+640
-			inverse
-		}
-	}
-}
-*/

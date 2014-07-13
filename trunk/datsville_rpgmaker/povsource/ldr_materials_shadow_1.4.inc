@@ -1,3 +1,5 @@
+#version 3.7
+
 #macro gamma_color_adjust(in_color)
 	#if (version < 3.7)
 		#local out_gamma = 2.2;

@@ -1,5 +1,6 @@
-#declare NoRadiosity		= 1;	// not used currently
+#version 3.7
 
+#declare NoRadiosity		= 1;	// not used currently
 #declare L3Quality		= 1;	// Quality level, 0=BBox, 1=no refr, 2=normal, 3=studlogo, 4=stud2logo
 #declare L3SW			= 0;	// Width of seam between two bricks
 #declare L3Studs		= 0;	// 1=on 0=off

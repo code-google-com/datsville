@@ -20,3 +20,4 @@
 + All minifig animations need to be redone because the back leg is not rotated correctly.
 + Arrow road construction sign needs to be moved to the streets overlayer.
 + Check the gridded ground layer for misaligned building models.
++ Shopping center parking lot needs to be moved to the lower street level.
