@@ -1,35 +1,30 @@
 // +KFI0 +KFF3 +KI0.0 +KF1.0 +KC
 // +KFI0 +KFF7 +KI0.0 +KF1.0 +KC
+// +ua
 
-
-
-// -------------------------------------------------------------
-// Standard includes
-
-#include "stdinc.inc"
-#include "textures.inc"
-#include "woods.inc"
-#include "stones.inc"
-#include "glass.inc"
-#include "metals.inc"
+#version 3.7
 
 // -------------------------------------------------------------
-// Default values. These can be pre-declared in your scene.
+// LDView settings
 
-#ifndef (Use_Radiosity)		#declare Use_Radiosity		= 0;			#end	// turns radiosity on/off. (Recommend leaving this off. have to decrease diffuse if it is on.)
-#ifndef (Use_Shadows)		#declare Use_Shadows		= 0;			#end	// turns shadows on/off. (Recommend turning this off for walls that are always covered by rooves.) Not used often.
-#ifndef (Show_GridMarker)	#declare Show_GridMarker	= 0;			#end	// use this to orient the sprite within a template
-#ifndef (Show_BasicFloor)	#declare Show_BasicFloor	= 0;			#end	// renders a plain, 1-tile floor beneath the scene.
-#ifndef (Show_AxisMarker)	#declare Show_AxisMarker	= 0;			#end	// renders crosshairs in the center of the scene
-#ifndef (Seed)			#declare Seed			= seed(8829464);	#end	// the default seed value for random functions.
-#ifndef (Rand_Colors)		#declare Rand_Colors		= true;		#end	//
+#declare LDXSkipCamera		= true;
+#declare LDXSkipLight1		= true;
+#declare LDXSkipLight2		= true;
+#declare LDXSkipLight3		= true;
+#declare LDXQual		= 1;	// Quality (0 = Bounding Box; 1 = No Refraction; 2 = Normal; 3 = Stud Logos)
+#declare LDXSW			= 0;	// Seam Width (0 for no seams)
+#declare LDXStuds		= 0;	// Show studs? (1 = YES; 0 = NO)
+#declare LDXRefls		= 1;	// Reflections? (1 = YES; 0 = NO)
+#declare LDXShads		= 1;	// Shadows? (1 = YES; 0 = NO)
+#declare LDXFloor		= 0;	// Include Floor? (1 = YES; 0 = NO)
 
-#declare TileWidth		= 640;
-#declare TilesNum		= 32;
+// -------------------------------------------------------------
+// L3P settings
+
 #declare L3Version		= 1.4;
-#declare L3Quality		= 1;		// Quality level, 0=BBox, 1=no refr, 2=normal, 3=studlogo, 4=stud2logo
-#declare L3SW			= 0;		// Width of seam between two bricks
-#declare L3Studs		= 0;		// 1=on 0=off
+#declare L3Quality		= LDXQual;		// Quality level, 0=BBox, 1=no refr, 2=normal, 3=studlogo, 4=stud2logo
+#declare L3SW			= LDXSW;		// Width of seam between two bricks
+#declare L3Studs		= LDXStuds;		// 1=on 0=off
 #declare L3Bumps		= 0;		// 1=on 0=off
 #declare L3Ambient		= 0.1;
 #declare L3Diffuse		= 0.9;
@@ -47,28 +42,44 @@
 #declare L3PhongSize		= 40;
 #declare L3Reflection		= 0.08;	// was 0.08
 
-//#include "fastrad.inc"		// slooowwwwwww!!!
-//#include "ldr_materials_1.4.inc"
-#include "ldr_materials_shadow_1.4.inc"
+
+// -------------------------------------------------------------
+// Standard includes
+
 #include "stdinc.inc"
+#include "textures.inc"
+#include "woods.inc"
+#include "stones.inc"
+#include "glass.inc"
+#include "metals.inc"
+
+
+// -------------------------------------------------------------
+// Nonstandard includes
+
+//#include "fastrad.inc"		// slooowwwwwww!!!
+#include "ldr_materials_shadow_1.4.inc"
 #include "CIE.inc"			// http://www.ignorancia.org/en/index.php?page=Lightsys
 #include "lightsys.inc"			// http://www.ignorancia.org/en/index.php?page=Lightsys
 #include "lightsys_constants.inc"	// http://www.ignorancia.org/en/index.php?page=Lightsys
 
-#declare light_lumens		= 2;					// float
-#declare light_temp		= Daylight(6100);			// float
-#declare light_color		= gamma_color_adjust(Light_Color(light_temp,light_lumens));
 
-plane
-{
-	y, 0
-	pigment {color rgb 1}
-	finish
-	{
-		ambient L3Ambient
-		diffuse L3Diffuse
-	}
-}
+// -------------------------------------------------------------
+// Default values. These can be pre-declared in your scene.
+
+#declare Use_Radiosity		= 0;			// turns radiosity on/off. (Recommend leaving this off. have to decrease diffuse if it is on.)
+#declare Use_Shadows		= 0;			// turns shadows on/off. (Recommend turning this off for walls that are always covered by rooves.) Not used often.
+#declare Show_GridMarker	= 0;			// use this to orient the sprite within a template
+#declare Show_BasicFloor	= 0;			// renders a plain, 1-tile floor beneath the scene.
+#declare Show_AxisMarker	= 0;			// renders crosshairs in the center of the scene
+#declare Seed			= seed(8829464);	// the default seed value for random functions.
+#declare Rand_Colors		= true;			//
+#declare TileWidth		= 640;
+#declare TilesNum		= 32;
+#declare light_lumens		= 3;					// float
+#declare light_temp		= Daylight(6100);			// float
+#declare light_color		= Light_Color(light_temp,light_lumens);
+
 
 // -------------------------------------------------------------
 // Set direction based on the clock value.
@@ -130,18 +141,18 @@ plane
 	}
 #end
 
+background { color rgbf 1 }
 
-
-/*
-// heavy fog
-fog
+plane
 {
-	fog_type 2
-	color rgb <.7, .8, .9>
-	distance 300
-	fog_alt 50
+	y, 0
+	pigment {color rgb 1}
+	finish
+	{
+		ambient 0
+		diffuse 1
+	}
 }
-*/
 
 
 // -------------------------------------------------------------
@@ -192,6 +203,8 @@ fog
 		}
 	#break
 #end
+
+
 // -------------------------------------------------------------
 // Lights. There are several methods inconsistantly used within GearHead. I try and mimic them here.
 
@@ -213,29 +226,29 @@ light_source
 {
 	sphere
 	{
-		0,10
+		0,2
 		pigment{color rgb <0,0,0,>}
 	}
 	cylinder
 	{
-		0,x*1024,10
+		0,+x*1024,2
 		pigment{color rgb <1,0,0,>}
 	}
 	cylinder
 	{
-		0,-y*1024,10
+		0,-y*1024,2
 		pigment{color rgb <0,1,0,>}
 	}
 	cylinder
 	{
-		0,z*1024,10
+		0,+z*1024,2
 		pigment{color rgb <0,0,1,>}
 	}
 }
 
 #declare Grid_Marker = polygon
 {
-	#local Wid = TileWidth/2;
+	#local Wid = TileWidth/4;
 	#local NW = <0000,+000,-Wid,>;
 	#local NE = <-Wid,+000,-Wid,>;
 	#local SE = <-Wid,+000,0000,>;
@@ -247,7 +260,7 @@ light_source
 
 #declare Basic_Floor = polygon
 {
-	#local Wid = TileWidth/2;
+	#local Wid = TileWidth/4;
 	#local NW = <+Wid,+000,-Wid,>;
 	#local NE = <-Wid,+000,-Wid,>;
 	#local SE = <-Wid,+000,+Wid,>;
@@ -275,7 +288,7 @@ light_source
 	{
 		Grid_Marker
 		uv_mapping
-		pigment {color rgb <1,0,1>}
+		pigment {color rgbt <1,0,1,1/2>}
 	}
 #end
 
@@ -284,7 +297,7 @@ light_source
 	{
 		Basic_Floor
 		uv_mapping
-		pigment {color rgb <1,0,1>}
+		pigment {color rgbt <1,0,1,1/2>}
 	}
 #end
 
@@ -304,29 +317,3 @@ light_source
 		}
 	}
 #end
-/*
-difference
-{
-	plane
-	{
-		y,0
-	}
-	box
-	{
-		-320,+320
-	}
-}
-
-plane
-{
-	y,0
-	clipped_by
-	{
-		box
-		{
-			-640,+640
-			inverse
-		}
-	}
-}
-*/

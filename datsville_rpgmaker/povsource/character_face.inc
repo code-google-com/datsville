@@ -1,7 +1,7 @@
 // +KFI0 +KFF3 +KI0.0 +KF1.0 +KC
 // +KFI0 +KFF7 +KI0.0 +KF1.0 +KC
 
-
+#version 3.7
 
 // -------------------------------------------------------------
 // Standard includes
@@ -214,22 +214,22 @@ light_source
 {
 	sphere
 	{
-		0,1
+		0,2
 		pigment{color rgb <0,0,0,>}
 	}
 	cylinder
 	{
-		0,x*1024,1
+		0,+x*1024,2
 		pigment{color rgb <1,0,0,>}
 	}
 	cylinder
 	{
-		0,-y*1024,1
+		0,-y*1024,2
 		pigment{color rgb <0,1,0,>}
 	}
 	cylinder
 	{
-		0,z*1024,1
+		0,+z*1024,2
 		pigment{color rgb <0,0,1,>}
 	}
 }
@@ -276,7 +276,7 @@ light_source
 	{
 		Grid_Marker
 		uv_mapping
-		pigment {color rgb <1,0,1>}
+		pigment {color rgbt <1,0,1,1/2>}
 	}
 #end
 
@@ -285,7 +285,7 @@ light_source
 	{
 		Basic_Floor
 		uv_mapping
-		pigment {color rgb <1,0,1>}
+		pigment {color rgbt <1,0,1,1/2>}
 	}
 #end
 
@@ -305,29 +305,3 @@ light_source
 		}
 	}
 #end
-/*
-difference
-{
-	plane
-	{
-		y,0
-	}
-	box
-	{
-		-320,+320
-	}
-}
-
-plane
-{
-	y,0
-	clipped_by
-	{
-		box
-		{
-			-640,+640
-			inverse
-		}
-	}
-}
-*/
