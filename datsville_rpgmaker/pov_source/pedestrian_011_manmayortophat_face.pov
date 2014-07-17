@@ -2,19 +2,19 @@
 // L3P website:  http://www.hassings.dk/l3/l3p.html
 // LDraw.org:    http://www.ldraw.org
 // Date:         Wed Jun 04 05:27:33 2014
-// Input file:   W:\LDraw\svn\trunk\datsville_rpgmaker\project_vxace\povsource\pedestrian_011_manmayortophat.ldr
+// Input file:   W:\LDraw\svn\trunk\datsville_rpgmaker\pov_source\pedestrian_011_manmayortophat.ldr
 // Title:        Datsville Mayor
 // Author:       Leonardo Zide
-// ModelDir:     W:\LDraw\svn\trunk\datsville_rpgmaker\project_vxace\povsource
-// WorkDir:      W:\LDraw\svn\trunk\datsville_rpgmaker\project_vxace\povsource
+// ModelDir:     W:\LDraw\svn\trunk\datsville_rpgmaker\pov_source
+// WorkDir:      W:\LDraw\svn\trunk\datsville_rpgmaker\pov_source
 // LDRAWDIR:     D:\LDraw (LDRAWDIR environment variable)
 // SearchDirs:   (Default)
-// SearchDir1:   W:\LDraw\svn\trunk\datsville_rpgmaker\project_vxace\povsource\ (0x10)
+// SearchDir1:   W:\LDraw\svn\trunk\datsville_rpgmaker\pov_source\ (0x10)
 // SearchDir2:   D:\LDraw\P\ (0x9)
 // SearchDir3:   D:\LDraw\PARTS\ (0x4)
 // SearchDir4:   D:\LDraw\MODELS\ (0x0)
 // ldconfig.ldr: D:\LDraw\ldconfig.ldr
-// Commandline:  "E:\Programs Windows\l3p14beta\l3p.exe" W:\LDraw\svn\trunk\datsville_rpgmaker\project_vxace\povsource\pedestrian_011_manmayortophat.ldr W:\LDraw\svn\trunk\datsville_rpgmaker\project_vxace\povsource\pedestrian_011_manmayortophat_face.pov -o -ic -il -ibface.inc
+// Commandline:  "E:\Programs Windows\l3p14beta\l3p.exe" W:\LDraw\svn\trunk\datsville_rpgmaker\pov_source\pedestrian_011_manmayortophat.ldr W:\LDraw\svn\trunk\datsville_rpgmaker\pov_source\pedestrian_011_manmayortophat_face.pov -o -ic -il -ibface.inc
 
 #if (version < 3.1)
 	#error "This POV code requires at least version 3.1\n"
