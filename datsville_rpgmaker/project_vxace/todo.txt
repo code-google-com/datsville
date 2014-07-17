@@ -22,3 +22,6 @@
 + Check the gridded ground layer for misaligned building models.
 + Shopping center parking lot needs to be moved to the lower street level.
 + Driveways need to be aligned with the tile grid.
++ Add fences around buildings?
++ Make sure trees are positioned properly on the studs under them.
++ Block 6 base needs to be edited so that building 21 can be lowered 8 LDU.
