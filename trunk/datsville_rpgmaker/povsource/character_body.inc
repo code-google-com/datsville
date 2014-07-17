@@ -1,15 +1,12 @@
-// +KFI0 +KFF3 +KI0.0 +KF1.0 +KC
-// +KFI0 +KFF7 +KI0.0 +KF1.0 +KC
-
-
-// -------------------------------------------------------------
-// POV-Ray version
-
 #version 3.7
 
+// +KFI0 +KFF3 +KI0.0 +KF1.0 +KC
+// +KFI0 +KFF7 +KI0.0 +KF1.0 +KC
+// render at 384x384 to get 1 tile = 32 px = 4 studs
+
 
 // -------------------------------------------------------------
-// Standard includes
+// Includes
 
 #include "stdinc.inc"
 #include "textures.inc"
@@ -17,6 +14,10 @@
 #include "stones.inc"
 #include "glass.inc"
 #include "metals.inc"
+//#include "fastrad.inc"		// slooowwwwwww!!!
+#include "CIE.inc"			// http://www.ignorancia.org/en/index.php?page=Lightsys
+#include "lightsys.inc"			// http://www.ignorancia.org/en/index.php?page=Lightsys
+#include "lightsys_constants.inc"	// http://www.ignorancia.org/en/index.php?page=Lightsys
 
 
 // -------------------------------------------------------------
@@ -28,7 +29,7 @@
 #ifndef (Show_BasicFloor)	#declare Show_BasicFloor	= 0;			#end	// renders a plain, 1-tile floor beneath the scene.
 #ifndef (Show_AxisMarker)	#declare Show_AxisMarker	= 0;			#end	// renders crosshairs in the center of the scene
 #ifndef (Seed)			#declare Seed			= seed(8829464);	#end	// the default seed value for random functions.
-#ifndef (Rand_Colors)		#declare Rand_Colors		= true;		#end	//
+#ifndef (Rand_Colors)		#declare Rand_Colors		= false;		#end	//
 
 #declare TileWidth		= 160;
 #declare TilesNum		= 1;
@@ -52,16 +53,9 @@
 #declare L3Phong		= 0.5;
 #declare L3PhongSize		= 40;
 #declare L3Reflection		= 0.08;	// was 0.08
-
-//#include "fastrad.inc"		// slooowwwwwww!!!
-#include "ldr_materials_1.4.inc"
-#include "CIE.inc"			// http://www.ignorancia.org/en/index.php?page=Lightsys
-#include "lightsys.inc"			// http://www.ignorancia.org/en/index.php?page=Lightsys
-#include "lightsys_constants.inc"	// http://www.ignorancia.org/en/index.php?page=Lightsys
-
 #declare light_lumens		= 2;					// float
 #declare light_temp		= Daylight(6100);			// float
-#declare light_color		= gamma_color_adjust(Light_Color(light_temp,light_lumens));
+#declare light_color		= Light_Color(light_temp,light_lumens);
 
 
 // -------------------------------------------------------------
@@ -120,10 +114,11 @@
 #else
 	global_settings
 	{
-		ambient_light color rgb 1
+		assumed_gamma	1
 	}
 #end
 
+#include "ldr_materials_1.4.inc"
 
 
 // -------------------------------------------------------------
@@ -181,7 +176,7 @@
 light_source
 {
 	-z * 4096
-	light_color
+	<pow(light_color.red,2.2),pow(light_color.green,2.2),pow(light_color.blue,2.2)>
 	rotate		-x * 60
 	rotate		+y * 45
 	parallel
@@ -197,22 +192,22 @@ light_source
 	sphere
 	{
 		0,2
-		pigment{color rgb <0,0,0,>}
+		pigment{color srgb <0,0,0,>}
 	}
 	cylinder
 	{
 		0,+x*1024,2
-		pigment{color rgb <1,0,0,>}
+		pigment{color srgb <1,0,0,>}
 	}
 	cylinder
 	{
 		0,-y*1024,2
-		pigment{color rgb <0,1,0,>}
+		pigment{color srgb <0,1,0,>}
 	}
 	cylinder
 	{
 		0,+z*1024,2
-		pigment{color rgb <0,0,1,>}
+		pigment{color srgb <0,0,1,>}
 	}
 }
 
@@ -258,7 +253,7 @@ light_source
 	{
 		Grid_Marker
 		uv_mapping
-		pigment {color rgbt <1,0,1,1/2>}
+		pigment {color srgbt <1,0,1,1/2>}
 	}
 #end
 
@@ -267,7 +262,7 @@ light_source
 	{
 		Basic_Floor
 		uv_mapping
-		pigment {color rgbt <1,0,1,1/2>}
+		pigment {color srgbt <1,0,1,1/2>}
 	}
 #end
 
@@ -280,8 +275,8 @@ light_source
 			cylindrical
 			color_map
 			{
-				[0 rgbt <0,0,0,1>]
-				[1 rgbt <0,0,0,1/2>]
+				[0 srgbt <0,0,0,1>]
+				[1 srgbt <0,0,0,1/2>]
 			}
 			scale TileWidth/2
 		}

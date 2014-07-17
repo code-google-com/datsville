@@ -1,6 +1,5 @@
 // +KFI0 +KFF3 +KI0.0 +KF1.0 +KC
 // +KFI0 +KFF7 +KI0.0 +KF1.0 +KC
-// +ua
 
 #version 3.7
 
@@ -25,16 +24,16 @@
 #declare L3Quality		= LDXQual;		// Quality level, 0=BBox, 1=no refr, 2=normal, 3=studlogo, 4=stud2logo
 #declare L3SW			= LDXSW;		// Width of seam between two bricks
 #declare L3Studs		= LDXStuds;		// 1=on 0=off
-#declare L3Bumps		= 0;		// 1=on 0=off
+#declare L3Bumps		= 0;			// 1=on 0=off
 #declare L3Ambient		= 0.1;
 #declare L3Diffuse		= 0.9;
 #declare L3Ior			= 1.25;
 #declare L3NormalBumps		= normal { bumps 0.01 scale 20 }
 #declare L3NormalSlope		= normal { bumps 0.3 scale 0.5 }
-#declare QUAL			= L3Quality;	// Quality level, 0=BBox, 1=no refr, 2=normal, 3=studlogo
-#declare SW			= L3SW;		// Width of seam between two bricks
-#declare STUDS			= L3Studs;	// 1=on 0=off
-#declare BUMPS			= L3Bumps;	// 1=on 0=off
+#declare QUAL			= L3Quality;		// Quality level, 0=BBox, 1=no refr, 2=normal, 3=studlogo
+#declare SW			= L3SW;			// Width of seam between two bricks
+#declare STUDS			= L3Studs;		// 1=on 0=off
+#declare BUMPS			= L3Bumps;		// 1=on 0=off
 #declare BUMPNORMAL		= L3NormalBumps;
 #declare AMB			= L3Ambient;
 #declare DIF			= L3Diffuse;
@@ -58,7 +57,7 @@
 // Nonstandard includes
 
 //#include "fastrad.inc"		// slooowwwwwww!!!
-#include "ldr_materials_1.4.inc"	// used by l3p
+#include "ldr_materials_1.4.inc"	// used by L3P
 #include "CIE.inc"			// http://www.ignorancia.org/en/index.php?page=Lightsys
 #include "lightsys.inc"			// http://www.ignorancia.org/en/index.php?page=Lightsys
 #include "lightsys_constants.inc"	// http://www.ignorancia.org/en/index.php?page=Lightsys
@@ -73,39 +72,39 @@
 #declare Show_BasicFloor	= 0;			// renders a plain, 1-tile floor beneath the scene.
 #declare Show_AxisMarker	= 0;			// renders crosshairs in the center of the scene
 #declare Seed			= seed(8829464);	// the default seed value for random functions.
-#declare Rand_Colors		= true;			//
-#declare TileWidth		= 640;
-#declare TilesNum		= 32;
-#declare light_lumens		= 3;					// float
+#declare Rand_Colors		= true;			// boolian
+#declare TileWidth		= 640;					// float
+#declare TilesNum		= 32;					// integer
+#declare light_lumens		= 2;					// float
 #declare light_temp		= Daylight(6100);			// float
-#declare light_color		= Light_Color(light_temp,light_lumens);
+#declare light_color		= Light_Color(light_temp,light_lumens);	// float
 
 
 // -------------------------------------------------------------
-// Set direction based on the clock value.
+// Set the tile direction based on the clock value.
 
 #declare Count = clock * 16;
 #declare No1 = mod(Count,4);
 #declare No2 = floor(Count/4);
 #if ((No1 = 1) | (No1 = 3))
-	#ifndef (North) #declare North = true; #end		// Is the object connected on this side?
+	#declare North = true;		// Is the tile connected on this side?
 #else
-	#ifndef (North) #declare North = false; #end
+	#declare North = false;
 #end
 #if ((No1 = 2) | (No1 = 3))
-	#ifndef (East) #declare East  = true; #end		// ...
+	#declare East  = true;
 #else
-	#ifndef (East) #declare East  = false; #end
+	#declare East  = false;
 #end
 #if ((No2 = 1) | (No2 = 3))
-	#ifndef (South) #declare South = true; #end		// ...
+	#declare South = true;
 #else
-	#ifndef (South) #declare South = false; #end
+	#declare South = false;
 #end
 #if ((No2 = 2) | (No2 = 3))
-	#ifndef (West) #declare West  = true; #end		// ...
+	#declare West  = true;
 #else
-	#ifndef (West) #declare West  = false; #end
+	#declare West  = false;
 #end
 
 
@@ -137,11 +136,21 @@
 #else
 	global_settings
 	{
-		ambient_light color rgb 1
+		assumed_gamma	1
 	}
 #end
 
-background { color rgbf 1 }
+background { color srgbt 1 }
+
+light_source
+{
+	-z * 40960
+	<pow(light_color.red,2.2),pow(light_color.green,2.2),pow(light_color.blue,2.2)>
+	rotate		-x * 60
+	rotate		+y * 45
+	parallel
+//	shadowless
+}
 
 
 // -------------------------------------------------------------
@@ -195,20 +204,6 @@ background { color rgbf 1 }
 
 
 // -------------------------------------------------------------
-// Lights. There are several methods inconsistantly used within GearHead. I try and mimic them here.
-
-light_source
-{
-	-z * 40960
-	light_color
-	rotate		-x * 60
-	rotate		+y * 45
-	parallel
-//	shadowless
-}
-
-
-// -------------------------------------------------------------
 // Orientation markers
 
 #declare Axis_Markers = union
@@ -216,22 +211,22 @@ light_source
 	sphere
 	{
 		0,2
-		pigment{color rgb <0,0,0,>}
+		pigment{color srgb <0,0,0,>}
 	}
 	cylinder
 	{
 		0,+x*1024,2
-		pigment{color rgb <1,0,0,>}
+		pigment{color srgb <1,0,0,>}
 	}
 	cylinder
 	{
 		0,-y*1024,2
-		pigment{color rgb <0,1,0,>}
+		pigment{color srgb <0,1,0,>}
 	}
 	cylinder
 	{
 		0,+z*1024,2
-		pigment{color rgb <0,0,1,>}
+		pigment{color srgb <0,0,1,>}
 	}
 }
 
@@ -277,7 +272,7 @@ light_source
 	{
 		Grid_Marker
 		uv_mapping
-		pigment {color rgbt <1,0,1,1/2>}
+		pigment {color srgbt <1,0,1,1/2>}
 	}
 #end
 
@@ -286,7 +281,7 @@ light_source
 	{
 		Basic_Floor
 		uv_mapping
-		pigment {color rgbt <1,0,1,1/2>}
+		pigment {color srgbt <1,0,1,1/2>}
 	}
 #end
 
@@ -299,8 +294,8 @@ light_source
 			cylindrical
 			color_map
 			{
-				[0 rgbt <0,0,0,1>]
-				[1 rgbt <0,0,0,1/2>]
+				[0 srgbt <0,0,0,1>]
+				[1 srgbt <0,0,0,1/2>]
 			}
 			scale TileWidth/2
 		}

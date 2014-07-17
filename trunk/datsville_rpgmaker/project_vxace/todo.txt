@@ -1,7 +1,7 @@
-- Bike paths need to be moved a little to align with movement grid.
-- Fire hydrants, trash cans and bus stops need to be aligned with the movement grid.
+- Bike paths need to be moved a little to align with the tile grid.
+- Fire hydrants, trash cans and bus stops need to be aligned with the tile grid.
 - Move fire hydrants etc. to overlayer?
-- Remove streetsigns from streets layer.
+- Move streetsigns to streets layer.
 - Copy temple trees to a new type of tree.
 - Runway needs blinky lights.
 - Airport runway is too narrow.
@@ -21,3 +21,4 @@
 + Arrow road construction sign needs to be moved to the streets overlayer.
 + Check the gridded ground layer for misaligned building models.
 + Shopping center parking lot needs to be moved to the lower street level.
++ Driveways need to be aligned with the tile grid.

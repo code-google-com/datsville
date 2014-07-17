@@ -1,6 +1,5 @@
 // +KFI0 +KFF3 +KI0.0 +KF1.0 +KC
 // +KFI0 +KFF7 +KI0.0 +KF1.0 +KC
-// +ua
 
 #version 3.7
 
@@ -58,7 +57,7 @@
 // Nonstandard includes
 
 //#include "fastrad.inc"		// slooowwwwwww!!!
-#include "ldr_materials_shadow_1.4.inc"
+#include "ldr_materials_shadow_1.4.inc"	// used by L3P
 #include "CIE.inc"			// http://www.ignorancia.org/en/index.php?page=Lightsys
 #include "lightsys.inc"			// http://www.ignorancia.org/en/index.php?page=Lightsys
 #include "lightsys_constants.inc"	// http://www.ignorancia.org/en/index.php?page=Lightsys
@@ -82,30 +81,30 @@
 
 
 // -------------------------------------------------------------
-// Set direction based on the clock value.
+// Set the tile direction based on the clock value.
 
 #declare Count = clock * 16;
 #declare No1 = mod(Count,4);
 #declare No2 = floor(Count/4);
 #if ((No1 = 1) | (No1 = 3))
-	#ifndef (North) #declare North = true; #end		// Is the object connected on this side?
+	#declare North = true;		// Is the tile connected on this side?
 #else
-	#ifndef (North) #declare North = false; #end
+	#declare North = false;
 #end
 #if ((No1 = 2) | (No1 = 3))
-	#ifndef (East) #declare East  = true; #end		// ...
+	#declare East  = true;
 #else
-	#ifndef (East) #declare East  = false; #end
+	#declare East  = false;
 #end
 #if ((No2 = 1) | (No2 = 3))
-	#ifndef (South) #declare South = true; #end		// ...
+	#declare South = true;
 #else
-	#ifndef (South) #declare South = false; #end
+	#declare South = false;
 #end
 #if ((No2 = 2) | (No2 = 3))
-	#ifndef (West) #declare West  = true; #end		// ...
+	#declare West  = true;
 #else
-	#ifndef (West) #declare West  = false; #end
+	#declare West  = false;
 #end
 
 
@@ -137,21 +136,30 @@
 #else
 	global_settings
 	{
-		ambient_light color rgb 1
+		assumed_gamma	1
 	}
 #end
 
-background { color rgbf 1 }
+background { color srgbt 1 }
 
 plane
 {
 	y, 0
-	pigment {color rgb 1}
+	pigment {color srgb 1}
 	finish
 	{
 		ambient 0
 		diffuse 1
 	}
+}
+
+light_source
+{
+	-z * 40960
+	1
+	rotate		-x * 60
+	rotate		+y * 45
+	parallel
 }
 
 
@@ -204,21 +212,6 @@ plane
 	#break
 #end
 
-
-// -------------------------------------------------------------
-// Lights. There are several methods inconsistantly used within GearHead. I try and mimic them here.
-
-light_source
-{
-	-z * 40960
-	1
-	rotate		-x * 60
-	rotate		+y * 45
-	parallel
-//	shadowless
-}
-
-
 // -------------------------------------------------------------
 // Orientation markers
 
@@ -227,22 +220,22 @@ light_source
 	sphere
 	{
 		0,2
-		pigment{color rgb <0,0,0,>}
+		pigment{color srgb <0,0,0,>}
 	}
 	cylinder
 	{
 		0,+x*1024,2
-		pigment{color rgb <1,0,0,>}
+		pigment{color srgb <1,0,0,>}
 	}
 	cylinder
 	{
 		0,-y*1024,2
-		pigment{color rgb <0,1,0,>}
+		pigment{color srgb <0,1,0,>}
 	}
 	cylinder
 	{
 		0,+z*1024,2
-		pigment{color rgb <0,0,1,>}
+		pigment{color srgb <0,0,1,>}
 	}
 }
 
@@ -288,7 +281,7 @@ light_source
 	{
 		Grid_Marker
 		uv_mapping
-		pigment {color rgbt <1,0,1,1/2>}
+		pigment {color srgbt <1,0,1,1/2>}
 	}
 #end
 
@@ -297,7 +290,7 @@ light_source
 	{
 		Basic_Floor
 		uv_mapping
-		pigment {color rgbt <1,0,1,1/2>}
+		pigment {color srgbt <1,0,1,1/2>}
 	}
 #end
 
@@ -310,8 +303,8 @@ light_source
 			cylindrical
 			color_map
 			{
-				[0 rgbt <0,0,0,1>]
-				[1 rgbt <0,0,0,1/2>]
+				[0 srgbt <0,0,0,1>]
+				[1 srgbt <0,0,0,1/2>]
 			}
 			scale TileWidth/2
 		}

@@ -81,7 +81,7 @@
 
 #ifndef (MYellow)
 #declare MYellow = #if (version >= 3.1) material { #end texture {
-	pigment { rgb <1,0.905882,0.211765> }
+	pigment { srgb <1,0.905882,0.211765> }
 	finish { ambient .1 diffuse .85 }
 	#if (QUAL > 1)
 		finish { phong 0.5 phong_size 40 reflection 0.08 }
@@ -92,7 +92,7 @@
 
 #ifndef (MWHite)
 #declare MWHite = #if (version >= 3.1) material { #end texture {
-	pigment { rgb <1,1,1> }
+	pigment { srgb <1,1,1> }
 	finish { ambient AMB diffuse DIF }
 	#if (QUAL > 1)
 		finish { phong 0.5 phong_size 40 reflection 0.08 }
@@ -103,7 +103,7 @@
 
 #ifndef (Mgray)
 #declare Mgray = #if (version >= 3.1) material { #end texture {
-	pigment { rgb <0.682353,0.682353,0.682353> }
+	pigment { srgb <0.682353,0.682353,0.682353> }
 	finish { ambient AMB diffuse DIF }
 	#if (QUAL > 1)
 		finish { phong 0.5 phong_size 40 reflection 0.08 }
@@ -114,7 +114,7 @@
 
 #ifndef (Mblack)
 #declare Mblack = #if (version >= 3.1) material { #end texture {
-	pigment { rgb <0.301961,0.301961,0.301961> }
+	pigment { srgb <0.301961,0.301961,0.301961> }
 	finish { ambient AMB diffuse DIF }
 	#if (QUAL > 1)
 		finish { phong 0.5 phong_size 40 reflection 0.08 }

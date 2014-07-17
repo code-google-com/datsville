@@ -1,10 +1,10 @@
+#version 3.7
+
 // +KFI0 +KFF3 +KI0.0 +KF1.0 +KC
 // +KFI0 +KFF7 +KI0.0 +KF1.0 +KC
 
-#version 3.7
-
 // -------------------------------------------------------------
-// Standard includes
+// Includes
 
 #include "stdinc.inc"
 #include "textures.inc"
@@ -12,6 +12,10 @@
 #include "stones.inc"
 #include "glass.inc"
 #include "metals.inc"
+//#include "fastrad.inc"		// slooowwwwwww!!!
+#include "CIE.inc"			// http://www.ignorancia.org/en/index.php?page=Lightsys
+#include "lightsys.inc"			// http://www.ignorancia.org/en/index.php?page=Lightsys
+#include "lightsys_constants.inc"	// http://www.ignorancia.org/en/index.php?page=Lightsys
 
 // -------------------------------------------------------------
 // Default values. These can be pre-declared in your scene.
@@ -46,17 +50,9 @@
 #declare L3Phong		= 0.5;
 #declare L3PhongSize		= 40;
 #declare L3Reflection		= 0.08;	// was 0.08
-
-//#include "fastrad.inc"		// slooowwwwwww!!!
-#include "ldr_materials_1.4.inc"
-#include "stdinc.inc"
-#include "CIE.inc"			// http://www.ignorancia.org/en/index.php?page=Lightsys
-#include "lightsys.inc"			// http://www.ignorancia.org/en/index.php?page=Lightsys
-#include "lightsys_constants.inc"	// http://www.ignorancia.org/en/index.php?page=Lightsys
-
 #declare light_lumens		= 2;					// float
 #declare light_temp		= Daylight(6100);			// float
-#declare light_color		= gamma_color_adjust(Light_Color(light_temp,light_lumens));
+#declare light_color		= Light_Color(light_temp,light_lumens);
 
 // -------------------------------------------------------------
 // Set direction based on the clock value.
@@ -114,22 +110,11 @@
 #else
 	global_settings
 	{
-		ambient_light color rgb 1
+		assumed_gamma	1
 	}
 #end
 
-
-
-/*
-// heavy fog
-fog
-{
-	fog_type 2
-	color rgb <.7, .8, .9>
-	distance 300
-	fog_alt 50
-}
-*/
+#include "ldr_materials_1.4.inc"
 
 
 // -------------------------------------------------------------
@@ -199,7 +184,7 @@ fog
 light_source
 {
 	-z * 4096
-	light_color
+	<pow(light_color.red,2.2),pow(light_color.green,2.2),pow(light_color.blue,2.2)>
 	rotate		-x * 15
 	rotate		+y * 15
 	parallel
@@ -215,22 +200,22 @@ light_source
 	sphere
 	{
 		0,2
-		pigment{color rgb <0,0,0,>}
+		pigment{color srgb <0,0,0,>}
 	}
 	cylinder
 	{
 		0,+x*1024,2
-		pigment{color rgb <1,0,0,>}
+		pigment{color srgb <1,0,0,>}
 	}
 	cylinder
 	{
 		0,-y*1024,2
-		pigment{color rgb <0,1,0,>}
+		pigment{color srgb <0,1,0,>}
 	}
 	cylinder
 	{
 		0,+z*1024,2
-		pigment{color rgb <0,0,1,>}
+		pigment{color srgb <0,0,1,>}
 	}
 }
 
@@ -276,7 +261,7 @@ light_source
 	{
 		Grid_Marker
 		uv_mapping
-		pigment {color rgbt <1,0,1,1/2>}
+		pigment {color srgbt <1,0,1,1/2>}
 	}
 #end
 
@@ -285,7 +270,7 @@ light_source
 	{
 		Basic_Floor
 		uv_mapping
-		pigment {color rgbt <1,0,1,1/2>}
+		pigment {color srgbt <1,0,1,1/2>}
 	}
 #end
 
@@ -298,8 +283,8 @@ light_source
 			cylindrical
 			color_map
 			{
-				[0 rgbt <0,0,0,1>]
-				[1 rgbt <0,0,0,1/2>]
+				[0 srgbt <0,0,0,1>]
+				[1 srgbt <0,0,0,1/2>]
 			}
 			scale TileWidth/2
 		}
