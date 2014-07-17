@@ -1,5 +1,3 @@
-// Render at 4 studs = 32 pixels =  1 tile
-
 #version 3.7
 
 // -------------------------------------------------------------
@@ -113,7 +111,7 @@
 #else
 	global_settings
 	{
-		ambient_light color rgb 1
+		assumed_gamma	1
 	}
 #end
 
