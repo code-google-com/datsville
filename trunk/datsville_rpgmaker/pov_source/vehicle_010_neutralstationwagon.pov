@@ -6,7 +6,7 @@
 // Title:        Car Suzuki Swift Hatchback
 // Author:       Jonathan Wilson
 // ModelDir:     .
-// WorkDir:      D:\Datsville\trunk\datsville_rpgmaker\project_vxace\povsource
+// WorkDir:      D:\Datsville\trunk\datsville_rpgmaker\pov_source
 // LDRAWDIR:     E:\Programs Windows\LDraw (LDRAWDIR environment variable)
 // SearchDirs:   (Default)
 // SearchDir1:   .\ (0x10)

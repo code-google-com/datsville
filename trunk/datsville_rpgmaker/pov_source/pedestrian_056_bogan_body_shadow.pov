@@ -2,19 +2,19 @@
 // L3P website:  http://www.hassings.dk/l3/l3p.html
 // LDraw.org:    http://www.ldraw.org
 // Date:         Thu Jul 10 11:32:44 2014
-// Input file:   D:\Datsville\trunk\datsville_rpgmaker\povsource\pedestrian_056_bogan.ldr
+// Input file:   D:\Datsville\trunk\datsville_rpgmaker\pov_source\pedestrian_056_bogan.ldr
 // Title:        Bogan?
 // Author:       Tim Gould
-// ModelDir:     D:\Datsville\trunk\datsville_rpgmaker\povsource
-// WorkDir:      D:\Datsville\trunk\datsville_rpgmaker\povsource
+// ModelDir:     D:\Datsville\trunk\datsville_rpgmaker\pov_source
+// WorkDir:      D:\Datsville\trunk\datsville_rpgmaker\pov_source
 // LDRAWDIR:     E:\Programs Windows\LDraw (LDRAWDIR environment variable)
 // SearchDirs:   (Default)
-// SearchDir1:   D:\Datsville\trunk\datsville_rpgmaker\povsource\ (0x10)
+// SearchDir1:   D:\Datsville\trunk\datsville_rpgmaker\pov_source\ (0x10)
 // SearchDir2:   E:\Programs Windows\LDraw\P\ (0x9)
 // SearchDir3:   E:\Programs Windows\LDraw\PARTS\ (0x4)
 // SearchDir4:   E:\Programs Windows\LDraw\MODELS\ (0x0)
 // ldconfig.ldr: E:\Programs Windows\LDraw\ldconfig.ldr
-// Commandline:  "E:\Programs Windows\l3p14beta\l3p.exe" D:\Datsville\trunk\datsville_rpgmaker\povsource\pedestrian_056_bogan.ldr D:\Datsville\trunk\datsville_rpgmaker\povsource\pedestrian_056_bogan_body.pov -o -ic -il -ibcharacter_body.inc
+// Commandline:  "E:\Programs Windows\l3p14beta\l3p.exe" D:\Datsville\trunk\datsville_rpgmaker\pov_source\pedestrian_056_bogan.ldr D:\Datsville\trunk\datsville_rpgmaker\pov_source\pedestrian_056_bogan_body.pov -o -ic -il -ibcharacter_body.inc
 
 #if (version < 3.1)
 	#error "This POV code requires at least version 3.1\n"

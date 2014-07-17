@@ -2,19 +2,19 @@
 // L3P website:  http://www.hassings.dk/l3/l3p.html
 // LDraw.org:    http://www.ldraw.org
 // Date:         Wed Jul 09 19:22:26 2014
-// Input file:   D:\Datsville\trunk\datsville_rpgmaker\povsource\building_065_horvathbluehouse_cut_alternative.mpd
+// Input file:   D:\Datsville\trunk\datsville_rpgmaker\pov_source\building_065_horvathbluehouse_cut_alternative.mpd
 // Title:        New Model
 // Author:       Michael Horvath
-// ModelDir:     D:\Datsville\trunk\datsville_rpgmaker\povsource
-// WorkDir:      D:\Datsville\trunk\datsville_rpgmaker\povsource
+// ModelDir:     D:\Datsville\trunk\datsville_rpgmaker\pov_source
+// WorkDir:      D:\Datsville\trunk\datsville_rpgmaker\pov_source
 // LDRAWDIR:     E:\Programs Windows\LDraw (LDRAWDIR environment variable)
 // SearchDirs:   (Default)
-// SearchDir1:   D:\Datsville\trunk\datsville_rpgmaker\povsource\ (0x10)
+// SearchDir1:   D:\Datsville\trunk\datsville_rpgmaker\pov_source\ (0x10)
 // SearchDir2:   E:\Programs Windows\LDraw\P\ (0x9)
 // SearchDir3:   E:\Programs Windows\LDraw\PARTS\ (0x4)
 // SearchDir4:   E:\Programs Windows\LDraw\MODELS\ (0x0)
 // ldconfig.ldr: E:\Programs Windows\LDraw\ldconfig.ldr
-// Commandline:  "E:\Programs Windows\l3p14beta\l3p.exe" D:\Datsville\trunk\datsville_rpgmaker\povsource\building_065_horvathbluehouse_cut_alternative.mpd -o -ic -il -ibbuilding_cutsize.inc
+// Commandline:  "E:\Programs Windows\l3p14beta\l3p.exe" D:\Datsville\trunk\datsville_rpgmaker\pov_source\building_065_horvathbluehouse_cut_alternative.mpd -o -ic -il -ibbuilding_cutsize.inc
 
 #if (version < 3.1)
 	#error "This POV code requires at least version 3.1\n"

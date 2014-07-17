@@ -2,19 +2,19 @@
 // L3P website:  http://www.hassings.dk/l3/l3p.html
 // LDraw.org:    http://www.ldraw.org
 // Date:         Sun Jun 01 12:35:01 2014
-// Input file:   W:\LDraw\svn\trunk\datsville_rpgmaker\project_vxace\povsource\_main_character.ldr
+// Input file:   W:\LDraw\svn\trunk\datsville_rpgmaker\pov_source\_main_character.ldr
 // Title:        New Minifig Model
 // Author:       Michael Horvath
-// ModelDir:     W:\LDraw\svn\trunk\datsville_rpgmaker\project_vxace\povsource
-// WorkDir:      W:\LDraw\svn\trunk\datsville_rpgmaker\project_vxace\povsource
+// ModelDir:     W:\LDraw\svn\trunk\datsville_rpgmaker\pov_source
+// WorkDir:      W:\LDraw\svn\trunk\datsville_rpgmaker\pov_source
 // LDRAWDIR:     D:\LDraw (LDRAWDIR environment variable)
 // SearchDirs:   (Default)
-// SearchDir1:   W:\LDraw\svn\trunk\datsville_rpgmaker\project_vxace\povsource\ (0x10)
+// SearchDir1:   W:\LDraw\svn\trunk\datsville_rpgmaker\pov_source\ (0x10)
 // SearchDir2:   D:\LDraw\P\ (0x9)
 // SearchDir3:   D:\LDraw\PARTS\ (0x4)
 // SearchDir4:   D:\LDraw\MODELS\ (0x0)
 // ldconfig.ldr: D:\LDraw\ldconfig.ldr
-// Commandline:  "E:\Programs Windows\l3p14beta\l3p.exe" W:\LDraw\svn\trunk\datsville_rpgmaker\project_vxace\povsource\_main_character -o -ic -il -ibmecha.inc
+// Commandline:  "E:\Programs Windows\l3p14beta\l3p.exe" W:\LDraw\svn\trunk\datsville_rpgmaker\pov_source\_main_character -o -ic -il -ibmecha.inc
 
 #version 3.7
 
