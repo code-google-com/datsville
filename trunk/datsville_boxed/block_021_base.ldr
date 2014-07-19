@@ -1,5 +1,5 @@
 0 Datsville City Block #21
-0 Name: block_021.ldr
+0 Name: block_021_base.ldr
 0 Author: John VanZwieten, Michael Horvath, Tore Eriksson
 0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -9,16 +9,16 @@
 1 2 320 0 8640 0 0 1 0 1 0 -1 0 0 b\3811.dat
 1 2 1600 0 8640 0 0 1 0 1 0 -1 0 0 b\3811.dat
 1 2 1600 0 8000 0 0 1 0 1 0 -1 0 0 b\3811.dat
-1 2 1600 0 8000 0 0 1 0 1 0 -1 0 0 infrastructure_bikepathstraight.ldr
+1 2 1600 0 8080 0 0 1 0 1 0 -1 0 0 infrastructure_bikepathstraight.ldr
 1 2 960 0 8000 0 0 1 0 1 0 -1 0 0 b\3811.dat
-1 2 960 0 8000 0 0 1 0 1 0 -1 0 0 infrastructure_bikepathstraight.ldr
+1 2 960 0 8080 0 0 1 0 1 0 -1 0 0 infrastructure_bikepathstraight.ldr
 1 2 960 0 7360 0 0 1 0 1 0 -1 0 0 b\3811.dat
 1 2 1600 0 7360 0 0 1 0 1 0 -1 0 0 b\3811.dat
 1 2 2240 0 7360 0 0 1 0 1 0 -1 0 0 b\3811.dat
 1 2 2240 0 8000 0 0 1 0 1 0 -1 0 0 b\3811.dat
-1 2 2240 0 8000 0 0 1 0 1 0 -1 0 0 infrastructure_bikepathstraight.ldr
+1 2 2240 0 8080 0 0 1 0 1 0 -1 0 0 infrastructure_bikepathstraight.ldr
 1 2 2880 0 8000 0 0 1 0 1 0 -1 0 0 b\3811.dat
-1 2 2880 0 8000 0 0 1 0 1 0 -1 0 0 infrastructure_bikepathstraight.ldr
+1 2 2880 0 8080 0 0 1 0 1 0 -1 0 0 infrastructure_bikepathstraight.ldr
 1 2 2880 0 7360 0 0 1 0 1 0 -1 0 0 b\3811.dat
 1 2 2880 0 8640 0 0 1 0 1 0 -1 0 0 b\3811.dat
 1 2 2240 0 8640 0 0 1 0 1 0 -1 0 0 b\3811.dat
@@ -29,14 +29,14 @@
 1 2 3520 0 9280 0 0 1 0 1 0 -1 0 0 b\3811.dat
 1 2 3520 0 8640 0 0 1 0 1 0 -1 0 0 b\3811.dat
 1 2 3520 0 8000 0 0 1 0 1 0 -1 0 0 b\3811.dat
-1 2 3520 0 8000 0 0 1 0 1 0 -1 0 0 infrastructure_bikepathstraight.ldr
+1 2 3520 0 8080 0 0 1 0 1 0 -1 0 0 infrastructure_bikepathstraight.ldr
 1 2 1600 0 9280 0 0 1 0 1 0 -1 0 0 b\3811.dat
 1 2 1600 0 9920 0 0 1 0 1 0 -1 0 0 b\3811.dat
 1 2 960 0 9280 0 0 1 0 1 0 -1 0 0 b\3811.dat
 1 2 320 0 9280 0 0 1 0 1 0 -1 0 0 b\3811.dat
 1 2 960 0 9920 0 0 1 0 1 0 -1 0 0 b\3811.dat
 1 2 320 0 8000 0 0 1 0 1 0 -1 0 0 b\3811.dat
-1 2 320 0 8000 0 0 1 0 1 0 -1 0 0 infrastructure_bikepathstraight.ldr
+1 2 320 0 8080 0 0 1 0 1 0 -1 0 0 infrastructure_bikepathstraight.ldr
 1 2 320 0 7360 1 0 0 0 1 0 0 0 1 6024.dat
 1 2 3520 0 7360 0 0 -1 0 1 0 1 0 0 6024.dat
 1 2 3520 0 9920 -1 0 0 0 1 0 0 0 -1 6024.dat

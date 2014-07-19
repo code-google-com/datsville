@@ -1,14 +1,14 @@
 0 Datsville City Block #15
-0 Name: block_015.ldr
+0 Name: block_015_overlay.ldr
 0 Author: John VanZwieten, Michael Horvath, Tore Eriksson
 0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 2 860 -8 -2380 0 0 1 0 1 0 -1 0 0 building_084_printshop.ldr
 1 2 1620 0 -2260 1 0 0 0 1 0 0 0 1 building_072_yelhouse.ldr
-1 16 320 -8 -2240 1 0 0 0 1 0 0 0 1 building_067_habidomesmall.mpd
+1 16 320 -8 -2200 1 0 0 0 1 0 0 0 1 building_067_habidomesmall.mpd
 1 16 280 0 -1180 0 0 1 0 1 0 -1 0 0 building_028_sidewalkwithgarage.ldr
-1 16 1060 0 -900 0 0 -1 0 1 0 1 0 0 building_026_toresparentshouse.ldr
+1 16 1040 0 -900 0 0 -1 0 1 0 1 0 0 building_026_toresparentshouse.ldr
 1 16 410 -8 -740 0 0 1 0 1 0 -1 0 0 infrastructure_bigtree_01.ldr
 1 16 1420 -8 -740 1 0 0 0 1 0 0 0 1 infrastructure_bigtree_01.ldr
 1 16 1830 -8 -870 1 0 0 0 1 0 0 0 1 infrastructure_bigtree_01.ldr

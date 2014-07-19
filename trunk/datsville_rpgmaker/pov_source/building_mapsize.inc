@@ -60,6 +60,7 @@
 #include "CIE.inc"			// http://www.ignorancia.org/en/index.php?page=Lightsys
 #include "lightsys.inc"			// http://www.ignorancia.org/en/index.php?page=Lightsys
 #include "lightsys_constants.inc"	// http://www.ignorancia.org/en/index.php?page=Lightsys
+//#include "ground_tile_grid.inc"	// only for the base layer
 
 
 // -------------------------------------------------------------
