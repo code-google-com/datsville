@@ -57,7 +57,6 @@
 // Nonstandard includes
 
 //#include "fastrad.inc"		// slooowwwwwww!!!
-#include "ldr_materials_shadow_1.4.inc"	// used by L3P
 #include "CIE.inc"			// http://www.ignorancia.org/en/index.php?page=Lightsys
 #include "lightsys.inc"			// http://www.ignorancia.org/en/index.php?page=Lightsys
 #include "lightsys_constants.inc"	// http://www.ignorancia.org/en/index.php?page=Lightsys
@@ -140,6 +139,8 @@
 	}
 #end
 
+#include "ldr_materials_shadow_1.4.inc"	// used by L3P
+
 background { color srgbt 1 }
 
 plane
@@ -156,7 +157,7 @@ plane
 light_source
 {
 	-z * 40960
-	1
+	color srgb 1
 	rotate		-x * 60
 	rotate		+y * 45
 	parallel

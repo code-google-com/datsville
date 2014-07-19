@@ -25,3 +25,9 @@
 + Add fences around buildings?
 + Make sure trees are positioned properly on the studs under them.
 + Block 6 base needs to be edited so that building 21 can be lowered 8 LDU.
++ Parking lot areas should be done sideways and standardized like SNOT roads.
++ Maybe replace building_024_andershouse.ldr since it is off scale.
++ Lower buildings with ground tiles so the ground is flush with the grass.
++ Experiment with Ultima VII style oblique graphics perspective.
++ Radio tower is sitting on a green block instead of concrete.
++ Airplane hangar should be aligned with baseplate grid.
