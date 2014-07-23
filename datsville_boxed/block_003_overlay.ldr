@@ -1,11 +1,12 @@
 0 Datsville City Block #3
-0 Name: block_003_buildings.ldr
+0 Name: block_003_overlay.ldr
 0 Author: John VanZwieten, Michael Horvath, Tore Eriksson
 0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 block_003_base.ldr
 1 16 1660 -8 320 0 0 -1 0 1 0 1 0 0 building_043_datsvillememorial.ldr
 1 16 1400 -8 90 1 0 0 0 1 0 0 0 1 infrastructure_bigtree_01.ldr
-1 16 1370 -8 550 1 0 0 0 1 0 0 0 1 infrastructure_bigtree_01.ldr
-1 16 1050 -8 550 1 0 0 0 1 0 0 0 1 infrastructure_bigtree_01.ldr
+1 16 1340 -8 300 1 0 0 0 1 0 0 0 1 infrastructure_bigtree_01.ldr
+1 16 1080 -8 320 1 0 0 0 1 0 0 0 1 infrastructure_bigtree_01.ldr
 0
