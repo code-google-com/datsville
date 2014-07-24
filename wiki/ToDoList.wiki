@@ -7,15 +7,17 @@
   # Create a collection of helper scripts to make it easy to generate renderings, animations, panoramas and so forth using POV-Ray and/or other software packages.
   # Streamline the model submission process so that new content can be added quickly and easily.
   # Create one or more virtual Web tours, or an interactive isometric map like a cross between SimCity and Google Maps.
+  # Create a role-playing game set in Datsville.
+  # <s>Experiment with different types of oblique perspective.</s>
 
 = Models =
 
-  # Strip all vehicles and pedestrians from building models and add them to the traffic layer.
+  # Strip all vehicles and pedestrians from building models and add them to the traffic layer. [ongoing]
   # Create driveways that slope smoothly into the roads. See Mike Gallagher's examples. (But how do I build driveways if the road section lies at an incline?)
   # <s>Traffic layer needs to be gone over again to make sure cars and pedestrians are standing correctly on the ground, sitting in the grass, etc.</s>
   # Figure out the best way to implement sloped roads and heightfield terrain.
   # Building 58 has a lower storey that is being clipped by the ground.
-  # <s>Replace petrol station's baseplates with SNOT roads?</s>
+  # Replace petrol station's baseplates with SNOT roads?
   # <s>The parking lots near the university and apartment complex are ugly and need to be redesigned.</s>
   # The cell tower looks more like a tornado siren. Repurpose and rename?
   # Make sure all "boxed" parts have edge lines. It's possible Tore's parts all had edge lines, but I overrode them with my own edgeline-less parts mistakenly.
@@ -25,18 +27,17 @@
   # <s>Not sure what "t04i1304.dat" and "t04o1304.dat" are for. Can they be safely deleted?</s>
   # <s>Why are "dx900.dat" and "dx901.dat" needed? Also "look_at.dat".</s>
   # Datsville has a radio tower, but no radio station building.
-  # Add sewer drains to SNOT roads.
+  # <s>Add sewer drains to SNOT roads.</s>
   # <s>Replace any road baseplates that still might exist with SNOT roads.</s>
   # <s>Update myboxer's "box_list.ini" if possible.</s>
   # <s>The city needs fire hydrants.</s>
   # <s>There are still some TLG-designed models that unfortunately need to be removed.</s>
-  # I am thinking about changing the asphalt color from black to dark gray, and the sidewalk color from white to light gray. Those colors would look a little more urban, but I'm not sure that's what we want.
+  # I am thinking about changing the asphalt color from black to dark gray, and the sidewalk color from white to light gray. Those colors would look a little more urban, but I'm not sure that's desirable.
   # I would like to add a model of a giant tree.
   # Houses need bushes, gardens, flowers, etc. around them.
   # There need to be more minifigures walking around or inside buildings. There need to be more minifigs in general.
   # Baseball field needs spotlights and a fence surrounding the outfield.
   # One-way streets need two traffic signals facing the same direction at intersections since both lanes are going in the same direction.
-  # Make sure streetlamps don't block driveways.
   # Make sure sreetlamps can be ratcheted to the correct angle when placed on sloping inclines.
   # All minifigures and vehicles should use unique models. Even players on the baseball teams.
   # Lower shopping center parking lot by 8 LDU. Also, pizza place.
@@ -59,9 +60,47 @@
   # Each model and sub-model needs to have the proper software license attached to it.
   # <s>The tag 'Unofficial Model' needs to be replaced with 'Unofficial Datsville Model' in each model and sub-model.</s>
   # Add missing titles to sub-models in MPD files.
-  # Some author tags in sub-models remain blank. This needs to be fixed.
+  # Some author tags in sub-models remain blank and should be filled.
   # Buildings with open backs should really be closed.
   # Add light sources to all models for night-time renders.
-  # Adjust the scene so that y = 0 is at the grass/sidewalk surface instead of the road surface.
-  # The town hall uses unsupported baseplates for floors.
-  # Make the bridges 8 bricks wider.
+  # <s>Adjust the scene so that y = 0 is at the grass/sidewalk surface instead of the road surface.</s>
+  # <s>The town hall uses illegal baseplates for floors.</s>
+  # <s>Make the bridges 8 bricks wider.</s>
+  # <s>Bike paths need to be moved a little to align with the tile grid.</s>
+  # <s>Fire hydrants, trash cans and bus stops need to be aligned with the tile grid.</s>
+  # Fire hydrants, trash cans and bus stops need to be placed individually in case they are blocking driveways.
+  # <s>Move fire hydrants etc. to overlayer?</s>
+  # <s>Move streetsigns to streets layer.</s>
+  # <s>Copy temple trees to a new type of tree.</s>
+  # <s>Runway needs blinky lights.</s>
+  # <s>Airport runway is too narrow.</s>
+  # <s>Railroad crossing hardware needs to be moved to the top layer.</s>
+  # <s>building_007_firecompany has people in it.</s>
+  # <s>building_086_redwarehouse has people in it.</s>
+  # <s>building_080_garagexsmall has people in it.</s>
+  # <s>building_020_baitshop.mpd has people in it.</s>
+  # <s>building_075_buddhisttemple has people in it.</s>
+  # <s>building_040_lookouttower has people in it.</s>
+  # <s>All minifig animations need to be redone because the back leg is not rotated correctly.</s>
+  # <s>Block 6 base needs to be edited so that building 21 can be lowered 8 LDU.</s>
+  # <s>High school needs to be split into top and bottom layers.</s>
+  # <s>Supermarket needs to be realigned with the ground grid.</s>
+  # <s>Radio tower is sitting on a green block instead of concrete.</s>
+  # [tricky] building_030_policehq.mpd has people in it.
+  # [tricky] building_017_nationalbank has people in it.
+  # [tricky] building_031_carriagehouse has people in it.
+  # building_002_townhall.mpd has a person in it.
+  # building_002_townhall.mpd intersects street lamps and trashcans.
+  # vehicle_054_monaro has a person standing outside the car instead of sitting in it.
+  # Blue apartments need showers/tubs.
+  # <s>Arrow road construction sign needs to be moved to the streets overlayer.</s>
+  # Check the gridded ground layer for misaligned building models. [ongoing]
+  # Shopping center parking lot needs to be moved to the lower street level.
+  # Shopping center sidewalks also need to be on the lower street level.
+  # Driveways need to be aligned with the tile grid. [ongoing]
+  # Make sure trees are positioned properly on the studs under them. [ongoing]
+  # Parking lot areas should be done sideways and standardized like SNOT roads.
+  # Maybe replace building_024_andershouse.ldr since it is out-of-scale.
+  # Lower buildings with ground tiles so the ground is flush with the grass. [ongoing]
+  # Airplane hangar should be aligned with baseplate grid.
+  # Add fences around buildings?

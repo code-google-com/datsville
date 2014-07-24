@@ -49,4 +49,5 @@
 1 7 2880 0 3520 0 0 1 0 1 0 -1 0 0 infrastructure_streetlamppair.ldr
 1 7 3400 -8 3800 1 0 0 0 1 0 0 0 1 infrastructure_busstop.ldr
 1 7 3520 0 3520 0 0 1 0 1 0 -1 0 0 infrastructure_streetlamppair.ldr
+1 7 1860 -22 3520 0 0 -1 0 1 0 1 0 0 infrastructure_signdetourleft.mpd
 0
