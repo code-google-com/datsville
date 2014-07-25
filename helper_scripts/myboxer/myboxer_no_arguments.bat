@@ -1,2 +1,0 @@
-cscript myboxer.js
-pause
