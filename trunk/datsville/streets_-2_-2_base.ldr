@@ -7,6 +7,7 @@
 1 7 -6720 0 -5440 1 0 0 0 1 0 0 0 1 snotroad_doublestriperailxing.ldr
 1 7 -6720 0 -6080 -1 0 0 0 1 0 0 0 -1 snotroad_doublestripecross.ldr
 1 7 -5440 0 -6720 0 0 -1 0 1 0 1 0 0 snotroad_doublestripenocross.ldr
+1 7 -5440 0 -7360 0 0 -1 0 1 0 1 0 0 snotroad_parkinglotcornerleft.ldr
 1 7 -6080 0 -6720 0 0 -1 0 1 0 1 0 0 snotroad_doublestripecross.ldr
 1 7 -6720 0 -6720 0 0 1 0 1 0 -1 0 0 snotroad_quaddotsnocross.ldr
 0

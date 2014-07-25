@@ -4,7 +4,7 @@
 0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
-1 16 440 -8 2700 -1 0 0 0 1 0 0 0 -1 building_021_houseporchyard.mpd
+1 16 440 0 2700 -1 0 0 0 1 0 0 0 -1 building_021_houseporchyard.mpd
 1 2 180 -8 2080 0 0 1 0 1 0 -1 0 0 building_025_greenroofhouse.ldr
 1 16 1660 -8 2400 0 0 -1 0 1 0 1 0 0 building_013_safehouse.ldr
 1 16 1640 -8 3040 -1 0 0 0 1 0 0 0 -1 building_004_bramlcottage.ldr

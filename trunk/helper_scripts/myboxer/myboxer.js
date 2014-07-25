@@ -1,7 +1,7 @@
 // Script authored by: Michael Horvath
-// Version: 1.0.0
+// Version: 1.0.1
 // Created: 2011/09/08
-// Updated: 2011/09/08
+// Updated: 2014/07/24
 // License: LGPL (code)
 
 var MssgDebug = false
@@ -58,8 +58,10 @@ function Get_Input(InputPath)
 	WshShell = new ActiveXObject('WScript.Shell')
 
 	// read the list of boxes and store its contents as an array
-	WScript.Echo(WshShell.CurrentDirectory)
-	var BoxListPath = WshShell.CurrentDirectory + '\\box_list.ini'
+	var ScriptPath = WScript.ScriptFullName
+	ScriptPath = ScriptPath.replace('myboxer.js', '')
+	WScript.Echo(ScriptPath)
+	var BoxListPath = ScriptPath + 'box_list.ini'
 	var BoxListObject = fso.OpenTextFile(BoxListPath, 1)
 	var BoxListString = BoxListObject.ReadAll()
 	BoxListObject.Close()	
@@ -79,7 +81,7 @@ function Get_Input(InputPath)
 			var InputFile = InputPath
 			if (InputRoot == '')
 			{
-				InputRoot = WshShell.CurrentDirectory + '\\'
+				InputRoot = ScriptPath
 				InputFile = InputRoot + InputPath
 			}
 			Convert_File(InputFile)
