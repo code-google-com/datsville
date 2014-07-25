@@ -24,6 +24,9 @@
 1 7 -2880 0 3520 0 0 1 0 1 0 -1 0 0 snotroad_doublestripecross.ldr
 1 7 -2240 0 3520 0 0 1 0 1 0 -1 0 0 snotroad_triplestripenocross.ldr
 1 7 -2240 0 2880 -1 0 0 0 1 0 0 0 -1 snotroad_triplestripecross_2.ldr
+1 7 -2880 0 2880 1 0 0 0 1 0 0 0 1 snotroad_parkinglotfull.ldr
+1 7 -2880 0 2240 1 0 0 0 1 0 0 0 1 snotroad_parkinglotfull.ldr
+1 7 -2880 0 1600 1 0 0 0 1 0 0 0 1 snotroad_parkinglotfull.ldr
 1 7 -2240 0 2240 -1 0 0 0 1 0 0 0 -1 snotroad_doublestripenocross.ldr
 1 7 -2240 0 1600 -1 0 0 0 1 0 0 0 -1 snotroad_triplestripecross_1.ldr
 1 7 -960 0 960 0 0 1 0 1 0 -1 0 0 snotroad_tripleonewaycross_1.ldr

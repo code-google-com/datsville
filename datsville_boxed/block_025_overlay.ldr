@@ -1,5 +1,5 @@
 0 Datsville City Block #25
-0 Name: block_025.ldr
+0 Name: block_025_overlay.ldr
 0 Author: John VanZwieten, Michael Horvath, Tore Eriksson
 0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -8,5 +8,6 @@
 1 13 -6080 0 -320 0 0 -1 0 1 0 1 0 0 building_048_pizzatakeout.mpd
 1 13 -6080 0 -960 0 0 1 0 1 0 -1 0 0 building_060_icecreamparlor.mpd
 1 7 -6230 -8 -2080 0 0 1 0 1 0 -1 0 0 building_091_clothingstore2.ldr
+1 7 -5920 -8 -2100 1 0 0 0 1 0 0 0 1 building_084_printshop.ldr
 1 7 -6080 -8 -1600 0 0 1 0 1 0 -1 0 0 building_055_traveloffice.mpd
 0

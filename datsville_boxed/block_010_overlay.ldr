@@ -1,5 +1,5 @@
 0 Datsville City Block #10
-0 Name: block_010.ldr
+0 Name: block_010_overlay.ldr
 0 Author: John VanZwieten, Michael Horvath, Tore Eriksson
 0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -10,6 +10,6 @@
 1 2 320 -8 4800 0 0 1 0 1 0 -1 0 0 infrastructure_ljphill2.ldr
 1 2 1600 -8 4800 -1 0 0 0 1 0 0 0 -1 infrastructure_ljphill2.ldr
 1 2 1600 -8 4160 0 0 -1 0 1 0 1 0 0 infrastructure_ljphill2.ldr
-1 2 1900 8 4460 0 0 -1 0 1 0 1 0 0 building_058_bundenogkanden.mpd
+1 2 1900 8 4500 0 0 -1 0 1 0 1 0 0 building_058_bundenogkanden.mpd
 1 7 1500 -176 4600 1 0 0 0 1 0 0 0 1 building_040_lookouttower.ldr
 0
