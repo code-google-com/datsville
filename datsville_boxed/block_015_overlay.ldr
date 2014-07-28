@@ -6,7 +6,7 @@
 0 ROTATION CONFIG 0 0
 1 2 1620 0 -2260 1 0 0 0 1 0 0 0 1 building_072_yelhouse.ldr
 1 16 320 -8 -2200 1 0 0 0 1 0 0 0 1 building_067_habidomesmall.mpd
-1 16 280 0 -1120 0 0 1 0 1 0 -1 0 0 building_028_sidewalkwithgarage.ldr
+1 16 280 0 -1140 0 0 1 0 1 0 -1 0 0 building_028_sidewalkwithgarage.ldr
 1 16 1040 0 -900 0 0 -1 0 1 0 1 0 0 building_026_toresparentshouse.ldr
 1 16 410 -8 -740 0 0 1 0 1 0 -1 0 0 infrastructure_bigtree_01.ldr
 1 16 1420 -8 -740 1 0 0 0 1 0 0 0 1 infrastructure_bigtree_01.ldr
