@@ -4,6 +4,7 @@
 0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
+1 16 -5640 2 -160 0 0 -1 0 1 0 1 0 0 infrastructure_dumpster.ldr
 1 7 -6720 0 -2880 1 0 0 0 1 0 0 0 1 infrastructure_signstopdouble.ldr
 1 7 -5440 0 -2880 0 0 -1 0 1 0 1 0 0 infrastructure_streetlampsingle.ldr
 1 7 -5960 -8 -3160 -1 0 0 0 1 0 0 0 -1 infrastructure_busstop.ldr

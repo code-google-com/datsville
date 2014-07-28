@@ -40,7 +40,6 @@
   # Baseball field needs spotlights and a fence surrounding the outfield.
   # One-way streets need two traffic signals facing the same direction at intersections since both lanes are going in the same direction.
   # All minifigures and vehicles should use unique models. Even players on the baseball teams.
-  # Lower shopping center parking lot by 8 LDU. Also, pizza place.
   # <s>A lot of sub-models are "inlined", which is a bad thing as they are better left as MPDs. Need to obtain the original models or reverse this inlining if possible. [Caveat: MLCAD doesn't like nested MPDs.]</s>
   # <s>The streets layer is a major PITA to edit because it has so many parts. Need to split it into square "cells".</s>
   # I'm not real happy with block 8 where the university once stood. It needs to be made more parklike.
@@ -95,10 +94,11 @@
   # Blue apartments need showers/tubs.
   # <s>Arrow road construction signs need to be moved to the streets overlayer.</s>
   # Check the gridded ground layer for misaligned building models. [ongoing]
-  # Shopping center parking lot and sidewalks need to be moved to the lower street level. [first building to be split like this]
+  # <s>Shopping center and pizza place parking lots should be converted to SNOT like the other roads.</s>
+  # <s>Shopping center should be raised by 8 LDU.</s>
   # Driveways need to be aligned with the tile grid. [ongoing]
   # Make sure trees are positioned properly on the studs under them. [ongoing]
-  # <s>Parking lot areas should be SNOT like MG's SNOT roads.</s> [still not happy with them]
+  # <s>Parking lot areas should be SNOT like MG's SNOT roads.</s>
   # Maybe replace building_024_andershouse.ldr since it is out-of-scale. But you could argue the post office is out-of-scale too.
   # Lower buildings with ground tiles so the ground is flush with the grass. [ongoing]
   # Airplane hangar should be aligned with baseplate grid.
@@ -107,3 +107,4 @@
   # Gas station could use a kerosene pump.
   # Office building should have solar panels instead of a garden on the roof.
   # The train looks like it's electrically powered. Need power lines.
+  # Curved road tiles should maybe have a narrower sidewalk that follows the contour of the curve, and leaves the rest as grass.
