@@ -5,6 +5,7 @@
 0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
+1 13 -320 0 -320 1 0 0 0 1 0 0 0 1 grids32x.dat
 1 16 0 -192 -470 1 0 0 0 1 0 0 0 1 building_002_thall6.ldr
 1 16 -20 -192 -450 1 0 0 0 1 0 0 0 1 building_002_thall1.ldr
 1 16 20 -192 -450 -1 0 0 0 1 0 0 0 1 building_002_thall1.ldr
@@ -653,6 +654,7 @@
 1 4 40 -288 -10 1 0 0 0 1 0 0 0 1 3010.dat
 1 4 -40 -288 -10 1 0 0 0 1 0 0 0 1 3010.dat
 1 4 0 -240 10 1 0 0 0 1 0 0 0 1 3008.dat
+0 
 0 
 0 
 0 
