@@ -108,3 +108,4 @@
   # Office building should have solar panels instead of a garden on the roof.
   # The train looks like it's electrically powered. Need power lines.
   # Curved road tiles should maybe have a narrower sidewalk that follows the contour of the curve, and leaves the rest as grass.
+  # Should maybe create custom SNOT roads for the area around the Town Hall since the building is so large.
