@@ -5,13 +5,13 @@
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 -600 0 2200 0 0 -1 0 1 0 1 0 0 infrastructure_mailbox.ldr
-1 7 260 0 2280 1 0 0 0 1 0 0 0 1 infrastructure_firehydrant.ldr
+1 7 260 0 2280 1 0 0 0 1 0 0 0 1 infrastructure_firehydrantsingle.ldr
 1 7 -1960 -40 3520 0 0 1 0 1 0 -1 0 0 infrastructure_signdetourright.mpd
-1 7 -1560 0 3520 0 0 -1 0 1 0 1 0 0 infrastructure_firehydrant.ldr
-1 7 -3480 0 3520 0 0 -1 0 1 0 1 0 0 infrastructure_firehydrant.ldr
+1 7 -1560 0 3520 0 0 -1 0 1 0 1 0 0 infrastructure_firehydrantsingle.ldr
+1 7 -3480 0 3520 0 0 -1 0 1 0 1 0 0 infrastructure_firehydrantsingle.ldr
 1 7 -3000 -8 3800 1 0 0 0 1 0 0 0 1 infrastructure_busstop.ldr
-1 7 -2240 0 2280 -1 0 0 0 1 0 0 0 -1 infrastructure_firehydrant.ldr
-1 7 -1640 0 960 0 0 1 0 1 0 -1 0 0 infrastructure_firehydrant.ldr
+1 7 -2240 0 2280 -1 0 0 0 1 0 0 0 -1 infrastructure_firehydrantsingle.ldr
+1 7 -1640 0 960 0 0 1 0 1 0 -1 0 0 infrastructure_firehydrantsingle.ldr
 1 7 -320 0 1600 -1 0 0 0 1 0 0 0 -1 infrastructure_streetlamppair.ldr
 1 7 -320 0 960 0 0 -1 0 1 0 1 0 0 infrastructure_streetlampsingle.ldr
 1 7 -280 0 960 0 0 -1 0 1 0 1 0 0 infrastructure_trashcan.ldr

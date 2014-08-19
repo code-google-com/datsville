@@ -4,16 +4,16 @@
 0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
-1 7 910 0 960 0 0 1 0 1 0 -1 0 0 infrastructure_firehydrant.ldr
-1 7 3480 0 960 0 0 1 0 1 0 -1 0 0 infrastructure_firehydrant.ldr
+1 7 910 0 960 0 0 1 0 1 0 -1 0 0 infrastructure_firehydrantsingle.ldr
+1 7 3480 0 960 0 0 1 0 1 0 -1 0 0 infrastructure_firehydrantsingle.ldr
 1 7 2920 -8 680 -1 0 0 0 1 0 0 0 -1 infrastructure_mailbox.ldr
-1 7 2240 0 2240 -1 0 0 0 1 0 0 0 -1 infrastructure_firehydrant.ldr
+1 7 2240 0 2240 -1 0 0 0 1 0 0 0 -1 infrastructure_firehydrantsingle.ldr
 1 7 3880 -8 4200 0 0 -1 0 1 0 1 0 0 infrastructure_mailbox.ldr
-1 7 4160 0 2200 1 0 0 0 1 0 0 0 1 infrastructure_firehydrant.ldr
+1 7 4160 0 2200 1 0 0 0 1 0 0 0 1 infrastructure_firehydrantsingle.ldr
 1 7 1860 -22 3520 0 0 -1 0 1 0 1 0 0 infrastructure_signdetourleft.mpd
-1 7 1000 0 3520 0 0 -1 0 1 0 1 0 0 infrastructure_firehydrant.ldr
+1 7 1000 0 3520 0 0 -1 0 1 0 1 0 0 infrastructure_firehydrantsingle.ldr
 1 7 840 -8 3800 1 0 0 0 1 0 0 0 1 infrastructure_busstop.ldr
-1 7 2920 0 3520 0 0 -1 0 1 0 1 0 0 infrastructure_firehydrant.ldr
+1 7 2920 0 3520 0 0 -1 0 1 0 1 0 0 infrastructure_firehydrantsingle.ldr
 1 7 320 0 360 -1 0 0 0 1 0 0 0 -1 infrastructure_trashcan.ldr
 1 7 320 0 280 1 0 0 0 1 0 0 0 1 infrastructure_trashcan.ldr
 1 7 320 0 320 1 0 0 0 1 0 0 0 1 infrastructure_streetlamppair.ldr

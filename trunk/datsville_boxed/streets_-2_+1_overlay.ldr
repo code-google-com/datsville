@@ -8,5 +8,5 @@
 1 7 -6720 0 320 1 0 0 0 1 0 0 0 1 infrastructure_signstopquad.ldr
 1 7 -5440 0 320 0 0 1 0 1 0 -1 0 0 infrastructure_streetlampsingle.ldr
 1 7 -6080 0 320 0 0 1 0 1 0 -1 0 0 infrastructure_streetlampsingle.ldr
-1 7 -6720 0 1640 -1 0 0 0 1 0 0 0 -1 infrastructure_firehydrant.ldr
+1 7 -6720 0 1640 -1 0 0 0 1 0 0 0 -1 infrastructure_firehydrantsingle.ldr
 0
