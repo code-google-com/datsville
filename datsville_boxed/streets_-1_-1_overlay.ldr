@@ -6,9 +6,9 @@
 0 ROTATION CONFIG 0 0
 1 7 -4440 -8 -1000 0 0 -1 0 1 0 1 0 0 infrastructure_mailbox.ldr
 1 7 -600 0 -1640 0 0 -1 0 1 0 1 0 0 infrastructure_mailbox.ldr
-1 7 240 0 -1560 1 0 0 0 1 0 0 0 1 infrastructure_firehydrant.ldr
-1 7 -320 0 -4120 -1 0 0 0 1 0 0 0 -1 infrastructure_firehydrant.ldr
-1 7 -3560 0 -2880 0 0 1 0 1 0 -1 0 0 infrastructure_firehydrant.ldr
+1 7 240 0 -1560 1 0 0 0 1 0 0 0 1 infrastructure_firehydrantsingle.ldr
+1 7 -320 0 -4120 -1 0 0 0 1 0 0 0 -1 infrastructure_firehydrantsingle.ldr
+1 7 -3560 0 -2880 0 0 1 0 1 0 -1 0 0 infrastructure_firehydrantsingle.ldr
 1 7 -3480 -8 -3160 -1 0 0 0 1 0 0 0 -1 infrastructure_mailbox.ldr
 1 7 -4160 0 -3520 1 0 0 0 1 0 0 0 1 infrastructure_streetlamppair.ldr
 1 7 -320 0 -3520 1 0 0 0 1 0 0 0 1 infrastructure_streetlamppair.ldr
@@ -31,10 +31,10 @@
 1 7 -2240 0 -960 1 0 0 0 1 0 0 0 1 infrastructure_streetlampsingle.ldr
 1 7 -4440 -8 -440 0 0 -1 0 1 0 1 0 0 infrastructure_busstop.ldr
 1 7 -4160 0 -320 1 0 0 0 1 0 0 0 1 infrastructure_streetlamppair.ldr
-1 7 -4160 0 -1650 1 0 0 0 1 0 0 0 1 infrastructure_firehydrant.ldr
+1 7 -4160 0 -1650 1 0 0 0 1 0 0 0 1 infrastructure_firehydrantsingle.ldr
 1 7 -4160 0 -960 1 0 0 0 1 0 0 0 1 infrastructure_streetlampsingle.ldr
 1 7 -4160 0 -1600 1 0 0 0 1 0 0 0 1 infrastructure_streetlamppair.ldr
-1 7 -2240 0 -2280 1 0 0 0 1 0 0 0 1 infrastructure_firehydrant.ldr
+1 7 -2240 0 -2280 1 0 0 0 1 0 0 0 1 infrastructure_firehydrantsingle.ldr
 1 7 -2240 0 -2240 1 0 0 0 1 0 0 0 1 infrastructure_streetlampsingle.ldr
 1 7 -4160 0 -2240 1 0 0 0 1 0 0 0 1 infrastructure_streetlamppair.ldr
 1 7 -2240 0 -2880 0 0 -1 0 1 0 1 0 0 infrastructure_streetlampsingle.ldr

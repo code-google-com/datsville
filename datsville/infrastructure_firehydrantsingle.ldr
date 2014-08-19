@@ -1,0 +1,8 @@
+0 Fire Hydrant
+0 Name: infrastructure_firehydrantsingle.ldr
+0 Author: Ryan Dennett
+0 Unofficial Datsville Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 4 -280 -8 0 1 0 0 0 1 0 0 0 1 infrastructure_firehydrant.ldr
+0

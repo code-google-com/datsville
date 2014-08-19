@@ -4,8 +4,8 @@
 0 Unofficial Datsville Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
-1 7 4160 0 -6080 -1 0 0 0 1 0 0 0 -1 infrastructure_firehydrant.ldr
-1 7 2240 0 -6120 -1 0 0 0 1 0 0 0 -1 infrastructure_firehydrant.ldr
+1 7 4160 0 -6080 -1 0 0 0 1 0 0 0 -1 infrastructure_firehydrantsingle.ldr
+1 7 2240 0 -6120 -1 0 0 0 1 0 0 0 -1 infrastructure_firehydrantsingle.ldr
 1 7 4160 -16 -6720 0 0 1 0 1 0 -1 0 0 infrastructure_signstopquad.ldr
 1 7 2240 -16 -6720 0 0 1 0 1 0 -1 0 0 infrastructure_signstopquad.ldr
 0
