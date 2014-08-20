@@ -2,7 +2,7 @@
 0 Name: building_026_toresparentshouse.ldr
 0 Author: Tore Eriksson <tore.eriksson@mbox325.swipnet.se>
 0 Unofficial Datsville Model
-0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 7 140 -32 170 1 0 0 0 1 0 0 0 1 3010.dat
 1 4 80 -32 170 -1 0 0 0 1 0 0 0 -1 27cc01.dat
@@ -80,6 +80,7 @@
 1 7 -130 -32 -180 0 0 -1 0 1 0 1 0 0 3004.dat
 1 15 170 -40 0 0 0 -1 0 1 0 1 0 0 3023.dat
 1 6 -230 -40 20 1 0 0 0 1 0 0 0 1 3021.dat
+1 6 -240 -8 20 1 0 0 0 1 0 0 0 1 3022.dat
 1 15 120 -40 -10 1 0 0 0 1 0 0 0 1 3710.dat
 1 15 60 -40 -10 1 0 0 0 1 0 0 0 1 3023.dat
 1 15 -160 -40 -10 1 0 0 0 1 0 0 0 1 3710.dat
