@@ -44,3 +44,9 @@
   * [http://www.mediafire.com/download/wj7l5gxgttlg35v/Rev013.zip Revision TE013] 2002-08-23?
   * [http://www.mediafire.com/download/db9t3mbr3ux3weo/Datsville_Environment_POVray.zip POVray hills and river]
   * [http://www.mediafire.com/view/buy8cyre2laxxu9/notes.txt notes.txt]
+
+== Boxed parts ==
+
+Extra low resolution parts used to render "boxed" versions of Datsville.
+
+  * [https://www.mediafire.com/?grnmckhsbuhfryf parts_b_20141220.zip]
