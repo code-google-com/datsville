@@ -1,0 +1,37 @@
+# Wilbur #
+
+For the heightfield, I've found that a scale of 1 pixel = 1 baseplate works OK.
+In the "Surface > Size..." dialog specify the dimensions in pixels you want the
+heightfield to be. E.g. 100x100 pixels or 100x100 baseplates.
+
+Since a baseplate is 640 LDUs large, the total size of the terrain in LDUs
+should be 640 multiplied by the dimensions in pixels. Enter this information
+into the "Surface > Map Info..." dialog, except center things properly in such a
+way that it extends by half the amount in the positive direction and half in the
+negative direction. E.g. -32000, +32000.
+
+To generate a very basic random texture, select "Filter > Calculate Height
+Field...". A pop-up menu will appear. Make sure to un-check the box labeled
+"Spherical Evaluation". Refer to the official Wilbur tutorials for additional
+tips on generating a nice heightfield.
+
+Select "Filter > Mathematical > Span..." and enter the height (or range of
+heights) in LDU you want the heightfield to be. Otherwise the heightfield will
+be way too tall.
+
+Now save as "3D DXF Quads (**.dxf)". The file save dialog is wonky in that it
+appends the wrong extension to the file you are saving. Make sure you
+explicitely type the file name and extension you want. A pop-up menu will appear
+when trying to save the file. Press the "Set to Map" button in the "Output
+Bounds" section.**
+
+# 3DWin #
+
+3DWin is more straightforward. Simply import the DXF file and export as LDR. One
+thing you should note is that there's no way to manually specify the output file
+name, and the program will not prompt you when overwriting the destination file.
+So back up any previous work each time you run the converter!
+
+Also, additional time is consumed at the end in order to write the output file,
+despite the program's progress meter indicating that the conversion is done. If
+your heightfield is very large you may wonder what is going on.

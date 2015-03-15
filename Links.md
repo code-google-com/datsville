@@ -1,0 +1,29 @@
+Recent Datsville discussion at LDraw.org
+> + http://forums.ldraw.org/read.php?16,503
+Jonathan Wilson is looking for his model file
+> + http://news.lugnet.com/cad/?n=7681
+Tore Eriksson is looking for Datsville author contact information
+> + http://news.lugnet.com/cad/?n=6587
+Tore Eriksson keeps everyone updated on his progress developing Datsville
+> + http://news.lugnet.com/cad/dat/models/?n=2184
+Michael Horvath suggests LGPL Datsville, some authors give permission
+> + http://news.lugnet.com/cad/?n=15924
+Google Image result for Datsville. Includes several nice renders.
+> + http://images.google.com/images?hl=en&source=hp&q=datsville&gbv=2&aq=f&oq=&aqi=
+Old overhead view image map of Datsville from 1999 with a clickable sections
+> + http://www.reocities.com/heartland/fields/1864/datsville.html
+Tore Eriksson's Datsville SkyDrive
+> + https://skydrive.live.com/?cid=7183b586c107b55b&id=7183B586C107B55B%21137
+Brickshelf search results for "Datsville"
+> + http://www.brickshelf.com/cgi-bin/search.cgi?q=datsville&stype=fi
+Discussion about building a castle
+> + http://news.lugnet.com/castle/?n=20
+Discussion about building a raceway
+> + http://news.lugnet.com/cad/?n=2649
+Discussion about building an airport
+> + http://news.lugnet.com/cad/?n=2619
+Another discussion about building an airport
+> + http://news.lugnet.com/cad/?n=2740
+Tore Eriksson's early Datsville repository
+> + http://home.swipnet.se/simlego/ldraw/datsvill/
+> + https://skydrive.live.com/?cid=7183B586C107B55B&id=7183B586C107B55B%21105#cid=7183B586C107B55B&id=7183B586C107B55B%21113

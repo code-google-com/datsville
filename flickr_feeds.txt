@@ -1,0 +1,44 @@
+﻿My Group ID:
+	108839565@N04
+
+Datsville group ID:
+	2423355@N25
+
+Google Gadget URL:
+	x	http://www.google.com/ig/modules/image_slideshow/image_slideshow.xml
+	y	http://hosting.gmodules.com/ig/gadgets/file/110798108921287845009/photo_slide_show.xml
+
+User stream:
+	http://www.flickr.com/services/feeds/photos_public.gne?id=108839565@N04&format=rss_200
+
+Group stream:
+	http://www.flickr.com/services/feeds/groups_pool.gne?id=2423355@N25&format=rss_200
+
+Set stream:
+	http://www.flickr.com/services/feeds/photoset.gne?set=72157639067501044&nsid=108839565@N04&format=rss_200
+
+
+
+
+
+
+
+
+
+<script src="//www.gmodules.com/ig/ifr?
+url=http://hosting.gmodules.com/ig/gadgets/file/107173600940953194902/slideshow_nc.xml&amp;
+up_shuffle=0&amp;
+up_refreshInterval=10&amp;
+up_feed=http%3A%2F%2Fwww.flickr.com%2Fservices%2Ffeeds%2Fgroups_pool.gne%3Fid%3D2423355%40N25%26format%3Drss_200&amp;
+synd=open&amp;
+w=400&amp;
+h=300&amp;
+title=Datsville+Flickr&amp;
+border=%23ffffff%7C3px%2C1px+solid+%23999999&amp;
+output=js"></script>
+
+<wiki:gadget url="http://hosting.gmodules.com/ig/gadgets/file/107173600940953194902/slideshow_nc.xml" width="400" height="300" border="0" up_shuffle="0" up_refreshInterval="10" up_feed="http%3A%2F%2Fwww.flickr.com%2Fservices%2Ffeeds%2Fgroups_pool.gne%3Fid%3D2423355%40N25%26format%3Drss_200" synd="open" w="400" h="300" title="Datsville+Flickr" border="%23ffffff%7C3px%2C1px+solid+%23999999" output="js"/>
+
+<wiki:gadget url="http://hosting.gmodules.com/ig/gadgets/file/107173600940953194902/slideshow_nc.xml" width="400" height="300" border="0" up_shuffle="0" up_refreshInterval="10" up_feed="http://www.flickr.com/services/feeds/groups_pool.gne?id=2423355@N25&format=rss_200" synd="open" w="400" h="300" title="Datsville+Flickr" border="#ffffff|3px,1px solid #999999" output="js"/>
+
+<wiki:gadget url="http://hosting.gmodules.com/ig/gadgets/file/107173600940953194902/slideshow_nc.xml" width="400" height="300" up_shuffle="0" up_refreshInterval="10" up_feed="http://www.flickr.com/services/feeds/groups_pool.gne?id=2423355@N25&format=rss_200" synd="open" w="400" h="300" title="Datsville on Flickr" border="1px solid #999999" output="js"/>
